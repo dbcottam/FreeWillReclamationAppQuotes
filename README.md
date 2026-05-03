@@ -1,10 +1,10 @@
 # Free Will Reclamation App Quotes
 
-This repository is the remote approved quote feed for the Free Will Reclamation App.
+This repository is the remote content feed for the Free Will Reclamation App.
 
-The app can fetch this content from GitHub Raw so extra quotes stay curated, lightweight, and easy to update without shipping a new app build.
+It started as a quote repository, but it is now also the editable home for the first 40 days of the daily journey. The app reads these files over GitHub Raw so content can evolve without forcing an app update.
 
-## Primary Feed
+## Primary Feeds
 
 The app should read:
 
@@ -20,9 +20,10 @@ If your default branch changes from `main`, update the URL in the app.
 
 ## File Structure
 
-- `quotes.json` live quote feed used by the app
-- `daily-quotes.json` daily quote feed used by the app
-- `quotes.schema.json` shape reference for editing and validation
+- `quotes.json` approved extra-quote feed used when the user asks for another quote
+- `daily-quotes.json` remote daily journey feed for the first 40 days
+- `quotes.schema.json` shape reference for `quotes.json`
+- `daily-quotes.schema.json` shape reference for `daily-quotes.json`
 - `CHANGELOG.md` release notes for quote feed changes
 
 ## Quote Rules
@@ -36,10 +37,18 @@ Every quote in `quotes.json` should:
 - be marked `approved: true` before the app can use it
 - keep a stable `id` forever once published
 
-Every daily quote in `daily-quotes.json` should:
+Every daily journey entry in `daily-quotes.json` should:
 
 - include a stable `day` number
 - include quote text, author, source, and source URL
+- include the day content when you want it to override the app fallback:
+  - `slug`
+  - `focus`
+  - `title`
+  - `artworkKey`
+  - `challenge`
+  - `prompt`
+  - `celebrationPrompt`
 - include one or more categories the app can use for that day
 - use `scripture` for Bible-based daily entries when needed
 
@@ -70,11 +79,18 @@ Every daily quote in `daily-quotes.json` should:
 }
 ```
 
-## Example Daily Entry
+## Example Daily Journey Entry
 
 ```json
 {
   "day": 1,
+  "slug": "choice-begins",
+  "focus": "agency",
+  "title": "Choice Begins",
+  "artworkKey": "day-01-sacred-geometry",
+  "challenge": "Choose one thing today without pressure or guilt.",
+  "prompt": "What did it feel like to make a choice that belonged to you?",
+  "celebrationPrompt": "What are you celebrating about your ability to choose today?",
   "quote": "Quote text",
   "author": "Author",
   "source": "Source citation",
@@ -86,14 +102,17 @@ Every daily quote in `daily-quotes.json` should:
 ## Editing Workflow
 
 1. Add or update entries in `quotes.json`
-2. Add or update daily quote entries in `daily-quotes.json`
+2. Add or update daily journey entries in `daily-quotes.json`
 3. Keep `id` values stable
-4. Make sure `approved` is `true` only for quotes you want live
-5. Set `active` to `false` to retire a quote without deleting history
-6. Add a note to `CHANGELOG.md`
-7. Commit and push
+4. Keep each `day` number stable in `daily-quotes.json`
+5. Make sure `approved` is `true` only for extra quotes you want live
+6. Set `active` to `false` to retire an extra quote without deleting history
+7. Add a note to `CHANGELOG.md`
+8. Commit and push
 
 ## Notes
 
-- The app should cache this feed locally after fetching it.
-- This repo is a better long-term source than bundling an ever-growing quote library in the app itself.
+- The app caches this content locally after fetching it.
+- `daily-quotes.json` is now the preferred editor surface for the first 40 days.
+- The app still has local fallback content, so missing or partial feed entries will not break the experience.
+- If you rename this repository to something like `Free Will Reclamation App API`, update the raw GitHub URLs in the app code.
