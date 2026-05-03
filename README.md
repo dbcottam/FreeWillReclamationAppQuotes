@@ -9,22 +9,25 @@ The app can fetch this content from GitHub Raw so extra quotes stay curated, lig
 The app should read:
 
 - `quotes.json`
+- `daily-quotes.json`
 
 Raw URL:
 
 - `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/quotes.json`
+- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/daily-quotes.json`
 
 If your default branch changes from `main`, update the URL in the app.
 
 ## File Structure
 
 - `quotes.json` live quote feed used by the app
+- `daily-quotes.json` daily quote feed used by the app
 - `quotes.schema.json` shape reference for editing and validation
 - `CHANGELOG.md` release notes for quote feed changes
 
 ## Quote Rules
 
-Every quote should:
+Every quote in `quotes.json` should:
 
 - be verifiable
 - include a human-readable source
@@ -32,6 +35,13 @@ Every quote should:
 - use only approved categories
 - be marked `approved: true` before the app can use it
 - keep a stable `id` forever once published
+
+Every daily quote in `daily-quotes.json` should:
+
+- include a stable `day` number
+- include quote text, author, source, and source URL
+- include one or more categories the app can use for that day
+- use `scripture` for Bible-based daily entries when needed
 
 ## Approved Categories
 
@@ -60,14 +70,28 @@ Every quote should:
 }
 ```
 
+## Example Daily Entry
+
+```json
+{
+  "day": 1,
+  "quote": "Quote text",
+  "author": "Author",
+  "source": "Source citation",
+  "sourceUrl": "https://link-to-source",
+  "categories": ["scripture", "hope"]
+}
+```
+
 ## Editing Workflow
 
 1. Add or update entries in `quotes.json`
-2. Keep `id` values stable
-3. Make sure `approved` is `true` only for quotes you want live
-4. Set `active` to `false` to retire a quote without deleting history
-5. Add a note to `CHANGELOG.md`
-6. Commit and push
+2. Add or update daily quote entries in `daily-quotes.json`
+3. Keep `id` values stable
+4. Make sure `approved` is `true` only for quotes you want live
+5. Set `active` to `false` to retire a quote without deleting history
+6. Add a note to `CHANGELOG.md`
+7. Commit and push
 
 ## Notes
 

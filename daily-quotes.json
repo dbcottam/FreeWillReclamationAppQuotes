@@ -1,0 +1,324 @@
+{
+  "quotes": [
+    {
+      "day": 1,
+      "quote": "The Lord is my shepherd; I shall not want.",
+      "author": "Bible",
+      "source": "Psalm 23:1 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-23-1/",
+      "categories": ["scripture", "peace", "hope"]
+    },
+    {
+      "day": 2,
+      "quote": "I can do all things through Christ which strengtheneth me.",
+      "author": "Bible",
+      "source": "Philippians 4:13 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-4-13/",
+      "categories": ["scripture", "courage", "perseverance"]
+    },
+    {
+      "day": 3,
+      "quote": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+      "author": "Bible",
+      "source": "2 Timothy 1:7 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Timothy-1-7/",
+      "categories": ["scripture", "courage", "identity"]
+    },
+    {
+      "day": 4,
+      "quote": "The joy of the Lord is your strength.",
+      "author": "Bible",
+      "source": "Nehemiah 8:10 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Nehemiah-8-10/",
+      "categories": ["scripture", "encouragement", "hope"]
+    },
+    {
+      "day": 5,
+      "quote": "Be still, and know that I am God.",
+      "author": "Bible",
+      "source": "Psalm 46:10 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-46-10/",
+      "categories": ["scripture", "peace", "wisdom"]
+    },
+    {
+      "day": 6,
+      "quote": "The Lord is nigh unto them that are of a broken heart.",
+      "author": "Bible",
+      "source": "Psalm 34:18 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-34-18/",
+      "categories": ["scripture", "healing", "hope"]
+    },
+    {
+      "day": 7,
+      "quote": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass.",
+      "author": "Bible",
+      "source": "Psalm 37:5 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-37-5/",
+      "categories": ["scripture", "purpose", "hope"]
+    },
+    {
+      "day": 8,
+      "quote": "The Lord shall fight for you, and ye shall hold your peace.",
+      "author": "Bible",
+      "source": "Exodus 14:14 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Exodus-14-14/",
+      "categories": ["scripture", "courage", "peace"]
+    },
+    {
+      "day": 9,
+      "quote": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "author": "Bible",
+      "source": "Proverbs 3:5 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-3-5/",
+      "categories": ["scripture", "wisdom", "hope"]
+    },
+    {
+      "day": 10,
+      "quote": "In all thy ways acknowledge him, and he shall direct thy paths.",
+      "author": "Bible",
+      "source": "Proverbs 3:6 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-3-6/",
+      "categories": ["scripture", "purpose", "wisdom"]
+    },
+    {
+      "day": 11,
+      "quote": "Casting all your care upon him; for he careth for you.",
+      "author": "Bible",
+      "source": "1 Peter 5:7 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Peter-5-7/",
+      "categories": ["scripture", "peace", "healing"]
+    },
+    {
+      "day": 12,
+      "quote": "The Lord is my light and my salvation; whom shall I fear?",
+      "author": "Bible",
+      "source": "Psalm 27:1 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-27-1/",
+      "categories": ["scripture", "courage", "identity"]
+    },
+    {
+      "day": 13,
+      "quote": "Weeping may endure for a night, but joy cometh in the morning.",
+      "author": "Bible",
+      "source": "Psalm 30:5 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-30-5/",
+      "categories": ["scripture", "healing", "hope"]
+    },
+    {
+      "day": 14,
+      "quote": "The steps of a good man are ordered by the Lord: and he delighteth in his way.",
+      "author": "Bible",
+      "source": "Psalm 37:23 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-37-23/",
+      "categories": ["scripture", "purpose", "wisdom"]
+    },
+    {
+      "day": 15,
+      "quote": "Create in me a clean heart, O God; and renew a right spirit within me.",
+      "author": "Bible",
+      "source": "Psalm 51:10 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-51-10/",
+      "categories": ["scripture", "healing", "identity"]
+    },
+    {
+      "day": 16,
+      "quote": "Thy word is a lamp unto my feet, and a light unto my path.",
+      "author": "Bible",
+      "source": "Psalm 119:105 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-119-105/",
+      "categories": ["scripture", "wisdom", "purpose"]
+    },
+    {
+      "day": 17,
+      "quote": "This is the day which the Lord hath made; we will rejoice and be glad in it.",
+      "author": "Bible",
+      "source": "Psalm 118:24 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-118-24/",
+      "categories": ["scripture", "encouragement", "hope"]
+    },
+    {
+      "day": 18,
+      "quote": "He healeth the broken in heart, and bindeth up their wounds.",
+      "author": "Bible",
+      "source": "Psalm 147:3 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-147-3/",
+      "categories": ["scripture", "healing", "hope"]
+    },
+    {
+      "day": 19,
+      "quote": "The Lord is good unto them that wait for him, to the soul that seeketh him.",
+      "author": "Bible",
+      "source": "Lamentations 3:25 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Lamentations-3-25/",
+      "categories": ["scripture", "perseverance", "hope"]
+    },
+    {
+      "day": 20,
+      "quote": "They that wait upon the Lord shall renew their strength.",
+      "author": "Bible",
+      "source": "Isaiah 40:31 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-40-31/",
+      "categories": ["scripture", "perseverance", "encouragement"]
+    },
+    {
+      "day": 21,
+      "quote": "Fear thou not; for I am with thee: be not dismayed; for I am thy God.",
+      "author": "Bible",
+      "source": "Isaiah 41:10 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-41-10/",
+      "categories": ["scripture", "courage", "peace"]
+    },
+    {
+      "day": 22,
+      "quote": "No weapon that is formed against thee shall prosper.",
+      "author": "Bible",
+      "source": "Isaiah 54:17 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-54-17/",
+      "categories": ["scripture", "courage", "identity"]
+    },
+    {
+      "day": 23,
+      "quote": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+      "author": "Bible",
+      "source": "Jeremiah 33:3 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Jeremiah-33-3/",
+      "categories": ["scripture", "hope", "wisdom"]
+    },
+    {
+      "day": 24,
+      "quote": "I will restore to you the years that the locust hath eaten.",
+      "author": "Bible",
+      "source": "Joel 2:25 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Joel-2-25/",
+      "categories": ["scripture", "healing", "hope"]
+    },
+    {
+      "day": 25,
+      "quote": "Seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+      "author": "Bible",
+      "source": "Matthew 6:33 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-6-33/",
+      "categories": ["scripture", "purpose", "wisdom"]
+    },
+    {
+      "day": 26,
+      "quote": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "author": "Bible",
+      "source": "Matthew 11:28 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-11-28/",
+      "categories": ["scripture", "peace", "healing"]
+    },
+    {
+      "day": 27,
+      "quote": "With God all things are possible.",
+      "author": "Bible",
+      "source": "Matthew 19:26 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-19-26/",
+      "categories": ["scripture", "hope", "courage"]
+    },
+    {
+      "day": 28,
+      "quote": "Peace I leave with you, my peace I give unto you.",
+      "author": "Bible",
+      "source": "John 14:27 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/John-14-27/",
+      "categories": ["scripture", "peace", "encouragement"]
+    },
+    {
+      "day": 29,
+      "quote": "Ye shall know the truth, and the truth shall make you free.",
+      "author": "Bible",
+      "source": "John 8:32 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/John-8-32/",
+      "categories": ["scripture", "identity", "wisdom"]
+    },
+    {
+      "day": 30,
+      "quote": "If the Son therefore shall make you free, ye shall be free indeed.",
+      "author": "Bible",
+      "source": "John 8:36 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/John-8-36/",
+      "categories": ["scripture", "identity", "hope"]
+    },
+    {
+      "day": 31,
+      "quote": "We are more than conquerors through him that loved us.",
+      "author": "Bible",
+      "source": "Romans 8:37 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-8-37/",
+      "categories": ["scripture", "courage", "identity"]
+    },
+    {
+      "day": 32,
+      "quote": "Be ye transformed by the renewing of your mind.",
+      "author": "Bible",
+      "source": "Romans 12:2 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-12-2/",
+      "categories": ["scripture", "identity", "healing"]
+    },
+    {
+      "day": 33,
+      "quote": "Walk by faith, not by sight.",
+      "author": "Bible",
+      "source": "2 Corinthians 5:7 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-5-7/",
+      "categories": ["scripture", "courage", "perseverance"]
+    },
+    {
+      "day": 34,
+      "quote": "My grace is sufficient for thee: for my strength is made perfect in weakness.",
+      "author": "Bible",
+      "source": "2 Corinthians 12:9 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-12-9/",
+      "categories": ["scripture", "encouragement", "healing"]
+    },
+    {
+      "day": 35,
+      "quote": "Stand fast therefore in the liberty wherewith Christ hath made us free.",
+      "author": "Bible",
+      "source": "Galatians 5:1 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Galatians-5-1/",
+      "categories": ["scripture", "identity", "perseverance"]
+    },
+    {
+      "day": 36,
+      "quote": "Let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+      "author": "Bible",
+      "source": "Galatians 6:9 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Galatians-6-9/",
+      "categories": ["scripture", "perseverance", "encouragement"]
+    },
+    {
+      "day": 37,
+      "quote": "For we are his workmanship, created in Christ Jesus unto good works.",
+      "author": "Bible",
+      "source": "Ephesians 2:10 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Ephesians-2-10/",
+      "categories": ["scripture", "identity", "purpose"]
+    },
+    {
+      "day": 38,
+      "quote": "Being confident of this very thing, that he which hath begun a good work in you will perform it.",
+      "author": "Bible",
+      "source": "Philippians 1:6 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-1-6/",
+      "categories": ["scripture", "hope", "perseverance"]
+    },
+    {
+      "day": 39,
+      "quote": "Let the peace of God rule in your hearts.",
+      "author": "Bible",
+      "source": "Colossians 3:15 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Colossians-3-15/",
+      "categories": ["scripture", "peace", "healing"]
+    },
+    {
+      "day": 40,
+      "quote": "Let us run with patience the race that is set before us.",
+      "author": "Bible",
+      "source": "Hebrews 12:1 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Hebrews-12-1/",
+      "categories": ["scripture", "perseverance", "purpose"]
+    }
+  ]
+}
