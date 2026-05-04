@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-03T14:43:00Z",
+  "version": 2,
+  "lastUpdated": "2026-05-04T13:02:48.483Z",
   "approvedCategories": [
     "courage",
     "encouragement",
@@ -19,7 +19,10 @@
       "author": "A. P. J. Abdul Kalam",
       "source": "Wings of Fire, p. 112",
       "sourceUrl": "https://en.wikiquote.org/wiki/A._P._J._Abdul_Kalam",
-      "categories": ["hope", "purpose"],
+      "categories": [
+        "hope",
+        "purpose"
+      ],
       "approved": true,
       "active": true
     },
@@ -29,7 +32,10 @@
       "author": "Viktor E. Frankl",
       "source": "Man's Search for Meaning",
       "sourceUrl": "https://en.wikiquote.org/wiki/Viktor_Frankl",
-      "categories": ["courage", "identity"],
+      "categories": [
+        "courage",
+        "identity"
+      ],
       "approved": true,
       "active": true
     },
@@ -39,7 +45,10 @@
       "author": "Marcus Aurelius",
       "source": "Meditations, Book 12.36",
       "sourceUrl": "https://en.wikiquote.org/wiki/Marcus_Aurelius",
-      "categories": ["courage", "wisdom"],
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
       "approved": true,
       "active": true
     },
@@ -49,7 +58,10 @@
       "author": "Helen Keller",
       "source": "Optimism: An Essay",
       "sourceUrl": "https://en.wikiquote.org/wiki/Helen_Keller",
-      "categories": ["hope", "encouragement"],
+      "categories": [
+        "hope",
+        "encouragement"
+      ],
       "approved": true,
       "active": true
     },
@@ -59,7 +71,10 @@
       "author": "Mother Teresa",
       "source": "Nobel Peace Prize acceptance speech (1979)",
       "sourceUrl": "https://www.nobelprize.org/prizes/peace/1979/teresa/acceptance-speech/",
-      "categories": ["purpose", "encouragement"],
+      "categories": [
+        "purpose",
+        "encouragement"
+      ],
       "approved": true,
       "active": true
     },
@@ -69,7 +84,10 @@
       "author": "Martin Luther King Jr.",
       "source": "Strength to Love",
       "sourceUrl": "https://en.wikiquote.org/wiki/Martin_Luther_King,_Jr.",
-      "categories": ["healing", "hope"],
+      "categories": [
+        "healing",
+        "hope"
+      ],
       "approved": true,
       "active": true
     },
@@ -79,7 +97,10 @@
       "author": "Benjamin Franklin",
       "source": "Poor Richard's Almanack",
       "sourceUrl": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
-      "categories": ["perseverance", "encouragement"],
+      "categories": [
+        "perseverance",
+        "encouragement"
+      ],
       "approved": true,
       "active": true
     },
@@ -89,7 +110,10 @@
       "author": "Epictetus",
       "source": "Enchiridion",
       "sourceUrl": "https://en.wikiquote.org/wiki/Epictetus",
-      "categories": ["wisdom", "courage"],
+      "categories": [
+        "wisdom",
+        "courage"
+      ],
       "approved": true,
       "active": true
     }

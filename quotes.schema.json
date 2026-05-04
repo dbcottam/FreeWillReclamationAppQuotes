@@ -2,7 +2,12 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Free Will Reclamation Quote Feed",
   "type": "object",
-  "required": ["version", "lastUpdated", "approvedCategories", "quotes"],
+  "required": [
+    "version",
+    "lastUpdated",
+    "approvedCategories",
+    "quotes"
+  ],
   "properties": {
     "version": {
       "type": "integer",
@@ -43,11 +48,21 @@
           "active"
         ],
         "properties": {
-          "id": { "type": "string" },
-          "quote": { "type": "string" },
-          "author": { "type": "string" },
-          "source": { "type": "string" },
-          "sourceUrl": { "type": "string" },
+          "id": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "sourceUrl": {
+            "type": "string"
+          },
           "categories": {
             "type": "array",
             "minItems": 1,
@@ -66,8 +81,12 @@
               ]
             }
           },
-          "approved": { "type": "boolean" },
-          "active": { "type": "boolean" }
+          "approved": {
+            "type": "boolean"
+          },
+          "active": {
+            "type": "boolean"
+          }
         }
       }
     }

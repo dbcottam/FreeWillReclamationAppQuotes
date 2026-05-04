@@ -1,8 +1,12 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Free Will Reclamation Daily Journey Feed",
+  "title": "Free Will Reclamation Daily Quote Feed",
   "type": "object",
-  "required": ["version", "lastUpdated", "quotes"],
+  "required": [
+    "version",
+    "lastUpdated",
+    "quotes"
+  ],
   "properties": {
     "version": {
       "type": "integer",

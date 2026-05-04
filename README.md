@@ -20,10 +20,14 @@ If your default branch changes from `main`, update the URL in the app.
 
 ## File Structure
 
-- `quotes.json` approved extra-quote feed used when the user asks for another quote
-- `daily-quotes.json` remote daily journey feed for the first 40 days
+- `APPPLAN.md` current progress, version, and next-step plan for this content feed
+- `quotes.csv` human-editable source for the extra-quote feed
+- `daily-quotes.csv` human-editable source for the first 40 daily journey days
+- `quotes.json` generated extra-quote endpoint used when the user asks for another quote
+- `daily-quotes.json` generated remote daily journey endpoint for the first 40 days
 - `quotes.schema.json` shape reference for `quotes.json`
 - `daily-quotes.schema.json` shape reference for `daily-quotes.json`
+- `scripts/generate-content-json.mjs` CSV to JSON conversion script
 - `CHANGELOG.md` release notes for quote feed changes
 
 ## Quote Rules
@@ -101,18 +105,39 @@ Every daily journey entry in `daily-quotes.json` should:
 
 ## Editing Workflow
 
-1. Add or update entries in `quotes.json`
-2. Add or update daily journey entries in `daily-quotes.json`
-3. Keep `id` values stable
-4. Keep each `day` number stable in `daily-quotes.json`
+1. Add or update extra quotes in `quotes.csv`
+2. Add or update daily journey entries in `daily-quotes.csv`
+3. Keep `id` values stable in `quotes.csv`
+4. Keep each `day` number stable in `daily-quotes.csv`
 5. Make sure `approved` is `true` only for extra quotes you want live
 6. Set `active` to `false` to retire an extra quote without deleting history
-7. Add a note to `CHANGELOG.md`
-8. Commit and push
+7. Run `npm run content:generate` to update `quotes.json` and `daily-quotes.json`
+8. Add a note to `CHANGELOG.md`
+9. Commit and push
+
+To regenerate CSV files from the current JSON files, run:
+
+```bash
+npm run content:export
+```
+
+## Validation
+
+Run the content generator and tests before pushing changes:
+
+```bash
+npm run content:generate
+npm test
+```
+
+Current pipeline version:
+
+- Package version: `2.0.0`
+- Generated feed version: `2`
 
 ## Notes
 
 - The app caches this content locally after fetching it.
-- `daily-quotes.json` is now the preferred editor surface for the first 40 days.
+- The CSV files are now the preferred editor surface; the app should read only the generated JSON files.
 - The app still has local fallback content, so missing or partial feed entries will not break the experience.
 - If you rename this repository to something like `Free Will Reclamation App API`, update the raw GitHub URLs in the app code.

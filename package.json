@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "content:generate": "node scripts/generate-content-json.mjs",
+    "content:generate:daily": "node scripts/generate-content-json.mjs daily-quotes",
+    "content:generate:quotes": "node scripts/generate-content-json.mjs quotes",
+    "content:export": "node scripts/generate-content-json.mjs export",
+    "content:export:daily": "node scripts/generate-content-json.mjs daily-quotes export",
+    "content:export:quotes": "node scripts/generate-content-json.mjs quotes export",
+    "content:validate": "node scripts/generate-content-json.mjs",
+    "test": "node tests/generate-content-json.test.mjs",
+    "prebuild": "npm run content:generate"
+  }
+}
