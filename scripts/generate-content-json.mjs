@@ -37,13 +37,20 @@ const feeds = {
       "source",
       "sourceUrl",
       "categories",
+      "supplementalType",
+      "supplementalTitle",
+      "supplementalDescription",
+      "supplementalUrl",
+      "supplementalImageUrl",
+      "supplementalDurationLabel",
     ],
     allowedCategories: ["scripture", ...categories],
     uniqueField: "day",
     rowFromCsv(row, index) {
       const day = parseInteger(row.day, `daily-quotes row ${index}: day`);
+      const supplemental = buildSupplementalFromCsvRow(row);
 
-      return {
+      return compactObject({
         day,
         slug: row.slug,
         focus: row.focus,
@@ -57,7 +64,8 @@ const feeds = {
         source: row.source,
         sourceUrl: row.sourceUrl,
         categories: parseCategories(row.categories, this.allowedCategories, `daily-quotes row ${index}`),
-      };
+        supplemental,
+      });
     },
   },
   quotes: {
@@ -145,7 +153,9 @@ async function exportCsv(feed) {
 
   const lines = [
     feed.columns.join(","),
-    ...data.quotes.map((quote) => feed.columns.map((column) => serializeCsvCell(toCsvValue(quote[column]))).join(",")),
+    ...data.quotes.map((quote) =>
+      feed.columns.map((column) => serializeCsvCell(toCsvValue(getFeedColumnValue(quote, column)))).join(",")
+    ),
   ];
 
   const csvPath = resolveContentPath(feed.csvPath);
@@ -305,6 +315,54 @@ function toCsvValue(value) {
   }
 
   return value ?? "";
+}
+
+function getFeedColumnValue(quote, column) {
+  if (!column.startsWith("supplemental")) {
+    return quote[column];
+  }
+
+  const supplemental = quote.supplemental ?? {};
+
+  switch (column) {
+    case "supplementalType":
+      return supplemental.type;
+    case "supplementalTitle":
+      return supplemental.title;
+    case "supplementalDescription":
+      return supplemental.description;
+    case "supplementalUrl":
+      return supplemental.url;
+    case "supplementalImageUrl":
+      return supplemental.imageUrl;
+    case "supplementalDurationLabel":
+      return supplemental.durationLabel;
+    default:
+      return "";
+  }
+}
+
+function buildSupplementalFromCsvRow(row) {
+  const supplementalUrl = row.supplementalUrl?.trim() ?? "";
+
+  if (!supplementalUrl) {
+    return undefined;
+  }
+
+  return compactObject({
+    type: row.supplementalType,
+    title: row.supplementalTitle,
+    description: row.supplementalDescription,
+    url: supplementalUrl,
+    imageUrl: row.supplementalImageUrl,
+    durationLabel: row.supplementalDurationLabel,
+  });
+}
+
+function compactObject(value) {
+  return Object.fromEntries(
+    Object.entries(value).filter(([, entryValue]) => entryValue !== undefined && entryValue !== "")
+  );
 }
 
 function serializeCsvCell(value) {

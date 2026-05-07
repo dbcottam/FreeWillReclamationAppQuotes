@@ -84,8 +84,44 @@
                 "wisdom"
               ]
             }
+          },
+          "supplemental": {
+            "type": "object",
+            "required": [
+              "url"
+            ],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "youtube",
+                  "podcast",
+                  "article",
+                  "resource",
+                  "audio",
+                  "video"
+                ]
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              },
+              "imageUrl": {
+                "type": "string"
+              },
+              "durationLabel": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
           }
-        }
+        },
+        "additionalProperties": false
       }
     }
   }

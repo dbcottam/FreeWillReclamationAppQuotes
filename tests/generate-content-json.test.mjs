@@ -32,6 +32,14 @@ async function testGenerate() {
   assert.equal(daily.version, 2);
   assert.equal(daily.quotes[0].day, 1);
   assert.deepEqual(daily.quotes[0].categories, ["scripture", "hope"]);
+  assert.deepEqual(daily.quotes[0].supplemental, {
+    type: "podcast",
+    title: "Companion episode",
+    description: "A short episode for today.",
+    url: "https://podcasts.apple.com/us/podcast/example/id1234567890",
+    imageUrl: "https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg",
+    durationLabel: "24 min",
+  });
   assert.equal(quotes.version, 2);
   assert.equal(quotes.approvedCategories.includes("wisdom"), true);
   assert.equal(quotes.quotes[0].approved, true);
@@ -47,6 +55,8 @@ async function testExport() {
   const quotesCsv = await readFile(join(contentRoot, "quotes.csv"), "utf8");
 
   assert.match(dailyCsv, /^day,slug,focus,title,artworkKey,/);
+  assert.match(dailyCsv, /supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel/);
+  assert.match(dailyCsv, /podcast,Companion episode/);
   assert.match(quotesCsv, /^id,quote,author,source,sourceUrl,/);
   assert.match(quotesCsv, /quote-1,Keep going/);
 }
@@ -77,8 +87,8 @@ async function makeFixture() {
   await writeFile(
     join(contentRoot, "daily-quotes.csv"),
     [
-      "day,slug,focus,title,artworkKey,challenge,prompt,celebrationPrompt,quote,author,source,sourceUrl,categories",
-      "1,choice,agency,Choice,art-1,Choose something,How did it feel?,What changed?,Daily quote,Bible,Psalm 1,https://example.com,scripture|hope",
+      "day,slug,focus,title,artworkKey,challenge,prompt,celebrationPrompt,quote,author,source,sourceUrl,categories,supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel",
+      "1,choice,agency,Choice,art-1,Choose something,How did it feel?,What changed?,Daily quote,Bible,Psalm 1,https://example.com,scripture|hope,podcast,Companion episode,A short episode for today.,https://podcasts.apple.com/us/podcast/example/id1234567890,https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg,24 min",
       "",
     ].join("\n"),
     "utf8",

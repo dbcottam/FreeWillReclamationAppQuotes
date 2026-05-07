@@ -55,6 +55,15 @@ Every daily journey entry in `daily-quotes.json` should:
   - `celebrationPrompt`
 - include one or more categories the app can use for that day
 - use `scripture` for Bible-based daily entries when needed
+- optionally include `supplemental` when the app should show a `Go Deeper` card for that day
+
+When `supplemental` is present:
+
+- `url` is required
+- `type` should be one of `youtube`, `podcast`, `article`, `resource`, `audio`, or `video`
+- `imageUrl` should be a direct raw asset URL when you want a preview image
+- podcast and general resource links open externally in the app
+- YouTube links can play inline in the app
 
 ## Approved Categories
 
@@ -99,7 +108,15 @@ Every daily journey entry in `daily-quotes.json` should:
   "author": "Author",
   "source": "Source citation",
   "sourceUrl": "https://link-to-source",
-  "categories": ["scripture", "hope"]
+  "categories": ["scripture", "hope"],
+  "supplemental": {
+    "type": "podcast",
+    "title": "Companion episode",
+    "description": "A short episode for today.",
+    "url": "https://podcasts.apple.com/us/podcast/example/id1234567890",
+    "imageUrl": "https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg",
+    "durationLabel": "24 min"
+  }
 }
 ```
 
@@ -111,9 +128,11 @@ Every daily journey entry in `daily-quotes.json` should:
 4. Keep each `day` number stable in `daily-quotes.csv`
 5. Make sure `approved` is `true` only for extra quotes you want live
 6. Set `active` to `false` to retire an extra quote without deleting history
-7. Run `npm run content:generate` to update `quotes.json` and `daily-quotes.json`
-8. Add a note to `CHANGELOG.md`
-9. Commit and push
+7. For `Go Deeper` content in `daily-quotes.csv`, fill the flattened columns:
+`supplementalType`, `supplementalTitle`, `supplementalDescription`, `supplementalUrl`, `supplementalImageUrl`, `supplementalDurationLabel`
+8. Run `npm run content:generate` to update `quotes.json` and `daily-quotes.json`
+9. Add a note to `CHANGELOG.md`
+10. Commit and push
 
 To regenerate CSV files from the current JSON files, run:
 

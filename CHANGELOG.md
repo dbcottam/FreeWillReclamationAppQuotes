@@ -2,6 +2,12 @@
 
 All notable quote feed changes should be listed here.
 
+## 2026-05-06
+
+- Added `Go Deeper` supplemental fields to the `daily-quotes` content pipeline
+- Updated the daily journey schema and README to document the nested `supplemental` JSON object used by the app
+- Extended `daily-quotes.csv` with flattened supplemental columns for podcast, YouTube, article, and resource metadata
+
 ## 2026-05-04
 
 - Added CSV source files for the daily journey and general quote feeds

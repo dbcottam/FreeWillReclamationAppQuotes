@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-05-04T13:02:48.476Z",
+  "lastUpdated": "2026-05-07T01:11:39.114Z",
   "quotes": [
     {
       "day": 1,
@@ -19,7 +19,15 @@
         "scripture",
         "peace",
         "hope"
-      ]
+      ],
+      "supplemental": {
+        "type": "youtube",
+        "title": "Go Deeper Video Example",
+        "description": "A sample inline YouTube video so you can preview the Go Deeper layout in the app.",
+        "url": "https://www.youtube.com/watch?v=jtphkVzQ5ko",
+        "imageUrl": "https://img.youtube.com/vi/jtphkVzQ5ko/hqdefault.jpg",
+        "durationLabel": "1 min"
+      }
     },
     {
       "day": 2,
@@ -38,7 +46,14 @@
         "scripture",
         "courage",
         "perseverance"
-      ]
+      ],
+      "supplemental": {
+        "type": "podcast",
+        "title": "Episode 4: Partnershipping with Jesus Christ",
+        "description": "A direct podcast episode example so you can preview the external Go Deeper flow in the app.",
+        "url": "https://podcasts.apple.com/us/podcast/episode-4-partnershipping-with-jesus-christ/id1882943723?i=1000764220178",
+        "durationLabel": "52 min"
+      }
     },
     {
       "day": 3,
