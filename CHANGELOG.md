@@ -4,6 +4,7 @@ All notable quote feed changes should be listed here.
 
 ## 2026-05-07
 
+- Added 44 sourced quote-library entries from the requested Hawkins, Bible, Mother Teresa, Louise Hay, Karol Truman, Gandhi, Frankl, Jung, Tolle, Stoic, Taoist, and American founder quote set, with corrected Bible references and verified substitutions where exact attribution was not reliable
 - Reworked all 40 daily journey entries to follow the 10-week Abundance Unplugged arc, with four app days per course week
 - Rebalanced daily quotes so the journey includes Scripture alongside non-Christian and broadly spiritual voices
 - Expanded `quotes.csv` and generated `quotes.json` to 400 approved active quotes, with 298 non-Scripture quotes and 102 KJV Scripture references

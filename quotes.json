@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-05-07T17:15:09.155Z",
+  "lastUpdated": "2026-05-07T18:19:14.714Z",
   "approvedCategories": [
     "scripture",
     "courage",
@@ -5995,6 +5995,584 @@
       "categories": [
         "hope",
         "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hawkins-wisdom-001",
+      "quote": "What you hold in mind tends to manifest.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender",
+      "sourceUrl": "https://veritaspub.com/words-of-wisdom/",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hawkins-identity-001",
+      "quote": "We are only subject to what we hold in mind.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender, Ch. 15",
+      "sourceUrl": "https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hawkins-healing-001",
+      "quote": "The body tends to manifest what the mind believes.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender, Ch. 15",
+      "sourceUrl": "https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion",
+      "categories": [
+        "healing",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hawkins-identity-002",
+      "quote": "The only power that anything has over us is the power of belief that we give it.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender, Ch. 15",
+      "sourceUrl": "https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "joshua-purpose-001",
+      "quote": "Choose you this day whom ye will serve.",
+      "author": "Joshua",
+      "source": "Joshua 24:15 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Joshua-24-15/",
+      "categories": [
+        "scripture",
+        "purpose",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "john-identity-003",
+      "quote": "The truth shall make you free.",
+      "author": "John",
+      "source": "John 8:32 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/John-8-32/",
+      "categories": [
+        "scripture",
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "mark-hope-002",
+      "quote": "Be not afraid, only believe.",
+      "author": "Mark",
+      "source": "Mark 5:36 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Mark-5-36/",
+      "categories": [
+        "scripture",
+        "hope",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "james-wisdom-003",
+      "quote": "If any of you lack wisdom, let him ask of God.",
+      "author": "James",
+      "source": "James 1:5 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-5/",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "john-courage-001",
+      "quote": "Perfect love casteth out fear.",
+      "author": "John",
+      "source": "1 John 4:18 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/1-John-4-18/",
+      "categories": [
+        "scripture",
+        "courage",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "matthew-hope-003",
+      "quote": "With God all things are possible.",
+      "author": "Matthew",
+      "source": "Matthew 19:26 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-19-26/",
+      "categories": [
+        "scripture",
+        "hope",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "teresa-peace-002",
+      "quote": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love",
+      "categories": [
+        "peace",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "teresa-purpose-003",
+      "quote": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "source": "Quoted in Time: Queen Elizabeth Christmas Day Address",
+      "sourceUrl": "https://time.com/4617820/queen-elizabeth-christmas-day-address/",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "teresa-encouragement-001",
+      "quote": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.",
+      "author": "Mother Teresa",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.keepthinkingbig.com/yesterday-is-gone/",
+      "categories": [
+        "encouragement",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "siegel-wisdom-001",
+      "quote": "Awareness creates the possibility of choice.",
+      "author": "Daniel J. Siegel",
+      "source": "Parenting from the Inside Out",
+      "sourceUrl": "https://www.goodreads.com/quotes/11114799-awareness-creates-the-possibility-of-choice",
+      "categories": [
+        "wisdom",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "mate-identity-001",
+      "quote": "One cannot be autonomous as long as one is driven by anything.",
+      "author": "Gabor Mate",
+      "source": "When the Body Says No",
+      "sourceUrl": "https://www.goodreads.com/author/quotes/4068613.Gabor_Mat_?page=7",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "mate-healing-001",
+      "quote": "Without knowing it, we often relive the past.",
+      "author": "Gabor Mate",
+      "source": "Scattered Minds",
+      "sourceUrl": "https://studylib.net/doc/28342950/scattered-minds--the-origins-and-healing-o---gabor-mate",
+      "categories": [
+        "healing",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hay-wisdom-001",
+      "quote": "Every thought we think is creating our future.",
+      "author": "Louise Hay",
+      "source": "You Can Heal Your Life",
+      "sourceUrl": "https://consciouslifenews.com/louise-hay-every-thought-you-think-is-creating-your-future/11204930/",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hay-healing-001",
+      "quote": "You have the power to heal your life, and you need to know that.",
+      "author": "Louise Hay",
+      "source": "Meditations to Heal Your Life",
+      "sourceUrl": "https://www.azquotes.com/quote/713677",
+      "categories": [
+        "healing",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hay-peace-001",
+      "quote": "I am in the right place, at the right time, doing the right thing.",
+      "author": "Louise Hay",
+      "source": "Attributed affirmation",
+      "sourceUrl": "https://www.goodreads.com/quotes/57026-i-am-in-the-right-place-at-the-right-time",
+      "categories": [
+        "peace",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hay-courage-001",
+      "quote": "The point of power is always in the present moment.",
+      "author": "Louise Hay",
+      "source": "You Can Heal Your Life",
+      "sourceUrl": "https://www.azquotes.com/quote/963728",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hay-healing-002",
+      "quote": "You have been criticizing yourself for years and it hasn't worked. Try approving of yourself and see what happens.",
+      "author": "Louise Hay",
+      "source": "You Can Heal Your Life",
+      "sourceUrl": "https://www.azquotes.com/quote/517886",
+      "categories": [
+        "healing",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hay-identity-001",
+      "quote": "As I change my thoughts, the world around me changes.",
+      "author": "Louise Hay",
+      "source": "Mirror Work",
+      "sourceUrl": "https://thejoywithin.org/wp-content/uploads/2020/05/louise_hay_mirror-work.pdf",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "truman-wisdom-001",
+      "quote": "Whatever we choose to focus our attention on will automatically multiply in our lives.",
+      "author": "Karol K. Truman",
+      "source": "Feelings Buried Alive Never Die",
+      "sourceUrl": "https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "truman-wisdom-002",
+      "quote": "Heighten your awareness in all phases of your life.",
+      "author": "Karol K. Truman",
+      "source": "Feelings Buried Alive Never Die",
+      "sourceUrl": "https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die",
+      "categories": [
+        "wisdom",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "truman-courage-001",
+      "quote": "The choice is yours.",
+      "author": "Karol K. Truman",
+      "source": "Feelings Buried Alive Never Die",
+      "sourceUrl": "https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die",
+      "categories": [
+        "courage",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "truman-identity-001",
+      "quote": "In order to have mastery over our choices so that they are indeed freely made, it is essential to be awake so that our choices are no longer unconscious.",
+      "author": "Karol K. Truman",
+      "source": "Healing Feelings From Your Heart",
+      "sourceUrl": "https://www.goodreads.com/author/quotes/1560.Karol_K_Truman",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "gandhi-courage-003",
+      "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.",
+      "author": "Mahatma Gandhi",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include",
+      "categories": [
+        "courage",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "gandhi-identity-003",
+      "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "author": "Mahatma Gandhi",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and",
+      "categories": [
+        "identity",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "gandhi-encouragement-003",
+      "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.hoopoequotes.com/quotes/item/19212-live-as-if-you-were-to-die-tomorrow-learn-as-if-you-were-to-live-forever",
+      "categories": [
+        "encouragement",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "frankl-courage-001",
+      "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "author": "Viktor Frankl",
+      "source": "Mans Search for Meaning",
+      "sourceUrl": "https://www.vox.com/2024-elections/383438/viktor-frankl",
+      "categories": [
+        "courage",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "jung-identity-001",
+      "quote": "The privilege of a lifetime is to become who you truly are.",
+      "author": "Carl Jung",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.goodreads.com/quotes/75948-the-privilege-of-a-lifetime-is-to-become-who-you",
+      "categories": [
+        "identity",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "jung-healing-001",
+      "quote": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+      "author": "Carl Jung",
+      "source": "Letter to Kendig B. Cully (September 25, 1937)",
+      "sourceUrl": "https://www.magicalquote.com/authorquotes/knowing-your-own-darkness-is-the-best-method/",
+      "categories": [
+        "healing",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "tolle-wisdom-001",
+      "quote": "Awareness is the greatest agent for change.",
+      "author": "Eckhart Tolle",
+      "source": "A New Earth",
+      "sourceUrl": "https://quotepark.com/quotes/1132553-eckhart-tolle-awareness-is-the-greatest-agent-for-change/",
+      "categories": [
+        "wisdom",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "tolle-peace-001",
+      "quote": "Realize deeply that the present moment is all you ever have.",
+      "author": "Eckhart Tolle",
+      "source": "The Power of Now",
+      "sourceUrl": "https://www.azquotes.com/quote/295414",
+      "categories": [
+        "peace",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "goethe-identity-004",
+      "quote": "As soon as you trust yourself, you will know how to live.",
+      "author": "Johann Wolfgang von Goethe",
+      "source": "Faust, First Part",
+      "sourceUrl": "https://www.goodreads.com/quotes/18941-as-soon-as-you-trust-yourself-you-will-know-how",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "aurelius-wisdom-003",
+      "quote": "The soul becomes dyed with the color of its thoughts.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations, Book V",
+      "sourceUrl": "https://www.buboquote.com/en/quote/8559-aurelius-the-soul-becomes-dyed-with-the-color-of-its-thoughts",
+      "categories": [
+        "wisdom",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "aurelius-courage-001",
+      "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations",
+      "sourceUrl": "https://www.goodreads.com/quotes/190580-you-have-power-over-your-mind---not-outside-events",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "roosevelt-identity-003",
+      "quote": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.quotery.com/quotes/no-one-can-make-feel",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "dalai-lama-peace-003",
+      "quote": "Love is the absence of judgment.",
+      "author": "Dalai Lama",
+      "source": "Attributed quote",
+      "sourceUrl": "https://www.quotewis.com/quotes/love-is-the-absence-of-judgment-1056",
+      "categories": [
+        "peace",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "laozi-peace-002",
+      "quote": "Nature does not hurry, yet everything is accomplished.",
+      "author": "Laozi",
+      "source": "Tao Te Ching, Chapter 37",
+      "sourceUrl": "https://www.bonmots.com/quote-643551404",
+      "categories": [
+        "peace",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "laozi-identity-002",
+      "quote": "Care about people's approval and you will be their prisoner.",
+      "author": "Laozi",
+      "source": "Tao Te Ching, Chapter 9 (Stephen Mitchell rendering)",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Laozi",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "epictetus-wisdom-002",
+      "quote": "People are disturbed not by things, but by the views they take of them.",
+      "author": "Epictetus",
+      "source": "Enchiridion, Section 5",
+      "sourceUrl": "https://en.wikisource.org/wiki/Enchiridion_of_Epictetus",
+      "categories": [
+        "wisdom",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "jefferson-courage-001",
+      "quote": "The God who gave us life gave us liberty at the same time.",
+      "author": "Thomas Jefferson",
+      "source": "A Summary View of the Rights of British America",
+      "sourceUrl": "https://www.nps.gov/places/northeast-chamber-panel.htm",
+      "categories": [
+        "courage",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "washington-hope-001",
+      "quote": "Liberty, when it begins to take root, is a plant of rapid growth.",
+      "author": "George Washington",
+      "source": "Letter to James Madison (March 2, 1788)",
+      "sourceUrl": "https://founders.archives.gov/documents/Washington/04-06-02-0115",
+      "categories": [
+        "hope",
+        "courage"
       ],
       "approved": true,
       "active": true
