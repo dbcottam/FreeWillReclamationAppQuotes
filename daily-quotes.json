@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-05-07T17:17:40.709Z",
+  "lastUpdated": "2026-05-07T22:24:28.879Z",
   "quotes": [
     {
       "day": 1,
@@ -18,7 +18,8 @@
       "categories": [
         "healing",
         "hope"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-01.webp"
     },
     {
       "day": 2,
@@ -36,7 +37,8 @@
       "categories": [
         "healing",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-02.webp"
     },
     {
       "day": 3,
@@ -139,13 +141,13 @@
       "challenge": "Repeat your new affirmation three times today, then take one tiny action that proves it.",
       "prompt": "What action made the new belief feel more real?",
       "celebrationPrompt": "What new pattern did you strengthen?",
-      "quote": "Practice yourself, for heavens sake in little things, and then proceed to greater.",
-      "author": "Epictetus",
-      "source": "Wikiquote: Epictetus",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Epictetus",
+      "quote": "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+      "author": "Aristotle",
+      "source": "Wikiquote: Aristotle",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Aristotle",
       "categories": [
-        "identity",
-        "purpose"
+        "courage",
+        "encouragement"
       ]
     },
     {
