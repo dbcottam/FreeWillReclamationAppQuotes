@@ -45,6 +45,9 @@
           "artworkKey": {
             "type": "string"
           },
+          "artworkUrl": {
+            "type": "string"
+          },
           "challenge": {
             "type": "string"
           },

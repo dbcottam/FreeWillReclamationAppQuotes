@@ -66,7 +66,7 @@ async function testExport() {
   const dailyCsv = await readFile(join(contentRoot, "daily-quotes.csv"), "utf8");
   const quotesCsv = await readFile(join(contentRoot, "quotes.csv"), "utf8");
 
-  assert.match(dailyCsv, /^day,slug,focus,title,artworkKey,/);
+  assert.match(dailyCsv, /^day,slug,focus,title,artworkKey,challenge,/);
   assert.match(dailyCsv, /supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel/);
   assert.match(dailyCsv, /podcast,Companion episode/);
   assert.match(quotesCsv, /^id,quote,author,source,sourceUrl,/);

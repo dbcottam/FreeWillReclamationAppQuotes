@@ -27,6 +27,7 @@ If your default branch changes from `main`, update the URL in the app.
 - `daily-quotes.json` generated remote daily journey endpoint for the first 40 days
 - `quotes.schema.json` shape reference for `quotes.json`
 - `daily-quotes.schema.json` shape reference for `daily-quotes.json`
+- `assets/daily-images/` artwork images served to the app by GitHub Raw URL
 - `scripts/generate-content-json.mjs` CSV to JSON conversion script
 - `CHANGELOG.md` release notes for quote feed changes
 
@@ -58,6 +59,8 @@ Every daily journey entry in `daily-quotes.json` should:
 - prefer quotes that also exist in `quotes.json` so daily selections stay backed by the curated quote library
 - optionally include `supplemental` when the app should show a `Go Deeper` card for that day
 
+Artwork images are served separately. See [Daily Artwork Images](#daily-artwork-images) below.
+
 When `supplemental` is present:
 
 - `url` is required
@@ -78,6 +81,40 @@ When `supplemental` is present:
 - `perseverance`
 - `purpose`
 - `wisdom`
+
+## Daily Artwork Images
+
+Place artwork files in `assets/daily-images/` named to match the `artworkKey` for each day.
+
+### Naming convention
+
+```
+day-01.webp
+day-02.webp
+...
+day-40.webp
+```
+
+Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
+
+### How it works
+
+When `npm run content:generate` runs, the build script scans `assets/daily-images/`. For each image found it constructs a GitHub Raw URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Days with no image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
+
+The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, rename the file (e.g. `day-01-v2.webp`) and update the `artworkKey` in `daily-quotes.csv` to match.
+
+### Image URL format
+
+```
+https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-01.webp
+```
+
+### Workflow for adding a new image
+
+1. Add the image to `assets/daily-images/` with the correct filename.
+2. Run `npm run content:generate` to rebuild `daily-quotes.json`.
+3. Commit and push both the image and the updated `daily-quotes.json`.
+4. The app picks up the new URL on next launch — no app release needed.
 
 ## Example Entry
 

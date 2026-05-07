@@ -1,10 +1,13 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const contentVersion = 2;
 let contentRoot = process.env.CONTENT_ROOT ?? ".";
+
+const GITHUB_RAW_BASE =
+  "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/";
 
 const categories = [
   "scripture",
@@ -47,6 +50,7 @@ const feeds = {
     ],
     allowedCategories: categories,
     uniqueField: "day",
+    injectArtworkUrl: true,
     rowFromCsv(row, index) {
       const day = parseInteger(row.day, `daily-quotes row ${index}: day`);
       const supplemental = buildSupplementalFromCsvRow(row);
@@ -118,13 +122,38 @@ export async function main(args = process.argv.slice(2), options = {}) {
   }
 }
 
+async function buildArtworkUrlMap(root) {
+  const assetsDir = join(root, "assets", "daily-images");
+
+  try {
+    const files = await readdir(assetsDir);
+    const map = {};
+
+    for (const file of files) {
+      if (/\.(webp|png|jpg|jpeg)$/i.test(file)) {
+        const key = file.replace(/\.[^.]+$/, "");
+        map[key] = GITHUB_RAW_BASE + file;
+      }
+    }
+
+    return map;
+  } catch {
+    return {};
+  }
+}
+
 async function generateJson(feed) {
   const csvPath = existingPath(feed.csvPath);
   const rows = parseCsv(await readFile(csvPath, "utf8"));
 
   validateColumns(rows.headers, feed.columns, csvPath);
 
-  const quotes = rows.records.map((row, index) => feed.rowFromCsv(row, index + 2));
+  const artworkUrlMap = feed.injectArtworkUrl ? await buildArtworkUrlMap(contentRoot) : {};
+  const quotes = rows.records.map((row, index) => {
+    const entry = feed.rowFromCsv(row, index + 2);
+    const artworkUrl = artworkUrlMap[entry.artworkKey];
+    return artworkUrl ? { ...entry, artworkUrl } : entry;
+  });
   validateRequiredFields(quotes, feed.columns.filter((column) => column !== "categories"), feed.label);
   validateUnique(quotes, feed.uniqueField, feed.label);
 

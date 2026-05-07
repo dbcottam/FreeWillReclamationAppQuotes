@@ -7,6 +7,7 @@ This repository uses human-editable CSV files as the source of truth and generat
 - `daily-quotes.csv` - editable 40-day daily journey content.
 - `daily-quotes.schema.json` - validation rules for the daily journey JSON.
 - `daily-quotes.json` - generated app-ready daily journey endpoint.
+- `assets/daily-images/` - artwork images; filenames must match `artworkKey` values in `daily-quotes.csv`.
 - `quotes.csv` - editable general quote library.
 - `quotes.schema.json` - validation rules for the general quote JSON.
 - `quotes.json` - generated app-ready quote endpoint.
@@ -52,6 +53,20 @@ Run tests for the conversion pipeline:
 ```bash
 npm test
 ```
+
+## Adding Artwork Images
+
+1. Place an image in `assets/daily-images/` named to match the day's `artworkKey` in `daily-quotes.csv`.
+   ```
+   day-01.webp
+   day-02.webp
+   ```
+   Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
+2. Run `npm run content:generate` (or `content:generate:daily`).
+3. The script injects `artworkUrl` into `daily-quotes.json` automatically — no CSV column needed.
+4. Commit and push the image and the updated `daily-quotes.json`.
+
+Days with no image produce no `artworkUrl`. The app falls back to generated geometric artwork.
 
 ## Recommended Build Behavior
 
