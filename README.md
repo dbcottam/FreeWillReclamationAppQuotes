@@ -54,7 +54,8 @@ Every daily journey entry in `daily-quotes.json` should:
   - `prompt`
   - `celebrationPrompt`
 - include one or more categories the app can use for that day
-- use `scripture` for Bible-based daily entries when needed
+- use `scripture` for Bible or sacred-text entries when needed
+- prefer quotes that also exist in `quotes.json` so daily selections stay backed by the curated quote library
 - optionally include `supplemental` when the app should show a `Go Deeper` card for that day
 
 When `supplemental` is present:
@@ -67,6 +68,7 @@ When `supplemental` is present:
 
 ## Approved Categories
 
+- `scripture`
 - `courage`
 - `encouragement`
 - `healing`
@@ -100,7 +102,7 @@ When `supplemental` is present:
   "slug": "choice-begins",
   "focus": "agency",
   "title": "Choice Begins",
-  "artworkKey": "day-01-sacred-geometry",
+  "artworkKey": "day-01",
   "challenge": "Choose one thing today without pressure or guilt.",
   "prompt": "What did it feel like to make a choice that belonged to you?",
   "celebrationPrompt": "What are you celebrating about your ability to choose today?",

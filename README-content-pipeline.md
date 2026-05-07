@@ -17,6 +17,7 @@ This repository uses human-editable CSV files as the source of truth and generat
 - One row = one quote or one daily journey day.
 - Keep the header row exactly as provided.
 - Use `|` between categories, for example: `hope|purpose`.
+- Approved categories are `scripture`, `courage`, `encouragement`, `healing`, `hope`, `identity`, `peace`, `perseverance`, `purpose`, and `wisdom`.
 - Boolean columns can be `true` or `false`; case does not matter.
 - The app should read the generated JSON files, not the CSV files.
 

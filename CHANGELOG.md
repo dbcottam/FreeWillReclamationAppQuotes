@@ -2,6 +2,20 @@
 
 All notable quote feed changes should be listed here.
 
+## 2026-05-07
+
+- Reworked all 40 daily journey entries to follow the 10-week Abundance Unplugged arc, with four app days per course week
+- Rebalanced daily quotes so the journey includes Scripture alongside non-Christian and broadly spiritual voices
+- Expanded `quotes.csv` and generated `quotes.json` to 400 approved active quotes, with 298 non-Scripture quotes and 102 KJV Scripture references
+- Added non-Biblical sacred-text quotes from the Dhammapada, Tao Te Ching, Bhagavad Gita, Qur'an, and Katha Upanishad to the daily journey and quote library
+- Added broader classical and literary quotes from Homer, Virgil, Dante, Milton, Shakespeare, Mark Twain, Stoic writers, Jane Austen, Charlotte Bronte, Emerson, Thoreau, and Frederick Douglass
+- Upgraded daily quote selections for intuition and whole-self integration with stronger Shakespeare source texts
+- Expanded the general quote pool with inventor and innovator quotes from Nikola Tesla, Alexander Graham Bell, Thomas Edison, Ada Lovelace, Grace Hopper, George Washington Carver, Buckminster Fuller, Leonardo da Vinci, the Wright brothers, Alan Kay, Tim Berners-Lee, and Steve Jobs
+- Expanded the general quote pool with global wisdom and spiritual-leader quotes from Martin Luther King Jr., Mother Teresa, Desmond Tutu, Pope Francis, Thich Nhat Hanh, the Dalai Lama, Howard Thurman, Mahatma Gandhi, Nelson Mandela, Rumi, Julian of Norwich, Thomas Merton, Henri Nouwen, Pema Chodron, bell hooks, Maya Angelou, Wangari Maathai, Malala Yousafzai, William Sloane Coffin, and Oscar Romero
+- Aligned `quotes.json` approved categories with the daily journey category set by adding `scripture` to the quote library vocabulary and tagging sacred-text quotes accordingly
+- Pruned 95 weaker quote-library entries that were duplicative, generic, weakly sourced, narrowly technical, or less aligned with the Abundance Unplugged transformation arc
+- Re-selected all 40 daily journey quotes from the curated quote library so each day is backed by `quotes.json` and better aligned with the Abundance Unplugged progression
+
 ## 2026-05-06
 
 - Added `Go Deeper` supplemental fields to the `daily-quotes` content pipeline

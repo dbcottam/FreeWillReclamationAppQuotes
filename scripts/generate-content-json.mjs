@@ -7,6 +7,7 @@ const contentVersion = 2;
 let contentRoot = process.env.CONTENT_ROOT ?? ".";
 
 const categories = [
+  "scripture",
   "courage",
   "encouragement",
   "healing",
@@ -44,7 +45,7 @@ const feeds = {
       "supplementalImageUrl",
       "supplementalDurationLabel",
     ],
-    allowedCategories: ["scripture", ...categories],
+    allowedCategories: categories,
     uniqueField: "day",
     rowFromCsv(row, index) {
       const day = parseInteger(row.day, `daily-quotes row ${index}: day`);

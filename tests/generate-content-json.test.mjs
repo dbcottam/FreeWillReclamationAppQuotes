@@ -41,6 +41,18 @@ async function testGenerate() {
     durationLabel: "24 min",
   });
   assert.equal(quotes.version, 2);
+  assert.deepEqual(quotes.approvedCategories, [
+    "scripture",
+    "courage",
+    "encouragement",
+    "healing",
+    "hope",
+    "identity",
+    "peace",
+    "perseverance",
+    "purpose",
+    "wisdom",
+  ]);
   assert.equal(quotes.approvedCategories.includes("wisdom"), true);
   assert.equal(quotes.quotes[0].approved, true);
 }

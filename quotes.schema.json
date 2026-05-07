@@ -21,6 +21,7 @@
       "items": {
         "type": "string",
         "enum": [
+          "scripture",
           "courage",
           "encouragement",
           "healing",
@@ -69,6 +70,7 @@
             "items": {
               "type": "string",
               "enum": [
+                "scripture",
                 "courage",
                 "encouragement",
                 "healing",
