@@ -99,8 +99,8 @@ async function makeFixture() {
   await writeFile(
     join(contentRoot, "daily-quotes.csv"),
     [
-      "day,slug,focus,title,artworkKey,challenge,prompt,celebrationPrompt,quote,author,source,sourceUrl,categories,supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel",
-      "1,choice,agency,Choice,art-1,Choose something,How did it feel?,What changed?,Daily quote,Bible,Psalm 1,https://example.com,scripture|hope,podcast,Companion episode,A short episode for today.,https://podcasts.apple.com/us/podcast/example/id1234567890,https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg,24 min",
+      "day,slug,focus,title,artworkKey,challenge,prompt,quote,author,source,sourceUrl,categories,supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel",
+      "1,choice,agency,Choice,art-1,Choose something,How did it feel?,Daily quote,Bible,Psalm 1,https://example.com,scripture|hope,podcast,Companion episode,A short episode for today.,https://podcasts.apple.com/us/podcast/example/id1234567890,https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg,24 min",
       "",
     ].join("\n"),
     "utf8",

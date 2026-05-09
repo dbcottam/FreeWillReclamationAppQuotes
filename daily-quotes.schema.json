@@ -54,9 +54,6 @@
           "prompt": {
             "type": "string"
           },
-          "celebrationPrompt": {
-            "type": "string"
-          },
           "quote": {
             "type": "string"
           },

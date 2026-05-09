@@ -53,7 +53,6 @@ Every daily journey entry in `daily-quotes.json` should:
   - `artworkKey`
   - `challenge`
   - `prompt`
-  - `celebrationPrompt`
 - include one or more categories the app can use for that day
 - use `scripture` for Bible or sacred-text entries when needed
 - prefer quotes that also exist in `quotes.json` so daily selections stay backed by the curated quote library
@@ -142,7 +141,6 @@ https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/ass
   "artworkKey": "day-01",
   "challenge": "Choose one thing today without pressure or guilt.",
   "prompt": "What did it feel like to make a choice that belonged to you?",
-  "celebrationPrompt": "What are you celebrating about your ability to choose today?",
   "quote": "Quote text",
   "author": "Author",
   "source": "Source citation",
