@@ -1,6 +1,8 @@
 # Daily Quotes
 
 Edit the values below, then run `npm run content:generate` to rebuild the app JSON.
+This file is the single source of truth for each authored journey day, including the default daily challenge.
+Use `templates/challenges.md` only for alternate challenges shown when a user refreshes the challenge.
 Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, perseverance, purpose, wisdom.
 
 ## Day 1: Clear the Ground
@@ -32,17 +34,18 @@ Source: Sufinama: Rumi quote
 
 Source URL: https://sufinama.org/quotes/the-wound-is-the-place-where-the-light-enters-you-maulana-rumi-quote
 
-Supplemental Type: 
+Supplemental Type: youtube
 
-Supplemental Title: 
+Supplemental Title: Day 1 Companion Video
 
 Supplemental Description:
+A short companion video example for the first day of release work.
 
-Supplemental URL: 
+Supplemental URL: https://www.youtube.com/NikkiCottam
 
 Supplemental Image URL: 
 
-Supplemental Duration: 
+Supplemental Duration: 8 min
 
 ## Day 2: Let Go a Little
 
@@ -73,17 +76,18 @@ Source: Wikiquote: Ajahn Chah
 
 Source URL: https://en.wikiquote.org/wiki/Ajahn_Chah
 
-Supplemental Type: 
+Supplemental Type: podcast
 
-Supplemental Title: 
+Supplemental Title: Day 2 Companion Podcast
 
 Supplemental Description:
+A podcast example for listening while practicing release and peace.
 
-Supplemental URL: 
+Supplemental URL: https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723
 
 Supplemental Image URL: 
 
-Supplemental Duration: 
+Supplemental Duration: 24 min
 
 ## Day 3: Feel Without Fixing
 
@@ -114,17 +118,18 @@ Source: When Things Fall Apart
 
 Source URL: https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n
 
-Supplemental Type: 
+Supplemental Type: article
 
-Supplemental Title: 
+Supplemental Title: Day 3 Companion Article
 
 Supplemental Description:
+A written companion example for reflecting before trying to fix a feeling.
 
-Supplemental URL: 
+Supplemental URL: https://www.nikkicottam.com/
 
 Supplemental Image URL: 
 
-Supplemental Duration: 
+Supplemental Duration: 5 min read
 
 ## Day 4: Choose a Clean Slate
 
@@ -155,17 +160,18 @@ Source: Tao Te Ching 22 (Legge)
 
 Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-22
 
-Supplemental Type: 
+Supplemental Type: resource
 
-Supplemental Title: 
+Supplemental Title: Day 4 Companion Resource
 
 Supplemental Description:
+A resource hub example for choosing a clean slate and continuing the work.
 
-Supplemental URL: 
+Supplemental URL: https://www.nikkicottam.com/abundance-unplugged-resource-hub
 
 Supplemental Image URL: 
 
-Supplemental Duration: 
+Supplemental Duration: Resource
 
 ## Day 5: Find the Belief
 
@@ -196,17 +202,18 @@ Source: Wikiquote: Abraham Maslow
 
 Source URL: https://en.wikiquote.org/wiki/Abraham_Maslow
 
-Supplemental Type: 
+Supplemental Type: audio
 
-Supplemental Title: 
+Supplemental Title: Day 5 Companion Audio
 
 Supplemental Description:
+An audio example for noticing inherited beliefs and making space for a new one.
 
-Supplemental URL: 
+Supplemental URL: https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723
 
 Supplemental Image URL: 
 
-Supplemental Duration: 
+Supplemental Duration: 12 min
 
 ## Day 6: Ask a Better Question
 
@@ -237,17 +244,18 @@ Source: Dhammapada 1:1 (Muller)
 
 Source URL: https://en.wikisource.org/wiki/Dhammapada_(Muller)
 
-Supplemental Type: 
+Supplemental Type: video
 
-Supplemental Title: 
+Supplemental Title: Day 6 Companion Video
 
 Supplemental Description:
+A general video example for practicing better questions and truthful next steps.
 
-Supplemental URL: 
+Supplemental URL: https://www.youtube.com/NikkiCottam
 
 Supplemental Image URL: 
 
-Supplemental Duration: 
+Supplemental Duration: 10 min
 
 ## Day 7: Rewrite the Story
 
