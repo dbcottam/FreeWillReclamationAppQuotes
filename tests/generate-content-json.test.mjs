@@ -1,12 +1,12 @@
 import assert from "node:assert/strict";
-import { mkdtemp, readFile, writeFile } from "node:fs/promises";
+import { mkdir, mkdtemp, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { main } from "../scripts/generate-content-json.mjs";
 
 const tests = [
-  ["generates endpoint JSON from CSV feeds", testGenerate],
-  ["exports CSV from endpoint JSON feeds", testExport],
+  ["generates endpoint JSON from template feeds", testGenerate],
+  ["exports templates from endpoint JSON feeds", testExport],
   ["rejects duplicate quote ids", testDuplicateIds],
 ];
 
@@ -73,51 +73,90 @@ async function testExport() {
   await main([], { contentRoot });
   await main(["export"], { contentRoot });
 
-  const dailyCsv = await readFile(join(contentRoot, "daily-quotes.csv"), "utf8");
-  const dailyChallengesCsv = await readFile(join(contentRoot, "daily-challenges.csv"), "utf8");
-  const quotesCsv = await readFile(join(contentRoot, "quotes.csv"), "utf8");
-  const challengesCsv = await readFile(join(contentRoot, "challenges.csv"), "utf8");
+  const dailyTemplate = await readFile(join(contentRoot, "templates", "daily-quotes.md"), "utf8");
+  const dailyChallengesTemplate = await readFile(join(contentRoot, "templates", "daily-challenges.md"), "utf8");
+  const quotesTemplate = await readFile(join(contentRoot, "templates", "quotes.md"), "utf8");
+  const challengesTemplate = await readFile(join(contentRoot, "templates", "challenges.md"), "utf8");
 
-  assert.match(dailyCsv, /^day,slug,focus,title,artworkKey,challenge,/);
-  assert.match(dailyCsv, /supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel/);
-  assert.match(dailyCsv, /podcast,Companion episode/);
-  assert.match(dailyChallengesCsv, /^day,challenge,categories,approved,active/);
-  assert.match(dailyChallengesCsv, /1,Choose one daily thing,hope,true,true/);
-  assert.match(quotesCsv, /^id,quote,author,source,sourceUrl,/);
-  assert.match(quotesCsv, /quote-1,Keep going/);
-  assert.match(challengesCsv, /^id,challenge,categories,approved,active/);
-  assert.match(challengesCsv, /challenge-1,Take one small step/);
+  assert.match(dailyTemplate, /^# Daily Quotes/);
+  assert.match(dailyTemplate, /Supplemental Type: podcast/);
+  assert.match(dailyTemplate, /Supplemental Title: Companion episode/);
+  assert.match(dailyChallengesTemplate, /^# Daily Challenges/);
+  assert.match(dailyChallengesTemplate, /Challenge:\nChoose one daily thing/);
+  assert.match(quotesTemplate, /^# Quote Library/);
+  assert.match(quotesTemplate, /ID: quote-1/);
+  assert.match(quotesTemplate, /Quote:\nKeep going/);
+  assert.match(challengesTemplate, /^# Challenge Library/);
+  assert.match(challengesTemplate, /ID: challenge-1/);
 }
 
 async function testDuplicateIds() {
   const contentRoot = await makeFixture();
 
   await writeFile(
-    join(contentRoot, "quotes.csv"),
+    join(contentRoot, "templates", "quotes.md"),
     [
-      "id,quote,author,source,sourceUrl,categories,approved,active",
-      "quote-1,Keep going,Author,Source,https://example.com,hope,true,true",
-      "quote-1,Still going,Author,Source,https://example.com,wisdom,true,true",
+      "# Quote Library",
+      "",
+      "## quote-1",
+      "",
+      "ID: quote-1",
+      "Author: Author",
+      "Source: Source",
+      "Source URL: https://example.com",
+      "Categories: hope",
+      "Approved: yes",
+      "Active: yes",
+      "Quote:",
+      "Keep going",
+      "",
+      "## quote-1 duplicate",
+      "",
+      "ID: quote-1",
+      "Author: Author",
+      "Source: Source",
+      "Source URL: https://example.com",
+      "Categories: wisdom",
+      "Approved: yes",
+      "Active: yes",
+      "Quote:",
+      "Still going",
       "",
     ].join("\n"),
     "utf8",
   );
 
   await writeFile(
-    join(contentRoot, "daily-challenges.csv"),
+    join(contentRoot, "templates", "daily-challenges.md"),
     [
-      "day,challenge,categories,approved,active",
-      "1,Choose one daily thing,hope,true,true",
+      "# Daily Challenges",
+      "",
+      "## Day 1",
+      "",
+      "Day: 1",
+      "Categories: hope",
+      "Approved: yes",
+      "Active: yes",
+      "Challenge:",
+      "Choose one daily thing",
       "",
     ].join("\n"),
     "utf8",
   );
 
   await writeFile(
-    join(contentRoot, "challenges.csv"),
+    join(contentRoot, "templates", "challenges.md"),
     [
-      "id,challenge,categories,approved,active",
-      "challenge-1,Take one small step,hope,true,true",
+      "# Challenge Library",
+      "",
+      "## challenge-1",
+      "",
+      "ID: challenge-1",
+      "Categories: hope",
+      "Approved: yes",
+      "Active: yes",
+      "Challenge:",
+      "Take one small step",
       "",
     ].join("\n"),
     "utf8",
@@ -131,42 +170,100 @@ async function testDuplicateIds() {
 
 async function makeFixture() {
   const contentRoot = await mkdtemp(join(tmpdir(), "fwr-content-"));
+  const templatesRoot = join(contentRoot, "templates");
+
+  await mkdir(templatesRoot, { recursive: true });
 
   await writeFile(
-    join(contentRoot, "daily-quotes.csv"),
+    join(templatesRoot, "daily-quotes.md"),
     [
-      "day,slug,focus,title,artworkKey,challenge,prompt,quote,author,source,sourceUrl,categories,supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel",
-      "1,choice,agency,Choice,art-1,Choose something,How did it feel?,Daily quote,Bible,Psalm 1,https://example.com,scripture|hope,podcast,Companion episode,A short episode for today.,https://podcasts.apple.com/us/podcast/example/id1234567890,https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg,24 min",
+      "# Daily Quotes",
+      "",
+      "## Day 1: Choice",
+      "",
+      "Day: 1",
+      "Slug: choice",
+      "Focus: agency",
+      "Title: Choice",
+      "Artwork: art-1",
+      "Categories: scripture, hope",
+      "Challenge:",
+      "Choose something",
+      "",
+      "Prompt:",
+      "How did it feel?",
+      "",
+      "Quote:",
+      "Daily quote",
+      "",
+      "Author: Bible",
+      "Source: Psalm 1",
+      "Source URL: https://example.com",
+      "Supplemental Type: podcast",
+      "Supplemental Title: Companion episode",
+      "Supplemental Description:",
+      "A short episode for today.",
+      "",
+      "Supplemental URL: https://podcasts.apple.com/us/podcast/example/id1234567890",
+      "Supplemental Image URL: https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg",
+      "Supplemental Duration: 24 min",
       "",
     ].join("\n"),
     "utf8",
   );
 
   await writeFile(
-    join(contentRoot, "quotes.csv"),
+    join(templatesRoot, "quotes.md"),
     [
-      "id,quote,author,source,sourceUrl,categories,approved,active",
-      "quote-1,Keep going,Author,Source,https://example.com,hope|wisdom,true,true",
+      "# Quote Library",
+      "",
+      "## quote-1",
+      "",
+      "ID: quote-1",
+      "Author: Author",
+      "Source: Source",
+      "Source URL: https://example.com",
+      "Categories: hope, wisdom",
+      "Approved: yes",
+      "Active: yes",
+      "Quote:",
+      "Keep going",
       "",
     ].join("\n"),
     "utf8",
   );
 
   await writeFile(
-    join(contentRoot, "daily-challenges.csv"),
+    join(templatesRoot, "daily-challenges.md"),
     [
-      "day,challenge,categories,approved,active",
-      "1,Choose one daily thing,hope,true,true",
+      "# Daily Challenges",
+      "",
+      "## Day 1",
+      "",
+      "Day: 1",
+      "Categories: hope",
+      "Approved: yes",
+      "Active: yes",
+      "Challenge:",
+      "Choose one daily thing",
       "",
     ].join("\n"),
     "utf8",
   );
 
   await writeFile(
-    join(contentRoot, "challenges.csv"),
+    join(templatesRoot, "challenges.md"),
     [
-      "id,challenge,categories,approved,active",
-      "challenge-1,Take one small step,hope,true,true",
+      "# Challenge Library",
+      "",
+      "## challenge-1",
+      "",
+      "ID: challenge-1",
+      "Categories: hope",
+      "Approved: yes",
+      "Active: yes",
+      "Challenge:",
+      "Take one small step",
       "",
     ].join("\n"),
     "utf8",

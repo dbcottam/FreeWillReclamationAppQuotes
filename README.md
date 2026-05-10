@@ -25,10 +25,10 @@ If your default branch changes from `main`, update the URL in the app.
 ## File Structure
 
 - `APPPLAN.md` current progress, version, and next-step plan for this content feed
-- `quotes.csv` human-editable source for the extra-quote feed
-- `daily-quotes.csv` human-editable source for the first 40 daily journey days
-- `daily-challenges.csv` human-editable source for the first 40 authored daily challenges
-- `challenges.csv` human-editable source for alternate 2-minute challenges
+- `templates/quotes.md` human-editable source for the extra-quote feed
+- `templates/daily-quotes.md` human-editable source for the first 40 daily journey days
+- `templates/daily-challenges.md` human-editable source for the first 40 authored daily challenges
+- `templates/challenges.md` human-editable source for alternate 2-minute challenges
 - `quotes.json` generated extra-quote endpoint used when the user asks for another quote
 - `daily-quotes.json` generated remote daily journey endpoint for the first 40 days
 - `daily-challenge.json` generated daily challenge endpoint used to override authored day challenges
@@ -38,7 +38,7 @@ If your default branch changes from `main`, update the URL in the app.
 - `daily-challenge.schema.json` shape reference for `daily-challenge.json`
 - `challenge.schema.json` shape reference for `challenge.json`
 - `assets/daily-images/` artwork images served to the app by GitHub Raw URL
-- `scripts/generate-content-json.mjs` CSV to JSON conversion script
+- `scripts/generate-content-json.mjs` Markdown template to JSON conversion script
 - `CHANGELOG.md` release notes for quote feed changes
 
 ## Quote Rules
@@ -126,7 +126,7 @@ Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
 
 When `npm run content:generate` runs, the build script scans `assets/daily-images/`. For each image found it constructs a GitHub Raw URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Days with no image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
 
-The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, rename the file (e.g. `day-01-v2.webp`) and update the `artworkKey` in `daily-quotes.csv` to match.
+The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, rename the file (e.g. `day-01-v2.webp`) and update the `Artwork` value in `templates/daily-quotes.md` to match.
 
 ### Image URL format
 
@@ -185,19 +185,18 @@ https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/ass
 
 ## Editing Workflow
 
-1. Add or update extra quotes in `quotes.csv`
-2. Add or update daily journey entries in `daily-quotes.csv`
-3. Keep `id` values stable in `quotes.csv`
-4. Keep each `day` number stable in `daily-quotes.csv`
-5. Make sure `approved` is `true` only for extra quotes you want live
-6. Set `active` to `false` to retire an extra quote without deleting history
-7. For `Go Deeper` content in `daily-quotes.csv`, fill the flattened columns:
-`supplementalType`, `supplementalTitle`, `supplementalDescription`, `supplementalUrl`, `supplementalImageUrl`, `supplementalDurationLabel`
-8. Run `npm run content:generate` to update `quotes.json` and `daily-quotes.json`
+1. Add or update extra quotes in `templates/quotes.md`
+2. Add or update daily journey entries in `templates/daily-quotes.md`
+3. Keep `ID` values stable in `templates/quotes.md`
+4. Keep each `Day` number stable in `templates/daily-quotes.md`
+5. Make sure `Approved` is `yes` only for extra quotes you want live
+6. Set `Active` to `no` to retire an extra quote without deleting history
+7. For `Go Deeper` content in `templates/daily-quotes.md`, fill the supplemental fields. Leave `Supplemental URL` empty when there is no supplemental material.
+8. Run `npm run content:generate` to update the generated JSON files
 9. Add a note to `CHANGELOG.md`
 10. Commit and push
 
-To regenerate CSV files from the current JSON files, run:
+To regenerate Markdown templates from the current JSON files, run:
 
 ```bash
 npm run content:export
@@ -220,6 +219,6 @@ Current pipeline version:
 ## Notes
 
 - The app caches this content locally after fetching it.
-- The CSV files are now the preferred editor surface; the app should read only the generated JSON files.
+- The Markdown files in `templates/` are now the preferred editor surface; the app should read only the generated JSON files.
 - The app still has local fallback content, so missing or partial feed entries will not break the experience.
 - If you rename this repository to something like `Free Will Reclamation App API`, update the raw GitHub URLs in the app code.

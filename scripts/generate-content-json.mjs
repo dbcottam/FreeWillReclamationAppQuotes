@@ -25,9 +25,11 @@ const categories = [
 const feeds = {
   "daily-quotes": {
     label: "daily quotes",
-    csvPath: "daily-quotes.csv",
+    templatePath: "templates/daily-quotes.md",
     jsonPath: "daily-quotes.json",
-    columns: [
+    rootArrayName: "quotes",
+    uniqueField: "day",
+    requiredFields: [
       "day",
       "slug",
       "focus",
@@ -39,53 +41,69 @@ const feeds = {
       "author",
       "source",
       "sourceUrl",
-      "categories",
-      "supplementalType",
-      "supplementalTitle",
-      "supplementalDescription",
-      "supplementalUrl",
-      "supplementalImageUrl",
-      "supplementalDurationLabel",
     ],
-    allowedCategories: categories,
-    uniqueField: "day",
     injectArtworkUrl: true,
-    rowFromCsv(row, index) {
-      const day = parseInteger(row.day, `daily-quotes row ${index}: day`);
-      const supplemental = buildSupplementalFromCsvRow(row);
+    fields: [
+      ["Day", "day"],
+      ["Slug", "slug"],
+      ["Focus", "focus"],
+      ["Title", "title"],
+      ["Artwork", "artworkKey"],
+      ["Categories", "categories"],
+      ["Challenge", "challenge"],
+      ["Prompt", "prompt"],
+      ["Quote", "quote"],
+      ["Author", "author"],
+      ["Source", "source"],
+      ["Source URL", "sourceUrl"],
+      ["Supplemental Type", "supplementalType"],
+      ["Supplemental Title", "supplementalTitle"],
+      ["Supplemental Description", "supplementalDescription"],
+      ["Supplemental URL", "supplementalUrl"],
+      ["Supplemental Image URL", "supplementalImageUrl"],
+      ["Supplemental Duration", "supplementalDurationLabel"],
+    ],
+    entryFromTemplate(fields, index) {
+      const supplemental = buildSupplementalFromTemplateFields(fields);
 
       return compactObject({
-        day,
-        slug: row.slug,
-        focus: row.focus,
-        title: row.title,
-        artworkKey: row.artworkKey,
-        challenge: row.challenge,
-        prompt: row.prompt,
-        quote: row.quote,
-        author: row.author,
-        source: row.source,
-        sourceUrl: row.sourceUrl,
-        categories: parseCategories(row.categories, this.allowedCategories, `daily-quotes row ${index}`),
+        day: parseInteger(fields.day, `daily-quotes entry ${index}: Day`),
+        slug: fields.slug,
+        focus: fields.focus,
+        title: fields.title,
+        artworkKey: fields.artworkKey,
+        challenge: fields.challenge,
+        prompt: fields.prompt,
+        quote: fields.quote,
+        author: fields.author,
+        source: fields.source,
+        sourceUrl: fields.sourceUrl,
+        categories: parseCategories(fields.categories, `daily-quotes entry ${index}`),
         supplemental,
       });
     },
   },
   "daily-challenges": {
     label: "daily challenges",
-    csvPath: "daily-challenges.csv",
+    templatePath: "templates/daily-challenges.md",
     jsonPath: "daily-challenge.json",
     rootArrayName: "challenges",
-    columns: ["day", "challenge", "categories", "approved", "active"],
-    allowedCategories: categories,
     uniqueField: "day",
-    rowFromCsv(row, index) {
+    requiredFields: ["day", "challenge"],
+    fields: [
+      ["Day", "day"],
+      ["Categories", "categories"],
+      ["Approved", "approved"],
+      ["Active", "active"],
+      ["Challenge", "challenge"],
+    ],
+    entryFromTemplate(fields, index) {
       return {
-        day: parseInteger(row.day, `daily-challenges row ${index}: day`),
-        challenge: row.challenge,
-        categories: parseCategories(row.categories, this.allowedCategories, `daily-challenges row ${index}`),
-        approved: parseBoolean(row.approved, `daily-challenges row ${index}: approved`),
-        active: parseBoolean(row.active, `daily-challenges row ${index}: active`),
+        day: parseInteger(fields.day, `daily-challenges entry ${index}: Day`),
+        challenge: fields.challenge,
+        categories: parseCategories(fields.categories, `daily-challenges entry ${index}`),
+        approved: parseBoolean(fields.approved, `daily-challenges entry ${index}: Approved`),
+        active: parseBoolean(fields.active, `daily-challenges entry ${index}: Active`),
       };
     },
     extraRootFields() {
@@ -94,21 +112,31 @@ const feeds = {
   },
   quotes: {
     label: "quote library",
-    csvPath: "quotes.csv",
+    templatePath: "templates/quotes.md",
     jsonPath: "quotes.json",
-    columns: ["id", "quote", "author", "source", "sourceUrl", "categories", "approved", "active"],
-    allowedCategories: categories,
+    rootArrayName: "quotes",
     uniqueField: "id",
-    rowFromCsv(row, index) {
+    requiredFields: ["id", "quote", "author", "source", "sourceUrl"],
+    fields: [
+      ["ID", "id"],
+      ["Author", "author"],
+      ["Source", "source"],
+      ["Source URL", "sourceUrl"],
+      ["Categories", "categories"],
+      ["Approved", "approved"],
+      ["Active", "active"],
+      ["Quote", "quote"],
+    ],
+    entryFromTemplate(fields, index) {
       return {
-        id: row.id,
-        quote: row.quote,
-        author: row.author,
-        source: row.source,
-        sourceUrl: row.sourceUrl,
-        categories: parseCategories(row.categories, this.allowedCategories, `quotes row ${index}`),
-        approved: parseBoolean(row.approved, `quotes row ${index}: approved`),
-        active: parseBoolean(row.active, `quotes row ${index}: active`),
+        id: fields.id,
+        quote: fields.quote,
+        author: fields.author,
+        source: fields.source,
+        sourceUrl: fields.sourceUrl,
+        categories: parseCategories(fields.categories, `quotes entry ${index}`),
+        approved: parseBoolean(fields.approved, `quotes entry ${index}: Approved`),
+        active: parseBoolean(fields.active, `quotes entry ${index}: Active`),
       };
     },
     extraRootFields() {
@@ -117,19 +145,25 @@ const feeds = {
   },
   challenges: {
     label: "challenge library",
-    csvPath: "challenges.csv",
+    templatePath: "templates/challenges.md",
     jsonPath: "challenge.json",
     rootArrayName: "challenges",
-    columns: ["id", "challenge", "categories", "approved", "active"],
-    allowedCategories: categories,
     uniqueField: "id",
-    rowFromCsv(row, index) {
+    requiredFields: ["id", "challenge"],
+    fields: [
+      ["ID", "id"],
+      ["Categories", "categories"],
+      ["Approved", "approved"],
+      ["Active", "active"],
+      ["Challenge", "challenge"],
+    ],
+    entryFromTemplate(fields, index) {
       return {
-        id: row.id,
-        challenge: row.challenge,
-        categories: parseCategories(row.categories, this.allowedCategories, `challenges row ${index}`),
-        approved: parseBoolean(row.approved, `challenges row ${index}: approved`),
-        active: parseBoolean(row.active, `challenges row ${index}: active`),
+        id: fields.id,
+        challenge: fields.challenge,
+        categories: parseCategories(fields.categories, `challenges entry ${index}`),
+        approved: parseBoolean(fields.approved, `challenges entry ${index}: Approved`),
+        active: parseBoolean(fields.active, `challenges entry ${index}: Active`),
       };
     },
     extraRootFields() {
@@ -141,8 +175,9 @@ const feeds = {
 export async function main(args = process.argv.slice(2), options = {}) {
   contentRoot = options.contentRoot ?? process.env.CONTENT_ROOT ?? ".";
 
-  const mode = args.includes("export") || args.includes("json-to-csv") ? "export" : "generate";
-  const requestedFeeds = args.filter((arg) => !["export", "json-to-csv", "generate", "csv-to-json"].includes(arg));
+  const mode = args.includes("export") || args.includes("json-to-template") ? "export" : "generate";
+  const ignoredArgs = ["export", "json-to-template", "generate", "template-to-json"];
+  const requestedFeeds = args.filter((arg) => !ignoredArgs.includes(arg));
   const selectedFeeds = requestedFeeds.length === 0 || requestedFeeds.includes("all")
     ? Object.keys(feeds)
     : requestedFeeds.map(normalizeFeedName);
@@ -155,7 +190,7 @@ export async function main(args = process.argv.slice(2), options = {}) {
     }
 
     if (mode === "export") {
-      await exportCsv(feed);
+      await exportTemplate(feed);
     } else {
       await generateJson(feed);
     }
@@ -183,25 +218,23 @@ async function buildArtworkUrlMap(root) {
 }
 
 async function generateJson(feed) {
-  const csvPath = existingPath(feed.csvPath);
-  const rows = parseCsv(await readFile(csvPath, "utf8"));
-
-  validateColumns(rows.headers, feed.columns, csvPath);
-
+  const templatePath = existingPath(feed.templatePath);
+  const sections = parseTemplate(await readFile(templatePath, "utf8"), feed);
   const artworkUrlMap = feed.injectArtworkUrl ? await buildArtworkUrlMap(contentRoot) : {};
-  const entries = rows.records.map((row, index) => {
-    const entry = feed.rowFromCsv(row, index + 2);
+  const entries = sections.map((fields, index) => {
+    const entry = feed.entryFromTemplate(fields, index + 1);
     const artworkUrl = artworkUrlMap[entry.artworkKey];
     return artworkUrl ? { ...entry, artworkUrl } : entry;
   });
-  validateRequiredFields(entries, feed.columns.filter((column) => column !== "categories"), feed.label);
+
+  validateRequiredFields(entries, feed.requiredFields, feed.label);
   validateUnique(entries, feed.uniqueField, feed.label);
 
   const root = {
     version: contentVersion,
     lastUpdated: new Date().toISOString(),
     ...(feed.extraRootFields ? feed.extraRootFields() : {}),
-    [feed.rootArrayName || "quotes"]: entries,
+    [feed.rootArrayName]: entries,
   };
   const existingRoot = await readJsonIfPresent(feed.jsonPath);
 
@@ -210,31 +243,160 @@ async function generateJson(feed) {
   }
 
   await writeJson(feed.jsonPath, root);
-  console.log(`Generated ${feed.jsonPath} from ${csvPath}`);
+  console.log(`Generated ${feed.jsonPath} from ${feed.templatePath}`);
 }
 
-async function exportCsv(feed) {
+async function exportTemplate(feed) {
   const jsonPath = existingPath(feed.jsonPath);
   const data = JSON.parse(await readFile(jsonPath, "utf8"));
 
-  const rootArrayName = feed.rootArrayName || "quotes";
-
-  if (!Array.isArray(data[rootArrayName])) {
-    fail(`${jsonPath} must include a ${rootArrayName} array.`);
+  if (!Array.isArray(data[feed.rootArrayName])) {
+    fail(`${jsonPath} must include a ${feed.rootArrayName} array.`);
   }
 
+  const templatePath = resolveContentPath(feed.templatePath);
+  await mkdir(dirname(templatePath), { recursive: true });
+  await writeFile(templatePath, renderTemplate(feed, data[feed.rootArrayName]), "utf8");
+  console.log(`Generated ${feed.templatePath} from ${jsonPath}`);
+}
+
+function renderTemplate(feed, entries) {
   const lines = [
-    feed.columns.join(","),
-    ...data[rootArrayName].map((entry) =>
-      feed.columns.map((column) => serializeCsvCell(toCsvValue(getFeedColumnValue(entry, column)))).join(",")
-    ),
+    `# ${toTitleCase(feed.label)}`,
+    "",
+    "Edit the values below, then run `npm run content:generate` to rebuild the app JSON.",
+    `Allowed categories: ${categories.join(", ")}.`,
+    "",
   ];
 
-  const csvPath = resolveContentPath(feed.csvPath);
+  for (const entry of entries) {
+    lines.push(`## ${headingForEntry(feed, entry)}`, "");
 
-  await mkdir(dirname(csvPath), { recursive: true });
-  await writeFile(csvPath, `${lines.join("\n")}\n`, "utf8");
-  console.log(`Generated ${feed.csvPath} from ${jsonPath}`);
+    for (const [label, key] of feed.fields) {
+      const value = templateValue(entry, key);
+
+      if (isMultilineField(key)) {
+        lines.push(`${label}:`, value, "");
+      } else {
+        lines.push(`${label}: ${value}`, "");
+      }
+    }
+  }
+
+  return `${lines.join("\n").replace(/\n{3,}/g, "\n\n").trimEnd()}\n`;
+}
+
+function headingForEntry(feed, entry) {
+  if (feed.rootArrayName === "quotes" && entry.day) {
+    return `Day ${entry.day}: ${entry.title}`;
+  }
+
+  if (entry.day) {
+    return `Day ${entry.day}`;
+  }
+
+  return entry.id;
+}
+
+function templateValue(entry, key) {
+  if (key.startsWith("supplemental")) {
+    const supplemental = entry.supplemental ?? {};
+
+    switch (key) {
+      case "supplementalType":
+        return supplemental.type ?? "";
+      case "supplementalTitle":
+        return supplemental.title ?? "";
+      case "supplementalDescription":
+        return supplemental.description ?? "";
+      case "supplementalUrl":
+        return supplemental.url ?? "";
+      case "supplementalImageUrl":
+        return supplemental.imageUrl ?? "";
+      case "supplementalDurationLabel":
+        return supplemental.durationLabel ?? "";
+      default:
+        return "";
+    }
+  }
+
+  if (key === "categories") {
+    return (entry.categories ?? []).join(", ");
+  }
+
+  if (typeof entry[key] === "boolean") {
+    return entry[key] ? "yes" : "no";
+  }
+
+  return entry[key] ?? "";
+}
+
+function isMultilineField(key) {
+  return ["challenge", "prompt", "quote", "supplementalDescription"].includes(key);
+}
+
+function parseTemplate(input, feed) {
+  const sections = splitMarkdownSections(input);
+
+  if (sections.length === 0) {
+    fail(`${feed.templatePath} must include at least one section beginning with ##.`);
+  }
+
+  return sections.map((section, index) => parseTemplateSection(section.body, feed, index + 1));
+}
+
+function splitMarkdownSections(input) {
+  const matches = [...input.matchAll(/^##[ \t]+(.+)$/gm)];
+
+  return matches.map((match, index) => {
+    const bodyStart = match.index + match[0].length;
+    const bodyEnd = matches[index + 1]?.index ?? input.length;
+
+    return {
+      heading: match[1].trim(),
+      body: input.slice(bodyStart, bodyEnd).trim(),
+    };
+  });
+}
+
+function parseTemplateSection(body, feed, sectionNumber) {
+  const labelToKey = new Map(feed.fields.map(([label, key]) => [normalizeLabel(label), key]));
+  const fields = Object.fromEntries(feed.fields.map(([, key]) => [key, ""]));
+  const lines = body.split(/\r?\n/);
+  let currentKey = null;
+  let currentValue = [];
+
+  function flush() {
+    if (!currentKey) {
+      return;
+    }
+
+    fields[currentKey] = currentValue.join("\n").trim();
+    currentKey = null;
+    currentValue = [];
+  }
+
+  for (const line of lines) {
+    const labelMatch = line.match(/^([A-Za-z][A-Za-z0-9 ]+):[ \t]*(.*)$/);
+    const key = labelMatch ? labelToKey.get(normalizeLabel(labelMatch[1])) : null;
+
+    if (key) {
+      flush();
+      currentKey = key;
+      currentValue = labelMatch[2] ? [labelMatch[2]] : [];
+    } else if (currentKey) {
+      currentValue.push(line);
+    } else if (line.trim()) {
+      fail(`${feed.templatePath} section ${sectionNumber}: unexpected text before a field label: ${line}`);
+    }
+  }
+
+  flush();
+  return fields;
+}
+
+function normalizeLabel(value) {
+  return value.toLowerCase().replaceAll(/\s+/g, "");
 }
 
 function normalizeFeedName(name) {
@@ -259,81 +421,11 @@ function existingPath(primaryPath) {
   fail(`Missing ${primaryPath}.`);
 }
 
-function parseCsv(input) {
-  const rows = [];
-  let row = [];
-  let cell = "";
-  let quoted = false;
-
-  for (let index = 0; index < input.length; index += 1) {
-    const char = input[index];
-    const next = input[index + 1];
-
-    if (quoted) {
-      if (char === '"' && next === '"') {
-        cell += '"';
-        index += 1;
-      } else if (char === '"') {
-        quoted = false;
-      } else {
-        cell += char;
-      }
-    } else if (char === '"') {
-      quoted = true;
-    } else if (char === ",") {
-      row.push(cell);
-      cell = "";
-    } else if (char === "\n") {
-      row.push(cell);
-      rows.push(row);
-      row = [];
-      cell = "";
-    } else if (char !== "\r") {
-      cell += char;
-    }
-  }
-
-  if (quoted) {
-    fail("CSV contains an unclosed quoted field.");
-  }
-
-  if (cell.length > 0 || row.length > 0) {
-    row.push(cell);
-    rows.push(row);
-  }
-
-  const [headers, ...records] = rows.filter((csvRow) => csvRow.some((value) => value.trim() !== ""));
-
-  if (!headers) {
-    fail("CSV is empty.");
-  }
-
-  return {
-    headers,
-    records: records.map((csvRow, rowIndex) => {
-      if (csvRow.length !== headers.length) {
-        fail(`CSV row ${rowIndex + 2} has ${csvRow.length} columns; expected ${headers.length}.`);
-      }
-
-      return Object.fromEntries(headers.map((header, index) => [header, csvRow[index]]));
-    }),
-  };
-}
-
-function validateColumns(actual, expected, csvPath) {
-  const missing = expected.filter((column) => !actual.includes(column));
-  const unexpected = actual.filter((column) => !expected.includes(column));
-
-  if (missing.length > 0 || unexpected.length > 0) {
-    fail(`${csvPath} columns are invalid. Missing: ${missing.join(", ") || "none"}. Unexpected: ${unexpected.join(", ") || "none"}.`);
-  }
-}
-
 function validateRequiredFields(rows, fields, label) {
   for (const [index, row] of rows.entries()) {
     for (const field of fields) {
-      if (row[field] === "") {
-        fail(`${label} row ${index + 2}: ${field} is required.`);
+      if (row[field] === "" || row[field] === undefined) {
+        fail(`${label} entry ${index + 1}: ${field} is required.`);
       }
     }
   }
@@ -352,7 +444,7 @@ function validateUnique(rows, field, label) {
 }
 
 function parseInteger(value, label) {
-  if (!/^[1-9]\d*$/.test(value)) {
+  if (!/^[1-9]\d*$/.test(value ?? "")) {
     fail(`${label} must be a positive integer.`);
   }
 
@@ -360,24 +452,31 @@ function parseInteger(value, label) {
 }
 
 function parseBoolean(value, label) {
-  const normalized = value.toLowerCase();
+  const normalized = (value ?? "").toLowerCase();
 
-  if (normalized !== "true" && normalized !== "false") {
-    fail(`${label} must be true or false.`);
+  if (["yes", "true"].includes(normalized)) {
+    return true;
   }
 
-  return normalized === "true";
+  if (["no", "false"].includes(normalized)) {
+    return false;
+  }
+
+  fail(`${label} must be yes or no.`);
 }
 
-function parseCategories(value, allowedCategories, label) {
-  const parsed = value.split("|").map((category) => category.trim()).filter(Boolean);
+function parseCategories(value, label) {
+  const parsed = (value ?? "")
+    .split(/[|,]/)
+    .map((category) => category.trim())
+    .filter(Boolean);
 
   if (parsed.length === 0) {
-    fail(`${label}: categories must include at least one value.`);
+    fail(`${label}: Categories must include at least one value.`);
   }
 
   for (const category of parsed) {
-    if (!allowedCategories.includes(category)) {
+    if (!categories.includes(category)) {
       fail(`${label}: category "${category}" is not allowed.`);
     }
   }
@@ -385,53 +484,20 @@ function parseCategories(value, allowedCategories, label) {
   return parsed;
 }
 
-function toCsvValue(value) {
-  if (Array.isArray(value)) {
-    return value.join("|");
-  }
-
-  return value ?? "";
-}
-
-function getFeedColumnValue(quote, column) {
-  if (!column.startsWith("supplemental")) {
-    return quote[column];
-  }
-
-  const supplemental = quote.supplemental ?? {};
-
-  switch (column) {
-    case "supplementalType":
-      return supplemental.type;
-    case "supplementalTitle":
-      return supplemental.title;
-    case "supplementalDescription":
-      return supplemental.description;
-    case "supplementalUrl":
-      return supplemental.url;
-    case "supplementalImageUrl":
-      return supplemental.imageUrl;
-    case "supplementalDurationLabel":
-      return supplemental.durationLabel;
-    default:
-      return "";
-  }
-}
-
-function buildSupplementalFromCsvRow(row) {
-  const supplementalUrl = row.supplementalUrl?.trim() ?? "";
+function buildSupplementalFromTemplateFields(fields) {
+  const supplementalUrl = fields.supplementalUrl?.trim() ?? "";
 
   if (!supplementalUrl) {
     return undefined;
   }
 
   return compactObject({
-    type: row.supplementalType,
-    title: row.supplementalTitle,
-    description: row.supplementalDescription,
+    type: fields.supplementalType,
+    title: fields.supplementalTitle,
+    description: fields.supplementalDescription,
     url: supplementalUrl,
-    imageUrl: row.supplementalImageUrl,
-    durationLabel: row.supplementalDurationLabel,
+    imageUrl: fields.supplementalImageUrl,
+    durationLabel: fields.supplementalDurationLabel,
   });
 }
 
@@ -439,16 +505,6 @@ function compactObject(value) {
   return Object.fromEntries(
     Object.entries(value).filter(([, entryValue]) => entryValue !== undefined && entryValue !== "")
   );
-}
-
-function serializeCsvCell(value) {
-  const stringValue = String(value);
-
-  if (/[",\r\n]/.test(stringValue)) {
-    return `"${stringValue.replaceAll('"', '""')}"`;
-  }
-
-  return stringValue;
 }
 
 async function writeJson(path, data) {
@@ -489,6 +545,10 @@ function withoutLastUpdated(value) {
   const { lastUpdated, ...rest } = value;
 
   return rest;
+}
+
+function toTitleCase(value) {
+  return value.replace(/\b\w/g, (letter) => letter.toUpperCase());
 }
 
 function fail(message) {

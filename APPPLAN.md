@@ -8,10 +8,10 @@
 
 ## Progress
 
-- Completed: Added CSV editing workflow for `daily-quotes.csv` and `quotes.csv`.
-- Completed: Added CSV to JSON generation for app-facing endpoint files.
-- Completed: Added JSON to CSV export for bootstrapping and recovery.
-- Completed: Added validation for headers, booleans, categories, duplicate days, duplicate ids, and required fields.
+- Completed: Replaced CSV editing with Markdown templates in `templates/`.
+- Completed: Added Markdown template to JSON generation for app-facing endpoint files.
+- Completed: Added JSON to Markdown template export for bootstrapping and recovery.
+- Completed: Added validation for booleans, categories, duplicate days, duplicate ids, and required fields.
 - Completed: Added Node test coverage for generation, export, and duplicate-id validation.
 - Completed: Removed stale `daily-journey.*` migration files in favor of canonical `daily-quotes.*` naming.
 
@@ -23,7 +23,7 @@
 
 ## Operating Notes
 
-- Humans should edit CSV files.
+- Humans should edit Markdown files in `templates/`.
 - The app should consume JSON files only.
-- Run `npm run content:generate` after CSV edits.
+- Run `npm run content:generate` after template edits.
 - Run `npm test` before pushing feed pipeline changes.

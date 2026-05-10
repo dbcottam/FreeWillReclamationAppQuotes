@@ -2,6 +2,12 @@
 
 All notable quote feed changes should be listed here.
 
+## 2026-05-10
+
+- Replaced CSV source files with human-friendly Markdown templates in `templates/`
+- Updated the content generator to read templates directly and still produce the same app-facing JSON endpoints
+- Added JSON to Markdown template export for recovery and template regeneration
+
 ## 2026-05-07
 
 - Added 44 sourced quote-library entries from the requested Hawkins, Bible, Mother Teresa, Louise Hay, Karol Truman, Gandhi, Frankl, Jung, Tolle, Stoic, Taoist, and American founder quote set, with corrected Bible references and verified substitutions where exact attribution was not reliable
