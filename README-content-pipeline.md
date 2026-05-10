@@ -4,14 +4,12 @@ This repository uses human-editable Markdown templates as the source of truth an
 
 ## Files
 
-- `templates/daily-quotes.md` - editable 40-day daily journey content.
-- `templates/daily-challenges.md` - editable 40-day authored daily challenge content.
+- `templates/daily-quotes.md` - editable 40-day daily journey content, including the authored daily challenge.
 - `templates/quotes.md` - editable general quote library.
 - `templates/challenges.md` - editable alternate 2-minute challenge library.
-- `daily-quotes.json` - generated app-ready daily journey endpoint.
-- `daily-challenge.json` - generated daily challenge endpoint.
-- `quotes.json` - generated quote endpoint.
-- `challenge.json` - generated challenge endpoint.
+- `v1/*.json` - static compatibility copy of the current deployed/root contract, including `daily-challenge.json`.
+- `v2/*.json` - generated contract-pinned endpoint files consumed by the next app build.
+- Root endpoint files such as `daily-quotes.json`, `daily-challenge.json`, `quotes.json`, and `challenge.json` are legacy compatibility files and are not rewritten unless `WRITE_LEGACY_ROOT_FEEDS=1` is set.
 - `*.schema.json` - validation shape references for the generated JSON.
 - `assets/daily-images/` - artwork images; filenames must match `Artwork` values in `templates/daily-quotes.md`.
 - `scripts/generate-content-json.mjs` - Markdown template to JSON generation and JSON to template export.
@@ -25,6 +23,21 @@ This repository uses human-editable Markdown templates as the source of truth an
 - Boolean fields can be `yes` or `no`.
 - Daily journey entries include blank supplemental fields. Leave `Supplemental URL` empty when there is no supplemental material.
 - The app should read the generated JSON files, not the Markdown templates.
+- Production app builds should read the contract version URLs, such as `/v2/`, and verify each feed's `contractVersion` and schema `version` values before using content.
+- Structural API changes require a new version folder. Use `CONTENT_API_CONTRACT.md` to decide whether an edit is content-only or structural.
+
+## Supplemental Material Examples
+
+`templates/daily-quotes.md` includes one example of each supported supplemental type:
+
+- Day 1: `youtube`
+- Day 2: `podcast`
+- Day 3: `article`
+- Day 4: `resource`
+- Day 5: `audio`
+- Day 6: `video`
+
+For any day, fill `Supplemental Type`, `Supplemental Title`, `Supplemental Description`, `Supplemental URL`, optional `Supplemental Image URL`, and `Supplemental Duration`. The generator only emits a `supplemental` object when `Supplemental URL` is present.
 
 ## Commands
 
@@ -34,16 +47,20 @@ Generate and validate all JSON files:
 npm run content:generate
 ```
 
+Generate legacy root endpoint files too:
+
+```bash
+WRITE_LEGACY_ROOT_FEEDS=1 npm run content:generate
+```
+
+Do not use that legacy-root command while current tester devices still depend on the old root contract unless you intentionally want to update those devices.
+
+After the next beta app install confirms tester devices are reading `/v2/`, delete the non-versioned root JSON feeds: `daily-quotes.json`, `daily-challenge.json`, `quotes.json`, and `challenge.json`. Keep versioned contract folders as the app-facing API surface.
+
 Generate only the daily journey file:
 
 ```bash
 npm run content:generate:daily
-```
-
-Generate only the daily challenge file:
-
-```bash
-npm run content:generate:daily-challenges
 ```
 
 Generate only the general quote file:
@@ -95,15 +112,15 @@ The generator fails with readable errors when:
 - A category is not allowed.
 - A required field is missing.
 - A duplicate `day` exists in the daily quote feed.
-- A duplicate `day` exists in the daily challenge feed.
 - A duplicate `id` exists in the quote feed.
 - A duplicate `id` exists in the challenge feed.
 
 ## Expected Output
 
 ```text
-Generated daily-quotes.json from templates/daily-quotes.md
-Generated daily-challenge.json from templates/daily-challenges.md
-Generated quotes.json from templates/quotes.md
-Generated challenge.json from templates/challenges.md
+Generated v2/daily-quotes.json from templates/daily-quotes.md
+Generated v2/quotes.json from templates/quotes.md
+Generated v2/challenge.json from templates/challenges.md
 ```
+
+The generator writes matching files under `v2/`. The `v1/` folder is preserved for compatibility and should only be changed deliberately.

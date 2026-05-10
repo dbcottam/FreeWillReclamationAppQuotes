@@ -1,15 +1,13 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "module",
   "scripts": {
     "content:generate": "node scripts/generate-content-json.mjs",
     "content:generate:daily": "node scripts/generate-content-json.mjs daily-quotes",
-    "content:generate:daily-challenges": "node scripts/generate-content-json.mjs daily-challenges",
     "content:generate:quotes": "node scripts/generate-content-json.mjs quotes",
     "content:generate:challenges": "node scripts/generate-content-json.mjs challenges",
     "content:export": "node scripts/generate-content-json.mjs export",
     "content:export:daily": "node scripts/generate-content-json.mjs daily-quotes export",
-    "content:export:daily-challenges": "node scripts/generate-content-json.mjs daily-challenges export",
     "content:export:quotes": "node scripts/generate-content-json.mjs quotes export",
     "content:export:challenges": "node scripts/generate-content-json.mjs challenges export",
     "content:validate": "node scripts/generate-content-json.mjs",

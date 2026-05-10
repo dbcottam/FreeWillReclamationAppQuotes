@@ -7,6 +7,9 @@ import { main } from "../scripts/generate-content-json.mjs";
 const tests = [
   ["generates endpoint JSON from template feeds", testGenerate],
   ["exports templates from endpoint JSON feeds", testExport],
+  ["does not write legacy root feeds by default", testDefaultSkipsLegacyRootFeeds],
+  ["can deliberately write legacy root feeds", testDeliberateLegacyRootFeeds],
+  ["preserves lastUpdated when generated content is unchanged", testStableLastUpdated],
   ["rejects duplicate quote ids", testDuplicateIds],
 ];
 
@@ -26,14 +29,15 @@ async function testGenerate() {
 
   await main([], { contentRoot });
 
-  const daily = JSON.parse(await readFile(join(contentRoot, "daily-quotes.json"), "utf8"));
-  const dailyChallenges = JSON.parse(await readFile(join(contentRoot, "daily-challenge.json"), "utf8"));
-  const quotes = JSON.parse(await readFile(join(contentRoot, "quotes.json"), "utf8"));
-  const challenges = JSON.parse(await readFile(join(contentRoot, "challenge.json"), "utf8"));
+  const daily = JSON.parse(await readFile(join(contentRoot, "v2", "daily-quotes.json"), "utf8"));
+  const quotes = JSON.parse(await readFile(join(contentRoot, "v2", "quotes.json"), "utf8"));
+  const challenges = JSON.parse(await readFile(join(contentRoot, "v2", "challenge.json"), "utf8"));
 
   assert.equal(daily.version, 2);
+  assert.equal(daily.contractVersion, "v2");
   assert.equal(daily.quotes[0].day, 1);
   assert.deepEqual(daily.quotes[0].categories, ["scripture", "hope"]);
+  assert.equal(daily.quotes[0].challenge, "Choose something");
   assert.deepEqual(daily.quotes[0].supplemental, {
     type: "podcast",
     title: "Companion episode",
@@ -42,10 +46,6 @@ async function testGenerate() {
     imageUrl: "https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg",
     durationLabel: "24 min",
   });
-  assert.equal(dailyChallenges.version, 2);
-  assert.equal(dailyChallenges.challenges[0].day, 1);
-  assert.equal(dailyChallenges.challenges[0].challenge, "Choose one daily thing");
-  assert.deepEqual(dailyChallenges.challenges[0].categories, ["hope"]);
   assert.equal(quotes.version, 2);
   assert.deepEqual(quotes.approvedCategories, [
     "scripture",
@@ -67,6 +67,52 @@ async function testGenerate() {
   assert.equal(challenges.challenges[0].approved, true);
 }
 
+async function testDefaultSkipsLegacyRootFeeds() {
+  const contentRoot = await makeFixture();
+
+  await main([], { contentRoot });
+
+  await assert.rejects(
+    () => readFile(join(contentRoot, "daily-quotes.json"), "utf8"),
+    /ENOENT/,
+  );
+  await assert.rejects(
+    () => readFile(join(contentRoot, "daily-challenge.json"), "utf8"),
+    /ENOENT/,
+  );
+}
+
+async function testDeliberateLegacyRootFeeds() {
+  const contentRoot = await makeFixture();
+
+  await main([], { contentRoot, writeLegacyRootFeeds: true });
+
+  const daily = JSON.parse(await readFile(join(contentRoot, "daily-quotes.json"), "utf8"));
+  const quotes = JSON.parse(await readFile(join(contentRoot, "quotes.json"), "utf8"));
+  const challenges = JSON.parse(await readFile(join(contentRoot, "challenge.json"), "utf8"));
+
+  assert.equal(daily.contractVersion, "v2");
+  assert.equal(quotes.contractVersion, "v2");
+  assert.equal(challenges.contractVersion, "v2");
+  await assert.rejects(
+    () => readFile(join(contentRoot, "daily-challenge.json"), "utf8"),
+    /ENOENT/,
+  );
+}
+
+async function testStableLastUpdated() {
+  const contentRoot = await makeFixture();
+
+  await main([], { contentRoot });
+  const path = join(contentRoot, "v2", "daily-quotes.json");
+  const first = JSON.parse(await readFile(path, "utf8"));
+
+  await main([], { contentRoot });
+  const second = JSON.parse(await readFile(path, "utf8"));
+
+  assert.equal(second.lastUpdated, first.lastUpdated);
+}
+
 async function testExport() {
   const contentRoot = await makeFixture();
 
@@ -74,15 +120,14 @@ async function testExport() {
   await main(["export"], { contentRoot });
 
   const dailyTemplate = await readFile(join(contentRoot, "templates", "daily-quotes.md"), "utf8");
-  const dailyChallengesTemplate = await readFile(join(contentRoot, "templates", "daily-challenges.md"), "utf8");
   const quotesTemplate = await readFile(join(contentRoot, "templates", "quotes.md"), "utf8");
   const challengesTemplate = await readFile(join(contentRoot, "templates", "challenges.md"), "utf8");
 
   assert.match(dailyTemplate, /^# Daily Quotes/);
+  assert.match(dailyTemplate, /single source of truth for each authored journey day/);
+  assert.match(dailyTemplate, /Challenge:\nChoose something/);
   assert.match(dailyTemplate, /Supplemental Type: podcast/);
   assert.match(dailyTemplate, /Supplemental Title: Companion episode/);
-  assert.match(dailyChallengesTemplate, /^# Daily Challenges/);
-  assert.match(dailyChallengesTemplate, /Challenge:\nChoose one daily thing/);
   assert.match(quotesTemplate, /^# Quote Library/);
   assert.match(quotesTemplate, /ID: quote-1/);
   assert.match(quotesTemplate, /Quote:\nKeep going/);
@@ -121,24 +166,6 @@ async function testDuplicateIds() {
       "Active: yes",
       "Quote:",
       "Still going",
-      "",
-    ].join("\n"),
-    "utf8",
-  );
-
-  await writeFile(
-    join(contentRoot, "templates", "daily-challenges.md"),
-    [
-      "# Daily Challenges",
-      "",
-      "## Day 1",
-      "",
-      "Day: 1",
-      "Categories: hope",
-      "Approved: yes",
-      "Active: yes",
-      "Challenge:",
-      "Choose one daily thing",
       "",
     ].join("\n"),
     "utf8",
@@ -228,24 +255,6 @@ async function makeFixture() {
       "Active: yes",
       "Quote:",
       "Keep going",
-      "",
-    ].join("\n"),
-    "utf8",
-  );
-
-  await writeFile(
-    join(templatesRoot, "daily-challenges.md"),
-    [
-      "# Daily Challenges",
-      "",
-      "## Day 1",
-      "",
-      "Day: 1",
-      "Categories: hope",
-      "Approved: yes",
-      "Active: yes",
-      "Challenge:",
-      "Choose one daily thing",
       "",
     ].join("\n"),
     "utf8",

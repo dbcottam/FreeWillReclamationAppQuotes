@@ -4,6 +4,13 @@ All notable quote feed changes should be listed here.
 
 ## 2026-05-10
 
+- Bumped the content pipeline package to `2.1.0` for the contract-pinned feed cleanup
+- Made generated artwork URL discovery deterministic and covered stable `lastUpdated` behavior in tests
+- Added contract-pinned `v2/` endpoint output for the new one-source daily content API
+- Added a `v1/` compatibility copy while leaving root feeds available for current deployed/test devices
+- Removed the separate daily challenge endpoint from the `v2` contract so authored daily challenges live only in `v2/daily-quotes.json`
+- Documented the next-beta cleanup step to delete non-versioned root feeds once tester devices are confirmed on `/v2/`
+- Added `CONTENT_API_CONTRACT.md` to make structural-change versioning rules explicit
 - Replaced CSV source files with human-friendly Markdown templates in `templates/`
 - Updated the content generator to read templates directly and still produce the same app-facing JSON endpoints
 - Added JSON to Markdown template export for recovery and template regeneration

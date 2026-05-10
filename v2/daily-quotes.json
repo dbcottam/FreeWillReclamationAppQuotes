@@ -1,0 +1,744 @@
+{
+  "version": 2,
+  "contractVersion": "v2",
+  "lastUpdated": "2026-05-10T23:07:56.579Z",
+  "quotes": [
+    {
+      "day": 1,
+      "slug": "clear-the-ground",
+      "focus": "release",
+      "title": "Clear the Ground",
+      "artworkKey": "day-01",
+      "challenge": "Name one emotion, resentment, or disappointment that has been taking up space, and give it one honest sentence.",
+      "prompt": "What becomes available when you stop pretending that this feeling is not there?",
+      "quote": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "source": "Sufinama: Rumi quote",
+      "sourceUrl": "https://sufinama.org/quotes/the-wound-is-the-place-where-the-light-enters-you-maulana-rumi-quote",
+      "categories": [
+        "healing",
+        "hope"
+      ],
+      "supplemental": {
+        "type": "youtube",
+        "title": "Day 1 Companion Video",
+        "description": "A short companion video example for the first day of release work.",
+        "url": "https://www.youtube.com/NikkiCottam",
+        "durationLabel": "8 min"
+      },
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-01.webp"
+    },
+    {
+      "day": 2,
+      "slug": "let-go-a-little",
+      "focus": "release",
+      "title": "Let Go a Little",
+      "artworkKey": "day-02",
+      "challenge": "Choose one small grip to loosen today: a rule, a judgment, a timeline, or a need to control the outcome.",
+      "prompt": "Where did your body soften when you let go even a little?",
+      "quote": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+      "author": "Ajahn Chah",
+      "source": "Wikiquote: Ajahn Chah",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Ajahn_Chah",
+      "categories": [
+        "healing",
+        "peace"
+      ],
+      "supplemental": {
+        "type": "podcast",
+        "title": "Day 2 Companion Podcast",
+        "description": "A podcast example for listening while practicing release and peace.",
+        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
+        "durationLabel": "24 min"
+      },
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-02.webp"
+    },
+    {
+      "day": 3,
+      "slug": "feel-without-fixing",
+      "focus": "presence",
+      "title": "Feel Without Fixing",
+      "artworkKey": "day-03",
+      "challenge": "Give one difficult feeling ninety seconds of kind attention before you try to solve anything.",
+      "prompt": "What did the feeling seem to need from you: witness, truth, rest, action, or compassion?",
+      "quote": "Nothing ever goes away until it has taught us what we need to know.",
+      "author": "Pema Chodron",
+      "source": "When Things Fall Apart",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n",
+      "categories": [
+        "wisdom",
+        "healing"
+      ],
+      "supplemental": {
+        "type": "article",
+        "title": "Day 3 Companion Article",
+        "description": "A written companion example for reflecting before trying to fix a feeling.",
+        "url": "https://www.nikkicottam.com/",
+        "durationLabel": "5 min read"
+      }
+    },
+    {
+      "day": 4,
+      "slug": "choose-a-clean-slate",
+      "focus": "healing",
+      "title": "Choose a Clean Slate",
+      "artworkKey": "day-04",
+      "challenge": "Write down one old pattern you are ready to stop rehearsing, then write the clean-slate choice beside it.",
+      "prompt": "What would today look like if the past could inform you without directing you?",
+      "quote": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
+      "author": "Laozi",
+      "source": "Tao Te Ching 22 (Legge)",
+      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-22",
+      "categories": [
+        "scripture",
+        "healing",
+        "hope"
+      ],
+      "supplemental": {
+        "type": "resource",
+        "title": "Day 4 Companion Resource",
+        "description": "A resource hub example for choosing a clean slate and continuing the work.",
+        "url": "https://www.nikkicottam.com/abundance-unplugged-resource-hub",
+        "durationLabel": "Resource"
+      }
+    },
+    {
+      "day": 5,
+      "slug": "find-the-belief",
+      "focus": "beliefs",
+      "title": "Find the Belief",
+      "artworkKey": "day-05",
+      "challenge": "Notice one recurring pressure or fear and ask, 'What belief is this trying to prove?'",
+      "prompt": "Which belief feels inherited, outdated, or too small for who you are becoming?",
+      "quote": "What is necessary to change a person is to change his awareness of himself.",
+      "author": "Abraham Maslow",
+      "source": "Wikiquote: Abraham Maslow",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Abraham_Maslow",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "supplemental": {
+        "type": "audio",
+        "title": "Day 5 Companion Audio",
+        "description": "An audio example for noticing inherited beliefs and making space for a new one.",
+        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
+        "durationLabel": "12 min"
+      }
+    },
+    {
+      "day": 6,
+      "slug": "ask-a-better-question",
+      "focus": "questions",
+      "title": "Ask a Better Question",
+      "artworkKey": "day-06",
+      "challenge": "Replace one defeated question with a useful one, such as 'What is one truthful next step?'",
+      "prompt": "How did the quality of your question change the quality of your energy?",
+      "quote": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.",
+      "author": "Dhammapada",
+      "source": "Dhammapada 1:1 (Muller)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "identity"
+      ],
+      "supplemental": {
+        "type": "video",
+        "title": "Day 6 Companion Video",
+        "description": "A general video example for practicing better questions and truthful next steps.",
+        "url": "https://www.youtube.com/NikkiCottam",
+        "durationLabel": "10 min"
+      }
+    },
+    {
+      "day": 7,
+      "slug": "rewrite-the-story",
+      "focus": "affirmation",
+      "title": "Rewrite the Story",
+      "artworkKey": "day-07",
+      "challenge": "Turn one limiting belief into an honest affirmation that your nervous system can actually believe.",
+      "prompt": "What words felt both empowering and true enough to practice?",
+      "quote": "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.",
+      "author": "Buckminster Fuller",
+      "source": "Wikiquote: Buckminster Fuller",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Buckminster_Fuller",
+      "categories": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 8,
+      "slug": "practice-the-new-pattern",
+      "focus": "patterns",
+      "title": "Practice the New Pattern",
+      "artworkKey": "day-08",
+      "challenge": "Repeat your new affirmation three times today, then take one tiny action that proves it.",
+      "prompt": "What action made the new belief feel more real?",
+      "quote": "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+      "author": "Aristotle",
+      "source": "Wikiquote: Aristotle",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Aristotle",
+      "categories": [
+        "courage",
+        "encouragement"
+      ]
+    },
+    {
+      "day": 9,
+      "slug": "protect-your-peace",
+      "focus": "shielding",
+      "title": "Protect Your Peace",
+      "artworkKey": "day-09",
+      "challenge": "Before entering one draining space, set an intention for what energy belongs to you and what does not.",
+      "prompt": "What helped you stay present without absorbing everything around you?",
+      "quote": "Keep thy heart with all diligence; for out of it [are] the issues of life.",
+      "author": "Solomon",
+      "source": "Proverbs 4:23 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-4-23/",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 10,
+      "slug": "strengthen-your-boundary",
+      "focus": "boundaries",
+      "title": "Strengthen Your Boundary",
+      "artworkKey": "day-10",
+      "challenge": "Practice one boundary that is simple, respectful, and clear.",
+      "prompt": "What did the boundary make possible for your energy or focus?",
+      "quote": "No person is your friend who demands your silence, or denies your right to grow.",
+      "author": "Alice Walker",
+      "source": "Wikiquote: Alice Walker",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Alice_Walker",
+      "categories": [
+        "identity",
+        "peace"
+      ]
+    },
+    {
+      "day": 11,
+      "slug": "small-routine-upgrade",
+      "focus": "routine",
+      "title": "Small Routine Upgrade",
+      "artworkKey": "day-11",
+      "challenge": "Choose one routine that supports steadiness: a breath, a note, a pause, a prayer, or a check-in.",
+      "prompt": "What routine gave your day more structure without making it rigid?",
+      "quote": "Mindfulness allows you to live deeply every moment that is given you to live.",
+      "author": "Thich Nhat Hanh",
+      "source": "Plum Village: Key Teachings",
+      "sourceUrl": "https://plumvillage.org/about/thich-nhat-hanh/key-teachings/",
+      "categories": [
+        "peace",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 12,
+      "slug": "stand-in-your-space",
+      "focus": "steadiness",
+      "title": "Stand in Your Space",
+      "artworkKey": "day-12",
+      "challenge": "Take one action from calm authority instead of pressure, performance, or panic.",
+      "prompt": "How did you recognize the difference between pressure and real strength?",
+      "quote": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+      "author": "Paul",
+      "source": "2 Timothy 1:7 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Timothy-1-7/",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "identity"
+      ]
+    },
+    {
+      "day": 13,
+      "slug": "listen-for-guidance",
+      "focus": "intuition",
+      "title": "Listen for Guidance",
+      "artworkKey": "day-13",
+      "challenge": "Spend three quiet minutes asking for guidance, then write the first simple impression without arguing with it.",
+      "prompt": "What did you hear before your mind tried to edit it?",
+      "quote": "Go to your bosom: Knock there, and ask your heart what it doth know.",
+      "author": "William Shakespeare",
+      "source": "Measure for Measure, Act II, Scene II",
+      "sourceUrl": "https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II",
+      "categories": [
+        "wisdom",
+        "identity"
+      ]
+    },
+    {
+      "day": 14,
+      "slug": "test-the-next-step",
+      "focus": "discernment",
+      "title": "Test the Next Step",
+      "artworkKey": "day-14",
+      "challenge": "Hold one possible next step in mind and notice whether your body feels contracted, neutral, or open.",
+      "prompt": "What did your body seem to know before you had a full explanation?",
+      "quote": "He who knows other men is discerning; he who knows himself is intelligent.",
+      "author": "Laozi",
+      "source": "Tao Te Ching 33 (Legge)",
+      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-33",
+      "categories": [
+        "scripture",
+        "identity",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 15,
+      "slug": "trust-your-inner-knowing",
+      "focus": "trust",
+      "title": "Trust Your Inner Knowing",
+      "artworkKey": "day-15",
+      "challenge": "Act on one small intuitive nudge that is kind, grounded, and aligned.",
+      "prompt": "What makes an intuitive nudge feel trustworthy to you?",
+      "quote": "The power of intuitive understanding will protect you from harm until the end of your days.",
+      "author": "Lao Tzu",
+      "source": "Wikiquote: Lao Tzu",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Lao_Tzu",
+      "categories": [
+        "courage",
+        "peace"
+      ]
+    },
+    {
+      "day": 16,
+      "slug": "make-room-for-receiving",
+      "focus": "receiving",
+      "title": "Make Room for Receiving",
+      "artworkKey": "day-16",
+      "challenge": "Create one quiet opening today where guidance, clarity, or support can reach you.",
+      "prompt": "What changes when receiving becomes an active practice instead of a passive hope?",
+      "quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+      "author": "Matthew",
+      "source": "Matthew 7:7 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-7-7/",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 17,
+      "slug": "notice-the-block",
+      "focus": "abundance-blocks",
+      "title": "Notice the Block",
+      "artworkKey": "day-17",
+      "challenge": "Identify one thought or habit that makes abundance feel unsafe, unavailable, or undeserved.",
+      "prompt": "What might that block be trying to protect you from?",
+      "quote": "The real enemies of our life are the oughts and the ifs.",
+      "author": "Henri Nouwen",
+      "source": "Here and Now",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Henri_Nouwen",
+      "categories": [
+        "healing",
+        "identity"
+      ]
+    },
+    {
+      "day": 18,
+      "slug": "ask-for-support",
+      "focus": "support",
+      "title": "Ask for Support",
+      "artworkKey": "day-18",
+      "challenge": "Ask for one form of support today: practical, emotional, spiritual, or relational.",
+      "prompt": "What belief about support surfaced when you asked?",
+      "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
+      "author": "bell hooks",
+      "source": "All About Love",
+      "sourceUrl": "https://www.goodreads.com/quotes/159436-rarely-if-ever-are-any-of-us-healed-in-isolation",
+      "categories": [
+        "healing",
+        "peace"
+      ]
+    },
+    {
+      "day": 19,
+      "slug": "receive-the-good",
+      "focus": "abundance",
+      "title": "Receive the Good",
+      "artworkKey": "day-19",
+      "challenge": "When something good arrives today, pause before minimizing it and let it register.",
+      "prompt": "What does receiving goodness bring up in you?",
+      "quote": "All shall be well, and all shall be well, and all manner of thing shall be well.",
+      "author": "Julian of Norwich",
+      "source": "Revelations of Divine Love",
+      "sourceUrl": "https://en.wikisource.org/wiki/Revelations_of_Divine_Love",
+      "categories": [
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "day": 20,
+      "slug": "practice-generous-trust",
+      "focus": "trust",
+      "title": "Practice Generous Trust",
+      "artworkKey": "day-20",
+      "challenge": "Choose one generous thought about your future, your resources, or your ability to be supported.",
+      "prompt": "Where did scarcity loosen when you practiced trust?",
+      "quote": "When one door closes, another opens; but we often look so long upon the closed door that we do not see the one which has opened.",
+      "author": "Alexander Graham Bell",
+      "source": "Quotes.net: Alexander Graham Bell",
+      "sourceUrl": "https://www.quotes.net/quote/39612",
+      "categories": [
+        "hope",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 21,
+      "slug": "track-your-energy",
+      "focus": "priorities",
+      "title": "Track Your Energy",
+      "artworkKey": "day-21",
+      "challenge": "Notice three things today: what energizes you, what depletes you, and what brings you back to center.",
+      "prompt": "What did your energy reveal about your priorities?",
+      "quote": "By the way we live our daily life we contribute to peace or to war.",
+      "author": "Thich Nhat Hanh",
+      "source": "Plum Village: Key Teachings",
+      "sourceUrl": "https://plumvillage.org/about/thich-nhat-hanh/key-teachings/",
+      "categories": [
+        "purpose",
+        "peace"
+      ]
+    },
+    {
+      "day": 22,
+      "slug": "align-with-what-matters",
+      "focus": "alignment",
+      "title": "Align with What Matters",
+      "artworkKey": "day-22",
+      "challenge": "Choose one action that reflects your actual priority, not the loudest demand.",
+      "prompt": "What matters most right now, and what action proves it?",
+      "quote": "Your right is only to work, but not to its results; do not let the results of action be your motive, nor let your attachment be to inaction.",
+      "author": "Bhagavad Gita",
+      "source": "Bhagavad Gita 2:47",
+      "sourceUrl": "https://bhagavadgita.com/chapter/2/verse/47",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 23,
+      "slug": "choose-the-high-return-step",
+      "focus": "prioritizing",
+      "title": "Choose the High-Return Step",
+      "artworkKey": "day-23",
+      "challenge": "Pick the one next step that gives the best return for your life, energy, or purpose today.",
+      "prompt": "What did you choose after separating urgency from importance?",
+      "quote": "If it is not right, do not do it: if it is not true, do not say it.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations, Book XII (Long)",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XII",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ]
+    },
+    {
+      "day": 24,
+      "slug": "make-space-for-the-plan",
+      "focus": "structure",
+      "title": "Make Space for the Plan",
+      "artworkKey": "day-24",
+      "challenge": "Remove, delay, or delegate one low-alignment task so there is room for what matters.",
+      "prompt": "What did you learn from making space instead of adding more?",
+      "quote": "My method is different. I do not rush into actual work.",
+      "author": "Nikola Tesla",
+      "source": "Wikiquote: Nikola Tesla",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Nikola_Tesla",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ]
+    },
+    {
+      "day": 25,
+      "slug": "name-your-gifts",
+      "focus": "gifts",
+      "title": "Name Your Gifts",
+      "artworkKey": "day-25",
+      "challenge": "List three gifts, abilities, or forms of wisdom that feel natural enough you sometimes overlook them.",
+      "prompt": "Which gift is ready to be taken more seriously?",
+      "quote": "As every man hath received the gift, [even so] minister the same one to another, as good stewards of the manifold grace of God.",
+      "author": "Peter",
+      "source": "1 Peter 4:10 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Peter-4-10/",
+      "categories": [
+        "scripture",
+        "identity",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 26,
+      "slug": "claim-your-resources",
+      "focus": "resources",
+      "title": "Claim Your Resources",
+      "artworkKey": "day-26",
+      "challenge": "Identify one resource you already have: a relationship, skill, experience, insight, tool, or opportunity.",
+      "prompt": "What resource becomes more powerful when you stop dismissing it?",
+      "quote": "When you do the common things in life in an uncommon way, you will command the attention of the world.",
+      "author": "George Washington Carver",
+      "source": "Quote.org: George Washington Carver",
+      "sourceUrl": "https://quote.org/quote/when-you-do-the-common-things-in-463164",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ]
+    },
+    {
+      "day": 27,
+      "slug": "honor-your-importance",
+      "focus": "importance",
+      "title": "Honor Your Importance",
+      "artworkKey": "day-27",
+      "challenge": "Act today as if your presence, gifts, and choices genuinely matter.",
+      "prompt": "What changes when you stop treating your contribution as optional?",
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "source": "Wikiquote: William James",
+      "sourceUrl": "https://en.wikiquote.org/wiki/William_James",
+      "categories": [
+        "encouragement",
+        "purpose"
+      ]
+    },
+    {
+      "day": 28,
+      "slug": "use-what-you-have",
+      "focus": "stewardship",
+      "title": "Use What You Have",
+      "artworkKey": "day-28",
+      "challenge": "Use one existing gift or resource today instead of waiting for a perfect condition.",
+      "prompt": "What grew stronger because you used it?",
+      "quote": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+      "author": "Matthew",
+      "source": "Matthew 25:29 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-25-29/",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 29,
+      "slug": "explore-your-essence",
+      "focus": "soul",
+      "title": "Explore Your Essence",
+      "artworkKey": "day-29",
+      "challenge": "Write five words that describe who you are beneath roles, pressure, and performance.",
+      "prompt": "Which word felt most alive or surprising?",
+      "quote": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "source": "I Know Why the Caged Bird Sings",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Maya_Angelou",
+      "categories": [
+        "identity",
+        "healing"
+      ]
+    },
+    {
+      "day": 30,
+      "slug": "invite-both-minds",
+      "focus": "whole-self",
+      "title": "Invite Both Minds",
+      "artworkKey": "day-30",
+      "challenge": "Let your practical mind and spiritual knowing both respond to one decision before you choose.",
+      "prompt": "What did logic notice, and what did inner wisdom notice?",
+      "quote": "This above all: to thine own self be true.",
+      "author": "William Shakespeare",
+      "source": "Hamlet, Act I, Scene III",
+      "sourceUrl": "https://en.wikisource.org/wiki/Hamlet/Act_I/Scene_III",
+      "categories": [
+        "identity",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 31,
+      "slug": "follow-the-aliveness",
+      "focus": "aliveness",
+      "title": "Follow the Aliveness",
+      "artworkKey": "day-31",
+      "challenge": "Notice what feels alive, meaningful, or quietly magnetic, then take one respectful step toward it.",
+      "prompt": "What does aliveness teach you about your path?",
+      "quote": "Don't ask what the world needs. Ask what makes you come alive, and go do it.",
+      "author": "Howard Thurman",
+      "source": "The Living Wisdom of Howard Thurman",
+      "sourceUrl": "https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what",
+      "categories": [
+        "purpose",
+        "identity"
+      ]
+    },
+    {
+      "day": 32,
+      "slug": "bless-your-uniqueness",
+      "focus": "uniqueness",
+      "title": "Bless Your Uniqueness",
+      "artworkKey": "day-32",
+      "challenge": "Celebrate one trait, sensitivity, story, or way of seeing that makes your path your own.",
+      "prompt": "What if this difference is not a detour but part of the design?",
+      "quote": "I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.",
+      "author": "David",
+      "source": "Psalm 139:14 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-139-14/",
+      "categories": [
+        "scripture",
+        "courage",
+        "peace"
+      ]
+    },
+    {
+      "day": 33,
+      "slug": "connect-essence-and-service",
+      "focus": "service",
+      "title": "Connect Essence and Service",
+      "artworkKey": "day-33",
+      "challenge": "Name one way your natural gifts could meet a real need in another person's life.",
+      "prompt": "Where do enjoyment, ability, and usefulness overlap for you?",
+      "quote": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "source": "Wikiquote: Desmond Tutu",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Desmond_Tutu",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ]
+    },
+    {
+      "day": 34,
+      "slug": "let-value-flow",
+      "focus": "money",
+      "title": "Let Value Flow",
+      "artworkKey": "day-34",
+      "challenge": "Reflect on one way money can represent value exchanged, needs met, and gifts put into motion.",
+      "prompt": "What changes when money is part of flow rather than proof of worth?",
+      "quote": "Try not to become a man of success, but rather try to become a man of value.",
+      "author": "Albert Einstein",
+      "source": "Wikiquote: Albert Einstein",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
+      "categories": [
+        "encouragement",
+        "hope"
+      ]
+    },
+    {
+      "day": 35,
+      "slug": "serve-from-strength",
+      "focus": "strength",
+      "title": "Serve from Strength",
+      "artworkKey": "day-35",
+      "challenge": "Offer something today from overflow, clarity, or real willingness instead of proving yourself.",
+      "prompt": "How does service feel different when it comes from strength rather than obligation?",
+      "quote": "And God [is] able to make all grace abound toward you; that ye, always having all sufficiency in all [things], may abound to every good work:",
+      "author": "Paul",
+      "source": "2 Corinthians 9:8 (KJV)",
+      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-9-8/",
+      "categories": [
+        "scripture",
+        "courage",
+        "peace"
+      ]
+    },
+    {
+      "day": 36,
+      "slug": "receive-for-a-purpose",
+      "focus": "receiving",
+      "title": "Receive for a Purpose",
+      "artworkKey": "day-36",
+      "challenge": "Write one sentence about what more support, money, time, or energy would allow you to create or contribute.",
+      "prompt": "What purpose makes receiving feel cleaner and more grounded?",
+      "quote": "Love begins at home, and it is not how much we do, but how much love we put in the action that we do.",
+      "author": "Mother Teresa",
+      "source": "Nobel Peace Prize acceptance speech (1979)",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1979/teresa/acceptance-speech/",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ]
+    },
+    {
+      "day": 37,
+      "slug": "review-your-tools",
+      "focus": "integration",
+      "title": "Review Your Tools",
+      "artworkKey": "day-37",
+      "challenge": "List the three tools from this journey that helped you most: release, questions, intuition, boundaries, priorities, support, or service.",
+      "prompt": "Which tool deserves a permanent place in your rhythm?",
+      "quote": "Rise, awake! having obtained your boons, understand them!",
+      "author": "Katha Upanishad",
+      "source": "Katha Upanishad 1.3.14 (Max Muller)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad",
+      "categories": [
+        "scripture",
+        "perseverance",
+        "wisdom"
+      ]
+    },
+    {
+      "day": 38,
+      "slug": "check-in-for-momentum",
+      "focus": "momentum",
+      "title": "Check In for Momentum",
+      "artworkKey": "day-38",
+      "challenge": "Choose one recurring check-in that will keep your growth alive after day forty.",
+      "prompt": "How often do you need to pause, listen, clear, and realign?",
+      "quote": "For indeed, with hardship [will be] ease.",
+      "author": "Qur'an",
+      "source": "Qur'an 94:5 (Sahih International)",
+      "sourceUrl": "https://corpus.quran.com/translation.jsp?chapter=94&verse=5",
+      "categories": [
+        "scripture",
+        "hope",
+        "perseverance"
+      ]
+    },
+    {
+      "day": 39,
+      "slug": "honor-how-far-you-have-come",
+      "focus": "recognition",
+      "title": "Honor How Far You Have Come",
+      "artworkKey": "day-39",
+      "challenge": "Name three ways you are not relating to yourself, abundance, or purpose the way you did before.",
+      "prompt": "What change deserves to be witnessed before you rush into the next thing?",
+      "quote": "I walk slowly, but I never walk backward.",
+      "author": "Abraham Lincoln",
+      "source": "Wikiquote: Abraham Lincoln",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Abraham_Lincoln",
+      "categories": [
+        "courage",
+        "encouragement"
+      ]
+    },
+    {
+      "day": 40,
+      "slug": "choose-what-comes-next",
+      "focus": "next-steps",
+      "title": "Choose What Comes Next",
+      "artworkKey": "day-40",
+      "challenge": "Write one grounded next step and one blessing over the person you are continuing to become.",
+      "prompt": "What do you now know about abundance, alignment, and your own free will?",
+      "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "source": "Walden, Conclusion",
+      "sourceUrl": "https://en.wikisource.org/wiki/Walden/Conclusion",
+      "categories": [
+        "hope",
+        "purpose"
+      ]
+    }
+  ]
+}

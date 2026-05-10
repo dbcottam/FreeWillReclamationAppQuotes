@@ -12,6 +12,9 @@
       "type": "integer",
       "minimum": 1
     },
+    "contractVersion": {
+      "type": "string"
+    },
     "lastUpdated": {
       "type": "string"
     },
@@ -22,6 +25,12 @@
         "type": "object",
         "required": [
           "day",
+          "slug",
+          "focus",
+          "title",
+          "artworkKey",
+          "challenge",
+          "prompt",
           "quote",
           "author",
           "source",

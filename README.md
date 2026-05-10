@@ -6,36 +6,40 @@ It started as a quote repository, but it is now also the editable home for the f
 
 ## Primary Feeds
 
-The app should read:
+Current deployed/test devices may still read the legacy root feeds:
 
 - `quotes.json`
 - `daily-quotes.json`
 - `daily-challenge.json`
 - `challenge.json`
 
-Raw URL:
+Versioned contract feeds are also published:
 
-- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/quotes.json`
-- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/daily-quotes.json`
-- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/daily-challenge.json`
-- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/challenge.json`
+- `v1/` preserves the current deployed/root contract for compatibility.
+- `v2/` is the new one-source daily content contract used by the next app build.
 
-If your default branch changes from `main`, update the URL in the app.
+`v2` raw URL:
+
+- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/v2/quotes.json`
+- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/v2/daily-quotes.json`
+- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/v2/challenge.json`
+
+The app pins to the `v2` content API contract path and checks both `contractVersion` and schema `version` before accepting a feed. Quote, image, and wording changes can continue inside the same contract. If the feed structure changes again, create the next contract folder, such as `v3`, and update the app's `CONTENT_API_CONTRACT_VERSION` in the same release.
+
+See `CONTENT_API_CONTRACT.md` for the compatibility rule and structural-change checklist.
 
 ## File Structure
 
 - `APPPLAN.md` current progress, version, and next-step plan for this content feed
+- `CONTENT_API_CONTRACT.md` compatibility contract and version-folder rules
 - `templates/quotes.md` human-editable source for the extra-quote feed
 - `templates/daily-quotes.md` human-editable source for the first 40 daily journey days
-- `templates/daily-challenges.md` human-editable source for the first 40 authored daily challenges
 - `templates/challenges.md` human-editable source for alternate 2-minute challenges
-- `quotes.json` generated extra-quote endpoint used when the user asks for another quote
-- `daily-quotes.json` generated remote daily journey endpoint for the first 40 days
-- `daily-challenge.json` generated daily challenge endpoint used to override authored day challenges
-- `challenge.json` generated challenge endpoint used when the user asks for a fresh challenge
+- `v1/` static compatibility copy of the current deployed/root contract
+- `v2/` generated contract-pinned copies consumed by the next app build
+- root JSON files are legacy compatibility feeds for devices still pointed at unversioned URLs; remove them only after deployed apps no longer need them
 - `quotes.schema.json` shape reference for `quotes.json`
 - `daily-quotes.schema.json` shape reference for `daily-quotes.json`
-- `daily-challenge.schema.json` shape reference for `daily-challenge.json`
 - `challenge.schema.json` shape reference for `challenge.json`
 - `assets/daily-images/` artwork images served to the app by GitHub Raw URL
 - `scripts/generate-content-json.mjs` Markdown template to JSON conversion script
@@ -68,14 +72,7 @@ Every daily journey entry in `daily-quotes.json` should:
 - prefer quotes that also exist in `quotes.json` so daily selections stay backed by the curated quote library
 - optionally include `supplemental` when the app should show a `Go Deeper` card for that day
 
-Every authored daily challenge in `daily-challenge.json` should:
-
-- include a stable `day` number
-- include one short `challenge`
-- include one or more approved categories that match the day theme
-- be marked `approved: true` and `active: true` before the app can use it
-
-The app prefers `daily-challenge.json` for the visible authored challenge. If that feed is missing, incomplete, or offline, the app falls back to the challenge text bundled with the daily journey content.
+The authored challenge for each day lives in `daily-quotes.json`. Keep that challenge beside the day title, prompt, artwork, and quote so each daily journey day has one source of truth.
 
 Every alternate challenge in `challenge.json` should:
 
@@ -93,6 +90,15 @@ When `supplemental` is present:
 - `imageUrl` should be a direct raw asset URL when you want a preview image
 - podcast and general resource links open externally in the app
 - YouTube links can play inline in the app
+
+The first six entries in `templates/daily-quotes.md` intentionally demonstrate every supported supplemental type:
+
+- Day 1: `youtube`
+- Day 2: `podcast`
+- Day 3: `article`
+- Day 4: `resource`
+- Day 5: `audio`
+- Day 6: `video`
 
 ## Approved Categories
 
@@ -139,7 +145,7 @@ https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/ass
 1. Add the image to `assets/daily-images/` with the correct filename.
 2. Run `npm run content:generate` to rebuild `daily-quotes.json`.
 3. Commit and push both the image and the updated `daily-quotes.json`.
-4. The app picks up the new URL on next launch — no app release needed.
+4. The app picks up the new URL on next launch - no app release needed.
 
 ## Example Entry
 
@@ -213,7 +219,7 @@ npm test
 
 Current pipeline version:
 
-- Package version: `2.0.0`
+- Package version: `2.1.0`
 - Generated feed version: `2`
 
 ## Notes
@@ -221,4 +227,5 @@ Current pipeline version:
 - The app caches this content locally after fetching it.
 - The Markdown files in `templates/` are now the preferred editor surface; the app should read only the generated JSON files.
 - The app still has local fallback content, so missing or partial feed entries will not break the experience.
+- After the next beta app install confirms tester devices are reading `/v2/`, delete the non-versioned root JSON feeds: `daily-quotes.json`, `daily-challenge.json`, `quotes.json`, and `challenge.json`.
 - If you rename this repository to something like `Free Will Reclamation App API`, update the raw GitHub URLs in the app code.

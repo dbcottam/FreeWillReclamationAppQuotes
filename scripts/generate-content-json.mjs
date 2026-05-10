@@ -4,10 +4,13 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const contentVersion = 2;
+const contentContractVersion = "v2";
+const versionedOutputDir = contentContractVersion;
 let contentRoot = process.env.CONTENT_ROOT ?? ".";
 
 const GITHUB_RAW_BASE =
   "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/";
+const SUPPORTED_ARTWORK_FILE_PATTERN = /\.(webp|png|jpg|jpeg)$/i;
 
 const categories = [
   "scripture",
@@ -29,6 +32,10 @@ const feeds = {
     jsonPath: "daily-quotes.json",
     rootArrayName: "quotes",
     uniqueField: "day",
+    templateNotes: [
+      "This file is the single source of truth for each authored journey day, including the default daily challenge.",
+      "Use `templates/challenges.md` only for alternate challenges shown when a user refreshes the challenge.",
+    ],
     requiredFields: [
       "day",
       "slug",
@@ -81,33 +88,6 @@ const feeds = {
         categories: parseCategories(fields.categories, `daily-quotes entry ${index}`),
         supplemental,
       });
-    },
-  },
-  "daily-challenges": {
-    label: "daily challenges",
-    templatePath: "templates/daily-challenges.md",
-    jsonPath: "daily-challenge.json",
-    rootArrayName: "challenges",
-    uniqueField: "day",
-    requiredFields: ["day", "challenge"],
-    fields: [
-      ["Day", "day"],
-      ["Categories", "categories"],
-      ["Approved", "approved"],
-      ["Active", "active"],
-      ["Challenge", "challenge"],
-    ],
-    entryFromTemplate(fields, index) {
-      return {
-        day: parseInteger(fields.day, `daily-challenges entry ${index}: Day`),
-        challenge: fields.challenge,
-        categories: parseCategories(fields.categories, `daily-challenges entry ${index}`),
-        approved: parseBoolean(fields.approved, `daily-challenges entry ${index}: Approved`),
-        active: parseBoolean(fields.active, `daily-challenges entry ${index}: Active`),
-      };
-    },
-    extraRootFields() {
-      return { approvedCategories: categories };
     },
   },
   quotes: {
@@ -192,7 +172,7 @@ export async function main(args = process.argv.slice(2), options = {}) {
     if (mode === "export") {
       await exportTemplate(feed);
     } else {
-      await generateJson(feed);
+      await generateJson(feed, options);
     }
   }
 }
@@ -204,8 +184,8 @@ async function buildArtworkUrlMap(root) {
     const files = await readdir(assetsDir);
     const map = {};
 
-    for (const file of files) {
-      if (/\.(webp|png|jpg|jpeg)$/i.test(file)) {
+    for (const file of files.sort()) {
+      if (SUPPORTED_ARTWORK_FILE_PATTERN.test(file)) {
         const key = file.replace(/\.[^.]+$/, "");
         map[key] = GITHUB_RAW_BASE + file;
       }
@@ -217,7 +197,9 @@ async function buildArtworkUrlMap(root) {
   }
 }
 
-async function generateJson(feed) {
+async function generateJson(feed, options = {}) {
+  const writeLegacyRootFeeds =
+    options.writeLegacyRootFeeds ?? process.env.WRITE_LEGACY_ROOT_FEEDS === "1";
   const templatePath = existingPath(feed.templatePath);
   const sections = parseTemplate(await readFile(templatePath, "utf8"), feed);
   const artworkUrlMap = feed.injectArtworkUrl ? await buildArtworkUrlMap(contentRoot) : {};
@@ -232,22 +214,29 @@ async function generateJson(feed) {
 
   const root = {
     version: contentVersion,
+    contractVersion: contentContractVersion,
     lastUpdated: new Date().toISOString(),
     ...(feed.extraRootFields ? feed.extraRootFields() : {}),
     [feed.rootArrayName]: entries,
   };
-  const existingRoot = await readJsonIfPresent(feed.jsonPath);
+  const versionedJsonPath = getVersionedJsonPath(feed);
+  const existingRoot = await readJsonIfPresent(versionedJsonPath);
 
   if (existingRoot && sameContent(existingRoot, root)) {
     root.lastUpdated = existingRoot.lastUpdated;
   }
 
-  await writeJson(feed.jsonPath, root);
-  console.log(`Generated ${feed.jsonPath} from ${feed.templatePath}`);
+  await writeJson(versionedJsonPath, root);
+  if (writeLegacyRootFeeds) {
+    await writeJson(feed.jsonPath, root);
+  }
+  console.log(
+    `Generated ${versionedJsonPath}${writeLegacyRootFeeds ? ` and ${feed.jsonPath}` : ""} from ${feed.templatePath}`
+  );
 }
 
 async function exportTemplate(feed) {
-  const jsonPath = existingPath(feed.jsonPath);
+  const jsonPath = existingPath(getVersionedJsonPath(feed));
   const data = JSON.parse(await readFile(jsonPath, "utf8"));
 
   if (!Array.isArray(data[feed.rootArrayName])) {
@@ -265,6 +254,7 @@ function renderTemplate(feed, entries) {
     `# ${toTitleCase(feed.label)}`,
     "",
     "Edit the values below, then run `npm run content:generate` to rebuild the app JSON.",
+    ...(feed.templateNotes ?? []),
     `Allowed categories: ${categories.join(", ")}.`,
     "",
   ];
@@ -404,11 +394,11 @@ function normalizeFeedName(name) {
     return "daily-quotes";
   }
 
-  if (name === "daily-challenge") {
-    return "daily-challenges";
-  }
-
   return name;
+}
+
+function getVersionedJsonPath(feed) {
+  return join(versionedOutputDir, feed.jsonPath);
 }
 
 function existingPath(primaryPath) {
