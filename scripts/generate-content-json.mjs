@@ -71,6 +71,27 @@ const feeds = {
       });
     },
   },
+  "daily-challenges": {
+    label: "daily challenges",
+    csvPath: "daily-challenges.csv",
+    jsonPath: "daily-challenge.json",
+    rootArrayName: "challenges",
+    columns: ["day", "challenge", "categories", "approved", "active"],
+    allowedCategories: categories,
+    uniqueField: "day",
+    rowFromCsv(row, index) {
+      return {
+        day: parseInteger(row.day, `daily-challenges row ${index}: day`),
+        challenge: row.challenge,
+        categories: parseCategories(row.categories, this.allowedCategories, `daily-challenges row ${index}`),
+        approved: parseBoolean(row.approved, `daily-challenges row ${index}: approved`),
+        active: parseBoolean(row.active, `daily-challenges row ${index}: active`),
+      };
+    },
+    extraRootFields() {
+      return { approvedCategories: categories };
+    },
+  },
   quotes: {
     label: "quote library",
     csvPath: "quotes.csv",
@@ -88,6 +109,27 @@ const feeds = {
         categories: parseCategories(row.categories, this.allowedCategories, `quotes row ${index}`),
         approved: parseBoolean(row.approved, `quotes row ${index}: approved`),
         active: parseBoolean(row.active, `quotes row ${index}: active`),
+      };
+    },
+    extraRootFields() {
+      return { approvedCategories: categories };
+    },
+  },
+  challenges: {
+    label: "challenge library",
+    csvPath: "challenges.csv",
+    jsonPath: "challenge.json",
+    rootArrayName: "challenges",
+    columns: ["id", "challenge", "categories", "approved", "active"],
+    allowedCategories: categories,
+    uniqueField: "id",
+    rowFromCsv(row, index) {
+      return {
+        id: row.id,
+        challenge: row.challenge,
+        categories: parseCategories(row.categories, this.allowedCategories, `challenges row ${index}`),
+        approved: parseBoolean(row.approved, `challenges row ${index}: approved`),
+        active: parseBoolean(row.active, `challenges row ${index}: active`),
       };
     },
     extraRootFields() {
@@ -147,19 +189,19 @@ async function generateJson(feed) {
   validateColumns(rows.headers, feed.columns, csvPath);
 
   const artworkUrlMap = feed.injectArtworkUrl ? await buildArtworkUrlMap(contentRoot) : {};
-  const quotes = rows.records.map((row, index) => {
+  const entries = rows.records.map((row, index) => {
     const entry = feed.rowFromCsv(row, index + 2);
     const artworkUrl = artworkUrlMap[entry.artworkKey];
     return artworkUrl ? { ...entry, artworkUrl } : entry;
   });
-  validateRequiredFields(quotes, feed.columns.filter((column) => column !== "categories"), feed.label);
-  validateUnique(quotes, feed.uniqueField, feed.label);
+  validateRequiredFields(entries, feed.columns.filter((column) => column !== "categories"), feed.label);
+  validateUnique(entries, feed.uniqueField, feed.label);
 
   const root = {
     version: contentVersion,
     lastUpdated: new Date().toISOString(),
     ...(feed.extraRootFields ? feed.extraRootFields() : {}),
-    quotes,
+    [feed.rootArrayName || "quotes"]: entries,
   };
   const existingRoot = await readJsonIfPresent(feed.jsonPath);
 
@@ -175,14 +217,16 @@ async function exportCsv(feed) {
   const jsonPath = existingPath(feed.jsonPath);
   const data = JSON.parse(await readFile(jsonPath, "utf8"));
 
-  if (!Array.isArray(data.quotes)) {
-    fail(`${jsonPath} must include a quotes array.`);
+  const rootArrayName = feed.rootArrayName || "quotes";
+
+  if (!Array.isArray(data[rootArrayName])) {
+    fail(`${jsonPath} must include a ${rootArrayName} array.`);
   }
 
   const lines = [
     feed.columns.join(","),
-    ...data.quotes.map((quote) =>
-      feed.columns.map((column) => serializeCsvCell(toCsvValue(getFeedColumnValue(quote, column)))).join(",")
+    ...data[rootArrayName].map((entry) =>
+      feed.columns.map((column) => serializeCsvCell(toCsvValue(getFeedColumnValue(entry, column)))).join(",")
     ),
   ];
 
@@ -196,6 +240,10 @@ async function exportCsv(feed) {
 function normalizeFeedName(name) {
   if (name === "daily" || name === "daily-journey") {
     return "daily-quotes";
+  }
+
+  if (name === "daily-challenge") {
+    return "daily-challenges";
   }
 
   return name;

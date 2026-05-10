@@ -7,10 +7,16 @@ This repository uses human-editable CSV files as the source of truth and generat
 - `daily-quotes.csv` - editable 40-day daily journey content.
 - `daily-quotes.schema.json` - validation rules for the daily journey JSON.
 - `daily-quotes.json` - generated app-ready daily journey endpoint.
+- `daily-challenges.csv` - editable 40-day authored daily challenge content.
+- `daily-challenge.schema.json` - validation rules for the daily challenge JSON.
+- `daily-challenge.json` - generated app-ready daily challenge endpoint.
 - `assets/daily-images/` - artwork images; filenames must match `artworkKey` values in `daily-quotes.csv`.
 - `quotes.csv` - editable general quote library.
 - `quotes.schema.json` - validation rules for the general quote JSON.
 - `quotes.json` - generated app-ready quote endpoint.
+- `challenges.csv` - editable alternate 2-minute challenge library.
+- `challenge.schema.json` - validation rules for the challenge JSON.
+- `challenge.json` - generated app-ready challenge endpoint.
 - `scripts/generate-content-json.mjs` - CSV to JSON generation and JSON to CSV export.
 
 ## CSV Editing Rules
@@ -24,7 +30,7 @@ This repository uses human-editable CSV files as the source of truth and generat
 
 ## Commands
 
-Generate and validate both JSON files:
+Generate and validate all JSON files:
 
 ```bash
 npm run content:generate
@@ -36,10 +42,22 @@ Generate only the daily journey file:
 npm run content:generate:daily
 ```
 
+Generate only the daily challenge file:
+
+```bash
+npm run content:generate:daily-challenges
+```
+
 Generate only the general quote file:
 
 ```bash
 npm run content:generate:quotes
+```
+
+Generate only the challenge file:
+
+```bash
+npm run content:generate:challenges
 ```
 
 Regenerate the CSV files from the current JSON files:
@@ -89,7 +107,9 @@ The generator fails with readable errors when:
 - A category is not allowed.
 - A required field is missing.
 - A duplicate `day` exists in the daily quote feed.
+- A duplicate `day` exists in the daily challenge feed.
 - A duplicate `id` exists in the quote feed.
+- A duplicate `id` exists in the challenge feed.
 
 ## Versioning
 
@@ -100,5 +120,7 @@ The generator fails with readable errors when:
 
 ```text
 Generated daily-quotes.json from daily-quotes.csv
+Generated daily-challenge.json from daily-challenges.csv
 Generated quotes.json from quotes.csv
+Generated challenge.json from challenges.csv
 ```

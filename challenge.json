@@ -1,0 +1,1018 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-05-10T13:26:56.516Z",
+  "approvedCategories": [
+    "scripture",
+    "courage",
+    "encouragement",
+    "healing",
+    "hope",
+    "identity",
+    "peace",
+    "perseverance",
+    "purpose",
+    "wisdom"
+  ],
+  "challenges": [
+    {
+      "id": "scripture-breathe-receive",
+      "challenge": "Take six slow breaths and silently repeat: I can receive what is good today.",
+      "categories": [
+        "scripture",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-one-line-blessing",
+      "challenge": "Write one simple blessing over the choice in front of you.",
+      "categories": [
+        "scripture",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-ask-seek-knock",
+      "challenge": "Ask for clarity in one sentence, seek one next step, then knock by taking it.",
+      "categories": [
+        "scripture",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-release-burden",
+      "challenge": "Name one burden you do not have to carry alone today.",
+      "categories": [
+        "scripture",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-stillness-minute",
+      "challenge": "Sit still for one minute and let your next action come from quiet instead of pressure.",
+      "categories": [
+        "scripture",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-kindness-offering",
+      "challenge": "Offer one quiet act of kindness without needing it to be noticed.",
+      "categories": [
+        "scripture",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-peace-check",
+      "challenge": "Before responding, ask what would make this answer more peaceful and true.",
+      "categories": [
+        "scripture",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-courage-step",
+      "challenge": "Take one faithful step that is small enough to do now.",
+      "categories": [
+        "scripture",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-gratitude-line",
+      "challenge": "Write one line of thanks for something that is already supporting you.",
+      "categories": [
+        "scripture",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "scripture-guided-choice",
+      "challenge": "Place a hand on your chest and ask what choice feels honest, loving, and grounded.",
+      "categories": [
+        "scripture",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-one-honest-sentence",
+      "challenge": "Write one honest sentence you have been avoiding and leave it somewhere private.",
+      "categories": [
+        "courage",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-send-clear-note",
+      "challenge": "Send or draft one clear sentence that says what you mean without overexplaining.",
+      "categories": [
+        "courage",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-name-the-fear",
+      "challenge": "Name the fear underneath one delay, then choose the smallest next action.",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-two-minute-start",
+      "challenge": "Start the task you are avoiding for two minutes and stop when the timer ends.",
+      "categories": [
+        "courage",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-stand-tall",
+      "challenge": "Stand with both feet grounded for five breaths before your next difficult choice.",
+      "categories": [
+        "courage",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-ask-for-need",
+      "challenge": "Ask for one small thing you actually need today.",
+      "categories": [
+        "courage",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-boundary-draft",
+      "challenge": "Draft one respectful boundary sentence you could use later.",
+      "categories": [
+        "courage",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-choose-visible-good",
+      "challenge": "Do one good thing that your future self will be glad you chose.",
+      "categories": [
+        "courage",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-repair-one-miss",
+      "challenge": "Make one tiny repair: apologize, clarify, reschedule, or restart.",
+      "categories": [
+        "courage",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "courage-let-it-be-imperfect",
+      "challenge": "Complete one tiny step imperfectly instead of waiting to feel ready.",
+      "categories": [
+        "courage",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-kind-note-self",
+      "challenge": "Write one kind note to yourself as if you were supporting a close friend.",
+      "categories": [
+        "encouragement",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-notice-progress",
+      "challenge": "Name one sign that you are not where you used to be.",
+      "categories": [
+        "encouragement",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-text-support",
+      "challenge": "Send one genuine appreciation text to someone who has helped you.",
+      "categories": [
+        "encouragement",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-celebrate-small",
+      "challenge": "Celebrate one small action from today with one full sentence.",
+      "categories": [
+        "encouragement",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-soft-start",
+      "challenge": "Begin your next task by making it easier, smaller, or kinder.",
+      "categories": [
+        "encouragement",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-choose-supportive-words",
+      "challenge": "Replace one harsh inner phrase with words you would offer someone you love.",
+      "categories": [
+        "encouragement",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-visible-token",
+      "challenge": "Put one visible reminder near you that says: this still counts.",
+      "categories": [
+        "encouragement",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-accept-help",
+      "challenge": "Accept one available help, shortcut, tool, or kindness without arguing with it.",
+      "categories": [
+        "encouragement",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-bless-next-choice",
+      "challenge": "Speak one blessing over your next choice before you take it.",
+      "categories": [
+        "encouragement",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "encouragement-future-self",
+      "challenge": "Ask what your future self would thank you for doing in the next two minutes.",
+      "categories": [
+        "encouragement",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-soften-one-place",
+      "challenge": "Soften one place in your body for three slow breaths before making the next choice.",
+      "categories": [
+        "healing",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-name-feeling",
+      "challenge": "Name one feeling without fixing it, judging it, or explaining it away.",
+      "categories": [
+        "healing",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-warm-hand",
+      "challenge": "Place one hand where your body feels tense and breathe there for one minute.",
+      "categories": [
+        "healing",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-choose-gentle-truth",
+      "challenge": "Write one gentle truth that can sit beside the hard thing.",
+      "categories": [
+        "healing",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-release-should",
+      "challenge": "Cross out one should and write the real choice underneath it.",
+      "categories": [
+        "healing",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-one-sip-reset",
+      "challenge": "Drink water slowly and let it mark a restart in your day.",
+      "categories": [
+        "healing",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-forgive-small-delay",
+      "challenge": "Forgive yourself for one delay, then choose the next useful action.",
+      "categories": [
+        "healing",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-clear-one-inch",
+      "challenge": "Clear one small surface or corner as a signal that there is room to breathe.",
+      "categories": [
+        "healing",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-unclench-jaw",
+      "challenge": "Unclench your jaw, lower your shoulders, and exhale longer than you inhale.",
+      "categories": [
+        "healing",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "healing-write-and-fold",
+      "challenge": "Write one painful thought on paper, fold it, and set it aside for now.",
+      "categories": [
+        "healing",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-one-kind-action",
+      "challenge": "Take one tiny hopeful action before noon and let it count.",
+      "categories": [
+        "hope",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-look-for-evidence",
+      "challenge": "Find one piece of evidence that change is already possible.",
+      "categories": [
+        "hope",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-light-next-step",
+      "challenge": "Choose the next step that makes your body feel one degree lighter.",
+      "categories": [
+        "hope",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-gratitude-three",
+      "challenge": "List three ordinary things that are quietly helping you today.",
+      "categories": [
+        "hope",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-open-window",
+      "challenge": "Open a window, step outside, or look at the sky for one full minute.",
+      "categories": [
+        "hope",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-progress-word",
+      "challenge": "Choose one word for the direction you are growing toward.",
+      "categories": [
+        "hope",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-good-arrival",
+      "challenge": "When something good arrives today, pause for ten seconds before minimizing it.",
+      "categories": [
+        "hope",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-reframe-delay",
+      "challenge": "Turn one delay into a question: what is still available now?",
+      "categories": [
+        "hope",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-tiny-plan",
+      "challenge": "Write a two-step plan for one thing you want to make easier.",
+      "categories": [
+        "hope",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "hope-receive-compliment",
+      "challenge": "Receive one compliment, kindness, or good moment with a simple thank you.",
+      "categories": [
+        "hope",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-name-one-truth",
+      "challenge": "Name one truth about yourself that is still true even when someone else is disappointed.",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-beneath-role",
+      "challenge": "Write five words for who you are beneath roles, pressure, and performance.",
+      "categories": [
+        "identity",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-values-check",
+      "challenge": "Circle one value you want your next action to honor.",
+      "categories": [
+        "identity",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-own-your-no",
+      "challenge": "Practice saying one calm no out loud, even if you do not use it today.",
+      "categories": [
+        "identity",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-body-yes-no",
+      "challenge": "Think of one option and notice whether your body feels open, neutral, or tight.",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-choose-your-pace",
+      "challenge": "Choose the pace that lets you stay honest instead of performative.",
+      "categories": [
+        "identity",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-gift-notice",
+      "challenge": "Name one natural gift you usually overlook because it feels easy to you.",
+      "categories": [
+        "identity",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-stop-comparison",
+      "challenge": "When comparison appears, write one sentence about your actual path.",
+      "categories": [
+        "identity",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-one-aligned-action",
+      "challenge": "Do one small thing that matches the person you are becoming.",
+      "categories": [
+        "identity",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "identity-claim-preference",
+      "challenge": "State one real preference today without apologizing for having it.",
+      "categories": [
+        "identity",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-release-one-rush",
+      "challenge": "Release one unnecessary rush today by taking the slower next step on purpose.",
+      "categories": [
+        "peace",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-five-four-three",
+      "challenge": "Notice five things you see, four sounds, three touches, two smells, and one breath.",
+      "categories": [
+        "peace",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-long-exhale",
+      "challenge": "Take eight breaths with a longer exhale than inhale.",
+      "categories": [
+        "peace",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-single-task",
+      "challenge": "Give one task your full attention for two minutes without switching tabs or apps.",
+      "categories": [
+        "peace",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-soften-response",
+      "challenge": "Before replying, pause long enough to choose your tone.",
+      "categories": [
+        "peace",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-reset-space",
+      "challenge": "Make one tiny part of your space calmer: move, mute, dim, or clear something.",
+      "categories": [
+        "peace",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-listen-one-minute",
+      "challenge": "Listen to nearby sounds for one minute without naming them good or bad.",
+      "categories": [
+        "peace",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-kind-transition",
+      "challenge": "Before changing activities, take one breath and thank yourself for what you just did.",
+      "categories": [
+        "peace",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-boundary-breath",
+      "challenge": "Breathe once before saying yes, so your yes can be real.",
+      "categories": [
+        "peace",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "peace-grounded-feet",
+      "challenge": "Put both feet on the floor and notice the support under you for thirty seconds.",
+      "categories": [
+        "peace",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-repeat-small-step",
+      "challenge": "Repeat one small supportive action you already know helps.",
+      "categories": [
+        "perseverance",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-two-minute-return",
+      "challenge": "Return to one unfinished thing for only two minutes.",
+      "categories": [
+        "perseverance",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-mark-next-action",
+      "challenge": "Write the next action on paper so your mind does not have to hold it.",
+      "categories": [
+        "perseverance",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-reset-after-miss",
+      "challenge": "After one missed step, restart without making a speech against yourself.",
+      "categories": [
+        "perseverance",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-one-less-barrier",
+      "challenge": "Remove one barrier that makes a good habit harder to begin.",
+      "categories": [
+        "perseverance",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-track-effort",
+      "challenge": "Mark one effort you made today, even if the outcome is unfinished.",
+      "categories": [
+        "perseverance",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-finish-tiny-loop",
+      "challenge": "Close one tiny loop: reply, file, wash, schedule, or write one line.",
+      "categories": [
+        "perseverance",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-practice-again",
+      "challenge": "Do one helpful practice again because repetition is allowed to be boring.",
+      "categories": [
+        "perseverance",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-small-promise",
+      "challenge": "Make one promise so small you can keep it before the day ends.",
+      "categories": [
+        "perseverance",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "perseverance-stop-at-timer",
+      "challenge": "Work for two minutes, stop at the timer, and notice that stopping can be trusted.",
+      "categories": [
+        "perseverance",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-align-one-task",
+      "challenge": "Choose one task today because it serves your real priority, not because it is loud.",
+      "categories": [
+        "purpose",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-why-this-matters",
+      "challenge": "Write why one ordinary task matters to the life you are building.",
+      "categories": [
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-serve-one-person",
+      "challenge": "Do one small action that makes another person's day easier without abandoning yourself.",
+      "categories": [
+        "purpose",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-name-contribution",
+      "challenge": "Name one contribution you can make with the energy you actually have.",
+      "categories": [
+        "purpose",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-delete-low-value",
+      "challenge": "Remove, delay, or shrink one low-value task.",
+      "categories": [
+        "purpose",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-one-resource",
+      "challenge": "Identify one resource you already have and use it for two minutes.",
+      "categories": [
+        "purpose",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-priority-pause",
+      "challenge": "Ask which choice serves your real priority, then take one matching step.",
+      "categories": [
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-gift-in-motion",
+      "challenge": "Put one gift, skill, or insight into motion in a small practical way.",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-next-right-thing",
+      "challenge": "Choose the next right thing that is kind, grounded, and doable.",
+      "categories": [
+        "purpose",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "purpose-calendar-protect",
+      "challenge": "Protect two minutes on your calendar or in your mind for what matters.",
+      "categories": [
+        "purpose",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-pressure-pause",
+      "challenge": "Pause once before answering a pressure-filled request.",
+      "categories": [
+        "wisdom",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-question-the-story",
+      "challenge": "Ask one hard thought what story it is trying to protect.",
+      "categories": [
+        "wisdom",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-facts-vs-fears",
+      "challenge": "Write one fact and one fear, then treat them as different things.",
+      "categories": [
+        "wisdom",
+        "courage"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-check-assumption",
+      "challenge": "Name one assumption you are making and one kinder alternative.",
+      "categories": [
+        "wisdom",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-useful-question",
+      "challenge": "Replace why is this happening with what is one useful next step.",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-body-data",
+      "challenge": "Notice one body signal as information, not an order.",
+      "categories": [
+        "wisdom",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-slow-decision",
+      "challenge": "Give one decision two minutes of quiet before choosing.",
+      "categories": [
+        "wisdom",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-small-experiment",
+      "challenge": "Try one small experiment instead of demanding a permanent answer.",
+      "categories": [
+        "wisdom",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-learn-from-energy",
+      "challenge": "Notice what gave energy and what drained it today.",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "id": "wisdom-enough-for-now",
+      "challenge": "Write what you know, what you do not know, and what is enough for now.",
+      "categories": [
+        "wisdom",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    }
+  ]
+}

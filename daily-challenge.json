@@ -1,0 +1,431 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-05-10T13:32:02.033Z",
+  "approvedCategories": [
+    "scripture",
+    "courage",
+    "encouragement",
+    "healing",
+    "hope",
+    "identity",
+    "peace",
+    "perseverance",
+    "purpose",
+    "wisdom"
+  ],
+  "challenges": [
+    {
+      "day": 1,
+      "challenge": "Name one emotion, resentment, or disappointment that has been taking up space, and give it one honest sentence.",
+      "categories": [
+        "healing",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 2,
+      "challenge": "Choose one small grip to loosen today: a rule, a judgment, a timeline, or a need to control the outcome.",
+      "categories": [
+        "healing",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 3,
+      "challenge": "Give one difficult feeling ninety seconds of kind attention before you try to solve anything.",
+      "categories": [
+        "wisdom",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 4,
+      "challenge": "Write down one old pattern you are ready to stop rehearsing, then write the clean-slate choice beside it.",
+      "categories": [
+        "scripture",
+        "healing",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 5,
+      "challenge": "Notice one recurring pressure or fear and ask, 'What belief is this trying to prove?'",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 6,
+      "challenge": "Replace one defeated question with a useful one, such as 'What is one truthful next step?'",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 7,
+      "challenge": "Turn one limiting belief into an honest affirmation that your nervous system can actually believe.",
+      "categories": [
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 8,
+      "challenge": "Repeat your new affirmation three times today, then take one tiny action that proves it.",
+      "categories": [
+        "courage",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 9,
+      "challenge": "Before entering one draining space, set an intention for what energy belongs to you and what does not.",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 10,
+      "challenge": "Practice one boundary that is simple, respectful, and clear.",
+      "categories": [
+        "identity",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 11,
+      "challenge": "Choose one routine that supports steadiness: a breath, a note, a pause, a prayer, or a check-in.",
+      "categories": [
+        "peace",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 12,
+      "challenge": "Take one action from calm authority instead of pressure, performance, or panic.",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 13,
+      "challenge": "Spend three quiet minutes asking for guidance, then write the first simple impression without arguing with it.",
+      "categories": [
+        "wisdom",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 14,
+      "challenge": "Hold one possible next step in mind and notice whether your body feels contracted, neutral, or open.",
+      "categories": [
+        "scripture",
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 15,
+      "challenge": "Act on one small intuitive nudge that is kind, grounded, and aligned.",
+      "categories": [
+        "courage",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 16,
+      "challenge": "Create one quiet opening today where guidance, clarity, or support can reach you.",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 17,
+      "challenge": "Identify one thought or habit that makes abundance feel unsafe, unavailable, or undeserved.",
+      "categories": [
+        "healing",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 18,
+      "challenge": "Ask for one form of support today: practical, emotional, spiritual, or relational.",
+      "categories": [
+        "healing",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 19,
+      "challenge": "When something good arrives today, pause before minimizing it and let it register.",
+      "categories": [
+        "hope",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 20,
+      "challenge": "Choose one generous thought about your future, your resources, or your ability to be supported.",
+      "categories": [
+        "hope",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 21,
+      "challenge": "Notice three things today: what energizes you, what depletes you, and what brings you back to center.",
+      "categories": [
+        "purpose",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 22,
+      "challenge": "Choose one action that reflects your actual priority, not the loudest demand.",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 23,
+      "challenge": "Pick the one next step that gives the best return for your life, energy, or purpose today.",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 24,
+      "challenge": "Remove, delay, or delegate one low-alignment task so there is room for what matters.",
+      "categories": [
+        "wisdom",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 25,
+      "challenge": "List three gifts, abilities, or forms of wisdom that feel natural enough you sometimes overlook them.",
+      "categories": [
+        "scripture",
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 26,
+      "challenge": "Identify one resource you already have: a relationship, skill, experience, insight, tool, or opportunity.",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 27,
+      "challenge": "Act today as if your presence, gifts, and choices genuinely matter.",
+      "categories": [
+        "encouragement",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 28,
+      "challenge": "Use one existing gift or resource today instead of waiting for a perfect condition.",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 29,
+      "challenge": "Write five words that describe who you are beneath roles, pressure, and performance.",
+      "categories": [
+        "identity",
+        "healing"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 30,
+      "challenge": "Let your practical mind and spiritual knowing both respond to one decision before you choose.",
+      "categories": [
+        "identity",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 31,
+      "challenge": "Notice what feels alive, meaningful, or quietly magnetic, then take one respectful step toward it.",
+      "categories": [
+        "purpose",
+        "identity"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 32,
+      "challenge": "Celebrate one trait, sensitivity, story, or way of seeing that makes your path your own.",
+      "categories": [
+        "scripture",
+        "courage",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 33,
+      "challenge": "Name one way your natural gifts could meet a real need in another person's life.",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 34,
+      "challenge": "Reflect on one way money can represent value exchanged, needs met, and gifts put into motion.",
+      "categories": [
+        "encouragement",
+        "hope"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 35,
+      "challenge": "Offer something today from overflow, clarity, or real willingness instead of proving yourself.",
+      "categories": [
+        "scripture",
+        "courage",
+        "peace"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 36,
+      "challenge": "Write one sentence about what more support, money, time, or energy would allow you to create or contribute.",
+      "categories": [
+        "purpose",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 37,
+      "challenge": "List the three tools from this journey that helped you most: release, questions, intuition, boundaries, priorities, support, or service.",
+      "categories": [
+        "scripture",
+        "perseverance",
+        "wisdom"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 38,
+      "challenge": "Choose one recurring check-in that will keep your growth alive after day forty.",
+      "categories": [
+        "scripture",
+        "hope",
+        "perseverance"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 39,
+      "challenge": "Name three ways you are not relating to yourself, abundance, or purpose the way you did before.",
+      "categories": [
+        "courage",
+        "encouragement"
+      ],
+      "approved": true,
+      "active": true
+    },
+    {
+      "day": 40,
+      "challenge": "Write one grounded next step and one blessing over the person you are continuing to become.",
+      "categories": [
+        "hope",
+        "purpose"
+      ],
+      "approved": true,
+      "active": true
+    }
+  ]
+}

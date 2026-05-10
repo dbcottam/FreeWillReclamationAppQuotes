@@ -10,11 +10,15 @@ The app should read:
 
 - `quotes.json`
 - `daily-quotes.json`
+- `daily-challenge.json`
+- `challenge.json`
 
 Raw URL:
 
 - `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/quotes.json`
 - `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/daily-quotes.json`
+- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/daily-challenge.json`
+- `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/challenge.json`
 
 If your default branch changes from `main`, update the URL in the app.
 
@@ -23,10 +27,16 @@ If your default branch changes from `main`, update the URL in the app.
 - `APPPLAN.md` current progress, version, and next-step plan for this content feed
 - `quotes.csv` human-editable source for the extra-quote feed
 - `daily-quotes.csv` human-editable source for the first 40 daily journey days
+- `daily-challenges.csv` human-editable source for the first 40 authored daily challenges
+- `challenges.csv` human-editable source for alternate 2-minute challenges
 - `quotes.json` generated extra-quote endpoint used when the user asks for another quote
 - `daily-quotes.json` generated remote daily journey endpoint for the first 40 days
+- `daily-challenge.json` generated daily challenge endpoint used to override authored day challenges
+- `challenge.json` generated challenge endpoint used when the user asks for a fresh challenge
 - `quotes.schema.json` shape reference for `quotes.json`
 - `daily-quotes.schema.json` shape reference for `daily-quotes.json`
+- `daily-challenge.schema.json` shape reference for `daily-challenge.json`
+- `challenge.schema.json` shape reference for `challenge.json`
 - `assets/daily-images/` artwork images served to the app by GitHub Raw URL
 - `scripts/generate-content-json.mjs` CSV to JSON conversion script
 - `CHANGELOG.md` release notes for quote feed changes
@@ -57,6 +67,22 @@ Every daily journey entry in `daily-quotes.json` should:
 - use `scripture` for Bible or sacred-text entries when needed
 - prefer quotes that also exist in `quotes.json` so daily selections stay backed by the curated quote library
 - optionally include `supplemental` when the app should show a `Go Deeper` card for that day
+
+Every authored daily challenge in `daily-challenge.json` should:
+
+- include a stable `day` number
+- include one short `challenge`
+- include one or more approved categories that match the day theme
+- be marked `approved: true` and `active: true` before the app can use it
+
+The app prefers `daily-challenge.json` for the visible authored challenge. If that feed is missing, incomplete, or offline, the app falls back to the challenge text bundled with the daily journey content.
+
+Every alternate challenge in `challenge.json` should:
+
+- include a stable `id`
+- include one short `challenge` that can stand alone as a 2-minute action
+- use one or more approved categories for matching against the current daily quote/theme
+- be marked `approved: true` and `active: true` before the app can use it
 
 Artwork images are served separately. See [Daily Artwork Images](#daily-artwork-images) below.
 

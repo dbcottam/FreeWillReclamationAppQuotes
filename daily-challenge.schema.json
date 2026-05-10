@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Free Will Reclamation Daily Challenge Feed",
+  "type": "object",
+  "required": [
+    "version",
+    "lastUpdated",
+    "approvedCategories",
+    "challenges"
+  ],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "lastUpdated": {
+      "type": "string"
+    },
+    "approvedCategories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "challenges": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "day",
+          "challenge",
+          "categories",
+          "approved",
+          "active"
+        ],
+        "properties": {
+          "day": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "challenge": {
+            "type": "string"
+          },
+          "categories": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "enum": [
+                "scripture",
+                "courage",
+                "encouragement",
+                "healing",
+                "hope",
+                "identity",
+                "peace",
+                "perseverance",
+                "purpose",
+                "wisdom"
+              ]
+            }
+          },
+          "approved": {
+            "type": "boolean"
+          },
+          "active": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -27,7 +27,9 @@ async function testGenerate() {
   await main([], { contentRoot });
 
   const daily = JSON.parse(await readFile(join(contentRoot, "daily-quotes.json"), "utf8"));
+  const dailyChallenges = JSON.parse(await readFile(join(contentRoot, "daily-challenge.json"), "utf8"));
   const quotes = JSON.parse(await readFile(join(contentRoot, "quotes.json"), "utf8"));
+  const challenges = JSON.parse(await readFile(join(contentRoot, "challenge.json"), "utf8"));
 
   assert.equal(daily.version, 2);
   assert.equal(daily.quotes[0].day, 1);
@@ -40,6 +42,10 @@ async function testGenerate() {
     imageUrl: "https://raw.githubusercontent.com/example/repo/main/images/day-01.jpg",
     durationLabel: "24 min",
   });
+  assert.equal(dailyChallenges.version, 2);
+  assert.equal(dailyChallenges.challenges[0].day, 1);
+  assert.equal(dailyChallenges.challenges[0].challenge, "Choose one daily thing");
+  assert.deepEqual(dailyChallenges.challenges[0].categories, ["hope"]);
   assert.equal(quotes.version, 2);
   assert.deepEqual(quotes.approvedCategories, [
     "scripture",
@@ -55,6 +61,10 @@ async function testGenerate() {
   ]);
   assert.equal(quotes.approvedCategories.includes("wisdom"), true);
   assert.equal(quotes.quotes[0].approved, true);
+  assert.equal(challenges.version, 2);
+  assert.equal(challenges.challenges[0].id, "challenge-1");
+  assert.deepEqual(challenges.challenges[0].categories, ["hope"]);
+  assert.equal(challenges.challenges[0].approved, true);
 }
 
 async function testExport() {
@@ -64,13 +74,19 @@ async function testExport() {
   await main(["export"], { contentRoot });
 
   const dailyCsv = await readFile(join(contentRoot, "daily-quotes.csv"), "utf8");
+  const dailyChallengesCsv = await readFile(join(contentRoot, "daily-challenges.csv"), "utf8");
   const quotesCsv = await readFile(join(contentRoot, "quotes.csv"), "utf8");
+  const challengesCsv = await readFile(join(contentRoot, "challenges.csv"), "utf8");
 
   assert.match(dailyCsv, /^day,slug,focus,title,artworkKey,challenge,/);
   assert.match(dailyCsv, /supplementalType,supplementalTitle,supplementalDescription,supplementalUrl,supplementalImageUrl,supplementalDurationLabel/);
   assert.match(dailyCsv, /podcast,Companion episode/);
+  assert.match(dailyChallengesCsv, /^day,challenge,categories,approved,active/);
+  assert.match(dailyChallengesCsv, /1,Choose one daily thing,hope,true,true/);
   assert.match(quotesCsv, /^id,quote,author,source,sourceUrl,/);
   assert.match(quotesCsv, /quote-1,Keep going/);
+  assert.match(challengesCsv, /^id,challenge,categories,approved,active/);
+  assert.match(challengesCsv, /challenge-1,Take one small step/);
 }
 
 async function testDuplicateIds() {
@@ -82,6 +98,26 @@ async function testDuplicateIds() {
       "id,quote,author,source,sourceUrl,categories,approved,active",
       "quote-1,Keep going,Author,Source,https://example.com,hope,true,true",
       "quote-1,Still going,Author,Source,https://example.com,wisdom,true,true",
+      "",
+    ].join("\n"),
+    "utf8",
+  );
+
+  await writeFile(
+    join(contentRoot, "daily-challenges.csv"),
+    [
+      "day,challenge,categories,approved,active",
+      "1,Choose one daily thing,hope,true,true",
+      "",
+    ].join("\n"),
+    "utf8",
+  );
+
+  await writeFile(
+    join(contentRoot, "challenges.csv"),
+    [
+      "id,challenge,categories,approved,active",
+      "challenge-1,Take one small step,hope,true,true",
       "",
     ].join("\n"),
     "utf8",
@@ -111,6 +147,26 @@ async function makeFixture() {
     [
       "id,quote,author,source,sourceUrl,categories,approved,active",
       "quote-1,Keep going,Author,Source,https://example.com,hope|wisdom,true,true",
+      "",
+    ].join("\n"),
+    "utf8",
+  );
+
+  await writeFile(
+    join(contentRoot, "daily-challenges.csv"),
+    [
+      "day,challenge,categories,approved,active",
+      "1,Choose one daily thing,hope,true,true",
+      "",
+    ].join("\n"),
+    "utf8",
+  );
+
+  await writeFile(
+    join(contentRoot, "challenges.csv"),
+    [
+      "id,challenge,categories,approved,active",
+      "challenge-1,Take one small step,hope,true,true",
       "",
     ].join("\n"),
     "utf8",
