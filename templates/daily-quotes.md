@@ -7,11 +7,7 @@ Allowed categories: scripture, courage, encouragement, healing, hope, identity, 
 
 ## Day 1: Clear the Ground
 
-Day: 1
-
 Focus: release
-
-Title: Clear the Ground
 
 Categories: healing, hope
 
@@ -39,17 +35,13 @@ A short companion video example for the first day of release work.
 
 Supplemental URL: https://www.youtube.com/NikkiCottam
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration: 8 min
 
 ## Day 2: Let Go a Little
 
-Day: 2
-
 Focus: release
-
-Title: Let Go a Little
 
 Categories: healing, peace
 
@@ -77,17 +69,13 @@ A podcast example for listening while practicing release and peace.
 
 Supplemental URL: https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration: 24 min
 
 ## Day 3: Feel Without Fixing
 
-Day: 3
-
 Focus: presence
-
-Title: Feel Without Fixing
 
 Categories: wisdom, healing
 
@@ -115,17 +103,13 @@ A written companion example for reflecting before trying to fix a feeling.
 
 Supplemental URL: https://www.nikkicottam.com/
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration: 5 min read
 
 ## Day 4: Choose a Clean Slate
 
-Day: 4
-
 Focus: healing
-
-Title: Choose a Clean Slate
 
 Categories: scripture, healing, hope
 
@@ -153,17 +137,13 @@ A resource hub example for choosing a clean slate and continuing the work.
 
 Supplemental URL: https://www.nikkicottam.com/abundance-unplugged-resource-hub
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration: Resource
 
 ## Day 5: Find the Belief
 
-Day: 5
-
 Focus: beliefs
-
-Title: Find the Belief
 
 Categories: identity, wisdom
 
@@ -191,17 +171,13 @@ An audio example for noticing inherited beliefs and making space for a new one.
 
 Supplemental URL: https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration: 12 min
 
 ## Day 6: Ask a Better Question
 
-Day: 6
-
 Focus: questions
-
-Title: Ask a Better Question
 
 Categories: scripture, wisdom, identity
 
@@ -229,17 +205,13 @@ A general video example for practicing better questions and truthful next steps.
 
 Supplemental URL: https://www.youtube.com/NikkiCottam
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration: 10 min
 
 ## Day 7: Rewrite the Story
 
-Day: 7
-
 Focus: affirmation
-
-Title: Rewrite the Story
 
 Categories: purpose, wisdom
 
@@ -258,25 +230,21 @@ Source: Wikiquote: Buckminster Fuller
 
 Source URL: https://en.wikiquote.org/wiki/Buckminster_Fuller
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 8: Practice the New Pattern
 
-Day: 8
-
 Focus: patterns
-
-Title: Practice the New Pattern
 
 Categories: courage, encouragement
 
@@ -295,25 +263,21 @@ Source: Wikiquote: Aristotle
 
 Source URL: https://en.wikiquote.org/wiki/Aristotle
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 9: Protect Your Peace
 
-Day: 9
-
 Focus: shielding
-
-Title: Protect Your Peace
 
 Categories: scripture, purpose, wisdom
 
@@ -332,25 +296,21 @@ Source: Proverbs 4:23 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/Proverbs-4-23/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 10: Strengthen Your Boundary
 
-Day: 10
-
 Focus: boundaries
-
-Title: Strengthen Your Boundary
 
 Categories: identity, peace
 
@@ -369,25 +329,21 @@ Source: Wikiquote: Alice Walker
 
 Source URL: https://en.wikiquote.org/wiki/Alice_Walker
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 11: Small Routine Upgrade
 
-Day: 11
-
 Focus: routine
-
-Title: Small Routine Upgrade
 
 Categories: peace, wisdom
 
@@ -406,25 +362,21 @@ Source: Plum Village: Key Teachings
 
 Source URL: https://plumvillage.org/about/thich-nhat-hanh/key-teachings/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 12: Stand in Your Space
 
-Day: 12
-
 Focus: steadiness
-
-Title: Stand in Your Space
 
 Categories: scripture, wisdom, identity
 
@@ -443,25 +395,21 @@ Source: 2 Timothy 1:7 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/2-Timothy-1-7/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 13: Listen for Guidance
 
-Day: 13
-
 Focus: intuition
-
-Title: Listen for Guidance
 
 Categories: wisdom, identity
 
@@ -480,25 +428,21 @@ Source: Measure for Measure, Act II, Scene II
 
 Source URL: https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 14: Test the Next Step
 
-Day: 14
-
 Focus: discernment
-
-Title: Test the Next Step
 
 Categories: scripture, identity, wisdom
 
@@ -517,25 +461,21 @@ Source: Tao Te Ching 33 (Legge)
 
 Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-33
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 15: Trust Your Inner Knowing
 
-Day: 15
-
 Focus: trust
-
-Title: Trust Your Inner Knowing
 
 Categories: courage, peace
 
@@ -554,25 +494,21 @@ Source: Wikiquote: Lao Tzu
 
 Source URL: https://en.wikiquote.org/wiki/Lao_Tzu
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 16: Make Room for Receiving
 
-Day: 16
-
 Focus: receiving
-
-Title: Make Room for Receiving
 
 Categories: scripture, purpose, wisdom
 
@@ -591,25 +527,21 @@ Source: Matthew 7:7 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/Matthew-7-7/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 17: Notice the Block
 
-Day: 17
-
 Focus: abundance-blocks
-
-Title: Notice the Block
 
 Categories: healing, identity
 
@@ -628,25 +560,21 @@ Source: Here and Now
 
 Source URL: https://en.wikiquote.org/wiki/Henri_Nouwen
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 18: Ask for Support
 
-Day: 18
-
 Focus: support
-
-Title: Ask for Support
 
 Categories: healing, peace
 
@@ -665,25 +593,21 @@ Source: All About Love
 
 Source URL: https://www.goodreads.com/quotes/159436-rarely-if-ever-are-any-of-us-healed-in-isolation
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 19: Receive the Good
 
-Day: 19
-
 Focus: abundance
-
-Title: Receive the Good
 
 Categories: hope, peace
 
@@ -702,25 +626,21 @@ Source: Revelations of Divine Love
 
 Source URL: https://en.wikisource.org/wiki/Revelations_of_Divine_Love
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 20: Practice Generous Trust
 
-Day: 20
-
 Focus: trust
-
-Title: Practice Generous Trust
 
 Categories: hope, wisdom
 
@@ -739,25 +659,21 @@ Source: Quotes.net: Alexander Graham Bell
 
 Source URL: https://www.quotes.net/quote/39612
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 21: Track Your Energy
 
-Day: 21
-
 Focus: priorities
-
-Title: Track Your Energy
 
 Categories: purpose, peace
 
@@ -776,25 +692,21 @@ Source: Plum Village: Key Teachings
 
 Source URL: https://plumvillage.org/about/thich-nhat-hanh/key-teachings/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 22: Align with What Matters
 
-Day: 22
-
 Focus: alignment
-
-Title: Align with What Matters
 
 Categories: scripture, purpose, wisdom
 
@@ -813,25 +725,21 @@ Source: Bhagavad Gita 2:47
 
 Source URL: https://bhagavadgita.com/chapter/2/verse/47
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 23: Choose the High-Return Step
 
-Day: 23
-
 Focus: prioritizing
-
-Title: Choose the High-Return Step
 
 Categories: wisdom, purpose
 
@@ -850,25 +758,21 @@ Source: Meditations, Book XII (Long)
 
 Source URL: https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XII
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 24: Make Space for the Plan
 
-Day: 24
-
 Focus: structure
-
-Title: Make Space for the Plan
 
 Categories: wisdom, purpose
 
@@ -887,25 +791,21 @@ Source: Wikiquote: Nikola Tesla
 
 Source URL: https://en.wikiquote.org/wiki/Nikola_Tesla
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 25: Name Your Gifts
 
-Day: 25
-
 Focus: gifts
-
-Title: Name Your Gifts
 
 Categories: scripture, identity, wisdom
 
@@ -924,25 +824,21 @@ Source: 1 Peter 4:10 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/1-Peter-4-10/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 26: Claim Your Resources
 
-Day: 26
-
 Focus: resources
-
-Title: Claim Your Resources
 
 Categories: purpose, encouragement
 
@@ -961,25 +857,21 @@ Source: Quote.org: George Washington Carver
 
 Source URL: https://quote.org/quote/when-you-do-the-common-things-in-463164
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 27: Honor Your Importance
 
-Day: 27
-
 Focus: importance
-
-Title: Honor Your Importance
 
 Categories: encouragement, purpose
 
@@ -998,25 +890,21 @@ Source: Wikiquote: William James
 
 Source URL: https://en.wikiquote.org/wiki/William_James
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 28: Use What You Have
 
-Day: 28
-
 Focus: stewardship
-
-Title: Use What You Have
 
 Categories: scripture, purpose, wisdom
 
@@ -1035,25 +923,21 @@ Source: Matthew 25:29 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/Matthew-25-29/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 29: Explore Your Essence
 
-Day: 29
-
 Focus: soul
-
-Title: Explore Your Essence
 
 Categories: identity, healing
 
@@ -1072,25 +956,21 @@ Source: I Know Why the Caged Bird Sings
 
 Source URL: https://en.wikiquote.org/wiki/Maya_Angelou
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 30: Invite Both Minds
 
-Day: 30
-
 Focus: whole-self
-
-Title: Invite Both Minds
 
 Categories: identity, wisdom
 
@@ -1109,25 +989,21 @@ Source: Hamlet, Act I, Scene III
 
 Source URL: https://en.wikisource.org/wiki/Hamlet/Act_I/Scene_III
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 31: Follow the Aliveness
 
-Day: 31
-
 Focus: aliveness
-
-Title: Follow the Aliveness
 
 Categories: purpose, identity
 
@@ -1146,25 +1022,21 @@ Source: The Living Wisdom of Howard Thurman
 
 Source URL: https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 32: Bless Your Uniqueness
 
-Day: 32
-
 Focus: uniqueness
-
-Title: Bless Your Uniqueness
 
 Categories: scripture, courage, peace
 
@@ -1183,25 +1055,21 @@ Source: Psalm 139:14 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/Psalms-139-14/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 33: Connect Essence and Service
 
-Day: 33
-
 Focus: service
-
-Title: Connect Essence and Service
 
 Categories: purpose, encouragement
 
@@ -1220,25 +1088,21 @@ Source: Wikiquote: Desmond Tutu
 
 Source URL: https://en.wikiquote.org/wiki/Desmond_Tutu
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 34: Let Value Flow
 
-Day: 34
-
 Focus: money
-
-Title: Let Value Flow
 
 Categories: encouragement, hope
 
@@ -1257,25 +1121,21 @@ Source: Wikiquote: Albert Einstein
 
 Source URL: https://en.wikiquote.org/wiki/Albert_Einstein
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 35: Serve from Strength
 
-Day: 35
-
 Focus: strength
-
-Title: Serve from Strength
 
 Categories: scripture, courage, peace
 
@@ -1294,25 +1154,21 @@ Source: 2 Corinthians 9:8 (KJV)
 
 Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-9-8/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 36: Receive for a Purpose
 
-Day: 36
-
 Focus: receiving
-
-Title: Receive for a Purpose
 
 Categories: purpose, encouragement
 
@@ -1331,25 +1187,21 @@ Source: Nobel Peace Prize acceptance speech (1979)
 
 Source URL: https://www.nobelprize.org/prizes/peace/1979/teresa/acceptance-speech/
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 37: Review Your Tools
 
-Day: 37
-
 Focus: integration
-
-Title: Review Your Tools
 
 Categories: scripture, perseverance, wisdom
 
@@ -1368,25 +1220,21 @@ Source: Katha Upanishad 1.3.14 (Max Muller)
 
 Source URL: https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 38: Check In for Momentum
 
-Day: 38
-
 Focus: momentum
-
-Title: Check In for Momentum
 
 Categories: scripture, hope, perseverance
 
@@ -1405,25 +1253,21 @@ Source: Qur'an 94:5 (Sahih International)
 
 Source URL: https://corpus.quran.com/translation.jsp?chapter=94&verse=5
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 39: Honor How Far You Have Come
 
-Day: 39
-
 Focus: recognition
-
-Title: Honor How Far You Have Come
 
 Categories: courage, encouragement
 
@@ -1442,25 +1286,21 @@ Source: Wikiquote: Abraham Lincoln
 
 Source URL: https://en.wikiquote.org/wiki/Abraham_Lincoln
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
-Supplemental Duration: 
+Supplemental Duration:
 
 ## Day 40: Choose What Comes Next
 
-Day: 40
-
 Focus: next-steps
-
-Title: Choose What Comes Next
 
 Categories: hope, purpose
 
@@ -1479,14 +1319,14 @@ Source: Walden, Conclusion
 
 Source URL: https://en.wikisource.org/wiki/Walden/Conclusion
 
-Supplemental Type: 
+Supplemental Type:
 
-Supplemental Title: 
+Supplemental Title:
 
 Supplemental Description:
 
-Supplemental URL: 
+Supplemental URL:
 
-Supplemental Image URL: 
+Supplemental Image URL:
 
 Supplemental Duration:

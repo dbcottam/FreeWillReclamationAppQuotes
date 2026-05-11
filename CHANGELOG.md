@@ -4,6 +4,11 @@ All notable quote feed changes should be listed here.
 
 ## 2026-05-10
 
+- Bumped the content pipeline package to `2.2.0` while keeping the unreleased generated feed contract at `v2`
+- Removed editable quote and challenge `ID`, `Approved`, and `Active` template fields
+- Updated quote and challenge generation to assign deterministic ids from entry order
+- Removed `approved` and `active` item fields from the generated quote and challenge feeds
+- Renamed quote and challenge root category metadata from `approvedCategories` to `allowedCategories`
 - Bumped the content pipeline package to `2.1.0` for the contract-pinned feed cleanup
 - Made generated artwork URL discovery deterministic and covered stable `lastUpdated` behavior in tests
 - Added contract-pinned `v2/` endpoint output for the new one-source daily content API

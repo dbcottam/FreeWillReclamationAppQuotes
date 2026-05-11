@@ -5,7 +5,7 @@
   "required": [
     "version",
     "lastUpdated",
-    "approvedCategories",
+    "allowedCategories",
     "challenges"
   ],
   "properties": {
@@ -19,7 +19,7 @@
     "lastUpdated": {
       "type": "string"
     },
-    "approvedCategories": {
+    "allowedCategories": {
       "type": "array",
       "minItems": 1,
       "items": {
@@ -34,9 +34,7 @@
         "required": [
           "id",
           "challenge",
-          "categories",
-          "approved",
-          "active"
+          "categories"
         ],
         "properties": {
           "id": {
@@ -63,12 +61,6 @@
                 "wisdom"
               ]
             }
-          },
-          "approved": {
-            "type": "boolean"
-          },
-          "active": {
-            "type": "boolean"
           }
         },
         "additionalProperties": false

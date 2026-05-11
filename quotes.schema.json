@@ -5,7 +5,7 @@
   "required": [
     "version",
     "lastUpdated",
-    "approvedCategories",
+    "allowedCategories",
     "quotes"
   ],
   "properties": {
@@ -19,7 +19,7 @@
     "lastUpdated": {
       "type": "string"
     },
-    "approvedCategories": {
+    "allowedCategories": {
       "type": "array",
       "items": {
         "type": "string",
@@ -47,9 +47,7 @@
           "author",
           "source",
           "sourceUrl",
-          "categories",
-          "approved",
-          "active"
+          "categories"
         ],
         "properties": {
           "id": {
@@ -85,12 +83,6 @@
                 "wisdom"
               ]
             }
-          },
-          "approved": {
-            "type": "boolean"
-          },
-          "active": {
-            "type": "boolean"
           }
         }
       }

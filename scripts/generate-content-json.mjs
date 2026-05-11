@@ -50,10 +50,20 @@ const feeds = {
       "sourceUrl",
     ],
     injectArtworkUrl: true,
+    deriveFieldsFromHeading(heading, index) {
+      const match = heading.match(/^Day\s+(\d+):\s+(.+)$/i);
+
+      if (!match) {
+        fail(`daily-quotes section ${index}: heading must use "## Day N: Title".`);
+      }
+
+      return {
+        day: match[1],
+        title: match[2].trim(),
+      };
+    },
     fields: [
-      ["Day", "day"],
       ["Focus", "focus"],
-      ["Title", "title"],
       ["Categories", "categories"],
       ["Challenge", "challenge"],
       ["Prompt", "prompt"],
@@ -97,29 +107,24 @@ const feeds = {
     uniqueField: "id",
     requiredFields: ["id", "quote", "author", "source", "sourceUrl"],
     fields: [
-      ["ID", "id"],
       ["Author", "author"],
       ["Source", "source"],
       ["Source URL", "sourceUrl"],
       ["Categories", "categories"],
-      ["Approved", "approved"],
-      ["Active", "active"],
       ["Quote", "quote"],
     ],
     entryFromTemplate(fields, index) {
       return {
-        id: fields.id,
+        id: generatedId("quote", index),
         quote: fields.quote,
         author: fields.author,
         source: fields.source,
         sourceUrl: fields.sourceUrl,
         categories: parseCategories(fields.categories, `quotes entry ${index}`),
-        approved: parseBoolean(fields.approved, `quotes entry ${index}: Approved`),
-        active: parseBoolean(fields.active, `quotes entry ${index}: Active`),
       };
     },
     extraRootFields() {
-      return { approvedCategories: categories };
+      return { allowedCategories: categories };
     },
   },
   challenges: {
@@ -130,23 +135,18 @@ const feeds = {
     uniqueField: "id",
     requiredFields: ["id", "challenge"],
     fields: [
-      ["ID", "id"],
       ["Categories", "categories"],
-      ["Approved", "approved"],
-      ["Active", "active"],
       ["Challenge", "challenge"],
     ],
     entryFromTemplate(fields, index) {
       return {
-        id: fields.id,
+        id: generatedId("challenge", index),
         challenge: fields.challenge,
         categories: parseCategories(fields.categories, `challenges entry ${index}`),
-        approved: parseBoolean(fields.approved, `challenges entry ${index}: Approved`),
-        active: parseBoolean(fields.active, `challenges entry ${index}: Active`),
       };
     },
     extraRootFields() {
-      return { approvedCategories: categories };
+      return { allowedCategories: categories };
     },
   },
 };
@@ -267,7 +267,7 @@ function renderTemplate(feed, entries) {
       if (isMultilineField(key)) {
         lines.push(`${label}:`, value, "");
       } else {
-        lines.push(`${label}: ${value}`, "");
+        lines.push(value ? `${label}: ${value}` : `${label}:`, "");
       }
     }
   }
@@ -331,7 +331,7 @@ function parseTemplate(input, feed) {
     fail(`${feed.templatePath} must include at least one section beginning with ##.`);
   }
 
-  return sections.map((section, index) => parseTemplateSection(section.body, feed, index + 1));
+  return sections.map((section, index) => parseTemplateSection(section, feed, index + 1));
 }
 
 function splitMarkdownSections(input) {
@@ -348,9 +348,11 @@ function splitMarkdownSections(input) {
   });
 }
 
-function parseTemplateSection(body, feed, sectionNumber) {
+function parseTemplateSection(section, feed, sectionNumber) {
   const labelToKey = new Map(feed.fields.map(([label, key]) => [normalizeLabel(label), key]));
   const fields = Object.fromEntries(feed.fields.map(([, key]) => [key, ""]));
+  Object.assign(fields, feed.deriveFieldsFromHeading?.(section.heading, sectionNumber) ?? {});
+  const body = section.body;
   const lines = body.split(/\r?\n/);
   let currentKey = null;
   let currentValue = [];
@@ -440,20 +442,6 @@ function parseInteger(value, label) {
   return Number(value);
 }
 
-function parseBoolean(value, label) {
-  const normalized = (value ?? "").toLowerCase();
-
-  if (["yes", "true"].includes(normalized)) {
-    return true;
-  }
-
-  if (["no", "false"].includes(normalized)) {
-    return false;
-  }
-
-  fail(`${label} must be yes or no.`);
-}
-
 function parseCategories(value, label) {
   const parsed = (value ?? "")
     .split(/[|,]/)
@@ -484,6 +472,10 @@ function slugify(value) {
 
 function artworkKeyForDay(day) {
   return `day-${String(day).padStart(2, "0")}`;
+}
+
+function generatedId(prefix, index) {
+  return `${prefix}-${String(index).padStart(3, "0")}`;
 }
 
 function buildSupplementalFromTemplateFields(fields) {

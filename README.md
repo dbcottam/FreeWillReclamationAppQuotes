@@ -16,7 +16,7 @@ Current deployed/test devices may still read the legacy root feeds:
 Versioned contract feeds are also published:
 
 - `v1/` preserves the current deployed/root contract for compatibility.
-- `v2/` is the new one-source daily content contract used by the next app build.
+- `v2/` is the generated contract used by the next app build.
 
 `v2` raw URL:
 
@@ -24,7 +24,7 @@ Versioned contract feeds are also published:
 - `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/v2/daily-quotes.json`
 - `https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/v2/challenge.json`
 
-The app pins to the `v2` content API contract path and checks both `contractVersion` and schema `version` before accepting a feed. Quote, image, and wording changes can continue inside the same contract. If the feed structure changes again, create the next contract folder, such as `v3`, and update the app's `CONTENT_API_CONTRACT_VERSION` in the same release.
+The app pins to the `v2` content API contract path and checks both `contractVersion` and schema `version` before accepting a feed. Quote, image, and wording changes can continue inside the same contract. If the feed structure changes again after `v2` ships, create the next contract folder, such as `v3`, and update the app's `CONTENT_API_CONTRACT_VERSION` in the same release.
 
 See `CONTENT_API_CONTRACT.md` for the compatibility rule and structural-change checklist.
 
@@ -52,9 +52,8 @@ Every quote in `quotes.json` should:
 - be verifiable
 - include a human-readable source
 - include a human-readable source URL
-- use only approved categories
-- be marked `approved: true` before the app can use it
-- keep a stable `id` forever once published
+- use only allowed categories
+- let the generator assign its `id`
 
 Every daily journey entry in `daily-quotes.json` should:
 
@@ -75,10 +74,9 @@ The authored challenge for each day lives in `daily-quotes.json`. Keep that chal
 
 Every alternate challenge in `challenge.json` should:
 
-- include a stable `id`
 - include one short `challenge` that can stand alone as a 2-minute action
-- use one or more approved categories for matching against the current daily quote/theme
-- be marked `approved: true` and `active: true` before the app can use it
+- use one or more allowed categories for matching against the current daily quote/theme
+- let the generator assign its `id`
 
 Artwork images are served separately. See [Daily Artwork Images](#daily-artwork-images) below.
 
@@ -99,7 +97,7 @@ The first six entries in `templates/daily-quotes.md` intentionally demonstrate e
 - Day 5: `audio`
 - Day 6: `video`
 
-## Approved Categories
+## Allowed Categories
 
 - `scripture`
 - `courage`
@@ -155,9 +153,7 @@ https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/ass
   "author": "A. P. J. Abdul Kalam",
   "source": "Wings of Fire, p. 112",
   "sourceUrl": "https://en.wikiquote.org/wiki/A._P._J._Abdul_Kalam",
-  "categories": ["hope", "purpose"],
-  "approved": true,
-  "active": true
+  "categories": ["hope", "purpose"]
 }
 ```
 
@@ -192,14 +188,12 @@ https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/ass
 
 1. Add or update extra quotes in `templates/quotes.md`
 2. Add or update daily journey entries in `templates/daily-quotes.md`
-3. Keep `ID` values stable in `templates/quotes.md`
+3. Quote and challenge `id` values are generated from entry order
 4. Keep each `Day` number stable in `templates/daily-quotes.md`
-5. Make sure `Approved` is `yes` only for extra quotes you want live
-6. Set `Active` to `no` to retire an extra quote without deleting history
-7. For `Go Deeper` content in `templates/daily-quotes.md`, fill the supplemental fields. Leave `Supplemental URL` empty when there is no supplemental material.
-8. Run `npm run content:generate` to update the generated JSON files
-9. Add a note to `CHANGELOG.md`
-10. Commit and push
+5. For `Go Deeper` content in `templates/daily-quotes.md`, fill the supplemental fields. Leave `Supplemental URL` empty when there is no supplemental material.
+6. Run `npm run content:generate` to update the generated JSON files
+7. Add a note to `CHANGELOG.md`
+8. Commit and push
 
 To regenerate Markdown templates from the current JSON files, run:
 
@@ -218,7 +212,7 @@ npm test
 
 Current pipeline version:
 
-- Package version: `2.1.0`
+- Package version: `2.2.0`
 - Generated feed version: `2`
 
 ## Notes

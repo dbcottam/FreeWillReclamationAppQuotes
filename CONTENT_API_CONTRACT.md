@@ -19,8 +19,7 @@ Content-only edits stay inside the current contract:
 - challenge text
 - supplemental material values
 - image URLs
-- approved or active flags
-- categories from the existing approved category list
+- categories from the existing allowed category list
 
 Structural edits require a new contract folder:
 
@@ -31,7 +30,7 @@ Structural edits require a new contract folder:
 - removing an endpoint the current contract promises
 - changing category vocabulary in a way the app must understand differently
 
-When a structural edit is needed, create the next folder, such as `v3/`, update `contentContractVersion` and `contentVersion` in `scripts/generate-content-json.mjs`, and update the app constants in `src/services/contentApiConfig.js` in the same app release.
+When a structural edit is needed after `v2` ships, create the next folder, such as `v3/`, update `contentContractVersion` and `contentVersion` in `scripts/generate-content-json.mjs`, and update the app constants in `src/services/contentApiConfig.js` in the same app release.
 
 ## Compatibility Feeds
 
