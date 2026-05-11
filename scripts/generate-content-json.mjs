@@ -52,10 +52,8 @@ const feeds = {
     injectArtworkUrl: true,
     fields: [
       ["Day", "day"],
-      ["Slug", "slug"],
       ["Focus", "focus"],
       ["Title", "title"],
-      ["Artwork", "artworkKey"],
       ["Categories", "categories"],
       ["Challenge", "challenge"],
       ["Prompt", "prompt"],
@@ -72,13 +70,14 @@ const feeds = {
     ],
     entryFromTemplate(fields, index) {
       const supplemental = buildSupplementalFromTemplateFields(fields);
+      const day = parseInteger(fields.day, `daily-quotes entry ${index}: Day`);
 
       return compactObject({
-        day: parseInteger(fields.day, `daily-quotes entry ${index}: Day`),
-        slug: fields.slug,
+        day,
+        slug: slugify(fields.title),
         focus: fields.focus,
         title: fields.title,
-        artworkKey: fields.artworkKey,
+        artworkKey: artworkKeyForDay(day),
         challenge: fields.challenge,
         prompt: fields.prompt,
         quote: fields.quote,
@@ -472,6 +471,19 @@ function parseCategories(value, label) {
   }
 
   return parsed;
+}
+
+function slugify(value) {
+  return (value ?? "")
+    .trim()
+    .toLowerCase()
+    .replace(/['"]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function artworkKeyForDay(day) {
+  return `day-${String(day).padStart(2, "0")}`;
 }
 
 function buildSupplementalFromTemplateFields(fields) {

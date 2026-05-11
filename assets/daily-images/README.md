@@ -1,6 +1,6 @@
 # Daily Images
 
-Place artwork images here named to match the `artworkKey` for each day in `daily-quotes.csv`.
+Place artwork images here named to match the generated `artworkKey` for each day, such as `day-01.webp`.
 
 ## Naming convention
 

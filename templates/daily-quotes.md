@@ -9,13 +9,9 @@ Allowed categories: scripture, courage, encouragement, healing, hope, identity, 
 
 Day: 1
 
-Slug: clear-the-ground
-
 Focus: release
 
 Title: Clear the Ground
-
-Artwork: day-01
 
 Categories: healing, hope
 
@@ -51,13 +47,9 @@ Supplemental Duration: 8 min
 
 Day: 2
 
-Slug: let-go-a-little
-
 Focus: release
 
 Title: Let Go a Little
-
-Artwork: day-02
 
 Categories: healing, peace
 
@@ -93,13 +85,9 @@ Supplemental Duration: 24 min
 
 Day: 3
 
-Slug: feel-without-fixing
-
 Focus: presence
 
 Title: Feel Without Fixing
-
-Artwork: day-03
 
 Categories: wisdom, healing
 
@@ -135,13 +123,9 @@ Supplemental Duration: 5 min read
 
 Day: 4
 
-Slug: choose-a-clean-slate
-
 Focus: healing
 
 Title: Choose a Clean Slate
-
-Artwork: day-04
 
 Categories: scripture, healing, hope
 
@@ -177,13 +161,9 @@ Supplemental Duration: Resource
 
 Day: 5
 
-Slug: find-the-belief
-
 Focus: beliefs
 
 Title: Find the Belief
-
-Artwork: day-05
 
 Categories: identity, wisdom
 
@@ -219,13 +199,9 @@ Supplemental Duration: 12 min
 
 Day: 6
 
-Slug: ask-a-better-question
-
 Focus: questions
 
 Title: Ask a Better Question
-
-Artwork: day-06
 
 Categories: scripture, wisdom, identity
 
@@ -261,13 +237,9 @@ Supplemental Duration: 10 min
 
 Day: 7
 
-Slug: rewrite-the-story
-
 Focus: affirmation
 
 Title: Rewrite the Story
-
-Artwork: day-07
 
 Categories: purpose, wisdom
 
@@ -302,13 +274,9 @@ Supplemental Duration:
 
 Day: 8
 
-Slug: practice-the-new-pattern
-
 Focus: patterns
 
 Title: Practice the New Pattern
-
-Artwork: day-08
 
 Categories: courage, encouragement
 
@@ -343,13 +311,9 @@ Supplemental Duration:
 
 Day: 9
 
-Slug: protect-your-peace
-
 Focus: shielding
 
 Title: Protect Your Peace
-
-Artwork: day-09
 
 Categories: scripture, purpose, wisdom
 
@@ -384,13 +348,9 @@ Supplemental Duration:
 
 Day: 10
 
-Slug: strengthen-your-boundary
-
 Focus: boundaries
 
 Title: Strengthen Your Boundary
-
-Artwork: day-10
 
 Categories: identity, peace
 
@@ -425,13 +385,9 @@ Supplemental Duration:
 
 Day: 11
 
-Slug: small-routine-upgrade
-
 Focus: routine
 
 Title: Small Routine Upgrade
-
-Artwork: day-11
 
 Categories: peace, wisdom
 
@@ -466,13 +422,9 @@ Supplemental Duration:
 
 Day: 12
 
-Slug: stand-in-your-space
-
 Focus: steadiness
 
 Title: Stand in Your Space
-
-Artwork: day-12
 
 Categories: scripture, wisdom, identity
 
@@ -507,13 +459,9 @@ Supplemental Duration:
 
 Day: 13
 
-Slug: listen-for-guidance
-
 Focus: intuition
 
 Title: Listen for Guidance
-
-Artwork: day-13
 
 Categories: wisdom, identity
 
@@ -548,13 +496,9 @@ Supplemental Duration:
 
 Day: 14
 
-Slug: test-the-next-step
-
 Focus: discernment
 
 Title: Test the Next Step
-
-Artwork: day-14
 
 Categories: scripture, identity, wisdom
 
@@ -589,13 +533,9 @@ Supplemental Duration:
 
 Day: 15
 
-Slug: trust-your-inner-knowing
-
 Focus: trust
 
 Title: Trust Your Inner Knowing
-
-Artwork: day-15
 
 Categories: courage, peace
 
@@ -630,13 +570,9 @@ Supplemental Duration:
 
 Day: 16
 
-Slug: make-room-for-receiving
-
 Focus: receiving
 
 Title: Make Room for Receiving
-
-Artwork: day-16
 
 Categories: scripture, purpose, wisdom
 
@@ -671,13 +607,9 @@ Supplemental Duration:
 
 Day: 17
 
-Slug: notice-the-block
-
 Focus: abundance-blocks
 
 Title: Notice the Block
-
-Artwork: day-17
 
 Categories: healing, identity
 
@@ -712,13 +644,9 @@ Supplemental Duration:
 
 Day: 18
 
-Slug: ask-for-support
-
 Focus: support
 
 Title: Ask for Support
-
-Artwork: day-18
 
 Categories: healing, peace
 
@@ -753,13 +681,9 @@ Supplemental Duration:
 
 Day: 19
 
-Slug: receive-the-good
-
 Focus: abundance
 
 Title: Receive the Good
-
-Artwork: day-19
 
 Categories: hope, peace
 
@@ -794,13 +718,9 @@ Supplemental Duration:
 
 Day: 20
 
-Slug: practice-generous-trust
-
 Focus: trust
 
 Title: Practice Generous Trust
-
-Artwork: day-20
 
 Categories: hope, wisdom
 
@@ -835,13 +755,9 @@ Supplemental Duration:
 
 Day: 21
 
-Slug: track-your-energy
-
 Focus: priorities
 
 Title: Track Your Energy
-
-Artwork: day-21
 
 Categories: purpose, peace
 
@@ -876,13 +792,9 @@ Supplemental Duration:
 
 Day: 22
 
-Slug: align-with-what-matters
-
 Focus: alignment
 
 Title: Align with What Matters
-
-Artwork: day-22
 
 Categories: scripture, purpose, wisdom
 
@@ -917,13 +829,9 @@ Supplemental Duration:
 
 Day: 23
 
-Slug: choose-the-high-return-step
-
 Focus: prioritizing
 
 Title: Choose the High-Return Step
-
-Artwork: day-23
 
 Categories: wisdom, purpose
 
@@ -958,13 +866,9 @@ Supplemental Duration:
 
 Day: 24
 
-Slug: make-space-for-the-plan
-
 Focus: structure
 
 Title: Make Space for the Plan
-
-Artwork: day-24
 
 Categories: wisdom, purpose
 
@@ -999,13 +903,9 @@ Supplemental Duration:
 
 Day: 25
 
-Slug: name-your-gifts
-
 Focus: gifts
 
 Title: Name Your Gifts
-
-Artwork: day-25
 
 Categories: scripture, identity, wisdom
 
@@ -1040,13 +940,9 @@ Supplemental Duration:
 
 Day: 26
 
-Slug: claim-your-resources
-
 Focus: resources
 
 Title: Claim Your Resources
-
-Artwork: day-26
 
 Categories: purpose, encouragement
 
@@ -1081,13 +977,9 @@ Supplemental Duration:
 
 Day: 27
 
-Slug: honor-your-importance
-
 Focus: importance
 
 Title: Honor Your Importance
-
-Artwork: day-27
 
 Categories: encouragement, purpose
 
@@ -1122,13 +1014,9 @@ Supplemental Duration:
 
 Day: 28
 
-Slug: use-what-you-have
-
 Focus: stewardship
 
 Title: Use What You Have
-
-Artwork: day-28
 
 Categories: scripture, purpose, wisdom
 
@@ -1163,13 +1051,9 @@ Supplemental Duration:
 
 Day: 29
 
-Slug: explore-your-essence
-
 Focus: soul
 
 Title: Explore Your Essence
-
-Artwork: day-29
 
 Categories: identity, healing
 
@@ -1204,13 +1088,9 @@ Supplemental Duration:
 
 Day: 30
 
-Slug: invite-both-minds
-
 Focus: whole-self
 
 Title: Invite Both Minds
-
-Artwork: day-30
 
 Categories: identity, wisdom
 
@@ -1245,13 +1125,9 @@ Supplemental Duration:
 
 Day: 31
 
-Slug: follow-the-aliveness
-
 Focus: aliveness
 
 Title: Follow the Aliveness
-
-Artwork: day-31
 
 Categories: purpose, identity
 
@@ -1286,13 +1162,9 @@ Supplemental Duration:
 
 Day: 32
 
-Slug: bless-your-uniqueness
-
 Focus: uniqueness
 
 Title: Bless Your Uniqueness
-
-Artwork: day-32
 
 Categories: scripture, courage, peace
 
@@ -1327,13 +1199,9 @@ Supplemental Duration:
 
 Day: 33
 
-Slug: connect-essence-and-service
-
 Focus: service
 
 Title: Connect Essence and Service
-
-Artwork: day-33
 
 Categories: purpose, encouragement
 
@@ -1368,13 +1236,9 @@ Supplemental Duration:
 
 Day: 34
 
-Slug: let-value-flow
-
 Focus: money
 
 Title: Let Value Flow
-
-Artwork: day-34
 
 Categories: encouragement, hope
 
@@ -1409,13 +1273,9 @@ Supplemental Duration:
 
 Day: 35
 
-Slug: serve-from-strength
-
 Focus: strength
 
 Title: Serve from Strength
-
-Artwork: day-35
 
 Categories: scripture, courage, peace
 
@@ -1450,13 +1310,9 @@ Supplemental Duration:
 
 Day: 36
 
-Slug: receive-for-a-purpose
-
 Focus: receiving
 
 Title: Receive for a Purpose
-
-Artwork: day-36
 
 Categories: purpose, encouragement
 
@@ -1491,13 +1347,9 @@ Supplemental Duration:
 
 Day: 37
 
-Slug: review-your-tools
-
 Focus: integration
 
 Title: Review Your Tools
-
-Artwork: day-37
 
 Categories: scripture, perseverance, wisdom
 
@@ -1532,13 +1384,9 @@ Supplemental Duration:
 
 Day: 38
 
-Slug: check-in-for-momentum
-
 Focus: momentum
 
 Title: Check In for Momentum
-
-Artwork: day-38
 
 Categories: scripture, hope, perseverance
 
@@ -1573,13 +1421,9 @@ Supplemental Duration:
 
 Day: 39
 
-Slug: honor-how-far-you-have-come
-
 Focus: recognition
 
 Title: Honor How Far You Have Come
-
-Artwork: day-39
 
 Categories: courage, encouragement
 
@@ -1614,13 +1458,9 @@ Supplemental Duration:
 
 Day: 40
 
-Slug: choose-what-comes-next
-
 Focus: next-steps
 
 Title: Choose What Comes Next
-
-Artwork: day-40
 
 Categories: hope, purpose
 

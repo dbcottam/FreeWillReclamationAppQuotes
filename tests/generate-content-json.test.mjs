@@ -36,6 +36,8 @@ async function testGenerate() {
   assert.equal(daily.version, 2);
   assert.equal(daily.contractVersion, "v2");
   assert.equal(daily.quotes[0].day, 1);
+  assert.equal(daily.quotes[0].slug, "choice");
+  assert.equal(daily.quotes[0].artworkKey, "day-01");
   assert.deepEqual(daily.quotes[0].categories, ["scripture", "hope"]);
   assert.equal(daily.quotes[0].challenge, "Choose something");
   assert.deepEqual(daily.quotes[0].supplemental, {
@@ -126,6 +128,8 @@ async function testExport() {
   assert.match(dailyTemplate, /^# Daily Quotes/);
   assert.match(dailyTemplate, /single source of truth for each authored journey day/);
   assert.match(dailyTemplate, /Challenge:\nChoose something/);
+  assert.doesNotMatch(dailyTemplate, /^Slug:/m);
+  assert.doesNotMatch(dailyTemplate, /^Artwork:/m);
   assert.match(dailyTemplate, /Supplemental Type: podcast/);
   assert.match(dailyTemplate, /Supplemental Title: Companion episode/);
   assert.match(quotesTemplate, /^# Quote Library/);
@@ -209,10 +213,8 @@ async function makeFixture() {
       "## Day 1: Choice",
       "",
       "Day: 1",
-      "Slug: choice",
       "Focus: agency",
       "Title: Choice",
-      "Artwork: art-1",
       "Categories: scripture, hope",
       "Challenge:",
       "Choose something",

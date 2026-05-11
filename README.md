@@ -61,12 +61,11 @@ Every daily journey entry in `daily-quotes.json` should:
 - include a stable `day` number
 - include quote text, author, source, and source URL
 - include the day content when you want it to override the app fallback:
-  - `slug`
   - `focus`
   - `title`
-  - `artworkKey`
   - `challenge`
   - `prompt`
+- the generator derives `slug` from `title` and `artworkKey` from `day`
 - include one or more categories the app can use for that day
 - use `scripture` for Bible or sacred-text entries when needed
 - prefer quotes that also exist in `quotes.json` so daily selections stay backed by the curated quote library
@@ -115,7 +114,7 @@ The first six entries in `templates/daily-quotes.md` intentionally demonstrate e
 
 ## Daily Artwork Images
 
-Place artwork files in `assets/daily-images/` named to match the `artworkKey` for each day.
+Place artwork files in `assets/daily-images/` named to match the generated `artworkKey` for each day.
 
 ### Naming convention
 
@@ -132,7 +131,7 @@ Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
 
 When `npm run content:generate` runs, the build script scans `assets/daily-images/`. For each image found it constructs a GitHub Raw URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Days with no image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
 
-The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, rename the file (e.g. `day-01-v2.webp`) and update the `Artwork` value in `templates/daily-quotes.md` to match.
+The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, replace the image while keeping the generated day filename, then regenerate the content JSON.
 
 ### Image URL format
 

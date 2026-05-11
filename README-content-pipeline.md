@@ -11,7 +11,7 @@ This repository uses human-editable Markdown templates as the source of truth an
 - `v2/*.json` - generated contract-pinned endpoint files consumed by the next app build.
 - Root endpoint files such as `daily-quotes.json`, `daily-challenge.json`, `quotes.json`, and `challenge.json` are legacy compatibility files and are not rewritten unless `WRITE_LEGACY_ROOT_FEEDS=1` is set.
 - `*.schema.json` - validation shape references for the generated JSON.
-- `assets/daily-images/` - artwork images; filenames must match `Artwork` values in `templates/daily-quotes.md`.
+- `assets/daily-images/` - artwork images; filenames use the generated daily artwork key, such as `day-01.webp`.
 - `scripts/generate-content-json.mjs` - Markdown template to JSON generation and JSON to template export.
 
 ## Template Editing Rules
@@ -89,7 +89,7 @@ npm test
 
 ## Adding Artwork Images
 
-1. Place an image in `assets/daily-images/` named to match the day's `Artwork` value in `templates/daily-quotes.md`.
+1. Place an image in `assets/daily-images/` named to match the generated day key.
    ```
    day-01.webp
    day-02.webp
