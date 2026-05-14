@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-14T02:27:40.840Z",
+  "lastUpdated": "2026-05-14T03:54:22.517Z",
   "quotes": [
     {
       "day": 1,
@@ -536,7 +536,8 @@
       "categories": [
         "encouragement",
         "purpose"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-27.webp"
     },
     {
       "day": 28,
@@ -554,7 +555,8 @@
         "scripture",
         "purpose",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-28.webp"
     },
     {
       "day": 29,
@@ -571,7 +573,8 @@
       "categories": [
         "identity",
         "healing"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-29.webp"
     },
     {
       "day": 30,
@@ -588,7 +591,8 @@
       "categories": [
         "identity",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-30.webp"
     },
     {
       "day": 31,
@@ -605,7 +609,8 @@
       "categories": [
         "purpose",
         "identity"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-31.webp"
     },
     {
       "day": 32,
@@ -623,7 +628,8 @@
         "scripture",
         "courage",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-32.webp"
     },
     {
       "day": 33,
@@ -640,7 +646,8 @@
       "categories": [
         "purpose",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-33.webp"
     },
     {
       "day": 34,
@@ -657,7 +664,8 @@
       "categories": [
         "encouragement",
         "hope"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-34.webp"
     },
     {
       "day": 35,
@@ -675,7 +683,8 @@
         "scripture",
         "courage",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-35.webp"
     },
     {
       "day": 36,
@@ -692,7 +701,8 @@
       "categories": [
         "purpose",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-36.webp"
     },
     {
       "day": 37,
@@ -710,7 +720,8 @@
         "scripture",
         "perseverance",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-37.webp"
     },
     {
       "day": 38,
@@ -728,7 +739,8 @@
         "scripture",
         "hope",
         "perseverance"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-38.webp"
     },
     {
       "day": 39,
@@ -745,7 +757,8 @@
       "categories": [
         "courage",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-39.webp"
     },
     {
       "day": 40,
@@ -762,7 +775,8 @@
       "categories": [
         "hope",
         "purpose"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-40.webp"
     }
   ]
 }
