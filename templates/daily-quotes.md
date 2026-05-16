@@ -606,26 +606,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 19: Receive the Good
+## Day 19: Rewrite the Belief
 
-Focus: abundance
+Focus: belief renewal
 
-Categories: hope, peace
+Categories: identity, courage
 
 Challenge:
-When something good arrives today, pause before minimizing it and let it register.
+What belief feels inherited, outdated, or too small for who you are becoming? Write it down, and then write down the opposite positive statement, which is more empowering, and decide to make that one your new normal.
 
 Prompt:
-What does receiving goodness bring up in you?
+What new normal becomes possible when the old belief loses authority?
 
 Quote:
-All shall be well, and all shall be well, and all manner of thing shall be well.
+The only power that anything has over us is the power of belief that we give it.
 
-Author: Julian of Norwich
+Author: David R. Hawkins
 
-Source: Revelations of Divine Love
+Source: Letting Go: The Pathway of Surrender, Ch. 15
 
-Source URL: https://en.wikisource.org/wiki/Revelations_of_Divine_Love
+Source URL: https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion
 
 Supplemental Type:
 
@@ -639,116 +639,18 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 20: Practice Generous Trust
+## Day 20: Check Before Yes
 
-Focus: trust
+Focus: discernment
 
-Categories: hope, wisdom
-
-Challenge:
-Choose one generous thought about your future, your resources, or your ability to be supported.
-
-Prompt:
-Where did scarcity loosen when you practiced trust?
-
-Quote:
-When one door closes, another opens; but we often look so long upon the closed door that we do not see the one which has opened.
-
-Author: Alexander Graham Bell
-
-Source: Quotes.net: Alexander Graham Bell
-
-Source URL: https://www.quotes.net/quote/39612
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 21: Track Your Energy
-
-Focus: priorities
-
-Categories: purpose, peace
+Categories: wisdom, peace
 
 Challenge:
-Notice three things today: what energizes you, what depletes you, and what brings you back to center.
+Before you say "yes" to an invitation, new responsibility, or opportunity, check in with your mind, heart, and gut first.
+(You can even tell the person asking, "Let me check first and see if that will work." This will easily buy you more time to make a more wise decision.)
 
 Prompt:
-What did your energy reveal about your priorities?
-
-Quote:
-By the way we live our daily life we contribute to peace or to war.
-
-Author: Thich Nhat Hanh
-
-Source: Plum Village: Key Teachings
-
-Source URL: https://plumvillage.org/about/thich-nhat-hanh/key-teachings/
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 22: Align with What Matters
-
-Focus: alignment
-
-Categories: scripture, purpose, wisdom
-
-Challenge:
-Choose one action that reflects your actual priority, not the loudest demand.
-
-Prompt:
-What matters most right now, and what action proves it?
-
-Quote:
-Your right is only to work, but not to its results; do not let the results of action be your motive, nor let your attachment be to inaction.
-
-Author: Bhagavad Gita
-
-Source: Bhagavad Gita 2:47
-
-Source URL: https://bhagavadgita.com/chapter/2/verse/47
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 23: Choose the High-Return Step
-
-Focus: prioritizing
-
-Categories: wisdom, purpose
-
-Challenge:
-Pick the one next step that gives the best return for your life, energy, or purpose today.
-
-Prompt:
-What did you choose after separating urgency from importance?
+What did your mind, heart, and gut each need before your yes could be honest?
 
 Quote:
 If it is not right, do not do it: if it is not true, do not say it.
@@ -771,26 +673,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 24: Make Space for the Plan
+## Day 21: Receive Wise Counsel
 
-Focus: structure
+Focus: inner counsel
 
-Categories: wisdom, purpose
+Categories: wisdom, encouragement
 
 Challenge:
-Remove, delay, or delegate one low-alignment task so there is room for what matters.
+If you could have anyone in all of history be your life or business coach today, who would it be? Write down one empowering piece of advice they might give you. Then really let it sink in, letting it empower you.
 
 Prompt:
-What did you learn from making space instead of adding more?
+Whose wisdom did you borrow, and what did it strengthen in you?
 
 Quote:
-My method is different. I do not rush into actual work.
+Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.
 
-Author: Nikola Tesla
+Author: Anne Frank
 
-Source: Wikiquote: Nikola Tesla
+Source: Wikiquote: Anne Frank
 
-Source URL: https://en.wikiquote.org/wiki/Nikola_Tesla
+Source URL: https://en.wikiquote.org/wiki/Anne_Frank
 
 Supplemental Type:
 
@@ -804,26 +706,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 25: Name Your Gifts
+## Day 22: Cheer Your Younger Self
 
-Focus: gifts
+Focus: younger self
 
-Categories: scripture, identity, wisdom
+Categories: encouragement, healing
 
 Challenge:
-List three gifts, abilities, or forms of wisdom that feel natural enough you sometimes overlook them.
+If you could write one empowering message to your younger self, to cheer them on, what would it be? Write it down.
 
 Prompt:
-Which gift is ready to be taken more seriously?
+What did your younger self need to hear, and how does it still encourage you now?
 
 Quote:
-As every man hath received the gift, [even so] minister the same one to another, as good stewards of the manifold grace of God.
+Not all of us can do great things. But we can do small things with great love.
 
-Author: Peter
+Author: Mother Teresa
 
-Source: 1 Peter 4:10 (KJV)
+Source: Quoted in Time: Queen Elizabeth Christmas Day Address
 
-Source URL: https://www.kingjamesbibleonline.org/1-Peter-4-10/
+Source URL: https://time.com/4617820/queen-elizabeth-christmas-day-address/
 
 Supplemental Type:
 
@@ -837,92 +739,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 26: Claim Your Resources
+## Day 23: Name the Gift
 
-Focus: resources
-
-Categories: purpose, encouragement
-
-Challenge:
-Identify one resource you already have: a relationship, skill, experience, insight, tool, or opportunity.
-
-Prompt:
-What resource becomes more powerful when you stop dismissing it?
-
-Quote:
-When you do the common things in life in an uncommon way, you will command the attention of the world.
-
-Author: George Washington Carver
-
-Source: Quote.org: George Washington Carver
-
-Source URL: https://quote.org/quote/when-you-do-the-common-things-in-463164
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 27: Honor Your Importance
-
-Focus: importance
-
-Categories: encouragement, purpose
-
-Challenge:
-Act today as if your presence, gifts, and choices genuinely matter.
-
-Prompt:
-What changes when you stop treating your contribution as optional?
-
-Quote:
-Act as if what you do makes a difference. It does.
-
-Author: William James
-
-Source: Wikiquote: William James
-
-Source URL: https://en.wikiquote.org/wiki/William_James
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 28: Use What You Have
-
-Focus: stewardship
+Focus: spiritual gifts
 
 Categories: scripture, purpose, wisdom
 
 Challenge:
-Use one existing gift or resource today instead of waiting for a perfect condition.
+If you could have any spiritual or intuitive gift to guide or empower you in your future expansion or goals, what would it be, and why? Take a couple minutes to think and write it down.
 
 Prompt:
-What grew stronger because you used it?
+Which gift would guide or empower your expansion, and why does it matter now?
 
 Quote:
-For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.
+Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
 
-Author: Matthew
+Author: James
 
-Source: Matthew 25:29 (KJV)
+Source: James 1:17 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-25-29/
+Source URL: https://www.kingjamesbibleonline.org/James-1-17/
 
 Supplemental Type:
 
@@ -936,26 +772,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 29: Explore Your Essence
+## Day 24: Feel Success
 
-Focus: soul
+Focus: embodied success
 
-Categories: identity, healing
+Categories: encouragement, hope
 
 Challenge:
-Write five words that describe who you are beneath roles, pressure, and performance.
+What does "success" feel like to you? When you think of the success you desire to experience in your life, what emotions accompany the success? Take a minute to write down how you will know you've reached success, not by what you see yourself doing or what you possess, but rather what you are feeling.
 
 Prompt:
-Which word felt most alive or surprising?
+What emotions tell you that success is already becoming real inside you?
 
 Quote:
-There is no greater agony than bearing an untold story inside you.
+Try not to become a man of success, but rather try to become a man of value.
 
-Author: Maya Angelou
+Author: Albert Einstein
 
-Source: I Know Why the Caged Bird Sings
+Source: Wikiquote: Albert Einstein
 
-Source URL: https://en.wikiquote.org/wiki/Maya_Angelou
+Source URL: https://en.wikiquote.org/wiki/Albert_Einstein
 
 Supplemental Type:
 
@@ -969,26 +805,196 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 30: Invite Both Minds
+## Day 25: Meet Your Future Self
 
-Focus: whole-self
+Focus: future vision
 
-Categories: identity, wisdom
+Categories: hope, encouragement
 
 Challenge:
-Let your practical mind and spiritual knowing both respond to one decision before you choose.
+Take a couple minutes to consider your future version of yourself. Who is the ideal version of yourself you hope to achieve in this lifetime? What are you wearing? Eating? Experiencing? How are you spending your time? Where are you living and with whom?
+(Pro tip: Meditating and feeling into these ideals daily, even if just briefly, will help manifest them more easily)
 
 Prompt:
-What did logic notice, and what did inner wisdom notice?
+What details made your future self feel vivid, desirable, and possible?
 
 Quote:
-This above all: to thine own self be true.
+The future belongs to those who believe in the beauty of their dreams.
 
-Author: William Shakespeare
+Author: Eleanor Roosevelt
 
-Source: Hamlet, Act I, Scene III
+Source: Wikiquote: Eleanor Roosevelt
 
-Source URL: https://en.wikisource.org/wiki/Hamlet/Act_I/Scene_III
+Source URL: https://en.wikiquote.org/wiki/Eleanor_Roosevelt
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 26: Speak Kindly to Your Body
+
+Focus: body care
+
+Categories: healing, identity
+
+Challenge:
+What area of your body needs more gentle care, nurturing, or positive affirmations today? Take a couple minutes to speak (aloud or in your mind) to that area of your body, and use kind, thoughtful, and empowering words of support and gratitude.
+
+Prompt:
+What changed when you spoke to your body with care instead of criticism?
+
+Quote:
+You, yourself, as much as anybody in the entire universe, deserve your love and affection.
+
+Author: Buddha
+
+Source: Wikiquote: Buddha
+
+Source URL: https://en.wikiquote.org/wiki/Buddha
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 27: Write the Apology You Needed
+
+Focus: forgiveness
+
+Categories: healing, courage
+
+Challenge:
+Who or what has wronged you? Is there someone or a group to which you feel resentment? Whether you ever receive an apology from them or not, the resentment is keeping you stuck. Your challenge is to write an apology letter "from" them (the offender) "to" you (the victim). Write the letter as if you were them, writing out what you wish they would apologize for and then ask (you) for forgiveness.
+
+Prompt:
+What did the apology letter name, release, or make honest inside you?
+
+Quote:
+Hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
+
+Author: Dhammapada
+
+Source: Dhammapada 1:5 (Muller)
+
+Source URL: https://en.wikisource.org/wiki/Dhammapada_(Muller)
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 28: Listen to Your Body's Timeline
+
+Focus: body awareness
+
+Categories: healing, wisdom
+
+Challenge:
+Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgement.
+
+Prompt:
+What did your body reveal when you observed it without blame or shame?
+
+Quote:
+Without knowing it, we often relive the past.
+
+Author: Gabor Mate
+
+Source: Scattered Minds
+
+Source URL: https://studylib.net/doc/28342950/scattered-minds--the-origins-and-healing-o---gabor-mate
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 29: Revisit Childhood Joy
+
+Focus: play
+
+Categories: hope, encouragement
+
+Challenge:
+What is something you loved doing as a kid that you haven't done for a while? For the challenge, either:
+A) Spend 2 minutes planning and scheduling that type of activity.
+B) Spend 2 minutes doing that activity if it's simple enough.
+C) Spend 2 minutes reminiscing about that activity and considering why it brought you joy.
+
+Prompt:
+Which childhood joy still has energy for you, and how could it return in a small way?
+
+Quote:
+Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
+
+Author: Henri Nouwen
+
+Source: Here and Now
+
+Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 30: Protect Your Time
+
+Focus: time boundaries
+
+Categories: scripture, purpose, wisdom
+
+Challenge:
+What is one boundary that needs to be strengthened or reinforced with your time? Is there someone or something which takes too much of your time? Are there some meetings or calendar items that go "overtime" and need to be kept to a schedule?
+(Pro tip: Since time cannot be recovered, it it considered one of the most cherished resources. Small habits over time acrue the greatest return on investment.)
+
+Prompt:
+Which time boundary would protect one of your most cherished resources?
+
+Quote:
+To every [thing there is] a season, and a time to every purpose under the heaven:
+
+Author: Solomon
+
+Source: Ecclesiastes 3:1 (KJV)
+
+Source URL: https://www.kingjamesbibleonline.org/Ecclesiastes-3-1/
 
 Supplemental Type:
 
