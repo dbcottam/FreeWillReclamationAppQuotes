@@ -5,9 +5,9 @@ This file is the single source of truth for each authored journey day, including
 Use `templates/challenges.md` only for alternate challenges shown when a user refreshes the challenge.
 Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, perseverance, purpose, wisdom.
 
-## Day 1: Clear the Ground
+## Day 1: Enjoy Without Guilt
 
-Focus: release
+Focus: nourishment
 
 Categories: healing, peace
 
@@ -15,16 +15,16 @@ Challenge:
 Food, eat one food without craving, pressure, or guilt and enjoy it.
 
 Prompt:
-What becomes available when you stop pretending that this feeling is not there?
+What changed when you let enjoyment be simple instead of earned?
 
 Quote:
-The wound is the place where the Light enters you.
+Every step can be nourishing and every step can be healing.
 
-Author: Rumi
+Author: Thich Nhat Hanh
 
-Source: Sufinama: Rumi quote
+Source: Plum Village: The Art of Mindful Living
 
-Source URL: https://sufinama.org/quotes/the-wound-is-the-place-where-the-light-enters-you-maulana-rumi-quote
+Source URL: https://plumvillage.org/mindfulness/mindfulness-practice
 
 Supplemental Type: youtube
 
@@ -39,9 +39,9 @@ Supplemental Image URL:
 
 Supplemental Duration: 8 min
 
-## Day 2: Let Go a Little
+## Day 2: Hold a Happy Memory
 
-Focus: release
+Focus: gratitude
 
 Categories: hope, encouragement
 
@@ -49,16 +49,16 @@ Challenge:
 Choose one happy memory, and feel deep, lingering gratitude for it for for a whole minute.
 
 Prompt:
-Where did your body soften when you let go even a little?
+What did gratitude make easier to receive for one full minute?
 
 Quote:
-If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.
+And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
 
-Author: Ajahn Chah
+Author: Paul
 
-Source: Wikiquote: Ajahn Chah
+Source: Colossians 3:15 (KJV)
 
-Source URL: https://en.wikiquote.org/wiki/Ajahn_Chah
+Source URL: https://www.kingjamesbibleonline.org/Colossians-3-15/
 
 Supplemental Type: podcast
 
@@ -73,26 +73,26 @@ Supplemental Image URL:
 
 Supplemental Duration: 24 min
 
-## Day 3: Feel Without Fixing
+## Day 3: Dance for Joy
 
-Focus: presence
+Focus: embodied joy
 
-Categories: encouragement, peace
+Categories: hope, encouragement
 
 Challenge:
 Listen to one of your favorite up-beat songs and dance to it simply for the joy of it
 
 Prompt:
-What did the feeling seem to need from you: witness, truth, rest, action, or compassion?
+What did your body remember when joy was allowed to move?
 
 Quote:
-Nothing ever goes away until it has taught us what we need to know.
+The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
 
-Author: Pema Chodron
+Author: Buddha
 
-Source: When Things Fall Apart
+Source: Wikiquote: Buddha
 
-Source URL: https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n
+Source URL: https://en.wikiquote.org/wiki/Buddha
 
 Supplemental Type: article
 
@@ -107,9 +107,9 @@ Supplemental Image URL:
 
 Supplemental Duration: 5 min read
 
-## Day 4: Choose a Clean Slate
+## Day 4: Bless Your Body
 
-Focus: healing
+Focus: body gratitude
 
 Categories: healing, identity
 
@@ -117,16 +117,16 @@ Challenge:
 Choose one part of your body that you appreciate, and share gratitude for it, sending positive messages and feelings to it aloud or in your mind for a minute
 
 Prompt:
-What would today look like if the past could inform you without directing you?
+What shifted when you spoke appreciation to your body?
 
 Quote:
-The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.
+You, yourself, as much as anybody in the entire universe, deserve your love and affection.
 
-Author: Laozi
+Author: Buddha
 
-Source: Tao Te Ching 22 (Legge)
+Source: Wikiquote: Buddha
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-22
+Source URL: https://en.wikiquote.org/wiki/Buddha
 
 Supplemental Type: resource
 
@@ -141,9 +141,9 @@ Supplemental Image URL:
 
 Supplemental Duration: Resource
 
-## Day 5: Find the Belief
+## Day 5: Thank Steady Love
 
-Focus: beliefs
+Focus: appreciation
 
 Categories: encouragement, healing
 
@@ -151,16 +151,16 @@ Challenge:
 Send a quick message of thanks to someone who has loved you without judgement, and hold appreciation for them while you write it.
 
 Prompt:
-Which belief feels inherited, outdated, or too small for who you are becoming?
+What kind of love helps you stop judging your own becoming?
 
 Quote:
-What is necessary to change a person is to change his awareness of himself.
+Our job is to love others without stopping to inquire whether or not they are worthy.
 
-Author: Abraham Maslow
+Author: Thomas Merton
 
-Source: Wikiquote: Abraham Maslow
+Source: Disputed Questions
 
-Source URL: https://en.wikiquote.org/wiki/Abraham_Maslow
+Source URL: https://en.wikiquote.org/wiki/Thomas_Merton
 
 Supplemental Type: audio
 
@@ -175,9 +175,9 @@ Supplemental Image URL:
 
 Supplemental Duration: 12 min
 
-## Day 6: Ask a Better Question
+## Day 6: Feel What You Resist
 
-Focus: questions
+Focus: emotional awareness
 
 Categories: healing, wisdom
 
@@ -185,16 +185,16 @@ Challenge:
 Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.
 
 Prompt:
-How did the quality of your question change the quality of your energy?
+What did the feeling need from you: rest, forgiveness, compassion, surrender, acceptance, or awareness?
 
 Quote:
-All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.
+Nothing ever goes away until it has taught us what we need to know.
 
-Author: Dhammapada
+Author: Pema Chodron
 
-Source: Dhammapada 1:1 (Muller)
+Source: When Things Fall Apart
 
-Source URL: https://en.wikisource.org/wiki/Dhammapada_(Muller)
+Source URL: https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n
 
 Supplemental Type: video
 
@@ -209,9 +209,9 @@ Supplemental Image URL:
 
 Supplemental Duration: 10 min
 
-## Day 7: Rewrite the Story
+## Day 7: Breathe Your Power Back
 
-Focus: affirmation
+Focus: breath
 
 Categories: peace, courage
 
@@ -219,173 +219,7 @@ Challenge:
 Take 5, deep "belly breaths" when you begin to feel stuck, trapped, or anxious, calling your power back into your present. 
 
 Prompt:
-What words felt both empowering and true enough to practice?
-
-Quote:
-You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
-
-Author: Buckminster Fuller
-
-Source: Wikiquote: Buckminster Fuller
-
-Source URL: https://en.wikiquote.org/wiki/Buckminster_Fuller
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 8: Practice the New Pattern
-
-Focus: patterns
-
-Categories: wisdom, identity
-
-Challenge:
-Think of a time when you followed your intuition and the outcome was remarkable. Then breathe in deep gratitude for your intuition.
-
-Prompt:
-What action made the new belief feel more real?
-
-Quote:
-Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
-
-Author: Aristotle
-
-Source: Wikiquote: Aristotle
-
-Source URL: https://en.wikiquote.org/wiki/Aristotle
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 9: Protect Your Peace
-
-Focus: shielding
-
-Categories: wisdom, courage
-
-Challenge:
-What is something your intuition has encouraged you to take action for, but you haven't followed through? 
-
-Prompt:
-What helped you stay present without absorbing everything around you?
-
-Quote:
-Keep thy heart with all diligence; for out of it [are] the issues of life.
-
-Author: Solomon
-
-Source: Proverbs 4:23 (KJV)
-
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-4-23/
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 10: Strengthen Your Boundary
-
-Focus: boundaries
-
-Categories: purpose, courage
-
-Challenge:
-Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.
-
-Prompt:
-What did the boundary make possible for your energy or focus?
-
-Quote:
-No person is your friend who demands your silence, or denies your right to grow.
-
-Author: Alice Walker
-
-Source: Wikiquote: Alice Walker
-
-Source URL: https://en.wikiquote.org/wiki/Alice_Walker
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 11: Small Routine Upgrade
-
-Focus: routine
-
-Categories: identity, healing, wisdom
-
-Challenge:
-What's one limiting belief about your worth or value that you want to let go of to open more abundance into your life? Feel the emotion, and then surrender it to your Higher Power. 
-Pro tip: When it begins to surface again, acknowledge it and then surrender it again, until it's no longer part of your mentality.
-
-Prompt:
-What routine gave your day more structure without making it rigid?
-
-Quote:
-Mindfulness allows you to live deeply every moment that is given you to live.
-
-Author: Thich Nhat Hanh
-
-Source: Plum Village: Key Teachings
-
-Source URL: https://plumvillage.org/about/thich-nhat-hanh/key-teachings/
-
-Supplemental Type:
-
-Supplemental Title:
-
-Supplemental Description:
-
-Supplemental URL:
-
-Supplemental Image URL:
-
-Supplemental Duration:
-
-## Day 12: Stand in Your Space
-
-Focus: steadiness
-
-Categories: wisdom, purpose
-
-Challenge:
-What is one feeling that comes up when you consider following your intuition as your primary guide for your life and business?
-
-Prompt:
-How did you recognize the difference between pressure and real strength?
+What returned to you when you breathed into the present?
 
 Quote:
 For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
@@ -408,17 +242,150 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 13: Listen for Guidance
+## Day 8: Thank Your Intuition
 
-Focus: intuition
+Focus: intuition gratitude
 
-Categories: purpose, scripture, wisdom
+Categories: wisdom, identity
 
 Challenge:
-In what way do you feel blocked in accomplishing your current ambition or goal? Write it down and mentally hand it (surrender it) to God or your Higher Power to handle it, and exercise faith and trust to truly surrender that obstacle while still moving forward in your goal.
+Think of a time when you followed your intuition and the outcome was remarkable. Then breathe in deep gratitude for your intuition.
 
 Prompt:
-What did you hear before your mind tried to edit it?
+What did remembering a remarkable outcome teach you about your inner guidance?
+
+Quote:
+The only real valuable thing is intuition.
+
+Author: Albert Einstein
+
+Source: Wikiquote: Albert Einstein
+
+Source URL: https://en.wikiquote.org/wiki/Albert_Einstein
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 9: Notice the Unfollowed Nudge
+
+Focus: intuition follow-through
+
+Categories: wisdom, courage
+
+Challenge:
+What is something your intuition has encouraged you to take action for, but you haven't followed through? 
+
+Prompt:
+What intuition-led action is still asking for your attention?
+
+Quote:
+Trusting our intuition often saves us from disaster.
+
+Author: Anne Wilson Schaef
+
+Source: Wikiquote: Anne Wilson Schaef
+
+Source URL: https://en.wikiquote.org/wiki/Anne_Wilson_Schaef
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 10: Take Two Imperfect Minutes
+
+Focus: inspired action
+
+Categories: purpose, courage
+
+Challenge:
+Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.
+
+Prompt:
+What became possible when you acted before planning more?
+
+Quote:
+Freedom is not worth having if it does not include the freedom to make mistakes.
+
+Author: Mahatma Gandhi
+
+Source: Attributed quote
+
+Source URL: https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 11: Surrender a Worth Belief
+
+Focus: worth surrender
+
+Categories: identity, healing, wisdom
+
+Challenge:
+What's one limiting belief about your worth or value that you want to let go of to open more abundance into your life? Feel the emotion, and then surrender it to your Higher Power. 
+Pro tip: When it begins to surface again, acknowledge it and then surrender it again, until it's no longer part of your mentality.
+
+Prompt:
+What loosened when you surrendered the belief instead of wrestling it?
+
+Quote:
+The only power that anything has over us is the power of belief that we give it.
+
+Author: David R. Hawkins
+
+Source: Letting Go: The Pathway of Surrender, Ch. 15
+
+Source URL: https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 12: Name the Intuition Feeling
+
+Focus: intuition feeling
+
+Categories: wisdom, purpose
+
+Challenge:
+What is one feeling that comes up when you consider following your intuition as your primary guide for your life and business?
+
+Prompt:
+What feeling surfaced around letting intuition guide your life and work?
 
 Quote:
 Go to your bosom: Knock there, and ask your heart what it doth know.
@@ -441,26 +408,59 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 14: Test the Next Step
+## Day 13: Surrender the Obstacle
 
-Focus: discernment
+Focus: faithful surrender
+
+Categories: purpose, scripture, wisdom
+
+Challenge:
+In what way do you feel blocked in accomplishing your current ambition or goal? Write it down and mentally hand it (surrender it) to God or your Higher Power to handle it, and exercise faith and trust to truly surrender that obstacle while still moving forward in your goal.
+
+Prompt:
+What changed when you handed the obstacle to God or your Higher Power and kept moving?
+
+Quote:
+Abandon all varieties of dharma and simply surrender unto Me alone.
+
+Author: Bhagavad Gita
+
+Source: Bhagavad Gita 18:66
+
+Source URL: https://bhagavadgita.com/chapter/18/verse/66
+
+Supplemental Type:
+
+Supplemental Title:
+
+Supplemental Description:
+
+Supplemental URL:
+
+Supplemental Image URL:
+
+Supplemental Duration:
+
+## Day 14: Let Joy Fill the Room
+
+Focus: joy practice
 
 Categories: hope, encouragement
 
 Challenge:
-14) For two whole minutes, allow yourself to feel the emotion "joy" without any particular reason (you can start with gratitude, and then think of moments you have felt joy and allow your whole body to feel joy).
+For two whole minutes, allow yourself to feel the emotion "joy" without any particular reason (you can start with gratitude, and then think of moments you have felt joy and allow your whole body to feel joy).
 
 Prompt:
-What did your body seem to know before you had a full explanation?
+What happened when joy did not need a reason first?
 
 Quote:
-He who knows other men is discerning; he who knows himself is intelligent.
+The fullness of joy is to behold God in everything.
 
-Author: Laozi
+Author: Julian of Norwich
 
-Source: Tao Te Ching 33 (Legge)
+Source: Revelations of Divine Love
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-33
+Source URL: https://en.wikisource.org/wiki/Revelations_of_Divine_Love
 
 Supplemental Type:
 
@@ -474,26 +474,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 15: Trust Your Inner Knowing
+## Day 15: Receive the Success Truth
 
-Focus: trust
+Focus: success belief
 
 Categories: identity, hope
 
 Challenge:
-15) Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: "I am created for success, and each step of my life, even setback, is propelling me toward greater success."
+Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: "I am created for success, and each step of my life, even setback, is propelling me toward greater success."
 
 Prompt:
-What makes an intuitive nudge feel trustworthy to you?
+What part of you resisted the truth, and what part wanted to receive it?
 
 Quote:
-The power of intuitive understanding will protect you from harm until the end of your days.
+And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.
 
-Author: Lao Tzu
+Author: Paul
 
-Source: Wikiquote: Lao Tzu
+Source: Romans 8:28 (KJV)
 
-Source URL: https://en.wikiquote.org/wiki/Lao_Tzu
+Source URL: https://www.kingjamesbibleonline.org/Romans-8-28/
 
 Supplemental Type:
 
@@ -507,26 +507,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 16: Make Room for Receiving
+## Day 16: Choose or Surrender
 
-Focus: receiving
+Focus: priorities
 
 Categories: purpose, wisdom
 
 Challenge:
-16) What is one life priority that has been neglected? Is it worth focusing on right now, or is it worth surrendering right now to free your time for something else? Write down your impressions, and choose to let go all guilt, shame, feelings of failure or overwhelm related to it. 
+What is one life priority that has been neglected? Is it worth focusing on right now, or is it worth surrendering right now to free your time for something else? Write down your impressions, and choose to let go all guilt, shame, feelings of failure or overwhelm related to it. 
 
 Prompt:
-What changes when receiving becomes an active practice instead of a passive hope?
+What became clearer when guilt stepped aside and you could choose or surrender honestly?
 
 Quote:
-Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
+Be steadfast in performing your duties, abandoning all attachment to success and failure - such equanimity is called Yoga.
 
-Author: Matthew
+Author: Bhagavad Gita
 
-Source: Matthew 7:7 (KJV)
+Source: Bhagavad Gita 2:48
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-7-7/
+Source URL: https://gita.pub/chapter/2/verse/48/
 
 Supplemental Type:
 
@@ -540,26 +540,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 17: Notice the Block
+## Day 17: Choose Joy First
 
-Focus: abundance-blocks
+Focus: joy before habit
 
 Categories: perseverance, healing
 
 Challenge:
-17) Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)
+Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)
 
 Prompt:
-What might that block be trying to protect you from?
+What shifted when joy or nourishment came before the old distraction?
 
 Quote:
-The real enemies of our life are the oughts and the ifs.
+Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
 
 Author: Henri Nouwen
 
 Source: Here and Now
 
-Source URL: https://en.wikiquote.org/wiki/Henri_Nouwen
+Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
 
 Supplemental Type:
 
@@ -573,26 +573,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 18: Ask for Support
+## Day 18: Choose Better Nourishment
 
-Focus: support
+Focus: nourishment
 
 Categories: healing, wisdom
 
 Challenge:
-18) Think of one food or drink that you crave. Write it down. Consider that there may exist a more joyful food or drink that will better nourish your body and bring you better health and vitality, and take a minute to write down your thoughts and impressions.
+Think of one food or drink that you crave. Write it down. Consider that there may exist a more joyful food or drink that will better nourish your body and bring you better health and vitality, and take a minute to write down your thoughts and impressions.
 
 Prompt:
-What belief about support surfaced when you asked?
+What did the craving seem to want, and what would nourish you more deeply?
 
 Quote:
-Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.
+I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
 
-Author: bell hooks
+Author: Albert Einstein
 
-Source: All About Love
+Source: Wikiquote: Albert Einstein
 
-Source URL: https://www.goodreads.com/quotes/159436-rarely-if-ever-are-any-of-us-healed-in-isolation
+Source URL: https://en.wikiquote.org/wiki/Albert_Einstein
 
 Supplemental Type:
 
