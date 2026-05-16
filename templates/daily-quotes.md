@@ -86,13 +86,13 @@ Prompt:
 What did your body remember when joy was allowed to move?
 
 Quote:
-The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
+Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
 
-Author: Buddha
+Author: Henri Nouwen
 
-Source: Wikiquote: Buddha
+Source: Here and Now
 
-Source URL: https://en.wikiquote.org/wiki/Buddha
+Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
 
 Supplemental Type: article
 

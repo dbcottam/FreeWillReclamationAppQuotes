@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-16T04:38:11.588Z",
+  "lastUpdated": "2026-05-16T04:52:45.986Z",
   "quotes": [
     {
       "day": 1,
@@ -61,10 +61,10 @@
       "artworkKey": "day-03",
       "challenge": "Listen to one of your favorite up-beat songs and dance to it simply for the joy of it",
       "prompt": "What did your body remember when joy was allowed to move?",
-      "quote": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
-      "author": "Buddha",
-      "source": "Wikiquote: Buddha",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Buddha",
+      "quote": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
+      "author": "Henri Nouwen",
+      "source": "Here and Now",
+      "sourceUrl": "https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to",
       "categories": [
         "hope",
         "encouragement"
