@@ -38,6 +38,10 @@ async function testGenerate() {
   assert.equal(daily.quotes[0].day, 1);
   assert.equal(daily.quotes[0].slug, "choice");
   assert.equal(daily.quotes[0].artworkKey, "day-01");
+  assert.equal(
+    daily.quotes[0].artworkUrl,
+    "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-01.webp",
+  );
   assert.deepEqual(daily.quotes[0].categories, ["scripture", "hope"]);
   assert.equal(daily.quotes[0].challenge, "Choose something");
   assert.deepEqual(daily.quotes[0].supplemental, {
@@ -163,8 +167,11 @@ async function testGeneratedIds() {
 async function makeFixture() {
   const contentRoot = await mkdtemp(join(tmpdir(), "fwr-content-"));
   const templatesRoot = join(contentRoot, "templates");
+  const watermarkedImagesRoot = join(contentRoot, "assets", "daily-images-watermarked");
 
   await mkdir(templatesRoot, { recursive: true });
+  await mkdir(watermarkedImagesRoot, { recursive: true });
+  await writeFile(join(watermarkedImagesRoot, "day-01.webp"), "watermarked fixture");
 
   await writeFile(
     join(templatesRoot, "daily-quotes.md"),

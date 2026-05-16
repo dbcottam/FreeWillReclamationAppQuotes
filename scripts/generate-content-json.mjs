@@ -9,7 +9,8 @@ const versionedOutputDir = contentContractVersion;
 let contentRoot = process.env.CONTENT_ROOT ?? ".";
 
 const GITHUB_RAW_BASE =
-  "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/";
+  "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/";
+const DAILY_ARTWORK_ASSET_DIR = "daily-images-watermarked";
 const SUPPORTED_ARTWORK_FILE_PATTERN = /\.(webp|png|jpg|jpeg)$/i;
 
 const categories = [
@@ -177,7 +178,7 @@ export async function main(args = process.argv.slice(2), options = {}) {
 }
 
 async function buildArtworkUrlMap(root) {
-  const assetsDir = join(root, "assets", "daily-images");
+  const assetsDir = join(root, "assets", DAILY_ARTWORK_ASSET_DIR);
 
   try {
     const files = await readdir(assetsDir);

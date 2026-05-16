@@ -41,7 +41,8 @@ See `CONTENT_API_CONTRACT.md` for the compatibility rule and structural-change c
 - `quotes.schema.json` shape reference for `quotes.json`
 - `daily-quotes.schema.json` shape reference for `daily-quotes.json`
 - `challenge.schema.json` shape reference for `challenge.json`
-- `assets/daily-images/` artwork images served to the app by GitHub Raw URL
+- `assets/daily-images/` source artwork images
+- `assets/daily-images-watermarked/` app-facing artwork images served by GitHub Raw URL
 - `scripts/generate-content-json.mjs` Markdown template to JSON conversion script
 - `CHANGELOG.md` release notes for quote feed changes
 
@@ -112,7 +113,7 @@ The first six entries in `templates/daily-quotes.md` intentionally demonstrate e
 
 ## Daily Artwork Images
 
-Place artwork files in `assets/daily-images/` named to match the generated `artworkKey` for each day.
+Place source artwork files in `assets/daily-images/` named to match the generated `artworkKey` for each day. Run the watermark command before generating content so app-facing URLs use `assets/daily-images-watermarked/`.
 
 ### Naming convention
 
@@ -127,22 +128,23 @@ Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
 
 ### How it works
 
-When `npm run content:generate` runs, the build script scans `assets/daily-images/`. For each image found it constructs a GitHub Raw URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Days with no image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
+When `npm run content:generate` runs, the build script scans `assets/daily-images-watermarked/`. For each image found it constructs a GitHub Raw URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Days with no watermarked image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
 
 The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, replace the image while keeping the generated day filename, then regenerate the content JSON.
 
 ### Image URL format
 
 ```
-https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-01.webp
+https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-01.webp
 ```
 
 ### Workflow for adding a new image
 
-1. Add the image to `assets/daily-images/` with the correct filename.
-2. Run `npm run content:generate` to rebuild `daily-quotes.json`.
-3. Commit and push both the image and the updated `daily-quotes.json`.
-4. The app picks up the new URL on next launch - no app release needed.
+1. Add the source image to `assets/daily-images/` with the correct filename.
+2. Run `npm run watermark:daily-images` to create the app-facing copy.
+3. Run `npm run content:generate` to rebuild `daily-quotes.json`.
+4. Commit and push the source image, watermarked image, and updated JSON.
+5. The app picks up the new URL on next launch - no app release needed.
 
 ## Example Entry
 

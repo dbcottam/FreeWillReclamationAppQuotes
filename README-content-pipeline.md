@@ -11,7 +11,8 @@ This repository uses human-editable Markdown templates as the source of truth an
 - `v2/*.json` - generated contract-pinned endpoint files consumed by the next app build.
 - Root endpoint files such as `daily-quotes.json`, `daily-challenge.json`, `quotes.json`, and `challenge.json` are legacy compatibility files and are not rewritten unless `WRITE_LEGACY_ROOT_FEEDS=1` is set.
 - `*.schema.json` - validation shape references for the generated JSON.
-- `assets/daily-images/` - artwork images; filenames use the generated daily artwork key, such as `day-01.webp`.
+- `assets/daily-images/` - source artwork images; filenames use the generated daily artwork key, such as `day-01.webp`.
+- `assets/daily-images-watermarked/` - app-facing artwork images with Celeste Fife copyright text. `artworkUrl` values are generated from this folder, not from the originals.
 - `scripts/generate-content-json.mjs` - Markdown template to JSON generation and JSON to template export.
 
 ## Template Editing Rules
@@ -88,17 +89,18 @@ npm test
 
 ## Adding Artwork Images
 
-1. Place an image in `assets/daily-images/` named to match the generated day key.
+1. Place the source image in `assets/daily-images/` named to match the generated day key.
    ```
    day-01.webp
    day-02.webp
    ```
    Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
-2. Run `npm run content:generate` or `npm run content:generate:daily`.
-3. The script injects `artworkUrl` into `daily-quotes.json` automatically.
-4. Commit and push the image and the updated `daily-quotes.json`.
+2. Run `npm run watermark:daily-images` to create or update `assets/daily-images-watermarked/`.
+3. Run `npm run content:generate` or `npm run content:generate:daily`.
+4. The script injects `artworkUrl` from `assets/daily-images-watermarked/` into `daily-quotes.json` automatically.
+5. Commit and push the source image, watermarked image, and updated JSON.
 
-Days with no image produce no `artworkUrl`. The app falls back to generated geometric artwork.
+Days with no watermarked image produce no `artworkUrl`. The app falls back to generated geometric artwork.
 
 ## Validation Behavior
 
