@@ -9,10 +9,10 @@ Allowed categories: scripture, courage, encouragement, healing, hope, identity, 
 
 Focus: release
 
-Categories: healing, hope
+Categories: healing, peace
 
 Challenge:
-Name one emotion, resentment, or disappointment that has been taking up space, and give it one honest sentence.
+Food, eat one food without craving, pressure, or guilt and enjoy it.
 
 Prompt:
 What becomes available when you stop pretending that this feeling is not there?
@@ -43,10 +43,10 @@ Supplemental Duration: 8 min
 
 Focus: release
 
-Categories: healing, peace
+Categories: hope, encouragement
 
 Challenge:
-Choose one small grip to loosen today: a rule, a judgment, a timeline, or a need to control the outcome.
+Choose one happy memory, and feel deep, lingering gratitude for it for for a whole minute.
 
 Prompt:
 Where did your body soften when you let go even a little?
@@ -77,10 +77,10 @@ Supplemental Duration: 24 min
 
 Focus: presence
 
-Categories: wisdom, healing
+Categories: encouragement, peace
 
 Challenge:
-Give one difficult feeling ninety seconds of kind attention before you try to solve anything.
+Listen to one of your favorite up-beat songs and dance to it simply for the joy of it
 
 Prompt:
 What did the feeling seem to need from you: witness, truth, rest, action, or compassion?
@@ -111,10 +111,10 @@ Supplemental Duration: 5 min read
 
 Focus: healing
 
-Categories: scripture, healing, hope
+Categories: healing, identity
 
 Challenge:
-Write down one old pattern you are ready to stop rehearsing, then write the clean-slate choice beside it.
+Choose one part of your body that you appreciate, and share gratitude for it, sending positive messages and feelings to it aloud or in your mind for a minute
 
 Prompt:
 What would today look like if the past could inform you without directing you?
@@ -145,10 +145,10 @@ Supplemental Duration: Resource
 
 Focus: beliefs
 
-Categories: identity, wisdom
+Categories: encouragement, healing
 
 Challenge:
-Notice one recurring pressure or fear and ask, 'What belief is this trying to prove?'
+Send a quick message of thanks to someone who has loved you without judgement, and hold appreciation for them while you write it.
 
 Prompt:
 Which belief feels inherited, outdated, or too small for who you are becoming?
@@ -179,10 +179,10 @@ Supplemental Duration: 12 min
 
 Focus: questions
 
-Categories: scripture, wisdom, identity
+Categories: healing, wisdom
 
 Challenge:
-Replace one defeated question with a useful one, such as 'What is one truthful next step?'
+Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.
 
 Prompt:
 How did the quality of your question change the quality of your energy?
@@ -213,10 +213,10 @@ Supplemental Duration: 10 min
 
 Focus: affirmation
 
-Categories: purpose, wisdom
+Categories: peace, courage
 
 Challenge:
-Turn one limiting belief into an honest affirmation that your nervous system can actually believe.
+Take 5, deep "belly breaths" when you begin to feel stuck, trapped, or anxious, calling your power back into your present. 
 
 Prompt:
 What words felt both empowering and true enough to practice?
@@ -246,10 +246,10 @@ Supplemental Duration:
 
 Focus: patterns
 
-Categories: courage, encouragement
+Categories: wisdom, identity
 
 Challenge:
-Repeat your new affirmation three times today, then take one tiny action that proves it.
+Think of a time when you followed your intuition and the outcome was remarkable. Then breathe in deep gratitude for your intuition.
 
 Prompt:
 What action made the new belief feel more real?
@@ -279,10 +279,10 @@ Supplemental Duration:
 
 Focus: shielding
 
-Categories: scripture, purpose, wisdom
+Categories: wisdom, courage
 
 Challenge:
-Before entering one draining space, set an intention for what energy belongs to you and what does not.
+What is something your intuition has encouraged you to take action for, but you haven't followed through? 
 
 Prompt:
 What helped you stay present without absorbing everything around you?
@@ -312,10 +312,10 @@ Supplemental Duration:
 
 Focus: boundaries
 
-Categories: identity, peace
+Categories: purpose, courage
 
 Challenge:
-Practice one boundary that is simple, respectful, and clear.
+Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.
 
 Prompt:
 What did the boundary make possible for your energy or focus?
@@ -345,10 +345,11 @@ Supplemental Duration:
 
 Focus: routine
 
-Categories: peace, wisdom
+Categories: identity, healing, wisdom
 
 Challenge:
-Choose one routine that supports steadiness: a breath, a note, a pause, a prayer, or a check-in.
+What's one limiting belief about your worth or value that you want to let go of to open more abundance into your life? Feel the emotion, and then surrender it to your Higher Power. 
+Pro tip: When it begins to surface again, acknowledge it and then surrender it again, until it's no longer part of your mentality.
 
 Prompt:
 What routine gave your day more structure without making it rigid?
@@ -378,10 +379,10 @@ Supplemental Duration:
 
 Focus: steadiness
 
-Categories: scripture, wisdom, identity
+Categories: wisdom, purpose
 
 Challenge:
-Take one action from calm authority instead of pressure, performance, or panic.
+What is one feeling that comes up when you consider following your intuition as your primary guide for your life and business?
 
 Prompt:
 How did you recognize the difference between pressure and real strength?
@@ -411,10 +412,10 @@ Supplemental Duration:
 
 Focus: intuition
 
-Categories: wisdom, identity
+Categories: purpose, scripture, wisdom
 
 Challenge:
-Spend three quiet minutes asking for guidance, then write the first simple impression without arguing with it.
+In what way do you feel blocked in accomplishing your current ambition or goal? Write it down and mentally hand it (surrender it) to God or your Higher Power to handle it, and exercise faith and trust to truly surrender that obstacle while still moving forward in your goal.
 
 Prompt:
 What did you hear before your mind tried to edit it?
@@ -444,10 +445,10 @@ Supplemental Duration:
 
 Focus: discernment
 
-Categories: scripture, identity, wisdom
+Categories: hope, encouragement
 
 Challenge:
-Hold one possible next step in mind and notice whether your body feels contracted, neutral, or open.
+14) For two whole minutes, allow yourself to feel the emotion "joy" without any particular reason (you can start with gratitude, and then think of moments you have felt joy and allow your whole body to feel joy).
 
 Prompt:
 What did your body seem to know before you had a full explanation?
@@ -477,10 +478,10 @@ Supplemental Duration:
 
 Focus: trust
 
-Categories: courage, peace
+Categories: identity, hope
 
 Challenge:
-Act on one small intuitive nudge that is kind, grounded, and aligned.
+15) Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: "I am created for success, and each step of my life, even setback, is propelling me toward greater success."
 
 Prompt:
 What makes an intuitive nudge feel trustworthy to you?
@@ -510,10 +511,10 @@ Supplemental Duration:
 
 Focus: receiving
 
-Categories: scripture, purpose, wisdom
+Categories: purpose, wisdom
 
 Challenge:
-Create one quiet opening today where guidance, clarity, or support can reach you.
+16) What is one life priority that has been neglected? Is it worth focusing on right now, or is it worth surrendering right now to free your time for something else? Write down your impressions, and choose to let go all guilt, shame, feelings of failure or overwhelm related to it. 
 
 Prompt:
 What changes when receiving becomes an active practice instead of a passive hope?
@@ -543,10 +544,10 @@ Supplemental Duration:
 
 Focus: abundance-blocks
 
-Categories: healing, identity
+Categories: perseverance, healing
 
 Challenge:
-Identify one thought or habit that makes abundance feel unsafe, unavailable, or undeserved.
+17) Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)
 
 Prompt:
 What might that block be trying to protect you from?
@@ -576,10 +577,10 @@ Supplemental Duration:
 
 Focus: support
 
-Categories: healing, peace
+Categories: healing, wisdom
 
 Challenge:
-Ask for one form of support today: practical, emotional, spiritual, or relational.
+18) Think of one food or drink that you crave. Write it down. Consider that there may exist a more joyful food or drink that will better nourish your body and bring you better health and vitality, and take a minute to write down your thoughts and impressions.
 
 Prompt:
 What belief about support surfaced when you asked?

@@ -1,6 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-05-09T23:11:36.583Z",
+  "contractVersion": "v2",
+  "lastUpdated": "2026-05-16T03:28:28.398Z",
   "quotes": [
     {
       "day": 1,
@@ -8,7 +9,7 @@
       "focus": "release",
       "title": "Clear the Ground",
       "artworkKey": "day-01",
-      "challenge": "Name one emotion, resentment, or disappointment that has been taking up space, and give it one honest sentence.",
+      "challenge": "Food, eat one food without craving, pressure, or guilt and enjoy it.",
       "prompt": "What becomes available when you stop pretending that this feeling is not there?",
       "quote": "The wound is the place where the Light enters you.",
       "author": "Rumi",
@@ -16,8 +17,15 @@
       "sourceUrl": "https://sufinama.org/quotes/the-wound-is-the-place-where-the-light-enters-you-maulana-rumi-quote",
       "categories": [
         "healing",
-        "hope"
+        "peace"
       ],
+      "supplemental": {
+        "type": "youtube",
+        "title": "Day 1 Companion Video",
+        "description": "A short companion video example for the first day of release work.",
+        "url": "https://www.youtube.com/NikkiCottam",
+        "durationLabel": "8 min"
+      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-01.webp"
     },
     {
@@ -26,16 +34,23 @@
       "focus": "release",
       "title": "Let Go a Little",
       "artworkKey": "day-02",
-      "challenge": "Choose one small grip to loosen today: a rule, a judgment, a timeline, or a need to control the outcome.",
+      "challenge": "Choose one happy memory, and feel deep, lingering gratitude for it for for a whole minute.",
       "prompt": "Where did your body soften when you let go even a little?",
       "quote": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
       "author": "Ajahn Chah",
       "source": "Wikiquote: Ajahn Chah",
       "sourceUrl": "https://en.wikiquote.org/wiki/Ajahn_Chah",
       "categories": [
-        "healing",
-        "peace"
+        "hope",
+        "encouragement"
       ],
+      "supplemental": {
+        "type": "podcast",
+        "title": "Day 2 Companion Podcast",
+        "description": "A podcast example for listening while practicing release and peace.",
+        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
+        "durationLabel": "24 min"
+      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-02.webp"
     },
     {
@@ -44,16 +59,24 @@
       "focus": "presence",
       "title": "Feel Without Fixing",
       "artworkKey": "day-03",
-      "challenge": "Give one difficult feeling ninety seconds of kind attention before you try to solve anything.",
+      "challenge": "Listen to one of your favorite up-beat songs and dance to it simply for the joy of it",
       "prompt": "What did the feeling seem to need from you: witness, truth, rest, action, or compassion?",
       "quote": "Nothing ever goes away until it has taught us what we need to know.",
       "author": "Pema Chodron",
       "source": "When Things Fall Apart",
       "sourceUrl": "https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n",
       "categories": [
-        "wisdom",
-        "healing"
-      ]
+        "encouragement",
+        "peace"
+      ],
+      "supplemental": {
+        "type": "article",
+        "title": "Day 3 Companion Article",
+        "description": "A written companion example for reflecting before trying to fix a feeling.",
+        "url": "https://www.nikkicottam.com/",
+        "durationLabel": "5 min read"
+      },
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-03.webp"
     },
     {
       "day": 4,
@@ -61,17 +84,24 @@
       "focus": "healing",
       "title": "Choose a Clean Slate",
       "artworkKey": "day-04",
-      "challenge": "Write down one old pattern you are ready to stop rehearsing, then write the clean-slate choice beside it.",
+      "challenge": "Choose one part of your body that you appreciate, and share gratitude for it, sending positive messages and feelings to it aloud or in your mind for a minute",
       "prompt": "What would today look like if the past could inform you without directing you?",
       "quote": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
       "author": "Laozi",
       "source": "Tao Te Ching 22 (Legge)",
       "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-22",
       "categories": [
-        "scripture",
         "healing",
-        "hope"
-      ]
+        "identity"
+      ],
+      "supplemental": {
+        "type": "resource",
+        "title": "Day 4 Companion Resource",
+        "description": "A resource hub example for choosing a clean slate and continuing the work.",
+        "url": "https://www.nikkicottam.com/abundance-unplugged-resource-hub",
+        "durationLabel": "Resource"
+      },
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-04.webp"
     },
     {
       "day": 5,
@@ -79,16 +109,24 @@
       "focus": "beliefs",
       "title": "Find the Belief",
       "artworkKey": "day-05",
-      "challenge": "Notice one recurring pressure or fear and ask, 'What belief is this trying to prove?'",
+      "challenge": "Send a quick message of thanks to someone who has loved you without judgement, and hold appreciation for them while you write it.",
       "prompt": "Which belief feels inherited, outdated, or too small for who you are becoming?",
       "quote": "What is necessary to change a person is to change his awareness of himself.",
       "author": "Abraham Maslow",
       "source": "Wikiquote: Abraham Maslow",
       "sourceUrl": "https://en.wikiquote.org/wiki/Abraham_Maslow",
       "categories": [
-        "identity",
-        "wisdom"
-      ]
+        "encouragement",
+        "healing"
+      ],
+      "supplemental": {
+        "type": "audio",
+        "title": "Day 5 Companion Audio",
+        "description": "An audio example for noticing inherited beliefs and making space for a new one.",
+        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
+        "durationLabel": "12 min"
+      },
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-05.webp"
     },
     {
       "day": 6,
@@ -96,17 +134,24 @@
       "focus": "questions",
       "title": "Ask a Better Question",
       "artworkKey": "day-06",
-      "challenge": "Replace one defeated question with a useful one, such as 'What is one truthful next step?'",
+      "challenge": "Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.",
       "prompt": "How did the quality of your question change the quality of your energy?",
       "quote": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.",
       "author": "Dhammapada",
       "source": "Dhammapada 1:1 (Muller)",
       "sourceUrl": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
       "categories": [
-        "scripture",
-        "wisdom",
-        "identity"
-      ]
+        "healing",
+        "wisdom"
+      ],
+      "supplemental": {
+        "type": "video",
+        "title": "Day 6 Companion Video",
+        "description": "A general video example for practicing better questions and truthful next steps.",
+        "url": "https://www.youtube.com/NikkiCottam",
+        "durationLabel": "10 min"
+      },
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-06.webp"
     },
     {
       "day": 7,
@@ -114,16 +159,17 @@
       "focus": "affirmation",
       "title": "Rewrite the Story",
       "artworkKey": "day-07",
-      "challenge": "Turn one limiting belief into an honest affirmation that your nervous system can actually believe.",
+      "challenge": "Take 5, deep \"belly breaths\" when you begin to feel stuck, trapped, or anxious, calling your power back into your present.",
       "prompt": "What words felt both empowering and true enough to practice?",
       "quote": "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.",
       "author": "Buckminster Fuller",
       "source": "Wikiquote: Buckminster Fuller",
       "sourceUrl": "https://en.wikiquote.org/wiki/Buckminster_Fuller",
       "categories": [
-        "purpose",
-        "wisdom"
-      ]
+        "peace",
+        "courage"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-07.webp"
     },
     {
       "day": 8,
@@ -131,16 +177,17 @@
       "focus": "patterns",
       "title": "Practice the New Pattern",
       "artworkKey": "day-08",
-      "challenge": "Repeat your new affirmation three times today, then take one tiny action that proves it.",
+      "challenge": "Think of a time when you followed your intuition and the outcome was remarkable. Then breathe in deep gratitude for your intuition.",
       "prompt": "What action made the new belief feel more real?",
       "quote": "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
       "author": "Aristotle",
       "source": "Wikiquote: Aristotle",
       "sourceUrl": "https://en.wikiquote.org/wiki/Aristotle",
       "categories": [
-        "courage",
-        "encouragement"
-      ]
+        "wisdom",
+        "identity"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-08.webp"
     },
     {
       "day": 9,
@@ -148,17 +195,17 @@
       "focus": "shielding",
       "title": "Protect Your Peace",
       "artworkKey": "day-09",
-      "challenge": "Before entering one draining space, set an intention for what energy belongs to you and what does not.",
+      "challenge": "What is something your intuition has encouraged you to take action for, but you haven't followed through?",
       "prompt": "What helped you stay present without absorbing everything around you?",
       "quote": "Keep thy heart with all diligence; for out of it [are] the issues of life.",
       "author": "Solomon",
       "source": "Proverbs 4:23 (KJV)",
       "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-4-23/",
       "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
+        "wisdom",
+        "courage"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-09.webp"
     },
     {
       "day": 10,
@@ -166,16 +213,17 @@
       "focus": "boundaries",
       "title": "Strengthen Your Boundary",
       "artworkKey": "day-10",
-      "challenge": "Practice one boundary that is simple, respectful, and clear.",
+      "challenge": "Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.",
       "prompt": "What did the boundary make possible for your energy or focus?",
       "quote": "No person is your friend who demands your silence, or denies your right to grow.",
       "author": "Alice Walker",
       "source": "Wikiquote: Alice Walker",
       "sourceUrl": "https://en.wikiquote.org/wiki/Alice_Walker",
       "categories": [
-        "identity",
-        "peace"
-      ]
+        "purpose",
+        "courage"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-10.webp"
     },
     {
       "day": 11,
@@ -183,16 +231,18 @@
       "focus": "routine",
       "title": "Small Routine Upgrade",
       "artworkKey": "day-11",
-      "challenge": "Choose one routine that supports steadiness: a breath, a note, a pause, a prayer, or a check-in.",
+      "challenge": "What's one limiting belief about your worth or value that you want to let go of to open more abundance into your life? Feel the emotion, and then surrender it to your Higher Power. \nPro tip: When it begins to surface again, acknowledge it and then surrender it again, until it's no longer part of your mentality.",
       "prompt": "What routine gave your day more structure without making it rigid?",
       "quote": "Mindfulness allows you to live deeply every moment that is given you to live.",
       "author": "Thich Nhat Hanh",
       "source": "Plum Village: Key Teachings",
       "sourceUrl": "https://plumvillage.org/about/thich-nhat-hanh/key-teachings/",
       "categories": [
-        "peace",
+        "identity",
+        "healing",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-11.webp"
     },
     {
       "day": 12,
@@ -200,17 +250,17 @@
       "focus": "steadiness",
       "title": "Stand in Your Space",
       "artworkKey": "day-12",
-      "challenge": "Take one action from calm authority instead of pressure, performance, or panic.",
+      "challenge": "What is one feeling that comes up when you consider following your intuition as your primary guide for your life and business?",
       "prompt": "How did you recognize the difference between pressure and real strength?",
       "quote": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
       "author": "Paul",
       "source": "2 Timothy 1:7 (KJV)",
       "sourceUrl": "https://www.kingjamesbibleonline.org/2-Timothy-1-7/",
       "categories": [
-        "scripture",
         "wisdom",
-        "identity"
-      ]
+        "purpose"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-12.webp"
     },
     {
       "day": 13,
@@ -218,16 +268,18 @@
       "focus": "intuition",
       "title": "Listen for Guidance",
       "artworkKey": "day-13",
-      "challenge": "Spend three quiet minutes asking for guidance, then write the first simple impression without arguing with it.",
+      "challenge": "In what way do you feel blocked in accomplishing your current ambition or goal? Write it down and mentally hand it (surrender it) to God or your Higher Power to handle it, and exercise faith and trust to truly surrender that obstacle while still moving forward in your goal.",
       "prompt": "What did you hear before your mind tried to edit it?",
       "quote": "Go to your bosom: Knock there, and ask your heart what it doth know.",
       "author": "William Shakespeare",
       "source": "Measure for Measure, Act II, Scene II",
       "sourceUrl": "https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II",
       "categories": [
-        "wisdom",
-        "identity"
-      ]
+        "purpose",
+        "scripture",
+        "wisdom"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-13.webp"
     },
     {
       "day": 14,
@@ -235,17 +287,17 @@
       "focus": "discernment",
       "title": "Test the Next Step",
       "artworkKey": "day-14",
-      "challenge": "Hold one possible next step in mind and notice whether your body feels contracted, neutral, or open.",
+      "challenge": "14) For two whole minutes, allow yourself to feel the emotion \"joy\" without any particular reason (you can start with gratitude, and then think of moments you have felt joy and allow your whole body to feel joy).",
       "prompt": "What did your body seem to know before you had a full explanation?",
       "quote": "He who knows other men is discerning; he who knows himself is intelligent.",
       "author": "Laozi",
       "source": "Tao Te Ching 33 (Legge)",
       "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-33",
       "categories": [
-        "scripture",
-        "identity",
-        "wisdom"
-      ]
+        "hope",
+        "encouragement"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-14.webp"
     },
     {
       "day": 15,
@@ -253,16 +305,17 @@
       "focus": "trust",
       "title": "Trust Your Inner Knowing",
       "artworkKey": "day-15",
-      "challenge": "Act on one small intuitive nudge that is kind, grounded, and aligned.",
+      "challenge": "15) Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: \"I am created for success, and each step of my life, even setback, is propelling me toward greater success.\"",
       "prompt": "What makes an intuitive nudge feel trustworthy to you?",
       "quote": "The power of intuitive understanding will protect you from harm until the end of your days.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
       "sourceUrl": "https://en.wikiquote.org/wiki/Lao_Tzu",
       "categories": [
-        "courage",
-        "peace"
-      ]
+        "identity",
+        "hope"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-15.webp"
     },
     {
       "day": 16,
@@ -270,17 +323,17 @@
       "focus": "receiving",
       "title": "Make Room for Receiving",
       "artworkKey": "day-16",
-      "challenge": "Create one quiet opening today where guidance, clarity, or support can reach you.",
+      "challenge": "16) What is one life priority that has been neglected? Is it worth focusing on right now, or is it worth surrendering right now to free your time for something else? Write down your impressions, and choose to let go all guilt, shame, feelings of failure or overwhelm related to it.",
       "prompt": "What changes when receiving becomes an active practice instead of a passive hope?",
       "quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
       "author": "Matthew",
       "source": "Matthew 7:7 (KJV)",
       "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-7-7/",
       "categories": [
-        "scripture",
         "purpose",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-16.webp"
     },
     {
       "day": 17,
@@ -288,16 +341,17 @@
       "focus": "abundance-blocks",
       "title": "Notice the Block",
       "artworkKey": "day-17",
-      "challenge": "Identify one thought or habit that makes abundance feel unsafe, unavailable, or undeserved.",
+      "challenge": "17) Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one \"joyful\" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)",
       "prompt": "What might that block be trying to protect you from?",
       "quote": "The real enemies of our life are the oughts and the ifs.",
       "author": "Henri Nouwen",
       "source": "Here and Now",
       "sourceUrl": "https://en.wikiquote.org/wiki/Henri_Nouwen",
       "categories": [
-        "healing",
-        "identity"
-      ]
+        "perseverance",
+        "healing"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-17.webp"
     },
     {
       "day": 18,
@@ -305,7 +359,7 @@
       "focus": "support",
       "title": "Ask for Support",
       "artworkKey": "day-18",
-      "challenge": "Ask for one form of support today: practical, emotional, spiritual, or relational.",
+      "challenge": "18) Think of one food or drink that you crave. Write it down. Consider that there may exist a more joyful food or drink that will better nourish your body and bring you better health and vitality, and take a minute to write down your thoughts and impressions.",
       "prompt": "What belief about support surfaced when you asked?",
       "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
       "author": "bell hooks",
@@ -313,8 +367,9 @@
       "sourceUrl": "https://www.goodreads.com/quotes/159436-rarely-if-ever-are-any-of-us-healed-in-isolation",
       "categories": [
         "healing",
-        "peace"
-      ]
+        "wisdom"
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-18.webp"
     },
     {
       "day": 19,
@@ -331,7 +386,8 @@
       "categories": [
         "hope",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-19.webp"
     },
     {
       "day": 20,
@@ -348,7 +404,8 @@
       "categories": [
         "hope",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-20.webp"
     },
     {
       "day": 21,
@@ -365,7 +422,8 @@
       "categories": [
         "purpose",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-21.webp"
     },
     {
       "day": 22,
@@ -383,7 +441,8 @@
         "scripture",
         "purpose",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-22.webp"
     },
     {
       "day": 23,
@@ -400,7 +459,8 @@
       "categories": [
         "wisdom",
         "purpose"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-23.webp"
     },
     {
       "day": 24,
@@ -417,7 +477,8 @@
       "categories": [
         "wisdom",
         "purpose"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-24.webp"
     },
     {
       "day": 25,
@@ -435,7 +496,8 @@
         "scripture",
         "identity",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-25.webp"
     },
     {
       "day": 26,
@@ -452,7 +514,8 @@
       "categories": [
         "purpose",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-26.webp"
     },
     {
       "day": 27,
@@ -469,7 +532,8 @@
       "categories": [
         "encouragement",
         "purpose"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-27.webp"
     },
     {
       "day": 28,
@@ -487,7 +551,8 @@
         "scripture",
         "purpose",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-28.webp"
     },
     {
       "day": 29,
@@ -504,7 +569,8 @@
       "categories": [
         "identity",
         "healing"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-29.webp"
     },
     {
       "day": 30,
@@ -521,7 +587,8 @@
       "categories": [
         "identity",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-30.webp"
     },
     {
       "day": 31,
@@ -538,7 +605,8 @@
       "categories": [
         "purpose",
         "identity"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-31.webp"
     },
     {
       "day": 32,
@@ -556,7 +624,8 @@
         "scripture",
         "courage",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-32.webp"
     },
     {
       "day": 33,
@@ -573,7 +642,8 @@
       "categories": [
         "purpose",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-33.webp"
     },
     {
       "day": 34,
@@ -590,7 +660,8 @@
       "categories": [
         "encouragement",
         "hope"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-34.webp"
     },
     {
       "day": 35,
@@ -608,7 +679,8 @@
         "scripture",
         "courage",
         "peace"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-35.webp"
     },
     {
       "day": 36,
@@ -625,7 +697,8 @@
       "categories": [
         "purpose",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-36.webp"
     },
     {
       "day": 37,
@@ -643,7 +716,8 @@
         "scripture",
         "perseverance",
         "wisdom"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-37.webp"
     },
     {
       "day": 38,
@@ -661,7 +735,8 @@
         "scripture",
         "hope",
         "perseverance"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-38.webp"
     },
     {
       "day": 39,
@@ -678,7 +753,8 @@
       "categories": [
         "courage",
         "encouragement"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-39.webp"
     },
     {
       "day": 40,
@@ -695,7 +771,8 @@
       "categories": [
         "hope",
         "purpose"
-      ]
+      ],
+      "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images/day-40.webp"
     }
   ]
 }
