@@ -3,13 +3,13 @@
 Edit the values below, then run `npm run content:generate` to rebuild the app JSON.
 This file is the single source of truth for each authored journey day, including the default daily challenge.
 Use `templates/challenges.md` only for alternate challenges shown when a user refreshes the challenge.
-Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, perseverance, purpose, wisdom.
+Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, compassion, perseverance, purpose, wisdom, gratitude, joy, intuition, boundaries, embodiment, surrender, freedom, discernment, forgiveness, agency, abundance.
 
 ## Day 1: Enjoy Without Guilt
 
 Focus: nourishment
 
-Categories: healing, peace
+Categories: healing, peace, embodiment
 
 Challenge:
 Food, eat one food without craving, pressure, or guilt and enjoy it.
@@ -43,7 +43,7 @@ Supplemental Duration: 8 min
 
 Focus: gratitude
 
-Categories: hope, encouragement
+Categories: gratitude, hope, encouragement
 
 Challenge:
 Choose one happy memory, and feel deep, lingering gratitude for it for for a whole minute.
@@ -58,7 +58,7 @@ Author: Paul
 
 Source: Colossians 3:15 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Colossians-3-15/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:15
 
 Supplemental Type: podcast
 
@@ -77,7 +77,7 @@ Supplemental Duration: 24 min
 
 Focus: embodied joy
 
-Categories: hope, encouragement
+Categories: joy, hope, encouragement, embodiment
 
 Challenge:
 Listen to one of your favorite up-beat songs and dance to it simply for the joy of it
@@ -86,13 +86,13 @@ Prompt:
 What did your body remember when joy was allowed to move?
 
 Quote:
-Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
+These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
 
-Author: Henri Nouwen
+Author: John 15:11
 
-Source: Here and Now
+Source: King James Version
 
-Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#15:11
 
 Supplemental Type: article
 
@@ -111,7 +111,7 @@ Supplemental Duration: 5 min read
 
 Focus: body gratitude
 
-Categories: healing, identity
+Categories: healing, identity, embodiment
 
 Challenge:
 Choose one part of your body that you appreciate, and share gratitude for it, sending positive messages and feelings to it aloud or in your mind for a minute
@@ -145,7 +145,7 @@ Supplemental Duration: Resource
 
 Focus: appreciation
 
-Categories: encouragement, healing
+Categories: gratitude, encouragement, healing
 
 Challenge:
 Send a quick message of thanks to someone who has loved you without judgement, and hold appreciation for them while you write it.
@@ -179,7 +179,7 @@ Supplemental Duration: 12 min
 
 Focus: emotional awareness
 
-Categories: healing, wisdom
+Categories: healing, wisdom, surrender
 
 Challenge:
 Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.
@@ -213,7 +213,7 @@ Supplemental Duration: 10 min
 
 Focus: breath
 
-Categories: peace, courage
+Categories: peace, courage, agency, embodiment
 
 Challenge:
 Take 5, deep "belly breaths" when you begin to feel stuck, trapped, or anxious, calling your power back into your present. 
@@ -228,7 +228,7 @@ Author: Paul
 
 Source: 2 Timothy 1:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Timothy-1-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Timothy#1:7
 
 Supplemental Type:
 
@@ -246,7 +246,7 @@ Supplemental Duration:
 
 Focus: intuition gratitude
 
-Categories: wisdom, identity
+Categories: intuition, wisdom, identity, gratitude
 
 Challenge:
 Think of a time when you followed your intuition and the outcome was remarkable. Then breathe in deep gratitude for your intuition.
@@ -279,7 +279,7 @@ Supplemental Duration:
 
 Focus: intuition follow-through
 
-Categories: wisdom, courage
+Categories: intuition, wisdom, courage, agency
 
 Challenge:
 What is something your intuition has encouraged you to take action for, but you haven't followed through? 
@@ -288,13 +288,13 @@ Prompt:
 What intuition-led action is still asking for your attention?
 
 Quote:
-Trusting our intuition often saves us from disaster.
+The heart has its reasons, which reason does not know.
 
-Author: Anne Wilson Schaef
+Author: Blaise Pascal
 
-Source: Wikiquote: Anne Wilson Schaef
+Source: Pascal's Pensees
 
-Source URL: https://en.wikiquote.org/wiki/Anne_Wilson_Schaef
+Source URL: https://www.gutenberg.org/files/18269/18269-h/18269-h.htm
 
 Supplemental Type:
 
@@ -312,7 +312,7 @@ Supplemental Duration:
 
 Focus: inspired action
 
-Categories: purpose, courage
+Categories: purpose, courage, agency
 
 Challenge:
 Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.
@@ -321,13 +321,13 @@ Prompt:
 What became possible when you acted before planning more?
 
 Quote:
-Freedom is not worth having if it does not include the freedom to make mistakes.
+Freedom is not worth having if it does not connote freedom to err and even to sin.
 
 Author: Mahatma Gandhi
 
-Source: Attributed quote
+Source: The Gospel of Freedom
 
-Source URL: https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include
+Source URL: https://www.gandhiserve.net/about-mahatma-gandhi/thus-spake-gandhi/the-gospel-of-freedom-1/
 
 Supplemental Type:
 
@@ -345,7 +345,7 @@ Supplemental Duration:
 
 Focus: worth surrender
 
-Categories: identity, healing, wisdom
+Categories: identity, healing, wisdom, surrender
 
 Challenge:
 What's one limiting belief about your worth or value that you want to let go of to open more abundance into your life? Feel the emotion, and then surrender it to your Higher Power. 
@@ -379,7 +379,7 @@ Supplemental Duration:
 
 Focus: intuition feeling
 
-Categories: wisdom, purpose
+Categories: intuition, wisdom, purpose
 
 Challenge:
 What is one feeling that comes up when you consider following your intuition as your primary guide for your life and business?
@@ -394,7 +394,7 @@ Author: William Shakespeare
 
 Source: Measure for Measure, Act II, Scene II
 
-Source URL: https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II
+Source URL: https://www.folger.edu/explore/shakespeares-works/measure-for-measure/read/2/2/
 
 Supplemental Type:
 
@@ -412,7 +412,7 @@ Supplemental Duration:
 
 Focus: faithful surrender
 
-Categories: purpose, scripture, wisdom
+Categories: purpose, scripture, wisdom, surrender
 
 Challenge:
 In what way do you feel blocked in accomplishing your current ambition or goal? Write it down and mentally hand it (surrender it) to God or your Higher Power to handle it, and exercise faith and trust to truly surrender that obstacle while still moving forward in your goal.
@@ -445,7 +445,7 @@ Supplemental Duration:
 
 Focus: joy practice
 
-Categories: hope, encouragement
+Categories: joy, hope, encouragement
 
 Challenge:
 For two whole minutes, allow yourself to feel the emotion "joy" without any particular reason (you can start with gratitude, and then think of moments you have felt joy and allow your whole body to feel joy).
@@ -478,7 +478,7 @@ Supplemental Duration:
 
 Focus: success belief
 
-Categories: identity, hope
+Categories: identity, hope, abundance
 
 Challenge:
 Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: "I am created for success, and each step of my life, even setback, is propelling me toward greater success."
@@ -493,7 +493,7 @@ Author: Paul
 
 Source: Romans 8:28 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-8-28/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:28
 
 Supplemental Type:
 
@@ -511,7 +511,7 @@ Supplemental Duration:
 
 Focus: priorities
 
-Categories: purpose, wisdom
+Categories: purpose, wisdom, surrender
 
 Challenge:
 What is one life priority that has been neglected? Is it worth focusing on right now, or is it worth surrendering right now to free your time for something else? Write down your impressions, and choose to let go all guilt, shame, feelings of failure or overwhelm related to it. 
@@ -544,7 +544,7 @@ Supplemental Duration:
 
 Focus: joy before habit
 
-Categories: encouragement, healing
+Categories: joy, encouragement, healing
 
 Challenge:
 Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)
@@ -577,7 +577,7 @@ Supplemental Duration:
 
 Focus: nourishment
 
-Categories: healing, wisdom
+Categories: healing, wisdom, embodiment
 
 Challenge:
 Think of one food or drink that you crave. Write it down. Consider that there may exist a more joyful food or drink that will better nourish your body and bring you better health and vitality, and take a minute to write down your thoughts and impressions.
@@ -610,7 +610,7 @@ Supplemental Duration:
 
 Focus: belief renewal
 
-Categories: identity, courage
+Categories: identity, courage, agency
 
 Challenge:
 What belief feels inherited, outdated, or too small for who you are becoming? Write it down, and then write down the opposite positive statement, which is more empowering, and decide to make that one your new normal.
@@ -643,7 +643,7 @@ Supplemental Duration:
 
 Focus: discernment
 
-Categories: wisdom, peace
+Categories: wisdom, peace, discernment
 
 Challenge:
 Before you say "yes" to an invitation, new responsibility, or opportunity, check in with your mind, heart, and gut first.
@@ -677,7 +677,7 @@ Supplemental Duration:
 
 Focus: inner counsel
 
-Categories: wisdom, encouragement
+Categories: wisdom, encouragement, discernment
 
 Challenge:
 If you could have anyone in all of history be your life or business coach today, who would it be? Write down one empowering piece of advice they might give you. Then really let it sink in, letting it empower you.
@@ -710,7 +710,7 @@ Supplemental Duration:
 
 Focus: younger self
 
-Categories: encouragement, healing
+Categories: encouragement, healing, forgiveness
 
 Challenge:
 If you could write one empowering message to your younger self, to cheer them on, what would it be? Write it down.
@@ -743,7 +743,7 @@ Supplemental Duration:
 
 Focus: spiritual gifts
 
-Categories: scripture, purpose, wisdom
+Categories: scripture, purpose, wisdom, abundance
 
 Challenge:
 If you could have any spiritual or intuitive gift to guide or empower you in your future expansion or goals, what would it be, and why? Take a couple minutes to think and write it down.
@@ -758,7 +758,7 @@ Author: James
 
 Source: James 1:17 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/James-1-17/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#1:17
 
 Supplemental Type:
 
@@ -776,7 +776,7 @@ Supplemental Duration:
 
 Focus: embodied success
 
-Categories: encouragement, hope
+Categories: encouragement, hope, abundance
 
 Challenge:
 What does "success" feel like to you? When you think of the success you desire to experience in your life, what emotions accompany the success? Take a minute to write down how you will know you've reached success, not by what you see yourself doing or what you possess, but rather what you are feeling.
@@ -809,7 +809,7 @@ Supplemental Duration:
 
 Focus: future vision
 
-Categories: hope, encouragement
+Categories: hope, encouragement, abundance
 
 Challenge:
 Take a couple minutes to consider your future version of yourself. Who is the ideal version of yourself you hope to achieve in this lifetime? What are you wearing? Eating? Experiencing? How are you spending your time? Where are you living and with whom?
@@ -843,7 +843,7 @@ Supplemental Duration:
 
 Focus: body care
 
-Categories: healing, identity
+Categories: healing, identity, embodiment
 
 Challenge:
 What area of your body needs more gentle care, nurturing, or positive affirmations today? Take a couple minutes to speak (aloud or in your mind) to that area of your body, and use kind, thoughtful, and empowering words of support and gratitude.
@@ -876,7 +876,7 @@ Supplemental Duration:
 
 Focus: forgiveness
 
-Categories: healing, courage
+Categories: healing, courage, forgiveness
 
 Challenge:
 Who or what has wronged you? Is there someone or a group to which you feel resentment? Whether you ever receive an apology from them or not, the resentment is keeping you stuck. Your challenge is to write an apology letter "from" them (the offender) "to" you (the victim). Write the letter as if you were them, writing out what you wish they would apologize for and then ask (you) for forgiveness.
@@ -909,7 +909,7 @@ Supplemental Duration:
 
 Focus: body awareness
 
-Categories: healing, wisdom
+Categories: healing, wisdom, embodiment
 
 Challenge:
 Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgement.
@@ -942,7 +942,7 @@ Supplemental Duration:
 
 Focus: play
 
-Categories: hope, encouragement
+Categories: joy, hope, encouragement
 
 Challenge:
 What is something you loved doing as a kid that you haven't done for a while? For the challenge, either:
@@ -978,7 +978,7 @@ Supplemental Duration:
 
 Focus: time boundaries
 
-Categories: scripture, purpose, wisdom
+Categories: scripture, purpose, wisdom, boundaries
 
 Challenge:
 What is one boundary that needs to be strengthened or reinforced with your time? Is there someone or something which takes too much of your time? Are there some meetings or calendar items that go "overtime" and need to be kept to a schedule?
@@ -994,7 +994,7 @@ Author: Solomon
 
 Source: Ecclesiastes 3:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ecclesiastes-3-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes#3:1
 
 Supplemental Type:
 
@@ -1012,7 +1012,7 @@ Supplemental Duration:
 
 Focus: gratitude
 
-Categories: identity, wisdom, encouragement
+Categories: gratitude, identity, wisdom, encouragement
 
 Challenge:
 What is one value from childhood that you still hold dear and true? Give thanks for the lessons that brought you to this value. If possible, send a quick note of thanks to someone who helped you instill that value.
@@ -1045,7 +1045,7 @@ Supplemental Duration:
 
 Focus: anger
 
-Categories: healing, courage, wisdom
+Categories: healing, courage, wisdom, boundaries
 
 Challenge:
 Anger is a sign that there is a boundary that needs to be addressed. Let's discover an outdated belief, ideal, or trigger that you are ready to honor and then resolve with the following prompts:
@@ -1079,7 +1079,7 @@ Supplemental Duration:
 
 Focus: collaboration
 
-Categories: purpose, wisdom, encouragement
+Categories: purpose, wisdom, encouragement, discernment
 
 Challenge:
 Who is one living person you would love to collaborate with (or gain wisdom from), who lives in alignment with some of your strongest goals or values? What draws you to them? What is one habit or gift they embody that you'd love to have?
@@ -1112,7 +1112,7 @@ Supplemental Duration:
 
 Focus: natural-gifts
 
-Categories: hope, purpose, identity
+Categories: hope, purpose, identity, abundance
 
 Challenge:
 What is one thing that generally works out for you but does that always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?
@@ -1147,7 +1147,7 @@ Supplemental Duration:
 
 Focus: wellness-boundaries
 
-Categories: healing, peace, courage
+Categories: healing, peace, courage, boundaries, embodiment
 
 Challenge:
 Set a personal boundary that eliminates the need for a health crisis.
@@ -1183,7 +1183,7 @@ Supplemental Duration:
 
 Focus: worthiness
 
-Categories: identity, hope, encouragement
+Categories: identity, hope, encouragement, abundance
 
 Challenge:
 Think of one limiting belief you have related to your worth. It could be something along the lines of "I'm not good enough for _____," or "I have to keep working at it before I'm ready to _______", or "I'm never going to measure up."
@@ -1217,7 +1217,7 @@ Supplemental Duration:
 
 Focus: priorities
 
-Categories: wisdom, purpose, peace
+Categories: wisdom, purpose, peace, discernment
 
 Challenge:
 Consider your top 3 daily time-consuming activities. What do you spend the most time awake doing?
@@ -1252,7 +1252,7 @@ Supplemental Duration:
 
 Focus: protection
 
-Categories: peace, healing, courage
+Categories: peace, healing, courage, boundaries
 
 Challenge:
 Visualize a protective bubble around yourself that prevents negativity, triggers, guilt, shame, and pressure from affecting you very much. Envision what power, comfort, and support you do want in that bubble, and what colors or senses you notice with it. Breathe deeply, extending your belly out as you inhale, and feel, see, or sense what that bubble feels like. Know that you have the power to activate this protective bubble at any time just by remembering you have it. You can even say "shields up" in your mind or aloud to activate it. Belly breathing can help strengthen it.
@@ -1285,7 +1285,7 @@ Supplemental Duration:
 
 Focus: manifestation
 
-Categories: purpose, hope, encouragement
+Categories: purpose, hope, encouragement, abundance
 
 Challenge:
 What is one idea, change, or accomplishment you would like to manifest into the world to make it a better place? Why would the world be better because of your accomplishment? How will you feel when it is accomplished? What is something simple you can do now, that will bring the same type of feeling, even if just in a small way? Write these things down as well as any inspired action that comes to you as you are thinking about these things. If an inspired action happens, make a memo of it on your agenda or calendar to take action on it, on the date that seems most appropriate.
@@ -1318,7 +1318,7 @@ Supplemental Duration:
 
 Focus: success-structures
 
-Categories: purpose, perseverance, wisdom
+Categories: purpose, perseverance, wisdom, abundance
 
 Challenge:
 Did you know that every human being is divinely programmed for success? Consider that your life experiences have been an accumulation of what ideals and values you have solidified by giving attention to, what hurdles or setbacks have strengthened you to get this far, and the structures you are putting in place to pave your success? What structures are you putting in place now for your own success? What other support do you need?

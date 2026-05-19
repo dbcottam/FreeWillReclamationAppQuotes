@@ -2,6 +2,16 @@
 
 All notable quote feed changes should be listed here.
 
+## 2026-05-19
+
+- Expanded the v2 category vocabulary with `gratitude`, `joy`, `intuition`, `boundaries`, `embodiment`, `surrender`, `freedom`, `discernment`, `forgiveness`, `agency`, `compassion`, and `abundance`
+- Recategorized the 40 daily journey entries to use the expanded category vocabulary and replaced one weakly sourced daily quote with a verifiable Pascal entry
+- Added 55 sourced quote-library entries from Scripture, sacred texts, Stoic and Transcendentalist sources, Frederick Douglass, Booker T. Washington, Theodore Roosevelt, Nikola Tesla, Thomas Edison, Martin Luther King Jr., Mother Teresa, David R. Hawkins, and other reputable thinkers
+- Removed 46 weakly sourced quote sections backed by aggregator, attributed, or unverifiable source pages
+- Replaced weak or bot-blocked source URLs with reachable primary/canonical sources, including Wikisource KJV, Project Gutenberg, Folger Shakespeare, USCCB, and official Dalai Lama/Stanford sources
+- Expanded the alternate challenge library from 100 to 180 non-duplicate actions aligned to the expanded categories
+- Regenerated the `v2/` feeds and verified there are no duplicate quote or challenge texts
+
 ## 2026-05-10
 
 - Bumped the content pipeline package to `2.2.0` while keeping the unreleased generated feed contract at `v2`

@@ -1,7 +1,7 @@
 # Challenge Library
 
 Edit the values below, then run `npm run content:generate` to rebuild the app JSON.
-Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, perseverance, purpose, wisdom.
+Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, compassion, perseverance, purpose, wisdom, gratitude, joy, intuition, boundaries, embodiment, surrender, freedom, discernment, forgiveness, agency, abundance.
 
 ## challenge-001
 
@@ -702,3 +702,563 @@ Categories: wisdom, encouragement
 
 Challenge:
 Write what you know, what you do not know, and what is enough for now.
+
+## challenge-101
+
+Categories: gratitude, joy
+
+Challenge:
+Name one ordinary gift from today and let yourself enjoy it for ten full seconds.
+
+## challenge-102
+
+Categories: gratitude, healing
+
+Challenge:
+Write one thank-you sentence to your body for something it carried you through.
+
+## challenge-103
+
+Categories: gratitude, abundance
+
+Challenge:
+List three forms of support you already have before asking for more.
+
+## challenge-104
+
+Categories: joy, embodiment
+
+Challenge:
+Move one part of your body in a way that feels playful, not productive.
+
+## challenge-105
+
+Categories: joy, hope
+
+Challenge:
+Choose one small delight today before you earn it.
+
+## challenge-106
+
+Categories: joy, encouragement
+
+Challenge:
+Let one good moment be fully good without correcting it.
+
+## challenge-107
+
+Categories: intuition, wisdom
+
+Challenge:
+Ask your inner knowing one clear question, then write the first simple answer without editing it.
+
+## challenge-108
+
+Categories: intuition, courage
+
+Challenge:
+Take one tiny action that matches the nudge you keep dismissing.
+
+## challenge-109
+
+Categories: intuition, discernment
+
+Challenge:
+Hold two options in mind and notice which one gives your body more breath.
+
+## challenge-110
+
+Categories: boundaries, peace
+
+Challenge:
+Choose one thing you will not carry today because it is not yours.
+
+## challenge-111
+
+Categories: boundaries, courage
+
+Challenge:
+Write one sentence that begins with "I am available for" and one that begins with "I am not available for."
+
+## challenge-112
+
+Categories: boundaries, identity
+
+Challenge:
+Notice one place where resentment is pointing to a boundary you have not named.
+
+## challenge-113
+
+Categories: embodiment, healing
+
+Challenge:
+Scan your body from head to feet and ask each tense place what it is protecting.
+
+## challenge-114
+
+Categories: embodiment, peace
+
+Challenge:
+Place both hands somewhere steady and breathe as if your body is allowed to arrive.
+
+## challenge-115
+
+Categories: embodiment, wisdom
+
+Challenge:
+Before your next choice, ask whether your body says open, tight, tired, or clear.
+
+## challenge-116
+
+Categories: surrender, peace
+
+Challenge:
+Name one outcome you cannot control and practice releasing it for one minute.
+
+## challenge-117
+
+Categories: surrender, hope, scripture
+
+Challenge:
+Offer one burden to God or your Higher Power without immediately taking it back.
+
+## challenge-118
+
+Categories: surrender, wisdom
+
+Challenge:
+Write the difference between your part and the part that belongs to timing, grace, or other people.
+
+## challenge-119
+
+Categories: freedom, courage
+
+Challenge:
+Choose one small action that proves you are not owned by an old fear.
+
+## challenge-120
+
+Categories: freedom, identity
+
+Challenge:
+Write one sentence about who you are when nobody is grading you.
+
+## challenge-121
+
+Categories: freedom, boundaries
+
+Challenge:
+Say no to one unnecessary pressure, even if the no is only internal today.
+
+## challenge-122
+
+Categories: discernment, wisdom
+
+Challenge:
+Separate one decision into facts, fears, desires, and values.
+
+## challenge-123
+
+Categories: discernment, peace
+
+Challenge:
+Delay one yes until you can tell whether it is honest.
+
+## challenge-124
+
+Categories: discernment, purpose
+
+Challenge:
+Ask which option serves your deeper work, then choose one matching next step.
+
+## challenge-125
+
+Categories: forgiveness, healing
+
+Challenge:
+Write one sentence of mercy toward a past version of yourself.
+
+## challenge-126
+
+Categories: forgiveness, peace
+
+Challenge:
+Release one person from being responsible for the life you build next.
+
+## challenge-127
+
+Categories: forgiveness, courage
+
+Challenge:
+Name what hurt, name what you needed, and name one way you can care for yourself now.
+
+## challenge-128
+
+Categories: agency, wisdom
+
+Challenge:
+Choose one response today instead of rehearsing the reaction that arrives first.
+
+## challenge-129
+
+Categories: agency, courage
+
+Challenge:
+Make one decision that belongs to you, even if it is small and private.
+
+## challenge-130
+
+Categories: agency, purpose
+
+Challenge:
+Do one useful thing before asking for more certainty.
+
+## challenge-131
+
+Categories: abundance, gratitude
+
+Challenge:
+Write down one resource, relationship, skill, or opening that is already multiplying.
+
+## challenge-132
+
+Categories: abundance, hope
+
+Challenge:
+Let yourself imagine one good outcome without immediately arguing against it.
+
+## challenge-133
+
+Categories: abundance, purpose
+
+Challenge:
+Use one resource you already have for the thing you keep postponing.
+
+## challenge-134
+
+Categories: scripture, surrender
+
+Challenge:
+Be still for one minute and let quiet be enough.
+
+## challenge-135
+
+Categories: scripture, gratitude
+
+Challenge:
+Rejoice in one part of this day as something given, not earned.
+
+## challenge-136
+
+Categories: scripture, boundaries
+
+Challenge:
+Guard your heart today by choosing one input, conversation, or thought to step away from.
+
+## challenge-137
+
+Categories: scripture, freedom
+
+Challenge:
+Notice one place you are acting from bondage to approval, and choose one freer response.
+
+## challenge-138
+
+Categories: scripture, abundance
+
+Challenge:
+Ask where life is already offering more than survival, then write the first evidence you see.
+
+## challenge-139
+
+Categories: courage, freedom
+
+Challenge:
+Make one honest demand of your own life: a boundary, a repair, a request, or a next step.
+
+## challenge-140
+
+Categories: courage, perseverance
+
+Challenge:
+Enter the arena for two minutes by doing the visible part of the work.
+
+## challenge-141
+
+Categories: perseverance, agency
+
+Challenge:
+Treat one obstacle as material for the path instead of proof that the path is closed.
+
+## challenge-142
+
+Categories: identity, agency
+
+Challenge:
+Finish the sentence: "I am becoming someone who..."
+
+## challenge-143
+
+Categories: identity, freedom
+
+Challenge:
+Remove one label from yourself that was never yours to keep.
+
+## challenge-144
+
+Categories: healing, surrender
+
+Challenge:
+Let one feeling move through you without turning it into a verdict about your future.
+
+## challenge-145
+
+Categories: healing, forgiveness
+
+Challenge:
+Apologize to yourself for one way you abandoned your own needs.
+
+## challenge-146
+
+Categories: healing, embodiment
+
+Challenge:
+Choose one nourishing action because your body is a life, not a project.
+
+## challenge-147
+
+Categories: purpose, abundance
+
+Challenge:
+Name one gift you can put into circulation today instead of keeping it theoretical.
+
+## challenge-148
+
+Categories: purpose, discernment
+
+Challenge:
+Decline, delay, or shrink one task that does not serve your real assignment.
+
+## challenge-149
+
+Categories: purpose, joy
+
+Challenge:
+Add one element of joy to a necessary task without making the task bigger.
+
+## challenge-150
+
+Categories: peace, surrender
+
+Challenge:
+Unclench your hands and breathe out one outcome you are trying to force.
+
+## challenge-151
+
+Categories: peace, boundaries
+
+Challenge:
+Turn down one source of noise for two minutes and notice what becomes clearer.
+
+## challenge-152
+
+Categories: peace, discernment
+
+Challenge:
+Let one decision sit overnight if urgency is the only reason to choose now.
+
+## challenge-153
+
+Categories: hope, abundance
+
+Challenge:
+Write one reason your future may be kinder than your fear predicts.
+
+## challenge-154
+
+Categories: hope, agency
+
+Challenge:
+Take one action that gives your hope evidence.
+
+## challenge-155
+
+Categories: hope, surrender
+
+Challenge:
+Let one unopened door stay unopened while you look for the next available door.
+
+## challenge-156
+
+Categories: wisdom, intuition
+
+Challenge:
+Ask what you already know but have not wanted to admit.
+
+## challenge-157
+
+Categories: wisdom, embodiment
+
+Challenge:
+Treat one body signal as data and ask what wise adjustment it suggests.
+
+## challenge-158
+
+Categories: wisdom, forgiveness
+
+Challenge:
+Consider one conflict from the other person's fear, need, or limitation without excusing harm.
+
+## challenge-159
+
+Categories: encouragement, gratitude
+
+Challenge:
+Tell someone one specific thing they did that made a difference.
+
+## challenge-160
+
+Categories: encouragement, joy
+
+Challenge:
+Celebrate a small completion before moving to the next demand.
+
+## challenge-161
+
+Categories: encouragement, agency
+
+Challenge:
+Give yourself credit for one choice that would have been harder for an earlier version of you.
+
+## challenge-162
+
+Categories: courage, boundaries
+
+Challenge:
+Practice saying the true sentence in a calm voice before the moment requires it.
+
+## challenge-163
+
+Categories: courage, surrender
+
+Challenge:
+Do the brave part you can do and release the part that depends on someone else's response.
+
+## challenge-164
+
+Categories: courage, intuition
+
+Challenge:
+Follow one quiet yes that does not need applause.
+
+## challenge-165
+
+Categories: perseverance, gratitude
+
+Challenge:
+Thank one past obstacle for the strength it forced you to grow.
+
+## challenge-166
+
+Categories: perseverance, embodiment
+
+Challenge:
+Work for two minutes at a pace your body can sustain.
+
+## challenge-167
+
+Categories: perseverance, freedom
+
+Challenge:
+Restart without asking the old failure for permission.
+
+## challenge-168
+
+Categories: abundance, boundaries
+
+Challenge:
+Protect one resource today: time, attention, money, energy, space, or trust.
+
+## challenge-169
+
+Categories: abundance, discernment
+
+Challenge:
+Notice whether one opportunity expands your life or merely flatters your fear of missing out.
+
+## challenge-170
+
+Categories: abundance, embodiment
+
+Challenge:
+Receive one meal, breath, rest, or kindness as evidence that life can support you.
+
+## challenge-171
+
+Categories: freedom, forgiveness
+
+Challenge:
+Release one old sentence that keeps you loyal to pain.
+
+## challenge-172
+
+Categories: freedom, discernment
+
+Challenge:
+Choose between what is familiar and what is free.
+
+## challenge-173
+
+Categories: freedom, purpose
+
+Challenge:
+Do one thing today because it is aligned, not because it is expected.
+
+## challenge-174
+
+Categories: intuition, peace
+
+Challenge:
+Sit quietly until the loudest answer softens and the truer answer can be heard.
+
+## challenge-175
+
+Categories: intuition, abundance
+
+Challenge:
+Ask what wants to grow through your natural gifts instead of your strain.
+
+## challenge-176
+
+Categories: intuition, boundaries
+
+Challenge:
+Notice one place your body already knew the answer before your mind negotiated it.
+
+## challenge-177
+
+Categories: surrender, abundance
+
+Challenge:
+Let one blessing arrive in an unexpected form without correcting the packaging.
+
+## challenge-178
+
+Categories: surrender, forgiveness
+
+Challenge:
+Write down the grievance, then write one way you are willing to stop feeding it today.
+
+## challenge-179
+
+Categories: surrender, agency
+
+Challenge:
+Choose your next right action and leave the full outcome unowned.
+
+## challenge-180
+
+Categories: wisdom, abundance
+
+Challenge:
+Ask what enough would look like for the next hour.

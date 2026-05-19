@@ -20,7 +20,7 @@ This repository uses human-editable Markdown templates as the source of truth an
 - One `##` section = one quote, challenge, or daily journey day.
 - Keep field labels exactly as written, such as `Categories:` and `Quote:`.
 - Categories can be comma-separated, for example: `hope, purpose`.
-- Allowed categories are `scripture`, `courage`, `encouragement`, `healing`, `hope`, `identity`, `peace`, `perseverance`, `purpose`, and `wisdom`.
+- Allowed categories are `scripture`, `courage`, `encouragement`, `healing`, `hope`, `identity`, `peace`, `compassion`, `perseverance`, `purpose`, `wisdom`, `gratitude`, `joy`, `intuition`, `boundaries`, `embodiment`, `surrender`, `freedom`, `discernment`, `forgiveness`, `agency`, and `abundance`.
 - Daily journey entries include blank supplemental fields. Leave `Supplemental URL` empty when there is no supplemental material.
 - The app should read the generated JSON files, not the Markdown templates.
 - Production app builds should read the contract version URLs, such as `/v2/`, and verify each feed's `contractVersion` and schema `version` values before using content.

@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-11T00:15:37.216Z",
+  "lastUpdated": "2026-05-19T13:40:24.509Z",
   "allowedCategories": [
     "scripture",
     "courage",
@@ -10,9 +10,21 @@
     "hope",
     "identity",
     "peace",
+    "compassion",
     "perseverance",
     "purpose",
-    "wisdom"
+    "wisdom",
+    "gratitude",
+    "joy",
+    "intuition",
+    "boundaries",
+    "embodiment",
+    "surrender",
+    "freedom",
+    "discernment",
+    "forgiveness",
+    "agency",
+    "abundance"
   ],
   "quotes": [
     {
@@ -218,7 +230,7 @@
       "quote": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
       "author": "Paul",
       "source": "Galatians 5:22 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Galatians-5-22/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#5:22",
       "categories": [
         "scripture",
         "healing",
@@ -230,7 +242,7 @@
       "quote": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
       "author": "Paul",
       "source": "Colossians 3:15 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Colossians-3-15/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:15",
       "categories": [
         "scripture",
         "healing",
@@ -242,7 +254,7 @@
       "quote": "Thou wilt keep [him] in perfect peace, [whose] mind [is] stayed [on thee]: because he trusteth in thee.",
       "author": "Isaiah",
       "source": "Isaiah 26:3 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-26-3/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#26:3",
       "categories": [
         "scripture",
         "healing",
@@ -254,7 +266,7 @@
       "quote": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
       "author": "Jeremiah",
       "source": "Jeremiah 29:11 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Jeremiah-29-11/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Jeremiah#29:11",
       "categories": [
         "scripture",
         "healing",
@@ -266,7 +278,7 @@
       "quote": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
       "author": "John",
       "source": "John 14:27 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/John-14-27/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#14:27",
       "categories": [
         "scripture",
         "healing",
@@ -278,7 +290,7 @@
       "quote": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
       "author": "Paul",
       "source": "Philippians 4:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-4-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:7",
       "categories": [
         "scripture",
         "healing",
@@ -290,7 +302,7 @@
       "quote": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
       "author": "Paul",
       "source": "Romans 15:13 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-15-13/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#15:13",
       "categories": [
         "scripture",
         "healing",
@@ -302,7 +314,7 @@
       "quote": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
       "author": "Paul",
       "source": "2 Corinthians 12:9 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-12-9/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#12:9",
       "categories": [
         "scripture",
         "peace",
@@ -314,7 +326,7 @@
       "quote": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
       "author": "Joel",
       "source": "Joel 2:25 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Joel-2-25/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Joel#2:25",
       "categories": [
         "scripture",
         "peace",
@@ -326,7 +338,7 @@
       "quote": "Come unto me, all [ye] that labour and are heavy laden, and I will give you rest.",
       "author": "Matthew",
       "source": "Matthew 11:28 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-11-28/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#11:28",
       "categories": [
         "scripture",
         "peace",
@@ -338,7 +350,7 @@
       "quote": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
       "author": "David",
       "source": "Psalm 143:8 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-143-8/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#143:8",
       "categories": [
         "scripture",
         "healing",
@@ -350,7 +362,7 @@
       "quote": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what [is] that good, and acceptable, and perfect, will of God.",
       "author": "Paul",
       "source": "Romans 12:2 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-12-2/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#12:2",
       "categories": [
         "scripture",
         "peace",
@@ -362,7 +374,7 @@
       "quote": "Now there are diversities of gifts, but the same Spirit.",
       "author": "Paul",
       "source": "1 Corinthians 12:4 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Corinthians-12-4/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#12:4",
       "categories": [
         "scripture",
         "healing",
@@ -374,7 +386,7 @@
       "quote": "But the manifestation of the Spirit is given to every man to profit withal.",
       "author": "Paul",
       "source": "1 Corinthians 12:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Corinthians-12-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#12:7",
       "categories": [
         "scripture",
         "healing",
@@ -386,7 +398,7 @@
       "quote": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.",
       "author": "Paul",
       "source": "1 Corinthians 15:58 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Corinthians-15-58/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#15:58",
       "categories": [
         "scripture",
         "healing",
@@ -398,7 +410,7 @@
       "quote": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
       "author": "Paul",
       "source": "1 Corinthians 2:9 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Corinthians-2-9/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#2:9",
       "categories": [
         "scripture",
         "healing",
@@ -630,7 +642,7 @@
       "quote": "And ye shall know the truth, and the truth shall make you free.",
       "author": "John",
       "source": "John 8:32 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/John-8-32/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#8:32",
       "categories": [
         "scripture",
         "identity",
@@ -642,7 +654,7 @@
       "quote": "According as his divine power hath given unto us all things that [pertain] unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
       "author": "Peter",
       "source": "2 Peter 1:3 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Peter-1-3/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Peter#1:3",
       "categories": [
         "scripture",
         "wisdom",
@@ -654,7 +666,7 @@
       "quote": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
       "author": "Paul",
       "source": "2 Timothy 1:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Timothy-1-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Timothy#1:7",
       "categories": [
         "scripture",
         "wisdom",
@@ -666,7 +678,7 @@
       "quote": "And be renewed in the spirit of your mind;",
       "author": "Paul",
       "source": "Ephesians 4:23 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ephesians-4-23/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#4:23",
       "categories": [
         "scripture",
         "wisdom",
@@ -678,7 +690,7 @@
       "quote": "If any of you lack wisdom, let him ask of God, that giveth to all [men] liberally, and upbraideth not; and it shall be given him.",
       "author": "James",
       "source": "James 1:5 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-5/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:5",
       "categories": [
         "scripture",
         "wisdom",
@@ -690,7 +702,7 @@
       "quote": "Draw nigh to God, and he will draw nigh to you. Cleanse [your] hands, [ye] sinners; and purify [your] hearts, [ye] double minded.",
       "author": "James",
       "source": "James 4:8 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-4-8/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#4:8",
       "categories": [
         "scripture",
         "wisdom",
@@ -702,7 +714,7 @@
       "quote": "Brethren, I count not myself to have apprehended: but [this] one thing [I do], forgetting those things which are behind, and reaching forth unto those things which are before,",
       "author": "Paul",
       "source": "Philippians 3:13 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-3-13/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#3:13",
       "categories": [
         "scripture",
         "identity",
@@ -714,7 +726,7 @@
       "quote": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
       "author": "Solomon",
       "source": "Proverbs 11:25 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-11-25/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#11:25",
       "categories": [
         "scripture",
         "identity",
@@ -726,7 +738,7 @@
       "quote": "Commit thy works unto the LORD, and thy thoughts shall be established.",
       "author": "Solomon",
       "source": "Proverbs 16:3 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-16-3/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#16:3",
       "categories": [
         "scripture",
         "wisdom",
@@ -738,7 +750,7 @@
       "quote": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
       "author": "Solomon",
       "source": "Proverbs 3:5 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-3-5/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#3:5",
       "categories": [
         "scripture",
         "wisdom",
@@ -750,7 +762,7 @@
       "quote": "In all thy ways acknowledge him, and he shall direct thy paths.",
       "author": "Solomon",
       "source": "Proverbs 3:6 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-3-6/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#3:6",
       "categories": [
         "scripture",
         "wisdom",
@@ -762,7 +774,7 @@
       "quote": "Create in me a clean heart, O God; and renew a right spirit within me.",
       "author": "David",
       "source": "Psalm 51:10 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-51-10/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#51:10",
       "categories": [
         "scripture",
         "identity",
@@ -774,7 +786,7 @@
       "quote": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
       "author": "John",
       "source": "1 John 4:18 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-John-4-18/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_John#4:18",
       "categories": [
         "scripture",
         "identity",
@@ -786,7 +798,7 @@
       "quote": "As every man hath received the gift, [even so] minister the same one to another, as good stewards of the manifold grace of God.",
       "author": "Peter",
       "source": "1 Peter 4:10 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Peter-4-10/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Peter#4:10",
       "categories": [
         "scripture",
         "identity",
@@ -798,7 +810,7 @@
       "quote": "Casting all your care upon him; for he careth for you.",
       "author": "Peter",
       "source": "1 Peter 5:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Peter-5-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Peter#5:7",
       "categories": [
         "scripture",
         "identity",
@@ -810,7 +822,7 @@
       "quote": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
       "author": "Paul",
       "source": "1 Thessalonians 5:11 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Thessalonians-5-11/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Thessalonians#5:11",
       "categories": [
         "scripture",
         "identity",
@@ -1053,7 +1065,7 @@
       "quote": "The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?",
       "author": "David",
       "source": "Psalm 27:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-27-1/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#27:1",
       "categories": [
         "scripture",
         "courage",
@@ -1065,7 +1077,7 @@
       "quote": "Fear thou not; for I [am] with thee: be not dismayed; for I [am] thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
       "author": "Isaiah",
       "source": "Isaiah 41:10 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-41-10/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#41:10",
       "categories": [
         "scripture",
         "courage",
@@ -1077,7 +1089,7 @@
       "quote": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
       "author": "Paul",
       "source": "Galatians 5:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Galatians-5-1/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#5:1",
       "categories": [
         "scripture",
         "courage",
@@ -1089,7 +1101,7 @@
       "quote": "But they that wait upon the LORD shall renew [their] strength; they shall mount up with wings as eagles; they shall run, and not be weary; [and] they shall walk, and not faint.",
       "author": "Isaiah",
       "source": "Isaiah 40:31 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-40-31/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#40:31",
       "categories": [
         "scripture",
         "courage",
@@ -1101,7 +1113,7 @@
       "quote": "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;",
       "author": "Isaiah",
       "source": "Isaiah 54:2 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-54-2/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#54:2",
       "categories": [
         "scripture",
         "courage",
@@ -1113,7 +1125,7 @@
       "quote": "I can do all things through Christ which strengtheneth me.",
       "author": "Paul",
       "source": "Philippians 4:13 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-4-13/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:13",
       "categories": [
         "scripture",
         "courage",
@@ -1125,7 +1137,7 @@
       "quote": "[There are] many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand.",
       "author": "Solomon",
       "source": "Proverbs 19:21 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-19-21/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#19:21",
       "categories": [
         "scripture",
         "courage",
@@ -1137,7 +1149,7 @@
       "quote": "I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.",
       "author": "David",
       "source": "Psalm 139:14 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-139-14/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#139:14",
       "categories": [
         "scripture",
         "courage",
@@ -1149,7 +1161,7 @@
       "quote": "I sought the LORD, and he heard me, and delivered me from all my fears.",
       "author": "David",
       "source": "Psalm 34:4 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-34-4/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#34:4",
       "categories": [
         "scripture",
         "courage",
@@ -1161,7 +1173,7 @@
       "quote": "Rejoice evermore.",
       "author": "Paul",
       "source": "1 Thessalonians 5:16 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Thessalonians-5-16/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Thessalonians#5:16",
       "categories": [
         "scripture",
         "courage",
@@ -1173,7 +1185,7 @@
       "quote": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
       "author": "Paul",
       "source": "1 Thessalonians 5:18 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-Thessalonians-5-18/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_Thessalonians#5:18",
       "categories": [
         "scripture",
         "courage",
@@ -1185,7 +1197,7 @@
       "quote": "Now the Lord is that Spirit: and where the Spirit of the Lord [is], there [is] liberty.",
       "author": "Paul",
       "source": "2 Corinthians 3:17 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-3-17/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#3:17",
       "categories": [
         "scripture",
         "courage",
@@ -1197,7 +1209,7 @@
       "quote": "For which cause we faint not; but though our outward man perish, yet the inward [man] is renewed day by day.",
       "author": "Paul",
       "source": "2 Corinthians 4:16 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-4-16/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#4:16",
       "categories": [
         "scripture",
         "courage",
@@ -1209,7 +1221,7 @@
       "quote": "(For we walk by faith, not by sight:)",
       "author": "Paul",
       "source": "2 Corinthians 5:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-5-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#5:7",
       "categories": [
         "scripture",
         "courage",
@@ -1221,7 +1233,7 @@
       "quote": "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.",
       "author": "Paul",
       "source": "2 Corinthians 9:11 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-9-11/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#9:11",
       "categories": [
         "scripture",
         "courage",
@@ -1233,7 +1245,7 @@
       "quote": "And God [is] able to make all grace abound toward you; that ye, always having all sufficiency in all [things], may abound to every good work:",
       "author": "Paul",
       "source": "2 Corinthians 9:8 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Corinthians-9-8/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#9:8",
       "categories": [
         "scripture",
         "courage",
@@ -1275,17 +1287,6 @@
     },
     {
       "id": "quote-111",
-      "quote": "The energy of the mind is the essence of life.",
-      "author": "Aristotle",
-      "source": "https://www.goodreads.com/quotes/101859",
-      "sourceUrl": "https://www.goodreads.com/quotes/101859",
-      "categories": [
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-112",
       "quote": "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -1296,7 +1297,7 @@
       ]
     },
     {
-      "id": "quote-113",
+      "id": "quote-112",
       "quote": "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -1307,7 +1308,7 @@
       ]
     },
     {
-      "id": "quote-114",
+      "id": "quote-113",
       "quote": "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -1318,7 +1319,7 @@
       ]
     },
     {
-      "id": "quote-115",
+      "id": "quote-114",
       "quote": "The universe is transformation; our life is what our thoughts make it.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -1329,7 +1330,7 @@
       ]
     },
     {
-      "id": "quote-116",
+      "id": "quote-115",
       "quote": "The exercise of an extraordinary gift is the supremest pleasure in life.",
       "author": "Mark Twain",
       "source": "Wikiquote: Mark Twain",
@@ -1340,7 +1341,7 @@
       ]
     },
     {
-      "id": "quote-117",
+      "id": "quote-116",
       "quote": "When you learn, teach. When you get, give.",
       "author": "Maya Angelou",
       "source": "Wikiquote: Maya Angelou",
@@ -1351,7 +1352,7 @@
       ]
     },
     {
-      "id": "quote-118",
+      "id": "quote-117",
       "quote": "The mind unlearns with difficulty what it has long learned.",
       "author": "Seneca",
       "source": "Wikiquote: Seneca",
@@ -1362,7 +1363,7 @@
       ]
     },
     {
-      "id": "quote-119",
+      "id": "quote-118",
       "quote": "Always bear in mind that your own resolution to succeed is more important than any one thing.",
       "author": "Abraham Lincoln",
       "source": "Wikiquote: Abraham Lincoln",
@@ -1373,11 +1374,23 @@
       ]
     },
     {
-      "id": "quote-120",
+      "id": "quote-119",
       "quote": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
       "author": "Paul",
       "source": "Ephesians 2:10 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ephesians-2-10/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#2:10",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-120",
+      "quote": "Having then gifts differing according to the grace that is given to us, whether prophecy, [let us prophesy] according to the proportion of faith;",
+      "author": "Paul",
+      "source": "Romans 12:6 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#12:6",
       "categories": [
         "scripture",
         "purpose",
@@ -1386,10 +1399,10 @@
     },
     {
       "id": "quote-121",
-      "quote": "Having then gifts differing according to the grace that is given to us, whether prophecy, [let us prophesy] according to the proportion of faith;",
+      "quote": "And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.",
       "author": "Paul",
-      "source": "Romans 12:6 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-12-6/",
+      "source": "Romans 8:28 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:28",
       "categories": [
         "scripture",
         "purpose",
@@ -1398,10 +1411,10 @@
     },
     {
       "id": "quote-122",
-      "quote": "And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.",
-      "author": "Paul",
-      "source": "Romans 8:28 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-8-28/",
+      "quote": "To every [thing there is] a season, and a time to every purpose under the heaven:",
+      "author": "Solomon",
+      "source": "Ecclesiastes 3:1 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes#3:1",
       "categories": [
         "scripture",
         "purpose",
@@ -1410,22 +1423,10 @@
     },
     {
       "id": "quote-123",
-      "quote": "To every [thing there is] a season, and a time to every purpose under the heaven:",
-      "author": "Solomon",
-      "source": "Ecclesiastes 3:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ecclesiastes-3-1/",
-      "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-124",
       "quote": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,",
       "author": "Paul",
       "source": "Ephesians 3:20 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ephesians-3-20/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#3:20",
       "categories": [
         "scripture",
         "purpose",
@@ -1433,11 +1434,23 @@
       ]
     },
     {
-      "id": "quote-125",
+      "id": "quote-124",
       "quote": "And that ye put on the new man, which after God is created in righteousness and true holiness.",
       "author": "Paul",
       "source": "Ephesians 4:24 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ephesians-4-24/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#4:24",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-125",
+      "quote": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "author": "James",
+      "source": "James 1:17 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:17",
       "categories": [
         "scripture",
         "purpose",
@@ -1446,10 +1459,10 @@
     },
     {
       "id": "quote-126",
-      "quote": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
-      "author": "James",
-      "source": "James 1:17 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-17/",
+      "quote": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
+      "author": "Luke",
+      "source": "Luke 6:38 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Luke#6:38",
       "categories": [
         "scripture",
         "purpose",
@@ -1458,10 +1471,10 @@
     },
     {
       "id": "quote-127",
-      "quote": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
-      "author": "Luke",
-      "source": "Luke 6:38 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Luke-6-38/",
+      "quote": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+      "author": "Matthew",
+      "source": "Matthew 25:29 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#25:29",
       "categories": [
         "scripture",
         "purpose",
@@ -1470,10 +1483,10 @@
     },
     {
       "id": "quote-128",
-      "quote": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+      "quote": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
       "author": "Matthew",
-      "source": "Matthew 25:29 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-25-29/",
+      "source": "Matthew 5:14 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#5:14",
       "categories": [
         "scripture",
         "purpose",
@@ -1482,10 +1495,10 @@
     },
     {
       "id": "quote-129",
-      "quote": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+      "quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
       "author": "Matthew",
-      "source": "Matthew 5:14 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-5-14/",
+      "source": "Matthew 7:7 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#7:7",
       "categories": [
         "scripture",
         "purpose",
@@ -1494,10 +1507,10 @@
     },
     {
       "id": "quote-130",
-      "quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
-      "author": "Matthew",
-      "source": "Matthew 7:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-7-7/",
+      "quote": "Being confident of this very thing, that he which hath begun a good work in you will perform [it] until the day of Jesus Christ:",
+      "author": "Paul",
+      "source": "Philippians 1:6 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#1:6",
       "categories": [
         "scripture",
         "purpose",
@@ -1506,22 +1519,10 @@
     },
     {
       "id": "quote-131",
-      "quote": "Being confident of this very thing, that he which hath begun a good work in you will perform [it] until the day of Jesus Christ:",
-      "author": "Paul",
-      "source": "Philippians 1:6 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-1-6/",
-      "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-132",
       "quote": "For it is God which worketh in you both to will and to do of [his] good pleasure.",
       "author": "Paul",
       "source": "Philippians 2:13 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-2-13/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#2:13",
       "categories": [
         "scripture",
         "purpose",
@@ -1529,11 +1530,23 @@
       ]
     },
     {
-      "id": "quote-133",
+      "id": "quote-132",
       "quote": "A man's gift maketh room for him, and bringeth him before great men.",
       "author": "Solomon",
       "source": "Proverbs 18:16 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-18-16/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#18:16",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-133",
+      "quote": "Keep thy heart with all diligence; for out of it [are] the issues of life.",
+      "author": "Solomon",
+      "source": "Proverbs 4:23 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#4:23",
       "categories": [
         "scripture",
         "purpose",
@@ -1542,10 +1555,10 @@
     },
     {
       "id": "quote-134",
-      "quote": "Keep thy heart with all diligence; for out of it [are] the issues of life.",
-      "author": "Solomon",
-      "source": "Proverbs 4:23 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-4-23/",
+      "quote": "For his anger [endureth but] a moment; in his favour [is] life: weeping may endure for a night, but joy [cometh] in the morning.",
+      "author": "David",
+      "source": "Psalm 30:5 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#30:5",
       "categories": [
         "scripture",
         "purpose",
@@ -1554,18 +1567,6 @@
     },
     {
       "id": "quote-135",
-      "quote": "For his anger [endureth but] a moment; in his favour [is] life: weeping may endure for a night, but joy [cometh] in the morning.",
-      "author": "David",
-      "source": "Psalm 30:5 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-30-5/",
-      "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-136",
       "quote": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
       "author": "Anatole France",
       "source": "Wikiquote: Anatole France",
@@ -1576,7 +1577,7 @@
       ]
     },
     {
-      "id": "quote-137",
+      "id": "quote-136",
       "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -1587,7 +1588,7 @@
       ]
     },
     {
-      "id": "quote-138",
+      "id": "quote-137",
       "quote": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
       "source": "Wikiquote: Eleanor Roosevelt",
@@ -1598,7 +1599,7 @@
       ]
     },
     {
-      "id": "quote-139",
+      "id": "quote-138",
       "quote": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
       "author": "Abraham Lincoln",
       "source": "Wikiquote: Abraham Lincoln",
@@ -1609,7 +1610,7 @@
       ]
     },
     {
-      "id": "quote-140",
+      "id": "quote-139",
       "quote": "Try not to become a man of success, but rather try to become a man of value.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -1620,7 +1621,7 @@
       ]
     },
     {
-      "id": "quote-141",
+      "id": "quote-140",
       "quote": "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
       "author": "Anais Nin",
       "source": "Wikiquote: Anais Nin",
@@ -1631,7 +1632,7 @@
       ]
     },
     {
-      "id": "quote-142",
+      "id": "quote-141",
       "quote": "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
       "author": "Anais Nin",
       "source": "Wikiquote: Anais Nin",
@@ -1642,7 +1643,7 @@
       ]
     },
     {
-      "id": "quote-143",
+      "id": "quote-142",
       "quote": "To accomplish great things, we must dream as well as act.",
       "author": "Anatole France",
       "source": "Wikiquote: Anatole France",
@@ -1653,7 +1654,7 @@
       ]
     },
     {
-      "id": "quote-144",
+      "id": "quote-143",
       "quote": "Work out your own salvation. Do not depend on others.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -1664,7 +1665,7 @@
       ]
     },
     {
-      "id": "quote-145",
+      "id": "quote-144",
       "quote": "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -1675,7 +1676,7 @@
       ]
     },
     {
-      "id": "quote-146",
+      "id": "quote-145",
       "quote": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
       "author": "Dale Carnegie",
       "source": "Wikiquote: Dale Carnegie",
@@ -1686,7 +1687,7 @@
       ]
     },
     {
-      "id": "quote-147",
+      "id": "quote-146",
       "quote": "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -1697,7 +1698,7 @@
       ]
     },
     {
-      "id": "quote-148",
+      "id": "quote-147",
       "quote": "Keep yourself to the sunshine and you cannot see the shadow.",
       "author": "Helen Keller",
       "source": "Wikiquote: Helen Keller",
@@ -1708,7 +1709,7 @@
       ]
     },
     {
-      "id": "quote-149",
+      "id": "quote-148",
       "quote": "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
       "author": "Henry David Thoreau",
       "source": "Wikiquote: Henry David Thoreau",
@@ -1719,7 +1720,7 @@
       ]
     },
     {
-      "id": "quote-150",
+      "id": "quote-149",
       "quote": "If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.",
       "author": "Johann Wolfgang von Goethe",
       "source": "Wikiquote: Johann Wolfgang von Goethe",
@@ -1730,7 +1731,7 @@
       ]
     },
     {
-      "id": "quote-151",
+      "id": "quote-150",
       "quote": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -1741,7 +1742,7 @@
       ]
     },
     {
-      "id": "quote-152",
+      "id": "quote-151",
       "quote": "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -1752,22 +1753,11 @@
       ]
     },
     {
-      "id": "quote-153",
-      "quote": "The future depends on what you do today.",
-      "author": "Mahatma Gandhi",
-      "source": "https://www.goodreads.com/quotes/16418",
-      "sourceUrl": "https://www.goodreads.com/quotes/16418",
-      "categories": [
-        "encouragement",
-        "hope"
-      ]
-    },
-    {
-      "id": "quote-154",
+      "id": "quote-152",
       "quote": "Jesus said unto him, If thou canst believe, all things [are] possible to him that believeth.",
       "author": "Mark",
       "source": "Mark 9:23 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Mark-9-23/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Mark#9:23",
       "categories": [
         "scripture",
         "hope",
@@ -1775,11 +1765,11 @@
       ]
     },
     {
-      "id": "quote-155",
+      "id": "quote-153",
       "quote": "And whatsoever ye do, do [it] heartily, as to the Lord, and not unto men;",
       "author": "Paul",
       "source": "Colossians 3:23 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Colossians-3-23/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:23",
       "categories": [
         "scripture",
         "encouragement",
@@ -1787,11 +1777,35 @@
       ]
     },
     {
-      "id": "quote-156",
+      "id": "quote-154",
       "quote": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
       "author": "Paul",
       "source": "Galatians 6:9 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Galatians-6-9/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#6:9",
+      "categories": [
+        "scripture",
+        "encouragement",
+        "hope"
+      ]
+    },
+    {
+      "id": "quote-155",
+      "quote": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+      "author": "Bible",
+      "source": "Hebrews 11:1 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Hebrews#11:1",
+      "categories": [
+        "scripture",
+        "hope",
+        "encouragement"
+      ]
+    },
+    {
+      "id": "quote-156",
+      "quote": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset [us], and let us run with patience the race that is set before us,",
+      "author": "Bible",
+      "source": "Hebrews 12:1 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Hebrews#12:1",
       "categories": [
         "scripture",
         "encouragement",
@@ -1800,22 +1814,22 @@
     },
     {
       "id": "quote-157",
-      "quote": "Now faith is the substance of things hoped for, the evidence of things not seen.",
-      "author": "Bible",
-      "source": "Hebrews 11:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Hebrews-11-1/",
+      "quote": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, [and] rivers in the desert.",
+      "author": "Isaiah",
+      "source": "Isaiah 43:19 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#43:19",
       "categories": [
         "scripture",
-        "hope",
-        "encouragement"
+        "encouragement",
+        "hope"
       ]
     },
     {
       "id": "quote-158",
-      "quote": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset [us], and let us run with patience the race that is set before us,",
-      "author": "Bible",
-      "source": "Hebrews 12:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Hebrews-12-1/",
+      "quote": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+      "author": "James",
+      "source": "James 1:22 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:22",
       "categories": [
         "scripture",
         "encouragement",
@@ -1824,34 +1838,34 @@
     },
     {
       "id": "quote-159",
-      "quote": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, [and] rivers in the desert.",
-      "author": "Isaiah",
-      "source": "Isaiah 43:19 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-43-19/",
+      "quote": "Blessed [is] the man that trusteth in the LORD, and whose hope the LORD is.",
+      "author": "Jeremiah",
+      "source": "Jeremiah 17:7 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Jeremiah#17:7",
       "categories": [
         "scripture",
-        "encouragement",
-        "hope"
+        "hope",
+        "encouragement"
       ]
     },
     {
       "id": "quote-160",
-      "quote": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
-      "author": "James",
-      "source": "James 1:22 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-22/",
+      "quote": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
+      "author": "Matthew",
+      "source": "Matthew 17:20 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#17:20",
       "categories": [
         "scripture",
-        "encouragement",
-        "hope"
+        "hope",
+        "encouragement"
       ]
     },
     {
       "id": "quote-161",
-      "quote": "Blessed [is] the man that trusteth in the LORD, and whose hope the LORD is.",
-      "author": "Jeremiah",
-      "source": "Jeremiah 17:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Jeremiah-17-7/",
+      "quote": "But Jesus beheld [them], and said unto them, With men this is impossible; but with God all things are possible.",
+      "author": "Matthew",
+      "source": "Matthew 19:26 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#19:26",
       "categories": [
         "scripture",
         "hope",
@@ -1860,102 +1874,78 @@
     },
     {
       "id": "quote-162",
-      "quote": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
+      "quote": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
       "author": "Matthew",
-      "source": "Matthew 17:20 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-17-20/",
+      "source": "Matthew 6:33 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#6:33",
       "categories": [
         "scripture",
-        "hope",
-        "encouragement"
+        "encouragement",
+        "hope"
       ]
     },
     {
       "id": "quote-163",
-      "quote": "But Jesus beheld [them], and said unto them, With men this is impossible; but with God all things are possible.",
-      "author": "Matthew",
-      "source": "Matthew 19:26 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-19-26/",
+      "quote": "He hath shewed thee, O man, what [is] good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+      "author": "Micah",
+      "source": "Micah 6:8 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Micah#6:8",
       "categories": [
         "scripture",
-        "hope",
-        "encouragement"
+        "encouragement",
+        "hope"
       ]
     },
     {
       "id": "quote-164",
-      "quote": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
-      "author": "Matthew",
-      "source": "Matthew 6:33 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-6-33/",
+      "quote": "Thy word [is] a lamp unto my feet, and a light unto my path.",
+      "author": "David",
+      "source": "Psalm 119:105 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#119:105",
       "categories": [
         "scripture",
-        "encouragement",
-        "hope"
+        "hope",
+        "encouragement"
       ]
     },
     {
       "id": "quote-165",
-      "quote": "He hath shewed thee, O man, what [is] good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
-      "author": "Micah",
-      "source": "Micah 6:8 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Micah-6-8/",
+      "quote": "The steps of a [good] man are ordered by the LORD: and he delighteth in his way.",
+      "author": "David",
+      "source": "Psalm 37:23 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#37:23",
       "categories": [
         "scripture",
-        "encouragement",
-        "hope"
+        "hope",
+        "encouragement"
       ]
     },
     {
       "id": "quote-166",
-      "quote": "Thy word [is] a lamp unto my feet, and a light unto my path.",
+      "quote": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
       "author": "David",
-      "source": "Psalm 119:105 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-119-105/",
+      "source": "Psalm 90:17 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#90:17",
       "categories": [
         "scripture",
-        "hope",
-        "encouragement"
+        "encouragement",
+        "hope"
       ]
     },
     {
       "id": "quote-167",
-      "quote": "The steps of a [good] man are ordered by the LORD: and he delighteth in his way.",
-      "author": "David",
-      "source": "Psalm 37:23 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-37-23/",
+      "quote": "And not only [so], but we glory in tribulations also: knowing that tribulation worketh patience;",
+      "author": "Paul",
+      "source": "Romans 5:3 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#5:3",
       "categories": [
         "scripture",
-        "hope",
-        "encouragement"
+        "encouragement",
+        "hope"
       ]
     },
     {
       "id": "quote-168",
-      "quote": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
-      "author": "David",
-      "source": "Psalm 90:17 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-90-17/",
-      "categories": [
-        "scripture",
-        "encouragement",
-        "hope"
-      ]
-    },
-    {
-      "id": "quote-169",
-      "quote": "And not only [so], but we glory in tribulations also: knowing that tribulation worketh patience;",
-      "author": "Paul",
-      "source": "Romans 5:3 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-5-3/",
-      "categories": [
-        "scripture",
-        "encouragement",
-        "hope"
-      ]
-    },
-    {
-      "id": "quote-170",
       "quote": "The only real valuable thing is intuition.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -1966,18 +1956,7 @@
       ]
     },
     {
-      "id": "quote-171",
-      "quote": "The true sign of intelligence is not knowledge but imagination.",
-      "author": "Albert Einstein",
-      "source": "https://www.goodreads.com/quotes/297929",
-      "sourceUrl": "https://www.goodreads.com/quotes/297929",
-      "categories": [
-        "wisdom",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-172",
+      "id": "quote-169",
       "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -1988,7 +1967,7 @@
       ]
     },
     {
-      "id": "quote-173",
+      "id": "quote-170",
       "quote": "We cannot solve our problems with the same thinking we used when we created them.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -1999,7 +1978,7 @@
       ]
     },
     {
-      "id": "quote-174",
+      "id": "quote-171",
       "quote": "Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.",
       "author": "Albert Schweitzer",
       "source": "Wikiquote: Albert Schweitzer",
@@ -2010,7 +1989,7 @@
       ]
     },
     {
-      "id": "quote-175",
+      "id": "quote-172",
       "quote": "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
       "author": "Anais Nin",
       "source": "Wikiquote: Anais Nin",
@@ -2021,7 +2000,7 @@
       ]
     },
     {
-      "id": "quote-176",
+      "id": "quote-173",
       "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
       "author": "Anne Frank",
       "source": "Wikiquote: Anne Frank",
@@ -2032,18 +2011,19 @@
       ]
     },
     {
-      "id": "quote-177",
-      "quote": "Trusting our intuition often saves us from disaster.",
-      "author": "Anne Wilson Schaef",
-      "source": "Wikiquote: Anne Wilson Schaef",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Anne_Wilson_Schaef",
+      "id": "quote-174",
+      "quote": "The heart has its reasons, which reason does not know.",
+      "author": "Blaise Pascal",
+      "source": "Pascal's Pensees",
+      "sourceUrl": "https://www.gutenberg.org/files/18269/18269-h/18269-h.htm",
       "categories": [
         "wisdom",
-        "purpose"
+        "intuition",
+        "discernment"
       ]
     },
     {
-      "id": "quote-178",
+      "id": "quote-175",
       "quote": "Experience keeps a dear school, but fools will learn in no other.",
       "author": "Benjamin Franklin",
       "source": "Wikiquote: Benjamin Franklin",
@@ -2054,7 +2034,7 @@
       ]
     },
     {
-      "id": "quote-179",
+      "id": "quote-176",
       "quote": "We must learn our limits. We are all something, but none of us are everything.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -2065,7 +2045,7 @@
       ]
     },
     {
-      "id": "quote-180",
+      "id": "quote-177",
       "quote": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -2076,7 +2056,7 @@
       ]
     },
     {
-      "id": "quote-181",
+      "id": "quote-178",
       "quote": "Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -2087,7 +2067,7 @@
       ]
     },
     {
-      "id": "quote-182",
+      "id": "quote-179",
       "quote": "Remembering a wrong is like carrying a burden on the mind.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -2098,11 +2078,47 @@
       ]
     },
     {
-      "id": "quote-183",
+      "id": "quote-180",
       "quote": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
       "author": "Paul",
       "source": "Ephesians 6:10 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ephesians-6-10/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#6:10",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-181",
+      "quote": "Let us hold fast the profession of [our] faith without wavering; (for he [is] faithful that promised;)",
+      "author": "Bible",
+      "source": "Hebrews 10:23 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Hebrews#10:23",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-182",
+      "quote": "And thine ears shall hear a word behind thee, saying, This [is] the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
+      "author": "Isaiah",
+      "source": "Isaiah 30:21 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#30:21",
+      "categories": [
+        "scripture",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-183",
+      "quote": "Remember ye not the former things, neither consider the things of old.",
+      "author": "Isaiah",
+      "source": "Isaiah 43:18 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#43:18",
       "categories": [
         "scripture",
         "purpose",
@@ -2111,10 +2127,10 @@
     },
     {
       "id": "quote-184",
-      "quote": "Let us hold fast the profession of [our] faith without wavering; (for he [is] faithful that promised;)",
-      "author": "Bible",
-      "source": "Hebrews 10:23 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Hebrews-10-23/",
+      "quote": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
+      "author": "Isaiah",
+      "source": "Isaiah 58:11 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#58:11",
       "categories": [
         "scripture",
         "purpose",
@@ -2123,10 +2139,10 @@
     },
     {
       "id": "quote-185",
-      "quote": "And thine ears shall hear a word behind thee, saying, This [is] the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
-      "author": "Isaiah",
-      "source": "Isaiah 30:21 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-30-21/",
+      "quote": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+      "author": "Jeremiah",
+      "source": "Jeremiah 33:3 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Jeremiah#33:3",
       "categories": [
         "scripture",
         "purpose",
@@ -2135,10 +2151,10 @@
     },
     {
       "id": "quote-186",
-      "quote": "Remember ye not the former things, neither consider the things of old.",
-      "author": "Isaiah",
-      "source": "Isaiah 43:18 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-43-18/",
+      "quote": "If the Son therefore shall make you free, ye shall be free indeed.",
+      "author": "John",
+      "source": "John 8:36 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#8:36",
       "categories": [
         "scripture",
         "purpose",
@@ -2147,10 +2163,10 @@
     },
     {
       "id": "quote-187",
-      "quote": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
-      "author": "Isaiah",
-      "source": "Isaiah 58:11 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Isaiah-58-11/",
+      "quote": "For where your treasure is, there will your heart be also.",
+      "author": "Luke",
+      "source": "Luke 12:34 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Luke#12:34",
       "categories": [
         "scripture",
         "purpose",
@@ -2159,10 +2175,10 @@
     },
     {
       "id": "quote-188",
-      "quote": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
-      "author": "Jeremiah",
-      "source": "Jeremiah 33:3 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Jeremiah-33-3/",
+      "quote": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+      "author": "Paul",
+      "source": "Philippians 4:19 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:19",
       "categories": [
         "scripture",
         "purpose",
@@ -2171,10 +2187,10 @@
     },
     {
       "id": "quote-189",
-      "quote": "If the Son therefore shall make you free, ye shall be free indeed.",
-      "author": "John",
-      "source": "John 8:36 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/John-8-36/",
+      "quote": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+      "author": "Paul",
+      "source": "Philippians 4:6 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:6",
       "categories": [
         "scripture",
         "purpose",
@@ -2183,10 +2199,10 @@
     },
     {
       "id": "quote-190",
-      "quote": "For where your treasure is, there will your heart be also.",
-      "author": "Luke",
-      "source": "Luke 12:34 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Luke-12-34/",
+      "quote": "Finally, brethren, whatsoever things are true, whatsoever things [are] honest, whatsoever things [are] just, whatsoever things [are] pure, whatsoever things [are] lovely, whatsoever things [are] of good report; if [there be] any virtue, and if [there be] any praise, think on these things.",
+      "author": "Paul",
+      "source": "Philippians 4:8 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:8",
       "categories": [
         "scripture",
         "purpose",
@@ -2195,10 +2211,10 @@
     },
     {
       "id": "quote-191",
-      "quote": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
-      "author": "Paul",
-      "source": "Philippians 4:19 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-4-19/",
+      "quote": "A man's heart deviseth his way: but the LORD directeth his steps.",
+      "author": "Solomon",
+      "source": "Proverbs 16:9 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#16:9",
       "categories": [
         "scripture",
         "purpose",
@@ -2207,10 +2223,10 @@
     },
     {
       "id": "quote-192",
-      "quote": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
-      "author": "Paul",
-      "source": "Philippians 4:6 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-4-6/",
+      "quote": "This [is] the day [which] the LORD hath made; we will rejoice and be glad in it.",
+      "author": "David",
+      "source": "Psalm 118:24 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#118:24",
       "categories": [
         "scripture",
         "purpose",
@@ -2219,10 +2235,10 @@
     },
     {
       "id": "quote-193",
-      "quote": "Finally, brethren, whatsoever things are true, whatsoever things [are] honest, whatsoever things [are] just, whatsoever things [are] pure, whatsoever things [are] lovely, whatsoever things [are] of good report; if [there be] any virtue, and if [there be] any praise, think on these things.",
-      "author": "Paul",
-      "source": "Philippians 4:8 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Philippians-4-8/",
+      "quote": "My help [cometh] from the LORD, which made heaven and earth.",
+      "author": "David",
+      "source": "Psalm 121:2 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#121:2",
       "categories": [
         "scripture",
         "purpose",
@@ -2231,10 +2247,10 @@
     },
     {
       "id": "quote-194",
-      "quote": "A man's heart deviseth his way: but the LORD directeth his steps.",
-      "author": "Solomon",
-      "source": "Proverbs 16:9 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Proverbs-16-9/",
+      "quote": "The LORD [is] my shepherd; I shall not want.",
+      "author": "David",
+      "source": "Psalm 23:1 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#23:1",
       "categories": [
         "scripture",
         "purpose",
@@ -2243,10 +2259,10 @@
     },
     {
       "id": "quote-195",
-      "quote": "This [is] the day [which] the LORD hath made; we will rejoice and be glad in it.",
+      "quote": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
       "author": "David",
-      "source": "Psalm 118:24 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-118-24/",
+      "source": "Psalm 32:8 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#32:8",
       "categories": [
         "scripture",
         "purpose",
@@ -2255,42 +2271,6 @@
     },
     {
       "id": "quote-196",
-      "quote": "My help [cometh] from the LORD, which made heaven and earth.",
-      "author": "David",
-      "source": "Psalm 121:2 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-121-2/",
-      "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-197",
-      "quote": "The LORD [is] my shepherd; I shall not want.",
-      "author": "David",
-      "source": "Psalm 23:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-23-1/",
-      "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-198",
-      "quote": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
-      "author": "David",
-      "source": "Psalm 32:8 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-32-8/",
-      "categories": [
-        "scripture",
-        "purpose",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-199",
       "quote": "Character develops itself in the stream of life.",
       "author": "Johann Wolfgang von Goethe",
       "source": "Wikiquote: Johann Wolfgang von Goethe",
@@ -2301,7 +2281,7 @@
       ]
     },
     {
-      "id": "quote-200",
+      "id": "quote-197",
       "quote": "God has given you one face, and you make yourself another.",
       "author": "William Shakespeare",
       "source": "Wikiquote: William Shakespeare",
@@ -2312,7 +2292,7 @@
       ]
     },
     {
-      "id": "quote-201",
+      "id": "quote-198",
       "quote": "What you do not want done to yourself, do not do to others.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -2323,7 +2303,7 @@
       ]
     },
     {
-      "id": "quote-202",
+      "id": "quote-199",
       "quote": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
       "author": "Eleanor Roosevelt",
       "source": "Wikiquote: Eleanor Roosevelt",
@@ -2334,7 +2314,7 @@
       ]
     },
     {
-      "id": "quote-203",
+      "id": "quote-200",
       "quote": "It is not fair to ask of others what you are unwilling to do yourself.",
       "author": "Eleanor Roosevelt",
       "source": "Wikiquote: Eleanor Roosevelt",
@@ -2345,7 +2325,7 @@
       ]
     },
     {
-      "id": "quote-204",
+      "id": "quote-201",
       "quote": "First say to yourself what you would be; and then do what you have to do.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -2356,7 +2336,7 @@
       ]
     },
     {
-      "id": "quote-205",
+      "id": "quote-202",
       "quote": "Know, first, who you are, and then adorn yourself accordingly.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -2367,7 +2347,7 @@
       ]
     },
     {
-      "id": "quote-206",
+      "id": "quote-203",
       "quote": "Practice yourself, for heavens sake in little things, and then proceed to greater.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -2378,7 +2358,7 @@
       ]
     },
     {
-      "id": "quote-207",
+      "id": "quote-204",
       "quote": "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -2389,7 +2369,7 @@
       ]
     },
     {
-      "id": "quote-208",
+      "id": "quote-205",
       "quote": "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2400,7 +2380,7 @@
       ]
     },
     {
-      "id": "quote-209",
+      "id": "quote-206",
       "quote": "He who lives in harmony with himself lives in harmony with the world.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -2411,7 +2391,7 @@
       ]
     },
     {
-      "id": "quote-210",
+      "id": "quote-207",
       "quote": "Be yourself; everyone else is already taken.",
       "author": "Oscar Wilde",
       "source": "Wikiquote: Oscar Wilde",
@@ -2422,7 +2402,7 @@
       ]
     },
     {
-      "id": "quote-211",
+      "id": "quote-208",
       "quote": "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
       "author": "Oscar Wilde",
       "source": "Wikiquote: Oscar Wilde",
@@ -2433,7 +2413,7 @@
       ]
     },
     {
-      "id": "quote-212",
+      "id": "quote-209",
       "quote": "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
       "author": "Ralph Waldo Emerson",
       "source": "Wikiquote: Ralph Waldo Emerson",
@@ -2444,18 +2424,7 @@
       ]
     },
     {
-      "id": "quote-213",
-      "quote": "Let yourself be silently drawn by the stronger pull of what you really love.",
-      "author": "Rumi",
-      "source": "https://www.goodreads.com/quotes/541057",
-      "sourceUrl": "https://www.goodreads.com/quotes/541057",
-      "categories": [
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-214",
+      "id": "quote-210",
       "quote": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
       "author": "Wayne Dyer",
       "source": "Wikiquote: Wayne Dyer",
@@ -2466,7 +2435,7 @@
       ]
     },
     {
-      "id": "quote-215",
+      "id": "quote-211",
       "quote": "When you judge another, you do not define them, you define yourself.",
       "author": "Wayne Dyer",
       "source": "Wikiquote: Wayne Dyer",
@@ -2477,7 +2446,7 @@
       ]
     },
     {
-      "id": "quote-216",
+      "id": "quote-212",
       "quote": "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
       "author": "Winston Churchill",
       "source": "Wikiquote: Winston Churchill",
@@ -2488,18 +2457,7 @@
       ]
     },
     {
-      "id": "quote-217",
-      "quote": "Man conquers the world by conquering himself.",
-      "author": "Zeno of Citium",
-      "source": "https://www.goodreads.com/quotes/515411-man-conquers-the-world-by-conquering-himself",
-      "sourceUrl": "https://www.goodreads.com/quotes/515411-man-conquers-the-world-by-conquering-himself",
-      "categories": [
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-218",
+      "id": "quote-213",
       "quote": "You have to do your own growing no matter how tall your grandfather was.",
       "author": "Abraham Lincoln",
       "source": "Wikiquote: Abraham Lincoln",
@@ -2510,11 +2468,71 @@
       ]
     },
     {
-      "id": "quote-219",
+      "id": "quote-214",
       "quote": "The LORD [is] nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
       "author": "David",
       "source": "Psalm 34:18 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-34-18/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#34:18",
+      "categories": [
+        "scripture",
+        "identity",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-215",
+      "quote": "Commit thy way unto the LORD; trust also in him; and he shall bring [it] to pass.",
+      "author": "David",
+      "source": "Psalm 37:5 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#37:5",
+      "categories": [
+        "scripture",
+        "identity",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-216",
+      "quote": "Be still, and know that I [am] God: I will be exalted among the heathen, I will be exalted in the earth.",
+      "author": "David",
+      "source": "Psalm 46:10 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#46:10",
+      "categories": [
+        "scripture",
+        "identity",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-217",
+      "quote": "Not slothful in business; fervent in spirit; serving the Lord;",
+      "author": "Paul",
+      "source": "Romans 12:11 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#12:11",
+      "categories": [
+        "scripture",
+        "identity",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-218",
+      "quote": "And patience, experience; and experience, hope:",
+      "author": "Paul",
+      "source": "Romans 5:4 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#5:4",
+      "categories": [
+        "scripture",
+        "identity",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-219",
+      "quote": "Nay, in all these things we are more than conquerors through him that loved us.",
+      "author": "Paul",
+      "source": "Romans 8:37 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:37",
       "categories": [
         "scripture",
         "identity",
@@ -2523,66 +2541,6 @@
     },
     {
       "id": "quote-220",
-      "quote": "Commit thy way unto the LORD; trust also in him; and he shall bring [it] to pass.",
-      "author": "David",
-      "source": "Psalm 37:5 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-37-5/",
-      "categories": [
-        "scripture",
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-221",
-      "quote": "Be still, and know that I [am] God: I will be exalted among the heathen, I will be exalted in the earth.",
-      "author": "David",
-      "source": "Psalm 46:10 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Psalms-46-10/",
-      "categories": [
-        "scripture",
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-222",
-      "quote": "Not slothful in business; fervent in spirit; serving the Lord;",
-      "author": "Paul",
-      "source": "Romans 12:11 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-12-11/",
-      "categories": [
-        "scripture",
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-223",
-      "quote": "And patience, experience; and experience, hope:",
-      "author": "Paul",
-      "source": "Romans 5:4 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-5-4/",
-      "categories": [
-        "scripture",
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-224",
-      "quote": "Nay, in all these things we are more than conquerors through him that loved us.",
-      "author": "Paul",
-      "source": "Romans 8:37 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-8-37/",
-      "categories": [
-        "scripture",
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-225",
       "quote": "When I let go of what I am, I become what I might be.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2593,7 +2551,7 @@
       ]
     },
     {
-      "id": "quote-226",
+      "id": "quote-221",
       "quote": "A person who never made a mistake never tried anything new.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -2604,7 +2562,7 @@
       ]
     },
     {
-      "id": "quote-227",
+      "id": "quote-222",
       "quote": "An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.",
       "author": "Albert Schweitzer",
       "source": "Wikiquote: Albert Schweitzer",
@@ -2615,7 +2573,7 @@
       ]
     },
     {
-      "id": "quote-228",
+      "id": "quote-223",
       "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
       "author": "Aldous Huxley",
       "source": "Wikiquote: Aldous Huxley",
@@ -2626,7 +2584,7 @@
       ]
     },
     {
-      "id": "quote-229",
+      "id": "quote-224",
       "quote": "No one has ever become poor by giving.",
       "author": "Anne Frank",
       "source": "Wikiquote: Anne Frank",
@@ -2637,7 +2595,7 @@
       ]
     },
     {
-      "id": "quote-230",
+      "id": "quote-225",
       "quote": "Difficulties are things that show a person what they are.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -2648,7 +2606,7 @@
       ]
     },
     {
-      "id": "quote-231",
+      "id": "quote-226",
       "quote": "No man is free who is not master of himself.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -2659,7 +2617,7 @@
       ]
     },
     {
-      "id": "quote-232",
+      "id": "quote-227",
       "quote": "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
       "author": "Frederick Douglass",
       "source": "Wikiquote: Frederick Douglass",
@@ -2670,7 +2628,7 @@
       ]
     },
     {
-      "id": "quote-233",
+      "id": "quote-228",
       "quote": "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
       "author": "Johann Wolfgang von Goethe",
       "source": "Wikiquote: Johann Wolfgang von Goethe",
@@ -2681,7 +2639,7 @@
       ]
     },
     {
-      "id": "quote-234",
+      "id": "quote-229",
       "quote": "The person born with a talent they are meant to use will find their greatest happiness in using it.",
       "author": "Johann Wolfgang von Goethe",
       "source": "Wikiquote: Johann Wolfgang von Goethe",
@@ -2692,7 +2650,7 @@
       ]
     },
     {
-      "id": "quote-235",
+      "id": "quote-230",
       "quote": "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
       "author": "Johann Wolfgang von Goethe",
       "source": "Wikiquote: Johann Wolfgang von Goethe",
@@ -2703,7 +2661,7 @@
       ]
     },
     {
-      "id": "quote-236",
+      "id": "quote-231",
       "quote": "He who conquers others is strong; He who conquers himself is mighty.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2714,7 +2672,7 @@
       ]
     },
     {
-      "id": "quote-237",
+      "id": "quote-232",
       "quote": "He who knows others is wise. He who knows himself is enlightened.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2725,7 +2683,7 @@
       ]
     },
     {
-      "id": "quote-238",
+      "id": "quote-233",
       "quote": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2736,7 +2694,7 @@
       ]
     },
     {
-      "id": "quote-239",
+      "id": "quote-234",
       "quote": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2747,7 +2705,7 @@
       ]
     },
     {
-      "id": "quote-240",
+      "id": "quote-235",
       "quote": "We must become the change we want to see.",
       "author": "Mahatma Gandhi",
       "source": "Wikiquote: Mahatma Gandhi",
@@ -2758,7 +2716,7 @@
       ]
     },
     {
-      "id": "quote-241",
+      "id": "quote-236",
       "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -2769,7 +2727,7 @@
       ]
     },
     {
-      "id": "quote-242",
+      "id": "quote-237",
       "quote": "He who lives in harmony with himself lives in harmony with the universe.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -2780,7 +2738,7 @@
       ]
     },
     {
-      "id": "quote-243",
+      "id": "quote-238",
       "quote": "There is nothing happens to any person but what was in his power to go through with.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -2791,18 +2749,7 @@
       ]
     },
     {
-      "id": "quote-244",
-      "quote": "Today I escaped anxiety. Or no, I discarded it, because it was within me, in my own perceptions — not outside.",
-      "author": "Marcus Aurelius",
-      "source": "https://www.goodreads.com/quotes/8765043-today-i-escaped-anxiety-or-no-i-discarded-it-because",
-      "sourceUrl": "https://www.goodreads.com/quotes/8765043-today-i-escaped-anxiety-or-no-i-discarded-it-because",
-      "categories": [
-        "identity",
-        "healing"
-      ]
-    },
-    {
-      "id": "quote-245",
+      "id": "quote-239",
       "quote": "Always tell the truth. That way, you don't have to remember what you said.",
       "author": "Mark Twain",
       "source": "Wikiquote: Mark Twain",
@@ -2813,7 +2760,7 @@
       ]
     },
     {
-      "id": "quote-246",
+      "id": "quote-240",
       "quote": "To change ones life, start immediately, do it flamboyantly, no exceptions.",
       "author": "William James",
       "source": "Wikiquote: William James",
@@ -2824,7 +2771,7 @@
       ]
     },
     {
-      "id": "quote-247",
+      "id": "quote-241",
       "quote": "What do we live for, if it is not to make life less difficult for each other?",
       "author": "George Eliot",
       "source": "Wikiquote: George Eliot",
@@ -2835,7 +2782,7 @@
       ]
     },
     {
-      "id": "quote-248",
+      "id": "quote-242",
       "quote": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
       "author": "Lao Tzu",
       "source": "Wikiquote: Lao Tzu",
@@ -2846,7 +2793,7 @@
       ]
     },
     {
-      "id": "quote-249",
+      "id": "quote-243",
       "quote": "It is the quality of our work which will please God, not the quantity.",
       "author": "Mahatma Gandhi",
       "source": "Wikiquote: Mahatma Gandhi",
@@ -2857,7 +2804,7 @@
       ]
     },
     {
-      "id": "quote-250",
+      "id": "quote-244",
       "quote": "Most of the shadows of life are caused by standing in our own sunshine.",
       "author": "Ralph Waldo Emerson",
       "source": "Wikiquote: Ralph Waldo Emerson",
@@ -2868,18 +2815,7 @@
       ]
     },
     {
-      "id": "quote-251",
-      "quote": "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-      "author": "Rumi",
-      "source": "https://www.goodreads.com/quotes/936898",
-      "sourceUrl": "https://www.goodreads.com/quotes/936898",
-      "categories": [
-        "encouragement",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-252",
+      "id": "quote-245",
       "quote": "Begin at once to live and count each separate day as a separate life.",
       "author": "Seneca",
       "source": "Wikiquote: Seneca",
@@ -2890,7 +2826,7 @@
       ]
     },
     {
-      "id": "quote-253",
+      "id": "quote-246",
       "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
       "author": "Thomas Edison",
       "source": "Wikiquote: Thomas Edison",
@@ -2901,7 +2837,7 @@
       ]
     },
     {
-      "id": "quote-254",
+      "id": "quote-247",
       "quote": "Doing what you love is the cornerstone of having abundance in your life.",
       "author": "Wayne Dyer",
       "source": "Wikiquote: Wayne Dyer",
@@ -2912,7 +2848,7 @@
       ]
     },
     {
-      "id": "quote-255",
+      "id": "quote-248",
       "quote": "Act as if what you do makes a difference. It does.",
       "author": "William James",
       "source": "Wikiquote: William James",
@@ -2923,7 +2859,7 @@
       ]
     },
     {
-      "id": "quote-256",
+      "id": "quote-249",
       "quote": "As our case is new, we must think and act anew.",
       "author": "Abraham Lincoln",
       "source": "Wikiquote: Abraham Lincoln",
@@ -2934,7 +2870,7 @@
       ]
     },
     {
-      "id": "quote-257",
+      "id": "quote-250",
       "quote": "Do something wonderful, people may imitate it.",
       "author": "Albert Schweitzer",
       "source": "Wikiquote: Albert Schweitzer",
@@ -2945,7 +2881,7 @@
       ]
     },
     {
-      "id": "quote-258",
+      "id": "quote-251",
       "quote": "Experience is not what happens to a man. It is what a man does with what happens to him.",
       "author": "Aldous Huxley",
       "source": "Wikiquote: Aldous Huxley",
@@ -2956,7 +2892,7 @@
       ]
     },
     {
-      "id": "quote-259",
+      "id": "quote-252",
       "quote": "Age does not protect you from love. But love, to some extent, protects you from age.",
       "author": "Anais Nin",
       "source": "Wikiquote: Anais Nin",
@@ -2967,18 +2903,7 @@
       ]
     },
     {
-      "id": "quote-260",
-      "quote": "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
-      "author": "Aristotle",
-      "source": "https://www.goodreads.com/quotes/1309500",
-      "sourceUrl": "https://www.goodreads.com/quotes/1309500",
-      "categories": [
-        "encouragement",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-261",
+      "id": "quote-253",
       "quote": "Action may not always bring happiness; but there is no happiness without action.",
       "author": "Benjamin Disraeli",
       "source": "Wikiquote: Benjamin Disraeli",
@@ -2989,7 +2914,7 @@
       ]
     },
     {
-      "id": "quote-262",
+      "id": "quote-254",
       "quote": "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
       "author": "Benjamin Disraeli",
       "source": "Wikiquote: Benjamin Disraeli",
@@ -3000,7 +2925,7 @@
       ]
     },
     {
-      "id": "quote-263",
+      "id": "quote-255",
       "quote": "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
       "author": "Benjamin Disraeli",
       "source": "Wikiquote: Benjamin Disraeli",
@@ -3011,7 +2936,7 @@
       ]
     },
     {
-      "id": "quote-264",
+      "id": "quote-256",
       "quote": "Well done is better than well said.",
       "author": "Benjamin Franklin",
       "source": "Wikiquote: Benjamin Franklin",
@@ -3022,7 +2947,7 @@
       ]
     },
     {
-      "id": "quote-265",
+      "id": "quote-257",
       "quote": "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
       "author": "Seneca",
       "source": "Wikiquote: Seneca",
@@ -3033,7 +2958,7 @@
       ]
     },
     {
-      "id": "quote-266",
+      "id": "quote-258",
       "quote": "No valid plans for the future can be made by those who have no capacity for living now.",
       "author": "Alan Watts",
       "source": "Wikiquote: Alan Watts",
@@ -3044,7 +2969,7 @@
       ]
     },
     {
-      "id": "quote-267",
+      "id": "quote-259",
       "quote": "In the middle of every difficulty lies opportunity.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -3055,7 +2980,7 @@
       ]
     },
     {
-      "id": "quote-268",
+      "id": "quote-260",
       "quote": "If you light a lamp for somebody, it will also brighten your path.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3066,7 +2991,7 @@
       ]
     },
     {
-      "id": "quote-269",
+      "id": "quote-261",
       "quote": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3077,7 +3002,7 @@
       ]
     },
     {
-      "id": "quote-270",
+      "id": "quote-262",
       "quote": "It is impossible for a man to learn what he thinks he already knows.",
       "author": "Epictetus",
       "source": "Wikiquote: Epictetus",
@@ -3088,7 +3013,7 @@
       ]
     },
     {
-      "id": "quote-271",
+      "id": "quote-263",
       "quote": "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
       "author": "Helen Keller",
       "source": "Wikiquote: Helen Keller",
@@ -3099,7 +3024,7 @@
       ]
     },
     {
-      "id": "quote-272",
+      "id": "quote-264",
       "quote": "Beauty is not in the face; beauty is a light in the heart.",
       "author": "Kahlil Gibran",
       "source": "Wikiquote: Kahlil Gibran",
@@ -3110,7 +3035,7 @@
       ]
     },
     {
-      "id": "quote-273",
+      "id": "quote-265",
       "quote": "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -3121,7 +3046,7 @@
       ]
     },
     {
-      "id": "quote-274",
+      "id": "quote-266",
       "quote": "Loss is nothing else but change,and change is Natures delight.",
       "author": "Marcus Aurelius",
       "source": "Wikiquote: Marcus Aurelius",
@@ -3132,7 +3057,7 @@
       ]
     },
     {
-      "id": "quote-275",
+      "id": "quote-267",
       "quote": "I believe that every person is born with talent.",
       "author": "Maya Angelou",
       "source": "Wikiquote: Maya Angelou",
@@ -3143,7 +3068,7 @@
       ]
     },
     {
-      "id": "quote-276",
+      "id": "quote-268",
       "quote": "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.",
       "author": "Maya Angelou",
       "source": "Wikiquote: Maya Angelou",
@@ -3154,7 +3079,7 @@
       ]
     },
     {
-      "id": "quote-277",
+      "id": "quote-269",
       "quote": "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
       "author": "Napoleon Hill",
       "source": "Wikiquote: Napoleon Hill",
@@ -3165,7 +3090,7 @@
       ]
     },
     {
-      "id": "quote-278",
+      "id": "quote-270",
       "quote": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
       "author": "Napoleon Hill",
       "source": "Wikiquote: Napoleon Hill",
@@ -3176,7 +3101,7 @@
       ]
     },
     {
-      "id": "quote-279",
+      "id": "quote-271",
       "quote": "Luck is what happens when preparation meets opportunity.",
       "author": "Seneca",
       "source": "Wikiquote: Seneca",
@@ -3187,7 +3112,7 @@
       ]
     },
     {
-      "id": "quote-280",
+      "id": "quote-272",
       "quote": "I walk slowly, but I never walk backward.",
       "author": "Abraham Lincoln",
       "source": "Wikiquote: Abraham Lincoln",
@@ -3198,7 +3123,7 @@
       ]
     },
     {
-      "id": "quote-281",
+      "id": "quote-273",
       "quote": "Autumn is a second spring when every leaf is a flower.",
       "author": "Albert Camus",
       "source": "Wikiquote: Albert Camus",
@@ -3209,7 +3134,7 @@
       ]
     },
     {
-      "id": "quote-282",
+      "id": "quote-274",
       "quote": "Feeling and longing are the motive forces behind all human endeavor and human creations.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -3220,7 +3145,7 @@
       ]
     },
     {
-      "id": "quote-283",
+      "id": "quote-275",
       "quote": "Logic will get you from A to B. Imagination will take you everywhere.",
       "author": "Albert Einstein",
       "source": "Wikiquote: Albert Einstein",
@@ -3231,18 +3156,7 @@
       ]
     },
     {
-      "id": "quote-284",
-      "quote": "I have no special talent. I am only passionately curious.",
-      "author": "Albert Einstein",
-      "source": "https://www.goodreads.com/quotes/11458",
-      "sourceUrl": "https://www.goodreads.com/quotes/11458",
-      "categories": [
-        "courage",
-        "encouragement"
-      ]
-    },
-    {
-      "id": "quote-285",
+      "id": "quote-276",
       "quote": "We should all be thankful for those people who rekindle the inner spirit.",
       "author": "Albert Schweitzer",
       "source": "Wikiquote: Albert Schweitzer",
@@ -3253,7 +3167,7 @@
       ]
     },
     {
-      "id": "quote-286",
+      "id": "quote-277",
       "quote": "Wherever a man turns he can find someone who needs him.",
       "author": "Albert Schweitzer",
       "source": "Wikiquote: Albert Schweitzer",
@@ -3264,7 +3178,7 @@
       ]
     },
     {
-      "id": "quote-287",
+      "id": "quote-278",
       "quote": "In all things of nature there is something of the marvellous.",
       "author": "Aristotle",
       "source": "Wikiquote: Aristotle",
@@ -3275,7 +3189,7 @@
       ]
     },
     {
-      "id": "quote-288",
+      "id": "quote-279",
       "quote": "If one way be better than another, that you may be sure is natures way.",
       "author": "Aristotle",
       "source": "Wikiquote: Aristotle",
@@ -3286,7 +3200,7 @@
       ]
     },
     {
-      "id": "quote-289",
+      "id": "quote-280",
       "quote": "We make our own fortunes and we call them fate.",
       "author": "Benjamin Disraeli",
       "source": "Wikiquote: Benjamin Disraeli",
@@ -3297,7 +3211,7 @@
       ]
     },
     {
-      "id": "quote-290",
+      "id": "quote-281",
       "quote": "The heart has its reasons which reason knows not of.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -3308,7 +3222,7 @@
       ]
     },
     {
-      "id": "quote-291",
+      "id": "quote-282",
       "quote": "Kind words do not cost much. Yet they accomplish much.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -3319,7 +3233,7 @@
       ]
     },
     {
-      "id": "quote-292",
+      "id": "quote-283",
       "quote": "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -3330,7 +3244,7 @@
       ]
     },
     {
-      "id": "quote-293",
+      "id": "quote-284",
       "quote": "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -3341,7 +3255,7 @@
       ]
     },
     {
-      "id": "quote-294",
+      "id": "quote-285",
       "quote": "We are all something, but none of us are everything.",
       "author": "Blaise Pascal",
       "source": "Wikiquote: Blaise Pascal",
@@ -3352,7 +3266,7 @@
       ]
     },
     {
-      "id": "quote-295",
+      "id": "quote-286",
       "quote": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3363,7 +3277,7 @@
       ]
     },
     {
-      "id": "quote-296",
+      "id": "quote-287",
       "quote": "The way is not in the sky. The way is in the heart.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3374,7 +3288,7 @@
       ]
     },
     {
-      "id": "quote-297",
+      "id": "quote-288",
       "quote": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3385,7 +3299,7 @@
       ]
     },
     {
-      "id": "quote-298",
+      "id": "quote-289",
       "quote": "Chaos is inherent in all compounded things. Strive on with diligence.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3396,7 +3310,7 @@
       ]
     },
     {
-      "id": "quote-299",
+      "id": "quote-290",
       "quote": "What you are is what you have been. What you will be is what you do now.",
       "author": "Buddha",
       "source": "Wikiquote: Buddha",
@@ -3407,7 +3321,7 @@
       ]
     },
     {
-      "id": "quote-300",
+      "id": "quote-291",
       "quote": "Wherever you go, go with all your heart.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3418,7 +3332,7 @@
       ]
     },
     {
-      "id": "quote-301",
+      "id": "quote-292",
       "quote": "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3429,7 +3343,7 @@
       ]
     },
     {
-      "id": "quote-302",
+      "id": "quote-293",
       "quote": "It does not matter how slowly you go as long as you do not stop.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3440,7 +3354,7 @@
       ]
     },
     {
-      "id": "quote-303",
+      "id": "quote-294",
       "quote": "To study and not think is a waste. To think and not study is dangerous.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3451,7 +3365,7 @@
       ]
     },
     {
-      "id": "quote-304",
+      "id": "quote-295",
       "quote": "The superior man is modest in his speech, but exceeds in his actions.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3462,7 +3376,7 @@
       ]
     },
     {
-      "id": "quote-305",
+      "id": "quote-296",
       "quote": "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3473,7 +3387,7 @@
       ]
     },
     {
-      "id": "quote-306",
+      "id": "quote-297",
       "quote": "Fine words and an insinuating appearance are seldom associated with true virtue",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3484,7 +3398,7 @@
       ]
     },
     {
-      "id": "quote-307",
+      "id": "quote-298",
       "quote": "The superior man acts before he speaks, and afterwards speaks according to his action.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3495,7 +3409,7 @@
       ]
     },
     {
-      "id": "quote-308",
+      "id": "quote-299",
       "quote": "Learning without reflection is a waste, reflection without learning is dangerous.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3506,7 +3420,7 @@
       ]
     },
     {
-      "id": "quote-309",
+      "id": "quote-300",
       "quote": "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
       "author": "Confucius",
       "source": "Wikiquote: Confucius",
@@ -3517,7 +3431,7 @@
       ]
     },
     {
-      "id": "quote-310",
+      "id": "quote-301",
       "quote": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.",
       "author": "Dhammapada",
       "source": "Dhammapada 1:1 (Muller)",
@@ -3529,7 +3443,7 @@
       ]
     },
     {
-      "id": "quote-311",
+      "id": "quote-302",
       "quote": "If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.",
       "author": "Dhammapada",
       "source": "Dhammapada 1:2 (Muller)",
@@ -3541,7 +3455,7 @@
       ]
     },
     {
-      "id": "quote-312",
+      "id": "quote-303",
       "quote": "Hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
       "author": "Dhammapada",
       "source": "Dhammapada 1:5 (Muller)",
@@ -3553,7 +3467,7 @@
       ]
     },
     {
-      "id": "quote-313",
+      "id": "quote-304",
       "quote": "Earnestness is the path of immortality, thoughtlessness the path of death.",
       "author": "Dhammapada",
       "source": "Dhammapada 2:21 (Muller)",
@@ -3565,7 +3479,7 @@
       ]
     },
     {
-      "id": "quote-314",
+      "id": "quote-305",
       "quote": "Self is the lord of self; who else could be the lord?",
       "author": "Dhammapada",
       "source": "Dhammapada 12:160 (Muller)",
@@ -3577,11 +3491,11 @@
       ]
     },
     {
-      "id": "quote-315",
+      "id": "quote-306",
       "quote": "The highest excellence is like water.",
       "author": "Laozi",
       "source": "Tao Te Ching 8 (Legge)",
-      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-8",
+      "sourceUrl": "https://www.yellowbridge.com/onlinelit/daodejing08.php",
       "categories": [
         "scripture",
         "peace",
@@ -3589,11 +3503,11 @@
       ]
     },
     {
-      "id": "quote-316",
+      "id": "quote-307",
       "quote": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
       "author": "Laozi",
       "source": "Tao Te Ching 22 (Legge)",
-      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-22",
+      "sourceUrl": "https://www.yellowbridge.com/onlinelit/daodejing22.php",
       "categories": [
         "scripture",
         "healing",
@@ -3601,11 +3515,11 @@
       ]
     },
     {
-      "id": "quote-317",
+      "id": "quote-308",
       "quote": "He who knows other men is discerning; he who knows himself is intelligent.",
       "author": "Laozi",
       "source": "Tao Te Ching 33 (Legge)",
-      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-33",
+      "sourceUrl": "https://www.yellowbridge.com/onlinelit/daodejing33.php",
       "categories": [
         "scripture",
         "identity",
@@ -3613,11 +3527,11 @@
       ]
     },
     {
-      "id": "quote-318",
+      "id": "quote-309",
       "quote": "The Tao in its regular course does nothing, and so there is nothing which it does not do.",
       "author": "Laozi",
       "source": "Tao Te Ching 37 (Legge)",
-      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-37",
+      "sourceUrl": "https://www.yellowbridge.com/onlinelit/daodejing37.php",
       "categories": [
         "scripture",
         "wisdom",
@@ -3625,11 +3539,11 @@
       ]
     },
     {
-      "id": "quote-319",
+      "id": "quote-310",
       "quote": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a small heap of earth.",
       "author": "Laozi",
       "source": "Tao Te Ching 64 (Legge)",
-      "sourceUrl": "https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-64",
+      "sourceUrl": "https://www.yellowbridge.com/onlinelit/daodejing64.php",
       "categories": [
         "scripture",
         "perseverance",
@@ -3637,7 +3551,7 @@
       ]
     },
     {
-      "id": "quote-320",
+      "id": "quote-311",
       "quote": "Your right is only to work, but not to its results; do not let the results of action be your motive, nor let your attachment be to inaction.",
       "author": "Bhagavad Gita",
       "source": "Bhagavad Gita 2:47",
@@ -3649,7 +3563,7 @@
       ]
     },
     {
-      "id": "quote-321",
+      "id": "quote-312",
       "quote": "Be steadfast in performing your duties, abandoning all attachment to success and failure - such equanimity is called Yoga.",
       "author": "Bhagavad Gita",
       "source": "Bhagavad Gita 2:48",
@@ -3661,7 +3575,7 @@
       ]
     },
     {
-      "id": "quote-322",
+      "id": "quote-313",
       "quote": "Yoga is skill in action.",
       "author": "Bhagavad Gita",
       "source": "Bhagavad Gita 2:50",
@@ -3673,7 +3587,7 @@
       ]
     },
     {
-      "id": "quote-323",
+      "id": "quote-314",
       "quote": "Let a man raise himself by himself; let him not lower himself.",
       "author": "Bhagavad Gita",
       "source": "Bhagavad Gita 6:5",
@@ -3685,7 +3599,7 @@
       ]
     },
     {
-      "id": "quote-324",
+      "id": "quote-315",
       "quote": "Abandon all varieties of dharma and simply surrender unto Me alone.",
       "author": "Bhagavad Gita",
       "source": "Bhagavad Gita 18:66",
@@ -3697,7 +3611,7 @@
       ]
     },
     {
-      "id": "quote-325",
+      "id": "quote-316",
       "quote": "For indeed, with hardship [will be] ease.",
       "author": "Qur'an",
       "source": "Qur'an 94:5 (Sahih International)",
@@ -3709,7 +3623,7 @@
       ]
     },
     {
-      "id": "quote-326",
+      "id": "quote-317",
       "quote": "Indeed, with hardship [will be] ease.",
       "author": "Qur'an",
       "source": "Qur'an 94:6 (Sahih International)",
@@ -3721,7 +3635,7 @@
       ]
     },
     {
-      "id": "quote-327",
+      "id": "quote-318",
       "quote": "Indeed, Allah will not change the condition of a people until they change what is in themselves.",
       "author": "Qur'an",
       "source": "Qur'an 13:11 (Sahih International)",
@@ -3733,7 +3647,7 @@
       ]
     },
     {
-      "id": "quote-328",
+      "id": "quote-319",
       "quote": "Rise, awake! having obtained your boons, understand them!",
       "author": "Katha Upanishad",
       "source": "Katha Upanishad 1.3.14 (Max Muller)",
@@ -3745,7 +3659,7 @@
       ]
     },
     {
-      "id": "quote-329",
+      "id": "quote-320",
       "quote": "When the five instruments of knowledge stand still together with the mind, and when the intellect does not move, that is called the highest state.",
       "author": "Katha Upanishad",
       "source": "Katha Upanishad 2.3.10 (Max Muller)",
@@ -3757,7 +3671,7 @@
       ]
     },
     {
-      "id": "quote-330",
+      "id": "quote-321",
       "quote": "Even a fool may be wise after the event.",
       "author": "Homer",
       "source": "The Iliad, Book XVII (Butler)",
@@ -3768,7 +3682,7 @@
       ]
     },
     {
-      "id": "quote-331",
+      "id": "quote-322",
       "quote": "Of all creatures that breathe and move upon the earth, there is none that is weaker than man.",
       "author": "Homer",
       "source": "The Odyssey, Book XVIII (Butler)",
@@ -3779,7 +3693,7 @@
       ]
     },
     {
-      "id": "quote-332",
+      "id": "quote-323",
       "quote": "Bear up, my heart; you have had worse than this to bear.",
       "author": "Homer",
       "source": "The Odyssey, Book XX (Butler)",
@@ -3790,7 +3704,7 @@
       ]
     },
     {
-      "id": "quote-333",
+      "id": "quote-324",
       "quote": "Fortune sides with him who dares.",
       "author": "Virgil",
       "source": "Aeneid, Book X (Dryden)",
@@ -3801,7 +3715,7 @@
       ]
     },
     {
-      "id": "quote-334",
+      "id": "quote-325",
       "quote": "Endure, and keep yourselves for days of happiness.",
       "author": "Virgil",
       "source": "Aeneid, Book I (Dryden)",
@@ -3812,18 +3726,18 @@
       ]
     },
     {
-      "id": "quote-335",
+      "id": "quote-326",
       "quote": "In His will is our peace.",
       "author": "Dante Alighieri",
       "source": "Paradiso, Canto III (Longfellow)",
-      "sourceUrl": "https://en.wikisource.org/wiki/Divine_Comedy_(Longfellow_1867)/Paradiso/Canto_III",
+      "sourceUrl": "https://en.wikisource.org/wiki/Divine_Comedy_%28Longfellow_1867%29/Volume_3/Canto_3",
       "categories": [
         "peace",
         "purpose"
       ]
     },
     {
-      "id": "quote-336",
+      "id": "quote-327",
       "quote": "The mind is its own place, and in itself can make a Heaven of Hell, a Hell of Heaven.",
       "author": "John Milton",
       "source": "Paradise Lost, Book I",
@@ -3834,84 +3748,84 @@
       ]
     },
     {
-      "id": "quote-337",
+      "id": "quote-328",
       "quote": "Go to your bosom: Knock there, and ask your heart what it doth know.",
       "author": "William Shakespeare",
       "source": "Measure for Measure, Act II, Scene II",
-      "sourceUrl": "https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/measure-for-measure/read/2/2/",
       "categories": [
         "wisdom",
         "identity"
       ]
     },
     {
-      "id": "quote-338",
+      "id": "quote-329",
       "quote": "This above all: to thine own self be true.",
       "author": "William Shakespeare",
       "source": "Hamlet, Act I, Scene III",
-      "sourceUrl": "https://en.wikisource.org/wiki/Hamlet/Act_I/Scene_III",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/3/",
       "categories": [
         "identity",
         "wisdom"
       ]
     },
     {
-      "id": "quote-339",
+      "id": "quote-330",
       "quote": "There is nothing either good or bad, but thinking makes it so.",
       "author": "William Shakespeare",
       "source": "Hamlet, Act II, Scene II",
-      "sourceUrl": "https://en.wikisource.org/wiki/Hamlet/Act_II/Scene_II",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/2/2/",
       "categories": [
         "wisdom",
         "peace"
       ]
     },
     {
-      "id": "quote-340",
+      "id": "quote-331",
       "quote": "The readiness is all.",
       "author": "William Shakespeare",
       "source": "Hamlet, Act V, Scene II",
-      "sourceUrl": "https://en.wikisource.org/wiki/Hamlet/Act_V/Scene_II",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/2/",
       "categories": [
         "courage",
         "perseverance"
       ]
     },
     {
-      "id": "quote-341",
+      "id": "quote-332",
       "quote": "Our remedies oft in ourselves do lie.",
       "author": "William Shakespeare",
       "source": "All's Well That Ends Well, Act I, Scene I",
-      "sourceUrl": "https://en.wikisource.org/wiki/All%27s_Well_That_Ends_Well/Act_I/Scene_I",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/alls-well-that-ends-well/read/1/1/",
       "categories": [
         "healing",
         "identity"
       ]
     },
     {
-      "id": "quote-342",
+      "id": "quote-333",
       "quote": "Sweet are the uses of adversity.",
       "author": "William Shakespeare",
       "source": "As You Like It, Act II, Scene I",
-      "sourceUrl": "https://en.wikisource.org/wiki/As_You_Like_It/Act_II/Scene_I",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/as-you-like-it/read/2/1/",
       "categories": [
         "healing",
         "hope"
       ]
     },
     {
-      "id": "quote-343",
+      "id": "quote-334",
       "quote": "The fault, dear Brutus, is not in our stars, but in ourselves.",
       "author": "William Shakespeare",
       "source": "Julius Caesar, Act I, Scene II",
-      "sourceUrl": "https://en.wikisource.org/wiki/Julius_Caesar/Act_I/Scene_II",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/1/2/",
       "categories": [
         "identity",
         "courage"
       ]
     },
     {
-      "id": "quote-344",
+      "id": "quote-335",
       "quote": "Courage is resistance to fear, mastery of fear - not absence of fear.",
       "author": "Mark Twain",
       "source": "Pudd'nhead Wilson",
@@ -3922,7 +3836,7 @@
       ]
     },
     {
-      "id": "quote-345",
+      "id": "quote-336",
       "quote": "We should be careful to get out of an experience only the wisdom that is in it - and stop there.",
       "author": "Mark Twain",
       "source": "Following the Equator",
@@ -3933,7 +3847,7 @@
       ]
     },
     {
-      "id": "quote-346",
+      "id": "quote-337",
       "quote": "Everyone is a moon, and has a dark side which he never shows to anybody.",
       "author": "Mark Twain",
       "source": "Following the Equator",
@@ -3944,7 +3858,7 @@
       ]
     },
     {
-      "id": "quote-347",
+      "id": "quote-338",
       "quote": "When angry, count four; when very angry, swear.",
       "author": "Mark Twain",
       "source": "Pudd'nhead Wilson",
@@ -3955,7 +3869,7 @@
       ]
     },
     {
-      "id": "quote-348",
+      "id": "quote-339",
       "quote": "The universe is change; our life is what our thoughts make it.",
       "author": "Marcus Aurelius",
       "source": "Meditations, Book IV (Long)",
@@ -3966,7 +3880,7 @@
       ]
     },
     {
-      "id": "quote-349",
+      "id": "quote-340",
       "quote": "If it is not right, do not do it: if it is not true, do not say it.",
       "author": "Marcus Aurelius",
       "source": "Meditations, Book XII (Long)",
@@ -3977,7 +3891,7 @@
       ]
     },
     {
-      "id": "quote-350",
+      "id": "quote-341",
       "quote": "Confine thyself to the present.",
       "author": "Marcus Aurelius",
       "source": "Meditations, Book VII (Long)",
@@ -3988,18 +3902,18 @@
       ]
     },
     {
-      "id": "quote-351",
+      "id": "quote-342",
       "quote": "Of things some are in our power, and others are not.",
       "author": "Epictetus",
       "source": "Enchiridion, Section 1",
-      "sourceUrl": "https://en.wikisource.org/wiki/Enchiridion_of_Epictetus",
+      "sourceUrl": "https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion",
       "categories": [
         "wisdom",
         "peace"
       ]
     },
     {
-      "id": "quote-352",
+      "id": "quote-343",
       "quote": "Difficulties strengthen the mind, as labor does the body.",
       "author": "Seneca",
       "source": "Moral Letters to Lucilius",
@@ -4010,7 +3924,7 @@
       ]
     },
     {
-      "id": "quote-353",
+      "id": "quote-344",
       "quote": "The beginning is the most important part of the work.",
       "author": "Plato",
       "source": "Republic",
@@ -4021,7 +3935,7 @@
       ]
     },
     {
-      "id": "quote-354",
+      "id": "quote-345",
       "quote": "While there's life, there's hope.",
       "author": "Cicero",
       "source": "Letters to Atticus",
@@ -4032,7 +3946,7 @@
       ]
     },
     {
-      "id": "quote-355",
+      "id": "quote-346",
       "quote": "It is right to learn, even from the enemy.",
       "author": "Ovid",
       "source": "Metamorphoses",
@@ -4043,7 +3957,7 @@
       ]
     },
     {
-      "id": "quote-356",
+      "id": "quote-347",
       "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
       "author": "Charlotte Bronte",
       "source": "Jane Eyre, Chapter 23",
@@ -4054,7 +3968,7 @@
       ]
     },
     {
-      "id": "quote-357",
+      "id": "quote-348",
       "quote": "No one is useless in this world who lightens the burdens of another.",
       "author": "Charles Dickens",
       "source": "Our Mutual Friend",
@@ -4065,7 +3979,7 @@
       ]
     },
     {
-      "id": "quote-358",
+      "id": "quote-349",
       "quote": "Trust thyself: every heart vibrates to that iron string.",
       "author": "Ralph Waldo Emerson",
       "source": "Self-Reliance",
@@ -4076,7 +3990,7 @@
       ]
     },
     {
-      "id": "quote-359",
+      "id": "quote-350",
       "quote": "Nothing can bring you peace but yourself.",
       "author": "Ralph Waldo Emerson",
       "source": "Self-Reliance",
@@ -4087,40 +4001,41 @@
       ]
     },
     {
-      "id": "quote-360",
+      "id": "quote-351",
       "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
       "author": "Henry David Thoreau",
       "source": "Walden, Conclusion",
-      "sourceUrl": "https://en.wikisource.org/wiki/Walden/Conclusion",
+      "sourceUrl": "https://en.wikisource.org/wiki/Walden_%281854%29_Thoreau/Conclusion",
       "categories": [
         "hope",
         "purpose"
       ]
     },
     {
-      "id": "quote-361",
+      "id": "quote-352",
       "quote": "Simplify, simplify.",
       "author": "Henry David Thoreau",
       "source": "Walden, Where I Lived, and What I Lived For",
-      "sourceUrl": "https://en.wikisource.org/wiki/Walden/Where_I_Lived,_and_What_I_Lived_For",
+      "sourceUrl": "https://en.wikisource.org/wiki/Walden_%281854%29_Thoreau/Where_I_Lived%2C_and_What_I_Lived_for",
       "categories": [
         "peace",
         "wisdom"
       ]
     },
     {
-      "id": "quote-362",
+      "id": "quote-353",
       "quote": "If there is no struggle, there is no progress.",
       "author": "Frederick Douglass",
       "source": "West India Emancipation speech (1857)",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Frederick_Douglass",
+      "sourceUrl": "https://en.wikisource.org/wiki/West_India_Emancipation",
       "categories": [
         "perseverance",
-        "courage"
+        "courage",
+        "freedom"
       ]
     },
     {
-      "id": "quote-363",
+      "id": "quote-354",
       "quote": "The scientific man does not aim at an immediate result. His duty is to lay the foundation for those who are to come, and point the way.",
       "author": "Nikola Tesla",
       "source": "Wikiquote: Nikola Tesla",
@@ -4131,7 +4046,7 @@
       ]
     },
     {
-      "id": "quote-364",
+      "id": "quote-355",
       "quote": "My method is different. I do not rush into actual work.",
       "author": "Nikola Tesla",
       "source": "Wikiquote: Nikola Tesla",
@@ -4142,7 +4057,7 @@
       ]
     },
     {
-      "id": "quote-365",
+      "id": "quote-356",
       "quote": "When I get an idea I start at once building it up in my imagination.",
       "author": "Nikola Tesla",
       "source": "Wikiquote: Nikola Tesla",
@@ -4153,7 +4068,7 @@
       ]
     },
     {
-      "id": "quote-366",
+      "id": "quote-357",
       "quote": "Be alone, that is the secret of invention; be alone, that is when ideas are born.",
       "author": "Nikola Tesla",
       "source": "Wikiquote: Nikola Tesla",
@@ -4164,29 +4079,7 @@
       ]
     },
     {
-      "id": "quote-367",
-      "quote": "Before anything else, preparation is the key to success.",
-      "author": "Alexander Graham Bell",
-      "source": "Quote.org: Alexander Graham Bell",
-      "sourceUrl": "https://quote.org/quote/before-anything-else-preparation-is-the-key-115309",
-      "categories": [
-        "wisdom",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-368",
-      "quote": "When one door closes, another opens; but we often look so long upon the closed door that we do not see the one which has opened.",
-      "author": "Alexander Graham Bell",
-      "source": "Quotes.net: Alexander Graham Bell",
-      "sourceUrl": "https://www.quotes.net/quote/39612",
-      "categories": [
-        "hope",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-369",
+      "id": "quote-358",
       "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
       "author": "Thomas Edison",
       "source": "Britannica: Thomas Edison quotes",
@@ -4197,7 +4090,7 @@
       ]
     },
     {
-      "id": "quote-370",
+      "id": "quote-359",
       "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
       "author": "Thomas Edison",
       "source": "Wikiquote: Thomas Edison",
@@ -4208,7 +4101,7 @@
       ]
     },
     {
-      "id": "quote-371",
+      "id": "quote-360",
       "quote": "I find out what the world needs. Then, I go ahead and invent it.",
       "author": "Thomas Edison",
       "source": "Wikiquote: Thomas Edison",
@@ -4219,7 +4112,7 @@
       ]
     },
     {
-      "id": "quote-372",
+      "id": "quote-361",
       "quote": "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.",
       "author": "Ada Lovelace",
       "source": "Wikiquote: Ada Lovelace",
@@ -4230,7 +4123,7 @@
       ]
     },
     {
-      "id": "quote-373",
+      "id": "quote-362",
       "quote": "Imagination is the discovering faculty, pre-eminently.",
       "author": "Ada Lovelace",
       "source": "Wikiquote: Ada Lovelace",
@@ -4241,7 +4134,7 @@
       ]
     },
     {
-      "id": "quote-374",
+      "id": "quote-363",
       "quote": "I am never so happy as when I am really engaged in good earnest.",
       "author": "Ada Lovelace",
       "source": "Wikiquote: Ada Lovelace",
@@ -4252,7 +4145,7 @@
       ]
     },
     {
-      "id": "quote-375",
+      "id": "quote-364",
       "quote": "It is easier to ask forgiveness than it is to get permission.",
       "author": "Grace Hopper",
       "source": "Wikiquote: Grace Hopper",
@@ -4263,7 +4156,7 @@
       ]
     },
     {
-      "id": "quote-376",
+      "id": "quote-365",
       "quote": "If it's a good idea, go ahead and do it.",
       "author": "Grace Hopper",
       "source": "Wikiquote: Grace Hopper",
@@ -4274,7 +4167,7 @@
       ]
     },
     {
-      "id": "quote-377",
+      "id": "quote-366",
       "quote": "The most dangerous phrase in the language is: We've always done it this way.",
       "author": "Grace Hopper",
       "source": "Wikiquote: Grace Hopper",
@@ -4285,18 +4178,7 @@
       ]
     },
     {
-      "id": "quote-378",
-      "quote": "When you do the common things in life in an uncommon way, you will command the attention of the world.",
-      "author": "George Washington Carver",
-      "source": "Quote.org: George Washington Carver",
-      "sourceUrl": "https://quote.org/quote/when-you-do-the-common-things-in-463164",
-      "categories": [
-        "purpose",
-        "encouragement"
-      ]
-    },
-    {
-      "id": "quote-379",
+      "id": "quote-367",
       "quote": "Where there is no vision, there is no hope.",
       "author": "George Washington Carver",
       "source": "Wikiquote: George Washington Carver",
@@ -4307,7 +4189,7 @@
       ]
     },
     {
-      "id": "quote-380",
+      "id": "quote-368",
       "quote": "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.",
       "author": "Buckminster Fuller",
       "source": "Wikiquote: Buckminster Fuller",
@@ -4318,7 +4200,7 @@
       ]
     },
     {
-      "id": "quote-381",
+      "id": "quote-369",
       "quote": "I just invent, then wait until man comes around to needing what I've invented.",
       "author": "Buckminster Fuller",
       "source": "Wikiquote: Buckminster Fuller",
@@ -4329,7 +4211,7 @@
       ]
     },
     {
-      "id": "quote-382",
+      "id": "quote-370",
       "quote": "When I am working on a problem, I never think about beauty. But when I have finished, if the solution is not beautiful, I know it is wrong.",
       "author": "Buckminster Fuller",
       "source": "Wikiquote: Buckminster Fuller",
@@ -4340,7 +4222,7 @@
       ]
     },
     {
-      "id": "quote-383",
+      "id": "quote-371",
       "quote": "Simplicity is the ultimate sophistication.",
       "author": "Leonardo da Vinci",
       "source": "Wikiquote: Leonardo da Vinci",
@@ -4351,7 +4233,7 @@
       ]
     },
     {
-      "id": "quote-384",
+      "id": "quote-372",
       "quote": "Learning never exhausts the mind.",
       "author": "Leonardo da Vinci",
       "source": "Wikiquote: Leonardo da Vinci",
@@ -4362,7 +4244,7 @@
       ]
     },
     {
-      "id": "quote-385",
+      "id": "quote-373",
       "quote": "Art is never finished, only abandoned.",
       "author": "Leonardo da Vinci",
       "source": "Wikiquote: Leonardo da Vinci",
@@ -4373,7 +4255,7 @@
       ]
     },
     {
-      "id": "quote-386",
+      "id": "quote-374",
       "quote": "Knowing is not enough; we must apply. Being willing is not enough; we must do.",
       "author": "Leonardo da Vinci",
       "source": "Wikiquote: Leonardo da Vinci",
@@ -4384,7 +4266,7 @@
       ]
     },
     {
-      "id": "quote-387",
+      "id": "quote-375",
       "quote": "If we all worked on the assumption that what is accepted as true is really true, there would be little hope of advance.",
       "author": "Orville Wright",
       "source": "Wikiquote: Orville Wright",
@@ -4395,7 +4277,7 @@
       ]
     },
     {
-      "id": "quote-388",
+      "id": "quote-376",
       "quote": "The desire to fly is an idea handed down to us by our ancestors.",
       "author": "Wilbur Wright",
       "source": "Wikiquote: Wilbur Wright",
@@ -4406,7 +4288,7 @@
       ]
     },
     {
-      "id": "quote-389",
+      "id": "quote-377",
       "quote": "It is possible to fly without motors, but not without knowledge and skill.",
       "author": "Wilbur Wright",
       "source": "Wikiquote: Wilbur Wright",
@@ -4417,7 +4299,7 @@
       ]
     },
     {
-      "id": "quote-390",
+      "id": "quote-378",
       "quote": "We are all apprentices in a craft where no one ever becomes a master.",
       "author": "Ernest Hemingway",
       "source": "Wikiquote: Ernest Hemingway",
@@ -4428,7 +4310,7 @@
       ]
     },
     {
-      "id": "quote-391",
+      "id": "quote-379",
       "quote": "The best way to predict the future is to invent it.",
       "author": "Alan Kay",
       "source": "Wikiquote: Alan Kay",
@@ -4439,7 +4321,7 @@
       ]
     },
     {
-      "id": "quote-392",
+      "id": "quote-380",
       "quote": "Simple things should be simple, complex things should be possible.",
       "author": "Alan Kay",
       "source": "Wikiquote: Alan Kay",
@@ -4450,7 +4332,7 @@
       ]
     },
     {
-      "id": "quote-393",
+      "id": "quote-381",
       "quote": "The original idea of the web was that it should be a collaborative space where you can communicate through sharing information.",
       "author": "Tim Berners-Lee",
       "source": "Wikiquote: Tim Berners-Lee",
@@ -4461,7 +4343,7 @@
       ]
     },
     {
-      "id": "quote-394",
+      "id": "quote-382",
       "quote": "Data is a precious thing and will last longer than the systems themselves.",
       "author": "Tim Berners-Lee",
       "source": "Wikiquote: Tim Berners-Lee",
@@ -4472,40 +4354,40 @@
       ]
     },
     {
-      "id": "quote-395",
+      "id": "quote-383",
       "quote": "Stay hungry. Stay foolish.",
       "author": "Steve Jobs",
-      "source": "Stanford Commencement Address (2005)",
-      "sourceUrl": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+      "source": "Stanford Commencement Address video (2005)",
+      "sourceUrl": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
       "categories": [
         "encouragement",
         "purpose"
       ]
     },
     {
-      "id": "quote-396",
+      "id": "quote-384",
       "quote": "You've got to find what you love.",
       "author": "Steve Jobs",
-      "source": "Stanford Commencement Address (2005)",
-      "sourceUrl": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+      "source": "Stanford Commencement Address video (2005)",
+      "sourceUrl": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
       "categories": [
         "purpose",
         "identity"
       ]
     },
     {
-      "id": "quote-397",
+      "id": "quote-385",
       "quote": "The only way to do great work is to love what you do.",
       "author": "Steve Jobs",
-      "source": "Stanford Commencement Address (2005)",
-      "sourceUrl": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+      "source": "Stanford Commencement Address video (2005)",
+      "sourceUrl": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
       "categories": [
         "purpose",
         "encouragement"
       ]
     },
     {
-      "id": "quote-398",
+      "id": "quote-386",
       "quote": "I believe that unarmed truth and unconditional love will have the final word in reality.",
       "author": "Martin Luther King Jr.",
       "source": "Nobel Peace Prize acceptance speech (1964)",
@@ -4516,7 +4398,7 @@
       ]
     },
     {
-      "id": "quote-399",
+      "id": "quote-387",
       "quote": "Right temporarily defeated is stronger than evil triumphant.",
       "author": "Martin Luther King Jr.",
       "source": "Nobel Peace Prize acceptance speech (1964)",
@@ -4527,7 +4409,7 @@
       ]
     },
     {
-      "id": "quote-400",
+      "id": "quote-388",
       "quote": "There is still hope for a brighter tomorrow.",
       "author": "Martin Luther King Jr.",
       "source": "Nobel Peace Prize acceptance speech (1964)",
@@ -4538,7 +4420,7 @@
       ]
     },
     {
-      "id": "quote-401",
+      "id": "quote-389",
       "quote": "Love begins at home, and it is not how much we do, but how much love we put in the action that we do.",
       "author": "Mother Teresa",
       "source": "Nobel Peace Prize acceptance speech (1979)",
@@ -4549,7 +4431,7 @@
       ]
     },
     {
-      "id": "quote-402",
+      "id": "quote-390",
       "quote": "Let us always meet each other with a smile, for the smile is the beginning of love.",
       "author": "Mother Teresa",
       "source": "Nobel Peace Prize acceptance speech (1979)",
@@ -4560,7 +4442,7 @@
       ]
     },
     {
-      "id": "quote-403",
+      "id": "quote-391",
       "quote": "What surprised me most was that in her suffering, in her hunger, she knew that somebody else was hungry.",
       "author": "Mother Teresa",
       "source": "Nobel Peace Prize acceptance speech (1979)",
@@ -4571,7 +4453,7 @@
       ]
     },
     {
-      "id": "quote-404",
+      "id": "quote-392",
       "quote": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
       "author": "Desmond Tutu",
       "source": "Wikiquote: Desmond Tutu",
@@ -4582,7 +4464,7 @@
       ]
     },
     {
-      "id": "quote-405",
+      "id": "quote-393",
       "quote": "A person is a person because he recognizes others as persons.",
       "author": "Desmond Tutu",
       "source": "Wikiquote: Desmond Tutu",
@@ -4593,7 +4475,7 @@
       ]
     },
     {
-      "id": "quote-406",
+      "id": "quote-394",
       "quote": "We are made for goodness. We are made for love.",
       "author": "Desmond Tutu",
       "source": "Wikiquote: Desmond Tutu",
@@ -4604,7 +4486,7 @@
       ]
     },
     {
-      "id": "quote-407",
+      "id": "quote-395",
       "quote": "Tenderness is the path of choice for the strongest, most courageous men and women.",
       "author": "Pope Francis",
       "source": "TED Talk transcript (2017)",
@@ -4615,7 +4497,7 @@
       ]
     },
     {
-      "id": "quote-408",
+      "id": "quote-396",
       "quote": "Tenderness is not weakness; it is fortitude.",
       "author": "Pope Francis",
       "source": "TED Talk transcript (2017)",
@@ -4626,7 +4508,7 @@
       ]
     },
     {
-      "id": "quote-409",
+      "id": "quote-397",
       "quote": "The future is in the hands of those people who recognize the other as a you and themselves as part of an us.",
       "author": "Pope Francis",
       "source": "TED Talk transcript (2017)",
@@ -4637,7 +4519,7 @@
       ]
     },
     {
-      "id": "quote-410",
+      "id": "quote-398",
       "quote": "Mindfulness allows you to live deeply every moment that is given you to live.",
       "author": "Thich Nhat Hanh",
       "source": "Plum Village: Key Teachings",
@@ -4648,7 +4530,7 @@
       ]
     },
     {
-      "id": "quote-411",
+      "id": "quote-399",
       "quote": "By the way we live our daily life we contribute to peace or to war.",
       "author": "Thich Nhat Hanh",
       "source": "Plum Village: Key Teachings",
@@ -4659,7 +4541,7 @@
       ]
     },
     {
-      "id": "quote-412",
+      "id": "quote-400",
       "quote": "Every step can be nourishing and every step can be healing.",
       "author": "Thich Nhat Hanh",
       "source": "Plum Village: The Art of Mindful Living",
@@ -4670,84 +4552,29 @@
       ]
     },
     {
-      "id": "quote-413",
-      "quote": "Love and compassion are necessities, not luxuries. Without them humanity cannot survive.",
+      "id": "quote-401",
+      "quote": "True compassion is not just an emotional response but a firm commitment founded on reason.",
       "author": "Dalai Lama",
-      "source": "Quote.org: Dalai Lama",
-      "sourceUrl": "https://quote.org/quote/love-and-compassion-are-necessities-not-luxuries-198869",
-      "categories": [
-        "peace",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-414",
-      "quote": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
-      "author": "Dalai Lama",
-      "source": "Good News Network: Dalai Lama quote",
-      "sourceUrl": "https://www.goodnewsnetwork.org/dalai-lama-quote-about-practicing-compassion/",
+      "source": "The Office of His Holiness the Dalai Lama, Compassion",
+      "sourceUrl": "https://www.dalailama.com/messages/compassion-and-human-values/compassion",
       "categories": [
         "peace",
         "healing"
       ]
     },
     {
-      "id": "quote-415",
-      "quote": "Be kind whenever possible. It is always possible.",
+      "id": "quote-402",
+      "quote": "The key to a happier and more successful world is the growth of compassion.",
       "author": "Dalai Lama",
-      "source": "Economic Times: Dalai Lama quote",
-      "sourceUrl": "https://m.economictimes.com/news/new-updates/quote-of-the-day-by-dalai-lama-be-kind-whenever-possible-it-is-always-possible/articleshow/126173444.cms",
+      "source": "The Office of His Holiness the Dalai Lama, Compassion",
+      "sourceUrl": "https://www.dalailama.com/messages/compassion-and-human-values/compassion",
       "categories": [
-        "encouragement",
+        "compassion",
         "peace"
       ]
     },
     {
-      "id": "quote-416",
-      "quote": "Don't ask what the world needs. Ask what makes you come alive, and go do it.",
-      "author": "Howard Thurman",
-      "source": "The Living Wisdom of Howard Thurman",
-      "sourceUrl": "https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what",
-      "categories": [
-        "purpose",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-417",
-      "quote": "What the world needs is people who have come alive.",
-      "author": "Howard Thurman",
-      "source": "The Living Wisdom of Howard Thurman",
-      "sourceUrl": "https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what",
-      "categories": [
-        "purpose",
-        "encouragement"
-      ]
-    },
-    {
-      "id": "quote-418",
-      "quote": "My life is my message.",
-      "author": "Mahatma Gandhi",
-      "source": "Quote.org: Mahatma Gandhi",
-      "sourceUrl": "https://quote.org/quote/my-life-is-my-message-242983",
-      "categories": [
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-419",
-      "quote": "In a gentle way, you can shake the world.",
-      "author": "Mahatma Gandhi",
-      "source": "Goodreads: Mahatma Gandhi quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/320214-in-a-gentle-way-you-can-shake-the-world",
-      "categories": [
-        "courage",
-        "peace"
-      ]
-    },
-    {
-      "id": "quote-420",
+      "id": "quote-403",
       "quote": "I learned that courage was not the absence of fear, but the triumph over it.",
       "author": "Nelson Mandela",
       "source": "Long Walk to Freedom",
@@ -4758,7 +4585,7 @@
       ]
     },
     {
-      "id": "quote-421",
+      "id": "quote-404",
       "quote": "It always seems impossible until it's done.",
       "author": "Nelson Mandela",
       "source": "Wikiquote: Nelson Mandela",
@@ -4769,7 +4596,7 @@
       ]
     },
     {
-      "id": "quote-422",
+      "id": "quote-405",
       "quote": "Education is the most powerful weapon which you can use to change the world.",
       "author": "Nelson Mandela",
       "source": "Wikiquote: Nelson Mandela",
@@ -4780,7 +4607,7 @@
       ]
     },
     {
-      "id": "quote-423",
+      "id": "quote-406",
       "quote": "The wound is the place where the Light enters you.",
       "author": "Rumi",
       "source": "Sufinama: Rumi quote",
@@ -4791,18 +4618,7 @@
       ]
     },
     {
-      "id": "quote-424",
-      "quote": "Do not be satisfied with the stories that come before you. Unfold your own myth.",
-      "author": "Rumi",
-      "source": "DailyVibeQuote: Rumi quote",
-      "sourceUrl": "https://www.dailyvibequote.com/quote/2522",
-      "categories": [
-        "identity",
-        "courage"
-      ]
-    },
-    {
-      "id": "quote-425",
+      "id": "quote-407",
       "quote": "All shall be well, and all shall be well, and all manner of thing shall be well.",
       "author": "Julian of Norwich",
       "source": "Revelations of Divine Love",
@@ -4813,7 +4629,7 @@
       ]
     },
     {
-      "id": "quote-426",
+      "id": "quote-408",
       "quote": "The fullness of joy is to behold God in everything.",
       "author": "Julian of Norwich",
       "source": "Revelations of Divine Love",
@@ -4824,7 +4640,7 @@
       ]
     },
     {
-      "id": "quote-427",
+      "id": "quote-409",
       "quote": "For we are so preciously loved by God that we cannot even comprehend it.",
       "author": "Julian of Norwich",
       "source": "Revelations of Divine Love",
@@ -4835,7 +4651,7 @@
       ]
     },
     {
-      "id": "quote-428",
+      "id": "quote-410",
       "quote": "You do not need to know precisely what is happening, or exactly where it is all going.",
       "author": "Thomas Merton",
       "source": "Conjectures of a Guilty Bystander",
@@ -4846,7 +4662,7 @@
       ]
     },
     {
-      "id": "quote-429",
+      "id": "quote-411",
       "quote": "The gate of heaven is everywhere.",
       "author": "Thomas Merton",
       "source": "Conjectures of a Guilty Bystander",
@@ -4857,7 +4673,7 @@
       ]
     },
     {
-      "id": "quote-430",
+      "id": "quote-412",
       "quote": "Our job is to love others without stopping to inquire whether or not they are worthy.",
       "author": "Thomas Merton",
       "source": "Disputed Questions",
@@ -4868,18 +4684,7 @@
       ]
     },
     {
-      "id": "quote-431",
-      "quote": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
-      "author": "Henri Nouwen",
-      "source": "Here and Now",
-      "sourceUrl": "https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to",
-      "categories": [
-        "hope",
-        "encouragement"
-      ]
-    },
-    {
-      "id": "quote-432",
+      "id": "quote-413",
       "quote": "The real enemies of our life are the oughts and the ifs.",
       "author": "Henri Nouwen",
       "source": "Here and Now",
@@ -4890,7 +4695,7 @@
       ]
     },
     {
-      "id": "quote-433",
+      "id": "quote-414",
       "quote": "Compassion asks us to go where it hurts.",
       "author": "Henri Nouwen",
       "source": "Compassion",
@@ -4901,7 +4706,7 @@
       ]
     },
     {
-      "id": "quote-434",
+      "id": "quote-415",
       "quote": "Nothing ever goes away until it has taught us what we need to know.",
       "author": "Pema Chodron",
       "source": "When Things Fall Apart",
@@ -4912,7 +4717,7 @@
       ]
     },
     {
-      "id": "quote-435",
+      "id": "quote-416",
       "quote": "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us.",
       "author": "Pema Chodron",
       "source": "When Things Fall Apart",
@@ -4923,7 +4728,7 @@
       ]
     },
     {
-      "id": "quote-436",
+      "id": "quote-417",
       "quote": "Fear is a natural reaction to moving closer to the truth.",
       "author": "Pema Chodron",
       "source": "When Things Fall Apart",
@@ -4934,18 +4739,7 @@
       ]
     },
     {
-      "id": "quote-437",
-      "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
-      "author": "bell hooks",
-      "source": "All About Love",
-      "sourceUrl": "https://www.goodreads.com/quotes/159436-rarely-if-ever-are-any-of-us-healed-in-isolation",
-      "categories": [
-        "healing",
-        "peace"
-      ]
-    },
-    {
-      "id": "quote-438",
+      "id": "quote-418",
       "quote": "The practice of love offers no place of safety. We risk loss, hurt, pain.",
       "author": "bell hooks",
       "source": "All About Love",
@@ -4956,7 +4750,7 @@
       ]
     },
     {
-      "id": "quote-439",
+      "id": "quote-419",
       "quote": "Love is an action, never simply a feeling.",
       "author": "bell hooks",
       "source": "All About Love",
@@ -4967,7 +4761,7 @@
       ]
     },
     {
-      "id": "quote-440",
+      "id": "quote-420",
       "quote": "There is no greater agony than bearing an untold story inside you.",
       "author": "Maya Angelou",
       "source": "I Know Why the Caged Bird Sings",
@@ -4978,7 +4772,7 @@
       ]
     },
     {
-      "id": "quote-441",
+      "id": "quote-421",
       "quote": "Do the best you can until you know better. Then when you know better, do better.",
       "author": "Maya Angelou",
       "source": "Wikiquote: Maya Angelou",
@@ -4989,7 +4783,7 @@
       ]
     },
     {
-      "id": "quote-442",
+      "id": "quote-422",
       "quote": "It is the little things citizens do. That's what will make the difference.",
       "author": "Wangari Maathai",
       "source": "Wikiquote: Wangari Maathai",
@@ -5000,7 +4794,7 @@
       ]
     },
     {
-      "id": "quote-443",
+      "id": "quote-423",
       "quote": "The generation that destroys the environment is not the generation that pays the price.",
       "author": "Wangari Maathai",
       "source": "Wikiquote: Wangari Maathai",
@@ -5011,7 +4805,7 @@
       ]
     },
     {
-      "id": "quote-444",
+      "id": "quote-424",
       "quote": "One child, one teacher, one book, and one pen can change the world.",
       "author": "Malala Yousafzai",
       "source": "United Nations Youth Assembly speech (2013)",
@@ -5022,7 +4816,7 @@
       ]
     },
     {
-      "id": "quote-445",
+      "id": "quote-425",
       "quote": "Let us make our future now, and let us make our dreams tomorrow's reality.",
       "author": "Malala Yousafzai",
       "source": "United Nations Youth Assembly speech (2013)",
@@ -5033,7 +4827,7 @@
       ]
     },
     {
-      "id": "quote-446",
+      "id": "quote-426",
       "quote": "The extremists were, and they are, afraid of books and pens.",
       "author": "Malala Yousafzai",
       "source": "United Nations Youth Assembly speech (2013)",
@@ -5044,7 +4838,7 @@
       ]
     },
     {
-      "id": "quote-447",
+      "id": "quote-427",
       "quote": "Hope arouses, as nothing else can arouse, a passion for the possible.",
       "author": "William Sloane Coffin",
       "source": "Wikiquote: William Sloane Coffin",
@@ -5055,7 +4849,7 @@
       ]
     },
     {
-      "id": "quote-448",
+      "id": "quote-428",
       "quote": "The world is too dangerous for anything but truth and too small for anything but love.",
       "author": "William Sloane Coffin",
       "source": "Wikiquote: William Sloane Coffin",
@@ -5066,40 +4860,40 @@
       ]
     },
     {
-      "id": "quote-449",
+      "id": "quote-429",
       "quote": "Aspire not to have more, but to be more.",
       "author": "Oscar Romero",
       "source": "Wikiquote: Oscar Romero",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Oscar_Romero",
+      "sourceUrl": "https://en.wikiquote.org/wiki/%C3%93scar_Romero",
       "categories": [
         "identity",
         "purpose"
       ]
     },
     {
-      "id": "quote-450",
+      "id": "quote-430",
       "quote": "There are many things that can only be seen through eyes that have cried.",
       "author": "Oscar Romero",
       "source": "Wikiquote: Oscar Romero",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Oscar_Romero",
+      "sourceUrl": "https://en.wikiquote.org/wiki/%C3%93scar_Romero",
       "categories": [
         "healing",
         "wisdom"
       ]
     },
     {
-      "id": "quote-451",
+      "id": "quote-431",
       "quote": "We plant the seeds that one day will grow.",
-      "author": "Oscar Romero",
-      "source": "The Romero Prayer",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Oscar_Romero",
+      "author": "Bishop Ken Untener",
+      "source": "Prophets of a Future Not Our Own",
+      "sourceUrl": "https://www.usccb.org/prayer-and-worship/prayers-and-devotions/prayers/archbishop_romero_prayer",
       "categories": [
         "hope",
         "perseverance"
       ]
     },
     {
-      "id": "quote-452",
+      "id": "quote-432",
       "quote": "What you hold in mind tends to manifest.",
       "author": "David R. Hawkins",
       "source": "Letting Go: The Pathway of Surrender",
@@ -5110,7 +4904,7 @@
       ]
     },
     {
-      "id": "quote-453",
+      "id": "quote-433",
       "quote": "We are only subject to what we hold in mind.",
       "author": "David R. Hawkins",
       "source": "Letting Go: The Pathway of Surrender, Ch. 15",
@@ -5121,7 +4915,7 @@
       ]
     },
     {
-      "id": "quote-454",
+      "id": "quote-434",
       "quote": "The body tends to manifest what the mind believes.",
       "author": "David R. Hawkins",
       "source": "Letting Go: The Pathway of Surrender, Ch. 15",
@@ -5132,7 +4926,7 @@
       ]
     },
     {
-      "id": "quote-455",
+      "id": "quote-435",
       "quote": "The only power that anything has over us is the power of belief that we give it.",
       "author": "David R. Hawkins",
       "source": "Letting Go: The Pathway of Surrender, Ch. 15",
@@ -5143,11 +4937,11 @@
       ]
     },
     {
-      "id": "quote-456",
+      "id": "quote-436",
       "quote": "Choose you this day whom ye will serve.",
       "author": "Joshua",
       "source": "Joshua 24:15 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Joshua-24-15/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua#24:15",
       "categories": [
         "scripture",
         "purpose",
@@ -5155,11 +4949,11 @@
       ]
     },
     {
-      "id": "quote-457",
+      "id": "quote-437",
       "quote": "The truth shall make you free.",
       "author": "John",
       "source": "John 8:32 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/John-8-32/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#8:32",
       "categories": [
         "scripture",
         "identity",
@@ -5167,11 +4961,11 @@
       ]
     },
     {
-      "id": "quote-458",
+      "id": "quote-438",
       "quote": "Be not afraid, only believe.",
       "author": "Mark",
       "source": "Mark 5:36 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Mark-5-36/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Mark#5:36",
       "categories": [
         "scripture",
         "hope",
@@ -5179,11 +4973,11 @@
       ]
     },
     {
-      "id": "quote-459",
+      "id": "quote-439",
       "quote": "If any of you lack wisdom, let him ask of God.",
       "author": "James",
       "source": "James 1:5 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-5/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:5",
       "categories": [
         "scripture",
         "wisdom",
@@ -5191,11 +4985,11 @@
       ]
     },
     {
-      "id": "quote-460",
+      "id": "quote-440",
       "quote": "Perfect love casteth out fear.",
       "author": "John",
       "source": "1 John 4:18 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/1-John-4-18/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/1_John#4:18",
       "categories": [
         "scripture",
         "courage",
@@ -5203,11 +4997,11 @@
       ]
     },
     {
-      "id": "quote-461",
+      "id": "quote-441",
       "quote": "With God all things are possible.",
       "author": "Matthew",
       "source": "Matthew 19:26 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Matthew-19-26/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#19:26",
       "categories": [
         "scripture",
         "hope",
@@ -5215,18 +5009,7 @@
       ]
     },
     {
-      "id": "quote-462",
-      "quote": "If you judge people, you have no time to love them.",
-      "author": "Mother Teresa",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love",
-      "categories": [
-        "peace",
-        "healing"
-      ]
-    },
-    {
-      "id": "quote-463",
+      "id": "quote-442",
       "quote": "Not all of us can do great things. But we can do small things with great love.",
       "author": "Mother Teresa",
       "source": "Quoted in Time: Queen Elizabeth Christmas Day Address",
@@ -5237,106 +5020,7 @@
       ]
     },
     {
-      "id": "quote-464",
-      "quote": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.",
-      "author": "Mother Teresa",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.keepthinkingbig.com/yesterday-is-gone/",
-      "categories": [
-        "encouragement",
-        "hope"
-      ]
-    },
-    {
-      "id": "quote-465",
-      "quote": "Awareness creates the possibility of choice.",
-      "author": "Daniel J. Siegel",
-      "source": "Parenting from the Inside Out",
-      "sourceUrl": "https://www.goodreads.com/quotes/11114799-awareness-creates-the-possibility-of-choice",
-      "categories": [
-        "wisdom",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-466",
-      "quote": "One cannot be autonomous as long as one is driven by anything.",
-      "author": "Gabor Mate",
-      "source": "When the Body Says No",
-      "sourceUrl": "https://www.goodreads.com/author/quotes/4068613.Gabor_Mat_?page=7",
-      "categories": [
-        "identity",
-        "courage"
-      ]
-    },
-    {
-      "id": "quote-467",
-      "quote": "Without knowing it, we often relive the past.",
-      "author": "Gabor Mate",
-      "source": "Scattered Minds",
-      "sourceUrl": "https://studylib.net/doc/28342950/scattered-minds--the-origins-and-healing-o---gabor-mate",
-      "categories": [
-        "healing",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-468",
-      "quote": "Every thought we think is creating our future.",
-      "author": "Louise Hay",
-      "source": "You Can Heal Your Life",
-      "sourceUrl": "https://consciouslifenews.com/louise-hay-every-thought-you-think-is-creating-your-future/11204930/",
-      "categories": [
-        "wisdom",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-469",
-      "quote": "You have the power to heal your life, and you need to know that.",
-      "author": "Louise Hay",
-      "source": "Meditations to Heal Your Life",
-      "sourceUrl": "https://www.azquotes.com/quote/713677",
-      "categories": [
-        "healing",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-470",
-      "quote": "I am in the right place, at the right time, doing the right thing.",
-      "author": "Louise Hay",
-      "source": "Attributed affirmation",
-      "sourceUrl": "https://www.goodreads.com/quotes/57026-i-am-in-the-right-place-at-the-right-time",
-      "categories": [
-        "peace",
-        "encouragement"
-      ]
-    },
-    {
-      "id": "quote-471",
-      "quote": "The point of power is always in the present moment.",
-      "author": "Louise Hay",
-      "source": "You Can Heal Your Life",
-      "sourceUrl": "https://www.azquotes.com/quote/963728",
-      "categories": [
-        "courage",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-472",
-      "quote": "You have been criticizing yourself for years and it hasn't worked. Try approving of yourself and see what happens.",
-      "author": "Louise Hay",
-      "source": "You Can Heal Your Life",
-      "sourceUrl": "https://www.azquotes.com/quote/517886",
-      "categories": [
-        "healing",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-473",
+      "id": "quote-443",
       "quote": "As I change my thoughts, the world around me changes.",
       "author": "Louise Hay",
       "source": "Mirror Work",
@@ -5347,84 +5031,7 @@
       ]
     },
     {
-      "id": "quote-474",
-      "quote": "Whatever we choose to focus our attention on will automatically multiply in our lives.",
-      "author": "Karol K. Truman",
-      "source": "Feelings Buried Alive Never Die",
-      "sourceUrl": "https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die",
-      "categories": [
-        "wisdom",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-475",
-      "quote": "Heighten your awareness in all phases of your life.",
-      "author": "Karol K. Truman",
-      "source": "Feelings Buried Alive Never Die",
-      "sourceUrl": "https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die",
-      "categories": [
-        "wisdom",
-        "healing"
-      ]
-    },
-    {
-      "id": "quote-476",
-      "quote": "The choice is yours.",
-      "author": "Karol K. Truman",
-      "source": "Feelings Buried Alive Never Die",
-      "sourceUrl": "https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die",
-      "categories": [
-        "courage",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-477",
-      "quote": "In order to have mastery over our choices so that they are indeed freely made, it is essential to be awake so that our choices are no longer unconscious.",
-      "author": "Karol K. Truman",
-      "source": "Healing Feelings From Your Heart",
-      "sourceUrl": "https://www.goodreads.com/author/quotes/1560.Karol_K_Truman",
-      "categories": [
-        "identity",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-478",
-      "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.",
-      "author": "Mahatma Gandhi",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include",
-      "categories": [
-        "courage",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-479",
-      "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
-      "author": "Mahatma Gandhi",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and",
-      "categories": [
-        "identity",
-        "peace"
-      ]
-    },
-    {
-      "id": "quote-480",
-      "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
-      "author": "Mahatma Gandhi",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.hoopoequotes.com/quotes/item/19212-live-as-if-you-were-to-die-tomorrow-learn-as-if-you-were-to-live-forever",
-      "categories": [
-        "encouragement",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-481",
+      "id": "quote-444",
       "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
       "author": "Viktor Frankl",
       "source": "Mans Search for Meaning",
@@ -5435,18 +5042,7 @@
       ]
     },
     {
-      "id": "quote-482",
-      "quote": "The privilege of a lifetime is to become who you truly are.",
-      "author": "Carl Jung",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/75948-the-privilege-of-a-lifetime-is-to-become-who-you",
-      "categories": [
-        "identity",
-        "purpose"
-      ]
-    },
-    {
-      "id": "quote-483",
+      "id": "quote-445",
       "quote": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
       "author": "Carl Jung",
       "source": "Letter to Kendig B. Cully (September 25, 1937)",
@@ -5457,95 +5053,7 @@
       ]
     },
     {
-      "id": "quote-484",
-      "quote": "Awareness is the greatest agent for change.",
-      "author": "Eckhart Tolle",
-      "source": "A New Earth",
-      "sourceUrl": "https://quotepark.com/quotes/1132553-eckhart-tolle-awareness-is-the-greatest-agent-for-change/",
-      "categories": [
-        "wisdom",
-        "healing"
-      ]
-    },
-    {
-      "id": "quote-485",
-      "quote": "Realize deeply that the present moment is all you ever have.",
-      "author": "Eckhart Tolle",
-      "source": "The Power of Now",
-      "sourceUrl": "https://www.azquotes.com/quote/295414",
-      "categories": [
-        "peace",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-486",
-      "quote": "As soon as you trust yourself, you will know how to live.",
-      "author": "Johann Wolfgang von Goethe",
-      "source": "Faust, First Part",
-      "sourceUrl": "https://www.goodreads.com/quotes/18941-as-soon-as-you-trust-yourself-you-will-know-how",
-      "categories": [
-        "identity",
-        "courage"
-      ]
-    },
-    {
-      "id": "quote-487",
-      "quote": "The soul becomes dyed with the color of its thoughts.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations, Book V",
-      "sourceUrl": "https://www.buboquote.com/en/quote/8559-aurelius-the-soul-becomes-dyed-with-the-color-of-its-thoughts",
-      "categories": [
-        "wisdom",
-        "identity"
-      ]
-    },
-    {
-      "id": "quote-488",
-      "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations",
-      "sourceUrl": "https://www.goodreads.com/quotes/190580-you-have-power-over-your-mind---not-outside-events",
-      "categories": [
-        "courage",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-489",
-      "quote": "No one can make you feel inferior without your consent.",
-      "author": "Eleanor Roosevelt",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.quotery.com/quotes/no-one-can-make-feel",
-      "categories": [
-        "identity",
-        "courage"
-      ]
-    },
-    {
-      "id": "quote-490",
-      "quote": "Love is the absence of judgment.",
-      "author": "Dalai Lama",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.quotewis.com/quotes/love-is-the-absence-of-judgment-1056",
-      "categories": [
-        "peace",
-        "healing"
-      ]
-    },
-    {
-      "id": "quote-491",
-      "quote": "Nature does not hurry, yet everything is accomplished.",
-      "author": "Laozi",
-      "source": "Tao Te Ching, Chapter 37",
-      "sourceUrl": "https://www.bonmots.com/quote-643551404",
-      "categories": [
-        "peace",
-        "wisdom"
-      ]
-    },
-    {
-      "id": "quote-492",
+      "id": "quote-446",
       "quote": "Care about people's approval and you will be their prisoner.",
       "author": "Laozi",
       "source": "Tao Te Ching, Chapter 9 (Stephen Mitchell rendering)",
@@ -5556,18 +5064,18 @@
       ]
     },
     {
-      "id": "quote-493",
+      "id": "quote-447",
       "quote": "People are disturbed not by things, but by the views they take of them.",
       "author": "Epictetus",
       "source": "Enchiridion, Section 5",
-      "sourceUrl": "https://en.wikisource.org/wiki/Enchiridion_of_Epictetus",
+      "sourceUrl": "https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion",
       "categories": [
         "wisdom",
         "peace"
       ]
     },
     {
-      "id": "quote-494",
+      "id": "quote-448",
       "quote": "The God who gave us life gave us liberty at the same time.",
       "author": "Thomas Jefferson",
       "source": "A Summary View of the Rights of British America",
@@ -5578,7 +5086,7 @@
       ]
     },
     {
-      "id": "quote-495",
+      "id": "quote-449",
       "quote": "Liberty, when it begins to take root, is a plant of rapid growth.",
       "author": "George Washington",
       "source": "Letter to James Madison (March 2, 1788)",
@@ -5586,6 +5094,666 @@
       "categories": [
         "hope",
         "courage"
+      ]
+    },
+    {
+      "id": "quote-450",
+      "quote": "Be still, and know that I am God.",
+      "author": "David",
+      "source": "Psalm 46:10 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#46:10",
+      "categories": [
+        "scripture",
+        "peace",
+        "surrender"
+      ]
+    },
+    {
+      "id": "quote-451",
+      "quote": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+      "author": "David",
+      "source": "Psalm 118:24 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#118:24",
+      "categories": [
+        "scripture",
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "id": "quote-452",
+      "quote": "Keep thy heart with all diligence; for out of it are the issues of life.",
+      "author": "Solomon",
+      "source": "Proverbs 4:23 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#4:23",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "quote-453",
+      "quote": "Behold, I will do a new thing; now it shall spring forth.",
+      "author": "Isaiah",
+      "source": "Isaiah 43:19 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#43:19",
+      "categories": [
+        "scripture",
+        "hope",
+        "freedom"
+      ]
+    },
+    {
+      "id": "quote-454",
+      "quote": "Blessed are the pure in heart: for they shall see God.",
+      "author": "Matthew",
+      "source": "Matthew 5:8 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#5:8",
+      "categories": [
+        "scripture",
+        "healing",
+        "peace"
+      ]
+    },
+    {
+      "id": "quote-455",
+      "quote": "I am come that they might have life, and that they might have it more abundantly.",
+      "author": "John",
+      "source": "John 10:10 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#10:10",
+      "categories": [
+        "scripture",
+        "abundance",
+        "hope"
+      ]
+    },
+    {
+      "id": "quote-456",
+      "quote": "Stand fast therefore in the liberty wherewith Christ hath made us free.",
+      "author": "Paul",
+      "source": "Galatians 5:1 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#5:1",
+      "categories": [
+        "scripture",
+        "freedom",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-457",
+      "quote": "Whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, think on these things.",
+      "author": "Paul",
+      "source": "Philippians 4:8 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:8",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "discernment"
+      ]
+    },
+    {
+      "id": "quote-458",
+      "quote": "Knowing this, that the trying of your faith worketh patience.",
+      "author": "James",
+      "source": "James 1:3 (KJV)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:3",
+      "categories": [
+        "scripture",
+        "perseverance",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-459",
+      "quote": "So, surely with hardship comes ease.",
+      "author": "Qur'an",
+      "source": "Ash-Sharh 94:5",
+      "sourceUrl": "https://quran.com/94:5",
+      "categories": [
+        "scripture",
+        "hope",
+        "perseverance"
+      ]
+    },
+    {
+      "id": "quote-460",
+      "quote": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.",
+      "author": "Bhagavad Gita",
+      "source": "Bhagavad Gita 2:47",
+      "sourceUrl": "https://gita.pub/chapter/2/verse/47/",
+      "categories": [
+        "scripture",
+        "purpose",
+        "surrender"
+      ]
+    },
+    {
+      "id": "quote-461",
+      "quote": "Elevate yourself through the power of your mind, and not degrade yourself.",
+      "author": "Bhagavad Gita",
+      "source": "Bhagavad Gita 6:5",
+      "sourceUrl": "https://gita.pub/chapter/6/verse/5/",
+      "categories": [
+        "scripture",
+        "agency",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-462",
+      "quote": "Let a man overcome anger by love, let him overcome evil by good.",
+      "author": "Dhammapada",
+      "source": "Dhammapada 17:223 (Muller)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+      "categories": [
+        "scripture",
+        "forgiveness",
+        "peace"
+      ]
+    },
+    {
+      "id": "quote-463",
+      "quote": "By oneself the evil is done, by oneself one suffers.",
+      "author": "Dhammapada",
+      "source": "Dhammapada 12:165 (Muller)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
+      "categories": [
+        "scripture",
+        "agency",
+        "healing"
+      ]
+    },
+    {
+      "id": "quote-464",
+      "quote": "He who knows others is wise; he who knows himself is enlightened.",
+      "author": "Laozi",
+      "source": "Tao Te Ching, Chapter 33",
+      "sourceUrl": "https://en.wikisource.org/wiki/Tao_te_Ching",
+      "categories": [
+        "wisdom",
+        "identity",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-465",
+      "quote": "Deal with things before they happen; put things in order before there is confusion.",
+      "author": "Laozi",
+      "source": "Tao Te Ching, Chapter 64",
+      "sourceUrl": "https://en.wikisource.org/wiki/Tao_te_Ching",
+      "categories": [
+        "wisdom",
+        "discernment",
+        "peace"
+      ]
+    },
+    {
+      "id": "quote-466",
+      "quote": "The good is one thing, the pleasant another.",
+      "author": "Katha Upanishad",
+      "source": "Sacred Books of the East, Volume 15, Katha-upanishad",
+      "sourceUrl": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad",
+      "categories": [
+        "scripture",
+        "discernment",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-467",
+      "quote": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations, Book X",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_X",
+      "categories": [
+        "wisdom",
+        "purpose",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-468",
+      "quote": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations, Book V",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V",
+      "categories": [
+        "perseverance",
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-469",
+      "quote": "Do not seek to have events happen as you wish, but wish them to happen as they do happen.",
+      "author": "Epictetus",
+      "source": "Enchiridion, Section 8",
+      "sourceUrl": "https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion",
+      "categories": [
+        "surrender",
+        "peace",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-470",
+      "quote": "If you would improve, be content to be thought foolish and stupid.",
+      "author": "Epictetus",
+      "source": "Enchiridion, Section 13",
+      "sourceUrl": "https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion",
+      "categories": [
+        "courage",
+        "agency",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-471",
+      "quote": "It is not the man who has too little, but the man who craves more, that is poor.",
+      "author": "Seneca",
+      "source": "Moral Letters to Lucilius, Letter 2",
+      "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2",
+      "categories": [
+        "abundance",
+        "wisdom",
+        "peace"
+      ]
+    },
+    {
+      "id": "quote-472",
+      "quote": "If a man knows not to which port he sails, no wind is favorable.",
+      "author": "Seneca",
+      "source": "Moral Letters to Lucilius, Letter 71",
+      "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71",
+      "categories": [
+        "purpose",
+        "discernment",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-473",
+      "quote": "A man is literally what he thinks, his character being the complete sum of all his thoughts.",
+      "author": "James Allen",
+      "source": "As a Man Thinketh, Chapter 1",
+      "sourceUrl": "https://en.wikisource.org/wiki/As_a_Man_Thinketh/Chapter_1",
+      "categories": [
+        "identity",
+        "wisdom",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-474",
+      "quote": "Man is made or unmade by himself.",
+      "author": "James Allen",
+      "source": "As a Man Thinketh, Chapter 1",
+      "sourceUrl": "https://en.wikisource.org/wiki/As_a_Man_Thinketh/Chapter_1",
+      "categories": [
+        "agency",
+        "identity",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-475",
+      "quote": "A man's mind may be likened to a garden, which may be intelligently cultivated or allowed to run wild.",
+      "author": "James Allen",
+      "source": "As a Man Thinketh, Chapter 2",
+      "sourceUrl": "https://en.wikisource.org/wiki/As_a_Man_Thinketh/Chapter_2",
+      "categories": [
+        "wisdom",
+        "healing",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-476",
+      "quote": "Nothing is at last sacred but the integrity of your own mind.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance",
+      "sourceUrl": "https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance",
+      "categories": [
+        "identity",
+        "freedom",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-477",
+      "quote": "What I must do is all that concerns me, not what the people think.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance",
+      "sourceUrl": "https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance",
+      "categories": [
+        "purpose",
+        "agency",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-478",
+      "quote": "Do your work, and I shall know you.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance",
+      "sourceUrl": "https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance",
+      "categories": [
+        "purpose",
+        "identity",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-479",
+      "quote": "Power concedes nothing without a demand.",
+      "author": "Frederick Douglass",
+      "source": "West India Emancipation speech (1857)",
+      "sourceUrl": "https://en.wikisource.org/wiki/West_India_Emancipation",
+      "categories": [
+        "freedom",
+        "courage",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-480",
+      "quote": "The limits of tyrants are prescribed by the endurance of those whom they oppress.",
+      "author": "Frederick Douglass",
+      "source": "West India Emancipation speech (1857)",
+      "sourceUrl": "https://en.wikisource.org/wiki/West_India_Emancipation",
+      "categories": [
+        "freedom",
+        "boundaries",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-481",
+      "quote": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+      "author": "Booker T. Washington",
+      "source": "Up From Slavery, Chapter 2",
+      "sourceUrl": "https://en.wikisource.org/wiki/Up_From_Slavery/Chapter_2",
+      "categories": [
+        "perseverance",
+        "identity",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-482",
+      "quote": "The credit belongs to the man who is actually in the arena.",
+      "author": "Theodore Roosevelt",
+      "source": "Citizenship in a Republic (1910)",
+      "sourceUrl": "https://www.presidency.ucsb.edu/documents/address-the-sorbonne-paris-france-citizenship-republic",
+      "categories": [
+        "courage",
+        "perseverance",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-483",
+      "quote": "The idea came like a flash of lightning and in an instant the truth was revealed.",
+      "author": "Nikola Tesla",
+      "source": "My Inventions",
+      "sourceUrl": "https://en.wikiquote.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla",
+      "categories": [
+        "intuition",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-484",
+      "quote": "Peace can only come as a natural consequence of universal enlightenment.",
+      "author": "Nikola Tesla",
+      "source": "The Problem of Increasing Human Energy",
+      "sourceUrl": "https://teslauniverse.com/nikola-tesla/articles/problem-increasing-human-energy",
+      "categories": [
+        "peace",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-485",
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas Edison",
+      "source": "Wikiquote: Thomas Edison",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Thomas_Edison",
+      "categories": [
+        "perseverance",
+        "agency",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-486",
+      "quote": "I never did anything by accident, nor did any of my inventions come by accident; they came by work.",
+      "author": "Thomas Edison",
+      "source": "Wikiquote: Thomas Edison",
+      "sourceUrl": "https://en.wikiquote.org/wiki/Thomas_Edison",
+      "categories": [
+        "purpose",
+        "wisdom",
+        "discernment"
+      ]
+    },
+    {
+      "id": "quote-487",
+      "quote": "I refuse to accept despair as the final response to the ambiguities of history.",
+      "author": "Martin Luther King Jr.",
+      "source": "Nobel Peace Prize acceptance speech (1964)",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/acceptance-speech/",
+      "categories": [
+        "freedom",
+        "hope",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-488",
+      "quote": "Sooner or later all the people of the world will have to discover a way to live together in peace.",
+      "author": "Martin Luther King Jr.",
+      "source": "Nobel Peace Prize acceptance speech (1964)",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/acceptance-speech/",
+      "categories": [
+        "hope",
+        "peace",
+        "perseverance"
+      ]
+    },
+    {
+      "id": "quote-489",
+      "quote": "Love begins at home.",
+      "author": "Mother Teresa",
+      "source": "Nobel Peace Prize acceptance speech (1979)",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1979/teresa/acceptance-speech/",
+      "categories": [
+        "purpose",
+        "healing",
+        "encouragement"
+      ]
+    },
+    {
+      "id": "quote-490",
+      "quote": "Love is a state of awareness, a way of being in the world, a way of seeing oneself and others.",
+      "author": "David R. Hawkins",
+      "source": "What is Love?",
+      "sourceUrl": "https://veritaspub.com/2020/02/04/what-is-love/",
+      "categories": [
+        "healing",
+        "peace",
+        "surrender"
+      ]
+    },
+    {
+      "id": "quote-491",
+      "quote": "Unconditional love has the greatest power of all.",
+      "author": "David R. Hawkins",
+      "source": "Let Go",
+      "sourceUrl": "https://veritaspub.com/2020/04/09/let-go/",
+      "categories": [
+        "surrender",
+        "healing",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-492",
+      "quote": "He said not, Thou shalt not be tempested, thou shalt not be travailed, thou shalt not be distressed.",
+      "author": "Julian of Norwich",
+      "source": "Revelations of Divine Love",
+      "sourceUrl": "https://en.wikisource.org/wiki/Revelations_of_Divine_Love",
+      "categories": [
+        "scripture",
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "id": "quote-493",
+      "quote": "Vanity of vanities, and all is vanity, except to love God, and Him only to serve.",
+      "author": "Thomas a Kempis",
+      "source": "The Imitation of Christ, Book I",
+      "sourceUrl": "https://en.wikisource.org/wiki/Of_the_Imitation_of_Christ",
+      "categories": [
+        "scripture",
+        "wisdom",
+        "surrender"
+      ]
+    },
+    {
+      "id": "quote-494",
+      "quote": "We ought not to be weary of doing little things for the love of God.",
+      "author": "Brother Lawrence",
+      "source": "The Practice of the Presence of God",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Practice_of_the_Presence_of_God",
+      "categories": [
+        "scripture",
+        "peace",
+        "purpose"
+      ]
+    },
+    {
+      "id": "quote-495",
+      "quote": "The time for thinkers has come.",
+      "author": "Mary Baker Eddy",
+      "source": "Science and Health with Key to the Scriptures",
+      "sourceUrl": "https://en.wikisource.org/wiki/Science_and_Health_with_Key_to_the_Scriptures",
+      "categories": [
+        "healing",
+        "wisdom",
+        "scripture"
+      ]
+    },
+    {
+      "id": "quote-496",
+      "quote": "If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "source": "Walden, Conclusion",
+      "sourceUrl": "https://en.wikisource.org/wiki/Walden_%281854%29_Thoreau/Conclusion",
+      "categories": [
+        "purpose",
+        "courage",
+        "freedom"
+      ]
+    },
+    {
+      "id": "quote-497",
+      "quote": "I exist as I am, that is enough.",
+      "author": "Walt Whitman",
+      "source": "Song of Myself",
+      "sourceUrl": "https://en.wikisource.org/wiki/Leaves_of_Grass_%281855%29/I_celebrate_myself",
+      "categories": [
+        "identity",
+        "embodiment",
+        "joy"
+      ]
+    },
+    {
+      "id": "quote-498",
+      "quote": "Believe that life is worth living, and your belief will help create the fact.",
+      "author": "William James",
+      "source": "The Will to Believe",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Will_to_Believe",
+      "categories": [
+        "agency",
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-499",
+      "quote": "For the sick it is important to have the best.",
+      "author": "Florence Nightingale",
+      "source": "Notes on Nursing",
+      "sourceUrl": "https://www.gutenberg.org/files/17366/17366-h/17366-h.htm",
+      "categories": [
+        "healing",
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "quote-500",
+      "quote": "I have ploughed and planted, and gathered into barns, and no man could head me.",
+      "author": "Sojourner Truth",
+      "source": "Ain't I a Woman? speech (1851)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Ain%27t_I_a_Woman%3F",
+      "categories": [
+        "freedom",
+        "identity",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-501",
+      "quote": "I never ran my train off the track and I never lost a passenger.",
+      "author": "Harriet Tubman",
+      "source": "Sarah H. Bradford, Scenes in the Life of Harriet Tubman",
+      "sourceUrl": "https://www.gutenberg.org/files/57821/57821-h/57821-h.htm",
+      "categories": [
+        "freedom",
+        "courage",
+        "perseverance"
+      ]
+    },
+    {
+      "id": "quote-502",
+      "quote": "The dogmas of the quiet past are inadequate to the stormy present.",
+      "author": "Abraham Lincoln",
+      "source": "Annual Message to Congress (1862)",
+      "sourceUrl": "https://www.presidency.ucsb.edu/documents/second-annual-message-3",
+      "categories": [
+        "courage",
+        "freedom",
+        "agency"
+      ]
+    },
+    {
+      "id": "quote-503",
+      "quote": "With malice toward none; with charity for all.",
+      "author": "Abraham Lincoln",
+      "source": "Second Inaugural Address (1865)",
+      "sourceUrl": "https://www.presidency.ucsb.edu/documents/inaugural-address-20",
+      "categories": [
+        "forgiveness",
+        "peace",
+        "courage"
+      ]
+    },
+    {
+      "id": "quote-504",
+      "quote": "Action is indeed the sole medium of expression for ethics.",
+      "author": "Jane Addams",
+      "source": "Democracy and Social Ethics",
+      "sourceUrl": "https://en.wikisource.org/wiki/Democracy_and_Social_Ethics",
+      "categories": [
+        "purpose",
+        "wisdom",
+        "encouragement"
       ]
     }
   ]

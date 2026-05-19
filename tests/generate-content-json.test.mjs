@@ -61,9 +61,21 @@ async function testGenerate() {
     "hope",
     "identity",
     "peace",
+    "compassion",
     "perseverance",
     "purpose",
     "wisdom",
+    "gratitude",
+    "joy",
+    "intuition",
+    "boundaries",
+    "embodiment",
+    "surrender",
+    "freedom",
+    "discernment",
+    "forgiveness",
+    "agency",
+    "abundance",
   ]);
   assert.equal(quotes.allowedCategories.includes("wisdom"), true);
   assert.equal(quotes.quotes[0].id, "quote-001");

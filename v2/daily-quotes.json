@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-19T02:53:38.001Z",
+  "lastUpdated": "2026-05-19T13:46:35.204Z",
   "quotes": [
     {
       "day": 1,
@@ -17,7 +17,8 @@
       "sourceUrl": "https://plumvillage.org/mindfulness/mindfulness-practice",
       "categories": [
         "healing",
-        "peace"
+        "peace",
+        "embodiment"
       ],
       "supplemental": {
         "type": "youtube",
@@ -39,8 +40,9 @@
       "quote": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
       "author": "Paul",
       "source": "Colossians 3:15 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Colossians-3-15/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:15",
       "categories": [
+        "gratitude",
         "hope",
         "encouragement"
       ],
@@ -61,13 +63,15 @@
       "artworkKey": "day-03",
       "challenge": "Listen to one of your favorite up-beat songs and dance to it simply for the joy of it",
       "prompt": "What did your body remember when joy was allowed to move?",
-      "quote": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
-      "author": "Henri Nouwen",
-      "source": "Here and Now",
-      "sourceUrl": "https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to",
+      "quote": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.",
+      "author": "John 15:11",
+      "source": "King James Version",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#15:11",
       "categories": [
+        "joy",
         "hope",
-        "encouragement"
+        "encouragement",
+        "embodiment"
       ],
       "supplemental": {
         "type": "article",
@@ -92,7 +96,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Parker_Palmer",
       "categories": [
         "healing",
-        "identity"
+        "identity",
+        "embodiment"
       ],
       "supplemental": {
         "type": "resource",
@@ -116,6 +121,7 @@
       "source": "Disputed Questions",
       "sourceUrl": "https://en.wikiquote.org/wiki/Thomas_Merton",
       "categories": [
+        "gratitude",
         "encouragement",
         "healing"
       ],
@@ -142,7 +148,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n",
       "categories": [
         "healing",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "supplemental": {
         "type": "video",
@@ -164,10 +171,12 @@
       "quote": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
       "author": "Paul",
       "source": "2 Timothy 1:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Timothy-1-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Timothy#1:7",
       "categories": [
         "peace",
-        "courage"
+        "courage",
+        "agency",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-07.webp"
     },
@@ -184,8 +193,10 @@
       "source": "Wikiquote: Albert Einstein",
       "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "categories": [
+        "intuition",
         "wisdom",
-        "identity"
+        "identity",
+        "gratitude"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-08.webp"
     },
@@ -197,13 +208,15 @@
       "artworkKey": "day-09",
       "challenge": "What is something your intuition has encouraged you to take action for, but you haven't followed through?",
       "prompt": "What intuition-led action is still asking for your attention?",
-      "quote": "Trusting our intuition often saves us from disaster.",
-      "author": "Anne Wilson Schaef",
-      "source": "Wikiquote: Anne Wilson Schaef",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Anne_Wilson_Schaef",
+      "quote": "The heart has its reasons, which reason does not know.",
+      "author": "Blaise Pascal",
+      "source": "Pascal's Pensees",
+      "sourceUrl": "https://www.gutenberg.org/files/18269/18269-h/18269-h.htm",
       "categories": [
+        "intuition",
         "wisdom",
-        "courage"
+        "courage",
+        "agency"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-09.webp"
     },
@@ -215,13 +228,14 @@
       "artworkKey": "day-10",
       "challenge": "Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.",
       "prompt": "What became possible when you acted before planning more?",
-      "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.",
+      "quote": "Freedom is not worth having if it does not connote freedom to err and even to sin.",
       "author": "Mahatma Gandhi",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include",
+      "source": "The Gospel of Freedom",
+      "sourceUrl": "https://www.gandhiserve.net/about-mahatma-gandhi/thus-spake-gandhi/the-gospel-of-freedom-1/",
       "categories": [
         "purpose",
-        "courage"
+        "courage",
+        "agency"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-10.webp"
     },
@@ -240,7 +254,8 @@
       "categories": [
         "identity",
         "healing",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-11.webp"
     },
@@ -255,8 +270,9 @@
       "quote": "Go to your bosom: Knock there, and ask your heart what it doth know.",
       "author": "William Shakespeare",
       "source": "Measure for Measure, Act II, Scene II",
-      "sourceUrl": "https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/measure-for-measure/read/2/2/",
       "categories": [
+        "intuition",
         "wisdom",
         "purpose"
       ],
@@ -277,7 +293,8 @@
       "categories": [
         "purpose",
         "scripture",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-13.webp"
     },
@@ -294,6 +311,7 @@
       "source": "Revelations of Divine Love",
       "sourceUrl": "https://en.wikisource.org/wiki/Revelations_of_Divine_Love",
       "categories": [
+        "joy",
         "hope",
         "encouragement"
       ],
@@ -310,10 +328,11 @@
       "quote": "And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.",
       "author": "Paul",
       "source": "Romans 8:28 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-8-28/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:28",
       "categories": [
         "identity",
-        "hope"
+        "hope",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-15.webp"
     },
@@ -331,7 +350,8 @@
       "sourceUrl": "https://gita.pub/chapter/2/verse/48/",
       "categories": [
         "purpose",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-16.webp"
     },
@@ -348,6 +368,7 @@
       "source": "Eat, Pray, Love",
       "sourceUrl": "https://en.wikiquote.org/wiki/Elizabeth_Gilbert",
       "categories": [
+        "joy",
         "encouragement",
         "healing"
       ],
@@ -367,7 +388,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "categories": [
         "healing",
-        "wisdom"
+        "wisdom",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-18.webp"
     },
@@ -385,7 +407,8 @@
       "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V",
       "categories": [
         "identity",
-        "courage"
+        "courage",
+        "agency"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-19.webp"
     },
@@ -403,7 +426,8 @@
       "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XII",
       "categories": [
         "wisdom",
-        "peace"
+        "peace",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-20.webp"
     },
@@ -421,7 +445,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Anne_Frank",
       "categories": [
         "wisdom",
-        "encouragement"
+        "encouragement",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-21.webp"
     },
@@ -439,7 +464,8 @@
       "sourceUrl": "https://time.com/4617820/queen-elizabeth-christmas-day-address/",
       "categories": [
         "encouragement",
-        "healing"
+        "healing",
+        "forgiveness"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-22.webp"
     },
@@ -454,11 +480,12 @@
       "quote": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
       "author": "James",
       "source": "James 1:17 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-17/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:17",
       "categories": [
         "scripture",
         "purpose",
-        "wisdom"
+        "wisdom",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-23.webp"
     },
@@ -476,7 +503,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "categories": [
         "encouragement",
-        "hope"
+        "hope",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-24.webp"
     },
@@ -494,7 +522,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
       "categories": [
         "hope",
-        "encouragement"
+        "encouragement",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-25.webp"
     },
@@ -512,7 +541,8 @@
       "sourceUrl": "https://www.poetryfoundation.org/blog/uncategorized/52840/journal-day-five-56d34c6460dc4",
       "categories": [
         "healing",
-        "identity"
+        "identity",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-26.webp"
     },
@@ -530,7 +560,8 @@
       "sourceUrl": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
       "categories": [
         "healing",
-        "courage"
+        "courage",
+        "forgiveness"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-27.webp"
     },
@@ -548,7 +579,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard",
       "categories": [
         "healing",
-        "wisdom"
+        "wisdom",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-28.webp"
     },
@@ -565,6 +597,7 @@
       "source": "Leaves of Grass",
       "sourceUrl": "https://en.wikisource.org/wiki/Leaves_of_Grass_%281855%29/There_was_a_child_went_forth_every_day",
       "categories": [
+        "joy",
         "hope",
         "encouragement"
       ],
@@ -581,11 +614,12 @@
       "quote": "To every [thing there is] a season, and a time to every purpose under the heaven:",
       "author": "Solomon",
       "source": "Ecclesiastes 3:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ecclesiastes-3-1/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes#3:1",
       "categories": [
         "scripture",
         "purpose",
-        "wisdom"
+        "wisdom",
+        "boundaries"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-30.webp"
     },
@@ -602,6 +636,7 @@
       "source": "My heart leaps up",
       "sourceUrl": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/My_heart_leaps_up",
       "categories": [
+        "gratitude",
         "identity",
         "wisdom",
         "encouragement"
@@ -623,7 +658,8 @@
       "categories": [
         "healing",
         "courage",
-        "wisdom"
+        "wisdom",
+        "boundaries"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-32.webp"
     },
@@ -642,7 +678,8 @@
       "categories": [
         "purpose",
         "wisdom",
-        "encouragement"
+        "encouragement",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-33.webp"
     },
@@ -661,7 +698,8 @@
       "categories": [
         "hope",
         "purpose",
-        "identity"
+        "identity",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-34.webp"
     },
@@ -680,7 +718,9 @@
       "categories": [
         "healing",
         "peace",
-        "courage"
+        "courage",
+        "boundaries",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-35.webp"
     },
@@ -699,7 +739,8 @@
       "categories": [
         "identity",
         "hope",
-        "encouragement"
+        "encouragement",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-36.webp"
     },
@@ -718,7 +759,8 @@
       "categories": [
         "wisdom",
         "purpose",
-        "peace"
+        "peace",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-37.webp"
     },
@@ -737,7 +779,8 @@
       "categories": [
         "peace",
         "healing",
-        "courage"
+        "courage",
+        "boundaries"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-38.webp"
     },
@@ -756,7 +799,8 @@
       "categories": [
         "purpose",
         "hope",
-        "encouragement"
+        "encouragement",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-39.webp"
     },
@@ -775,7 +819,8 @@
       "categories": [
         "purpose",
         "perseverance",
-        "wisdom"
+        "wisdom",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-40.webp"
     }

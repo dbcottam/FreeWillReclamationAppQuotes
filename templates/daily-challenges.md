@@ -1,7 +1,7 @@
 # Daily Challenges
 
 Edit the values below, then run `npm run content:generate` to rebuild the app JSON.
-Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, perseverance, purpose, wisdom.
+Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, compassion, perseverance, purpose, wisdom, gratitude, joy, intuition, boundaries, embodiment, surrender, freedom, discernment, forgiveness, agency, abundance.
 
 ## Day 1
 

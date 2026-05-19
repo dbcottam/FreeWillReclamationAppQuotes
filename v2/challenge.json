@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-11T00:15:37.223Z",
+  "lastUpdated": "2026-05-19T13:40:24.515Z",
   "allowedCategories": [
     "scripture",
     "courage",
@@ -10,9 +10,21 @@
     "hope",
     "identity",
     "peace",
+    "compassion",
     "perseverance",
     "purpose",
-    "wisdom"
+    "wisdom",
+    "gratitude",
+    "joy",
+    "intuition",
+    "boundaries",
+    "embodiment",
+    "surrender",
+    "freedom",
+    "discernment",
+    "forgiveness",
+    "agency",
+    "abundance"
   ],
   "challenges": [
     {
@@ -813,6 +825,647 @@
       "categories": [
         "wisdom",
         "encouragement"
+      ]
+    },
+    {
+      "id": "challenge-101",
+      "challenge": "Name one ordinary gift from today and let yourself enjoy it for ten full seconds.",
+      "categories": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "id": "challenge-102",
+      "challenge": "Write one thank-you sentence to your body for something it carried you through.",
+      "categories": [
+        "gratitude",
+        "healing"
+      ]
+    },
+    {
+      "id": "challenge-103",
+      "challenge": "List three forms of support you already have before asking for more.",
+      "categories": [
+        "gratitude",
+        "abundance"
+      ]
+    },
+    {
+      "id": "challenge-104",
+      "challenge": "Move one part of your body in a way that feels playful, not productive.",
+      "categories": [
+        "joy",
+        "embodiment"
+      ]
+    },
+    {
+      "id": "challenge-105",
+      "challenge": "Choose one small delight today before you earn it.",
+      "categories": [
+        "joy",
+        "hope"
+      ]
+    },
+    {
+      "id": "challenge-106",
+      "challenge": "Let one good moment be fully good without correcting it.",
+      "categories": [
+        "joy",
+        "encouragement"
+      ]
+    },
+    {
+      "id": "challenge-107",
+      "challenge": "Ask your inner knowing one clear question, then write the first simple answer without editing it.",
+      "categories": [
+        "intuition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "challenge-108",
+      "challenge": "Take one tiny action that matches the nudge you keep dismissing.",
+      "categories": [
+        "intuition",
+        "courage"
+      ]
+    },
+    {
+      "id": "challenge-109",
+      "challenge": "Hold two options in mind and notice which one gives your body more breath.",
+      "categories": [
+        "intuition",
+        "discernment"
+      ]
+    },
+    {
+      "id": "challenge-110",
+      "challenge": "Choose one thing you will not carry today because it is not yours.",
+      "categories": [
+        "boundaries",
+        "peace"
+      ]
+    },
+    {
+      "id": "challenge-111",
+      "challenge": "Write one sentence that begins with \"I am available for\" and one that begins with \"I am not available for.\"",
+      "categories": [
+        "boundaries",
+        "courage"
+      ]
+    },
+    {
+      "id": "challenge-112",
+      "challenge": "Notice one place where resentment is pointing to a boundary you have not named.",
+      "categories": [
+        "boundaries",
+        "identity"
+      ]
+    },
+    {
+      "id": "challenge-113",
+      "challenge": "Scan your body from head to feet and ask each tense place what it is protecting.",
+      "categories": [
+        "embodiment",
+        "healing"
+      ]
+    },
+    {
+      "id": "challenge-114",
+      "challenge": "Place both hands somewhere steady and breathe as if your body is allowed to arrive.",
+      "categories": [
+        "embodiment",
+        "peace"
+      ]
+    },
+    {
+      "id": "challenge-115",
+      "challenge": "Before your next choice, ask whether your body says open, tight, tired, or clear.",
+      "categories": [
+        "embodiment",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "challenge-116",
+      "challenge": "Name one outcome you cannot control and practice releasing it for one minute.",
+      "categories": [
+        "surrender",
+        "peace"
+      ]
+    },
+    {
+      "id": "challenge-117",
+      "challenge": "Offer one burden to God or your Higher Power without immediately taking it back.",
+      "categories": [
+        "surrender",
+        "hope",
+        "scripture"
+      ]
+    },
+    {
+      "id": "challenge-118",
+      "challenge": "Write the difference between your part and the part that belongs to timing, grace, or other people.",
+      "categories": [
+        "surrender",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "challenge-119",
+      "challenge": "Choose one small action that proves you are not owned by an old fear.",
+      "categories": [
+        "freedom",
+        "courage"
+      ]
+    },
+    {
+      "id": "challenge-120",
+      "challenge": "Write one sentence about who you are when nobody is grading you.",
+      "categories": [
+        "freedom",
+        "identity"
+      ]
+    },
+    {
+      "id": "challenge-121",
+      "challenge": "Say no to one unnecessary pressure, even if the no is only internal today.",
+      "categories": [
+        "freedom",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "challenge-122",
+      "challenge": "Separate one decision into facts, fears, desires, and values.",
+      "categories": [
+        "discernment",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "challenge-123",
+      "challenge": "Delay one yes until you can tell whether it is honest.",
+      "categories": [
+        "discernment",
+        "peace"
+      ]
+    },
+    {
+      "id": "challenge-124",
+      "challenge": "Ask which option serves your deeper work, then choose one matching next step.",
+      "categories": [
+        "discernment",
+        "purpose"
+      ]
+    },
+    {
+      "id": "challenge-125",
+      "challenge": "Write one sentence of mercy toward a past version of yourself.",
+      "categories": [
+        "forgiveness",
+        "healing"
+      ]
+    },
+    {
+      "id": "challenge-126",
+      "challenge": "Release one person from being responsible for the life you build next.",
+      "categories": [
+        "forgiveness",
+        "peace"
+      ]
+    },
+    {
+      "id": "challenge-127",
+      "challenge": "Name what hurt, name what you needed, and name one way you can care for yourself now.",
+      "categories": [
+        "forgiveness",
+        "courage"
+      ]
+    },
+    {
+      "id": "challenge-128",
+      "challenge": "Choose one response today instead of rehearsing the reaction that arrives first.",
+      "categories": [
+        "agency",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "challenge-129",
+      "challenge": "Make one decision that belongs to you, even if it is small and private.",
+      "categories": [
+        "agency",
+        "courage"
+      ]
+    },
+    {
+      "id": "challenge-130",
+      "challenge": "Do one useful thing before asking for more certainty.",
+      "categories": [
+        "agency",
+        "purpose"
+      ]
+    },
+    {
+      "id": "challenge-131",
+      "challenge": "Write down one resource, relationship, skill, or opening that is already multiplying.",
+      "categories": [
+        "abundance",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "challenge-132",
+      "challenge": "Let yourself imagine one good outcome without immediately arguing against it.",
+      "categories": [
+        "abundance",
+        "hope"
+      ]
+    },
+    {
+      "id": "challenge-133",
+      "challenge": "Use one resource you already have for the thing you keep postponing.",
+      "categories": [
+        "abundance",
+        "purpose"
+      ]
+    },
+    {
+      "id": "challenge-134",
+      "challenge": "Be still for one minute and let quiet be enough.",
+      "categories": [
+        "scripture",
+        "surrender"
+      ]
+    },
+    {
+      "id": "challenge-135",
+      "challenge": "Rejoice in one part of this day as something given, not earned.",
+      "categories": [
+        "scripture",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "challenge-136",
+      "challenge": "Guard your heart today by choosing one input, conversation, or thought to step away from.",
+      "categories": [
+        "scripture",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "challenge-137",
+      "challenge": "Notice one place you are acting from bondage to approval, and choose one freer response.",
+      "categories": [
+        "scripture",
+        "freedom"
+      ]
+    },
+    {
+      "id": "challenge-138",
+      "challenge": "Ask where life is already offering more than survival, then write the first evidence you see.",
+      "categories": [
+        "scripture",
+        "abundance"
+      ]
+    },
+    {
+      "id": "challenge-139",
+      "challenge": "Make one honest demand of your own life: a boundary, a repair, a request, or a next step.",
+      "categories": [
+        "courage",
+        "freedom"
+      ]
+    },
+    {
+      "id": "challenge-140",
+      "challenge": "Enter the arena for two minutes by doing the visible part of the work.",
+      "categories": [
+        "courage",
+        "perseverance"
+      ]
+    },
+    {
+      "id": "challenge-141",
+      "challenge": "Treat one obstacle as material for the path instead of proof that the path is closed.",
+      "categories": [
+        "perseverance",
+        "agency"
+      ]
+    },
+    {
+      "id": "challenge-142",
+      "challenge": "Finish the sentence: \"I am becoming someone who...\"",
+      "categories": [
+        "identity",
+        "agency"
+      ]
+    },
+    {
+      "id": "challenge-143",
+      "challenge": "Remove one label from yourself that was never yours to keep.",
+      "categories": [
+        "identity",
+        "freedom"
+      ]
+    },
+    {
+      "id": "challenge-144",
+      "challenge": "Let one feeling move through you without turning it into a verdict about your future.",
+      "categories": [
+        "healing",
+        "surrender"
+      ]
+    },
+    {
+      "id": "challenge-145",
+      "challenge": "Apologize to yourself for one way you abandoned your own needs.",
+      "categories": [
+        "healing",
+        "forgiveness"
+      ]
+    },
+    {
+      "id": "challenge-146",
+      "challenge": "Choose one nourishing action because your body is a life, not a project.",
+      "categories": [
+        "healing",
+        "embodiment"
+      ]
+    },
+    {
+      "id": "challenge-147",
+      "challenge": "Name one gift you can put into circulation today instead of keeping it theoretical.",
+      "categories": [
+        "purpose",
+        "abundance"
+      ]
+    },
+    {
+      "id": "challenge-148",
+      "challenge": "Decline, delay, or shrink one task that does not serve your real assignment.",
+      "categories": [
+        "purpose",
+        "discernment"
+      ]
+    },
+    {
+      "id": "challenge-149",
+      "challenge": "Add one element of joy to a necessary task without making the task bigger.",
+      "categories": [
+        "purpose",
+        "joy"
+      ]
+    },
+    {
+      "id": "challenge-150",
+      "challenge": "Unclench your hands and breathe out one outcome you are trying to force.",
+      "categories": [
+        "peace",
+        "surrender"
+      ]
+    },
+    {
+      "id": "challenge-151",
+      "challenge": "Turn down one source of noise for two minutes and notice what becomes clearer.",
+      "categories": [
+        "peace",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "challenge-152",
+      "challenge": "Let one decision sit overnight if urgency is the only reason to choose now.",
+      "categories": [
+        "peace",
+        "discernment"
+      ]
+    },
+    {
+      "id": "challenge-153",
+      "challenge": "Write one reason your future may be kinder than your fear predicts.",
+      "categories": [
+        "hope",
+        "abundance"
+      ]
+    },
+    {
+      "id": "challenge-154",
+      "challenge": "Take one action that gives your hope evidence.",
+      "categories": [
+        "hope",
+        "agency"
+      ]
+    },
+    {
+      "id": "challenge-155",
+      "challenge": "Let one unopened door stay unopened while you look for the next available door.",
+      "categories": [
+        "hope",
+        "surrender"
+      ]
+    },
+    {
+      "id": "challenge-156",
+      "challenge": "Ask what you already know but have not wanted to admit.",
+      "categories": [
+        "wisdom",
+        "intuition"
+      ]
+    },
+    {
+      "id": "challenge-157",
+      "challenge": "Treat one body signal as data and ask what wise adjustment it suggests.",
+      "categories": [
+        "wisdom",
+        "embodiment"
+      ]
+    },
+    {
+      "id": "challenge-158",
+      "challenge": "Consider one conflict from the other person's fear, need, or limitation without excusing harm.",
+      "categories": [
+        "wisdom",
+        "forgiveness"
+      ]
+    },
+    {
+      "id": "challenge-159",
+      "challenge": "Tell someone one specific thing they did that made a difference.",
+      "categories": [
+        "encouragement",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "challenge-160",
+      "challenge": "Celebrate a small completion before moving to the next demand.",
+      "categories": [
+        "encouragement",
+        "joy"
+      ]
+    },
+    {
+      "id": "challenge-161",
+      "challenge": "Give yourself credit for one choice that would have been harder for an earlier version of you.",
+      "categories": [
+        "encouragement",
+        "agency"
+      ]
+    },
+    {
+      "id": "challenge-162",
+      "challenge": "Practice saying the true sentence in a calm voice before the moment requires it.",
+      "categories": [
+        "courage",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "challenge-163",
+      "challenge": "Do the brave part you can do and release the part that depends on someone else's response.",
+      "categories": [
+        "courage",
+        "surrender"
+      ]
+    },
+    {
+      "id": "challenge-164",
+      "challenge": "Follow one quiet yes that does not need applause.",
+      "categories": [
+        "courage",
+        "intuition"
+      ]
+    },
+    {
+      "id": "challenge-165",
+      "challenge": "Thank one past obstacle for the strength it forced you to grow.",
+      "categories": [
+        "perseverance",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "challenge-166",
+      "challenge": "Work for two minutes at a pace your body can sustain.",
+      "categories": [
+        "perseverance",
+        "embodiment"
+      ]
+    },
+    {
+      "id": "challenge-167",
+      "challenge": "Restart without asking the old failure for permission.",
+      "categories": [
+        "perseverance",
+        "freedom"
+      ]
+    },
+    {
+      "id": "challenge-168",
+      "challenge": "Protect one resource today: time, attention, money, energy, space, or trust.",
+      "categories": [
+        "abundance",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "challenge-169",
+      "challenge": "Notice whether one opportunity expands your life or merely flatters your fear of missing out.",
+      "categories": [
+        "abundance",
+        "discernment"
+      ]
+    },
+    {
+      "id": "challenge-170",
+      "challenge": "Receive one meal, breath, rest, or kindness as evidence that life can support you.",
+      "categories": [
+        "abundance",
+        "embodiment"
+      ]
+    },
+    {
+      "id": "challenge-171",
+      "challenge": "Release one old sentence that keeps you loyal to pain.",
+      "categories": [
+        "freedom",
+        "forgiveness"
+      ]
+    },
+    {
+      "id": "challenge-172",
+      "challenge": "Choose between what is familiar and what is free.",
+      "categories": [
+        "freedom",
+        "discernment"
+      ]
+    },
+    {
+      "id": "challenge-173",
+      "challenge": "Do one thing today because it is aligned, not because it is expected.",
+      "categories": [
+        "freedom",
+        "purpose"
+      ]
+    },
+    {
+      "id": "challenge-174",
+      "challenge": "Sit quietly until the loudest answer softens and the truer answer can be heard.",
+      "categories": [
+        "intuition",
+        "peace"
+      ]
+    },
+    {
+      "id": "challenge-175",
+      "challenge": "Ask what wants to grow through your natural gifts instead of your strain.",
+      "categories": [
+        "intuition",
+        "abundance"
+      ]
+    },
+    {
+      "id": "challenge-176",
+      "challenge": "Notice one place your body already knew the answer before your mind negotiated it.",
+      "categories": [
+        "intuition",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "challenge-177",
+      "challenge": "Let one blessing arrive in an unexpected form without correcting the packaging.",
+      "categories": [
+        "surrender",
+        "abundance"
+      ]
+    },
+    {
+      "id": "challenge-178",
+      "challenge": "Write down the grievance, then write one way you are willing to stop feeding it today.",
+      "categories": [
+        "surrender",
+        "forgiveness"
+      ]
+    },
+    {
+      "id": "challenge-179",
+      "challenge": "Choose your next right action and leave the full outcome unowned.",
+      "categories": [
+        "surrender",
+        "agency"
+      ]
+    },
+    {
+      "id": "challenge-180",
+      "challenge": "Ask what enough would look like for the next hour.",
+      "categories": [
+        "wisdom",
+        "abundance"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 # Quote Library
 
 Edit the values below, then run `npm run content:generate` to rebuild the app JSON.
-Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, perseverance, purpose, wisdom.
+Allowed categories: scripture, courage, encouragement, healing, hope, identity, peace, compassion, perseverance, purpose, wisdom, gratitude, joy, intuition, boundaries, embodiment, surrender, freedom, discernment, forgiveness, agency, abundance.
 
 ## quote-001
 
@@ -243,7 +243,7 @@ Author: Paul
 
 Source: Galatians 5:22 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Galatians-5-22/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#5:22
 
 Categories: scripture, healing, peace
 
@@ -256,7 +256,7 @@ Author: Paul
 
 Source: Colossians 3:15 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Colossians-3-15/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:15
 
 Categories: scripture, healing, peace
 
@@ -269,7 +269,7 @@ Author: Isaiah
 
 Source: Isaiah 26:3 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-26-3/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#26:3
 
 Categories: scripture, healing, peace
 
@@ -282,7 +282,7 @@ Author: Jeremiah
 
 Source: Jeremiah 29:11 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Jeremiah-29-11/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Jeremiah#29:11
 
 Categories: scripture, healing, peace
 
@@ -295,7 +295,7 @@ Author: John
 
 Source: John 14:27 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/John-14-27/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#14:27
 
 Categories: scripture, healing, peace
 
@@ -308,7 +308,7 @@ Author: Paul
 
 Source: Philippians 4:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-4-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:7
 
 Categories: scripture, healing, peace
 
@@ -321,7 +321,7 @@ Author: Paul
 
 Source: Romans 15:13 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-15-13/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#15:13
 
 Categories: scripture, healing, peace
 
@@ -334,7 +334,7 @@ Author: Paul
 
 Source: 2 Corinthians 12:9 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-12-9/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#12:9
 
 Categories: scripture, peace, healing
 
@@ -347,7 +347,7 @@ Author: Joel
 
 Source: Joel 2:25 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Joel-2-25/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Joel#2:25
 
 Categories: scripture, peace, healing
 
@@ -360,7 +360,7 @@ Author: Matthew
 
 Source: Matthew 11:28 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-11-28/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#11:28
 
 Categories: scripture, peace, healing
 
@@ -373,7 +373,7 @@ Author: David
 
 Source: Psalm 143:8 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-143-8/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#143:8
 
 Categories: scripture, healing, peace
 
@@ -386,7 +386,7 @@ Author: Paul
 
 Source: Romans 12:2 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-12-2/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#12:2
 
 Categories: scripture, peace, healing
 
@@ -399,7 +399,7 @@ Author: Paul
 
 Source: 1 Corinthians 12:4 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Corinthians-12-4/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#12:4
 
 Categories: scripture, healing, peace
 
@@ -412,7 +412,7 @@ Author: Paul
 
 Source: 1 Corinthians 12:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Corinthians-12-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#12:7
 
 Categories: scripture, healing, peace
 
@@ -425,7 +425,7 @@ Author: Paul
 
 Source: 1 Corinthians 15:58 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Corinthians-15-58/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#15:58
 
 Categories: scripture, healing, peace
 
@@ -438,7 +438,7 @@ Author: Paul
 
 Source: 1 Corinthians 2:9 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Corinthians-2-9/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians#2:9
 
 Categories: scripture, healing, peace
 
@@ -711,7 +711,7 @@ Author: John
 
 Source: John 8:32 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/John-8-32/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#8:32
 
 Categories: scripture, identity, wisdom
 
@@ -724,7 +724,7 @@ Author: Peter
 
 Source: 2 Peter 1:3 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Peter-1-3/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Peter#1:3
 
 Categories: scripture, wisdom, identity
 
@@ -737,7 +737,7 @@ Author: Paul
 
 Source: 2 Timothy 1:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Timothy-1-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Timothy#1:7
 
 Categories: scripture, wisdom, identity
 
@@ -750,7 +750,7 @@ Author: Paul
 
 Source: Ephesians 4:23 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ephesians-4-23/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#4:23
 
 Categories: scripture, wisdom, identity
 
@@ -763,7 +763,7 @@ Author: James
 
 Source: James 1:5 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/James-1-5/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#1:5
 
 Categories: scripture, wisdom, identity
 
@@ -776,7 +776,7 @@ Author: James
 
 Source: James 4:8 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/James-4-8/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#4:8
 
 Categories: scripture, wisdom, identity
 
@@ -789,7 +789,7 @@ Author: Paul
 
 Source: Philippians 3:13 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-3-13/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#3:13
 
 Categories: scripture, identity, wisdom
 
@@ -802,7 +802,7 @@ Author: Solomon
 
 Source: Proverbs 11:25 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-11-25/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#11:25
 
 Categories: scripture, identity, wisdom
 
@@ -815,7 +815,7 @@ Author: Solomon
 
 Source: Proverbs 16:3 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-16-3/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#16:3
 
 Categories: scripture, wisdom, identity
 
@@ -828,7 +828,7 @@ Author: Solomon
 
 Source: Proverbs 3:5 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-3-5/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#3:5
 
 Categories: scripture, wisdom, identity
 
@@ -841,7 +841,7 @@ Author: Solomon
 
 Source: Proverbs 3:6 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-3-6/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#3:6
 
 Categories: scripture, wisdom, identity
 
@@ -854,7 +854,7 @@ Author: David
 
 Source: Psalm 51:10 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-51-10/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#51:10
 
 Categories: scripture, identity, wisdom
 
@@ -867,7 +867,7 @@ Author: John
 
 Source: 1 John 4:18 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-John-4-18/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_John#4:18
 
 Categories: scripture, identity, wisdom
 
@@ -880,7 +880,7 @@ Author: Peter
 
 Source: 1 Peter 4:10 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Peter-4-10/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Peter#4:10
 
 Categories: scripture, identity, wisdom
 
@@ -893,7 +893,7 @@ Author: Peter
 
 Source: 1 Peter 5:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Peter-5-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Peter#5:7
 
 Categories: scripture, identity, wisdom
 
@@ -906,7 +906,7 @@ Author: Paul
 
 Source: 1 Thessalonians 5:11 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Thessalonians-5-11/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Thessalonians#5:11
 
 Categories: scripture, identity, wisdom
 
@@ -1192,7 +1192,7 @@ Author: David
 
 Source: Psalm 27:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-27-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#27:1
 
 Categories: scripture, courage, peace
 
@@ -1205,7 +1205,7 @@ Author: Isaiah
 
 Source: Isaiah 41:10 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-41-10/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#41:10
 
 Categories: scripture, courage, peace
 
@@ -1218,7 +1218,7 @@ Author: Paul
 
 Source: Galatians 5:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Galatians-5-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#5:1
 
 Categories: scripture, courage, peace
 
@@ -1231,7 +1231,7 @@ Author: Isaiah
 
 Source: Isaiah 40:31 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-40-31/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#40:31
 
 Categories: scripture, courage, peace
 
@@ -1244,7 +1244,7 @@ Author: Isaiah
 
 Source: Isaiah 54:2 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-54-2/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#54:2
 
 Categories: scripture, courage, peace
 
@@ -1257,7 +1257,7 @@ Author: Paul
 
 Source: Philippians 4:13 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-4-13/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:13
 
 Categories: scripture, courage, peace
 
@@ -1270,7 +1270,7 @@ Author: Solomon
 
 Source: Proverbs 19:21 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-19-21/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#19:21
 
 Categories: scripture, courage, peace
 
@@ -1283,7 +1283,7 @@ Author: David
 
 Source: Psalm 139:14 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-139-14/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#139:14
 
 Categories: scripture, courage, peace
 
@@ -1296,7 +1296,7 @@ Author: David
 
 Source: Psalm 34:4 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-34-4/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#34:4
 
 Categories: scripture, courage, peace
 
@@ -1309,7 +1309,7 @@ Author: Paul
 
 Source: 1 Thessalonians 5:16 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Thessalonians-5-16/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Thessalonians#5:16
 
 Categories: scripture, courage, peace
 
@@ -1322,7 +1322,7 @@ Author: Paul
 
 Source: 1 Thessalonians 5:18 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-Thessalonians-5-18/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_Thessalonians#5:18
 
 Categories: scripture, courage, peace
 
@@ -1335,7 +1335,7 @@ Author: Paul
 
 Source: 2 Corinthians 3:17 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-3-17/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#3:17
 
 Categories: scripture, courage, peace
 
@@ -1348,7 +1348,7 @@ Author: Paul
 
 Source: 2 Corinthians 4:16 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-4-16/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#4:16
 
 Categories: scripture, courage, peace
 
@@ -1361,7 +1361,7 @@ Author: Paul
 
 Source: 2 Corinthians 5:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-5-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#5:7
 
 Categories: scripture, courage, peace
 
@@ -1374,7 +1374,7 @@ Author: Paul
 
 Source: 2 Corinthians 9:11 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-9-11/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#9:11
 
 Categories: scripture, courage, peace
 
@@ -1387,7 +1387,7 @@ Author: Paul
 
 Source: 2 Corinthians 9:8 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-9-8/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/2_Corinthians#9:8
 
 Categories: scripture, courage, peace
 
@@ -1432,19 +1432,6 @@ Categories: purpose, wisdom
 
 Quote:
 You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
-
-## quote-111
-
-Author: Aristotle
-
-Source: https://www.goodreads.com/quotes/101859
-
-Source URL: https://www.goodreads.com/quotes/101859
-
-Categories: purpose, wisdom
-
-Quote:
-The energy of the mind is the essence of life.
 
 ## quote-112
 
@@ -1556,7 +1543,7 @@ Author: Paul
 
 Source: Ephesians 2:10 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ephesians-2-10/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#2:10
 
 Categories: scripture, purpose, wisdom
 
@@ -1569,7 +1556,7 @@ Author: Paul
 
 Source: Romans 12:6 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-12-6/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#12:6
 
 Categories: scripture, purpose, wisdom
 
@@ -1582,7 +1569,7 @@ Author: Paul
 
 Source: Romans 8:28 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-8-28/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:28
 
 Categories: scripture, purpose, wisdom
 
@@ -1595,7 +1582,7 @@ Author: Solomon
 
 Source: Ecclesiastes 3:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ecclesiastes-3-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes#3:1
 
 Categories: scripture, purpose, wisdom
 
@@ -1608,7 +1595,7 @@ Author: Paul
 
 Source: Ephesians 3:20 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ephesians-3-20/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#3:20
 
 Categories: scripture, purpose, encouragement
 
@@ -1621,7 +1608,7 @@ Author: Paul
 
 Source: Ephesians 4:24 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ephesians-4-24/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#4:24
 
 Categories: scripture, purpose, wisdom
 
@@ -1634,7 +1621,7 @@ Author: James
 
 Source: James 1:17 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/James-1-17/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#1:17
 
 Categories: scripture, purpose, wisdom
 
@@ -1647,7 +1634,7 @@ Author: Luke
 
 Source: Luke 6:38 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Luke-6-38/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Luke#6:38
 
 Categories: scripture, purpose, wisdom
 
@@ -1660,7 +1647,7 @@ Author: Matthew
 
 Source: Matthew 25:29 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-25-29/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#25:29
 
 Categories: scripture, purpose, wisdom
 
@@ -1673,7 +1660,7 @@ Author: Matthew
 
 Source: Matthew 5:14 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-5-14/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#5:14
 
 Categories: scripture, purpose, wisdom
 
@@ -1686,7 +1673,7 @@ Author: Matthew
 
 Source: Matthew 7:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-7-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#7:7
 
 Categories: scripture, purpose, wisdom
 
@@ -1699,7 +1686,7 @@ Author: Paul
 
 Source: Philippians 1:6 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-1-6/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#1:6
 
 Categories: scripture, purpose, wisdom
 
@@ -1712,7 +1699,7 @@ Author: Paul
 
 Source: Philippians 2:13 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-2-13/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#2:13
 
 Categories: scripture, purpose, encouragement
 
@@ -1725,7 +1712,7 @@ Author: Solomon
 
 Source: Proverbs 18:16 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-18-16/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#18:16
 
 Categories: scripture, purpose, wisdom
 
@@ -1738,7 +1725,7 @@ Author: Solomon
 
 Source: Proverbs 4:23 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-4-23/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#4:23
 
 Categories: scripture, purpose, wisdom
 
@@ -1751,7 +1738,7 @@ Author: David
 
 Source: Psalm 30:5 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-30-5/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#30:5
 
 Categories: scripture, purpose, wisdom
 
@@ -1979,26 +1966,13 @@ Categories: encouragement, hope
 Quote:
 By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
 
-## quote-153
-
-Author: Mahatma Gandhi
-
-Source: https://www.goodreads.com/quotes/16418
-
-Source URL: https://www.goodreads.com/quotes/16418
-
-Categories: encouragement, hope
-
-Quote:
-The future depends on what you do today.
-
 ## quote-154
 
 Author: Mark
 
 Source: Mark 9:23 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Mark-9-23/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Mark#9:23
 
 Categories: scripture, hope, encouragement
 
@@ -2011,7 +1985,7 @@ Author: Paul
 
 Source: Colossians 3:23 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Colossians-3-23/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:23
 
 Categories: scripture, encouragement, hope
 
@@ -2024,7 +1998,7 @@ Author: Paul
 
 Source: Galatians 6:9 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Galatians-6-9/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#6:9
 
 Categories: scripture, encouragement, hope
 
@@ -2037,7 +2011,7 @@ Author: Bible
 
 Source: Hebrews 11:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Hebrews-11-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Hebrews#11:1
 
 Categories: scripture, hope, encouragement
 
@@ -2050,7 +2024,7 @@ Author: Bible
 
 Source: Hebrews 12:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Hebrews-12-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Hebrews#12:1
 
 Categories: scripture, encouragement, hope
 
@@ -2063,7 +2037,7 @@ Author: Isaiah
 
 Source: Isaiah 43:19 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-43-19/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#43:19
 
 Categories: scripture, encouragement, hope
 
@@ -2076,7 +2050,7 @@ Author: James
 
 Source: James 1:22 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/James-1-22/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#1:22
 
 Categories: scripture, encouragement, hope
 
@@ -2089,7 +2063,7 @@ Author: Jeremiah
 
 Source: Jeremiah 17:7 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Jeremiah-17-7/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Jeremiah#17:7
 
 Categories: scripture, hope, encouragement
 
@@ -2102,7 +2076,7 @@ Author: Matthew
 
 Source: Matthew 17:20 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-17-20/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#17:20
 
 Categories: scripture, hope, encouragement
 
@@ -2115,7 +2089,7 @@ Author: Matthew
 
 Source: Matthew 19:26 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-19-26/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#19:26
 
 Categories: scripture, hope, encouragement
 
@@ -2128,7 +2102,7 @@ Author: Matthew
 
 Source: Matthew 6:33 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-6-33/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#6:33
 
 Categories: scripture, encouragement, hope
 
@@ -2141,7 +2115,7 @@ Author: Micah
 
 Source: Micah 6:8 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Micah-6-8/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Micah#6:8
 
 Categories: scripture, encouragement, hope
 
@@ -2154,7 +2128,7 @@ Author: David
 
 Source: Psalm 119:105 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-119-105/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#119:105
 
 Categories: scripture, hope, encouragement
 
@@ -2167,7 +2141,7 @@ Author: David
 
 Source: Psalm 37:23 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-37-23/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#37:23
 
 Categories: scripture, hope, encouragement
 
@@ -2180,7 +2154,7 @@ Author: David
 
 Source: Psalm 90:17 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-90-17/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#90:17
 
 Categories: scripture, encouragement, hope
 
@@ -2193,7 +2167,7 @@ Author: Paul
 
 Source: Romans 5:3 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-5-3/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#5:3
 
 Categories: scripture, encouragement, hope
 
@@ -2212,19 +2186,6 @@ Categories: wisdom, purpose
 
 Quote:
 The only real valuable thing is intuition.
-
-## quote-171
-
-Author: Albert Einstein
-
-Source: https://www.goodreads.com/quotes/297929
-
-Source URL: https://www.goodreads.com/quotes/297929
-
-Categories: wisdom, purpose
-
-Quote:
-The true sign of intelligence is not knowledge but imagination.
 
 ## quote-172
 
@@ -2293,16 +2254,16 @@ How wonderful it is that nobody need wait a single moment before starting to imp
 
 ## quote-177
 
-Author: Anne Wilson Schaef
+Author: Blaise Pascal
 
-Source: Wikiquote: Anne Wilson Schaef
+Source: Pascal's Pensees
 
-Source URL: https://en.wikiquote.org/wiki/Anne_Wilson_Schaef
+Source URL: https://www.gutenberg.org/files/18269/18269-h/18269-h.htm
 
-Categories: wisdom, purpose
+Categories: wisdom, intuition, discernment
 
 Quote:
-Trusting our intuition often saves us from disaster.
+The heart has its reasons, which reason does not know.
 
 ## quote-178
 
@@ -2375,7 +2336,7 @@ Author: Paul
 
 Source: Ephesians 6:10 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Ephesians-6-10/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Ephesians#6:10
 
 Categories: scripture, purpose, wisdom
 
@@ -2388,7 +2349,7 @@ Author: Bible
 
 Source: Hebrews 10:23 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Hebrews-10-23/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Hebrews#10:23
 
 Categories: scripture, purpose, wisdom
 
@@ -2401,7 +2362,7 @@ Author: Isaiah
 
 Source: Isaiah 30:21 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-30-21/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#30:21
 
 Categories: scripture, purpose, wisdom
 
@@ -2414,7 +2375,7 @@ Author: Isaiah
 
 Source: Isaiah 43:18 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-43-18/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#43:18
 
 Categories: scripture, purpose, wisdom
 
@@ -2427,7 +2388,7 @@ Author: Isaiah
 
 Source: Isaiah 58:11 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Isaiah-58-11/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#58:11
 
 Categories: scripture, purpose, wisdom
 
@@ -2440,7 +2401,7 @@ Author: Jeremiah
 
 Source: Jeremiah 33:3 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Jeremiah-33-3/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Jeremiah#33:3
 
 Categories: scripture, purpose, wisdom
 
@@ -2453,7 +2414,7 @@ Author: John
 
 Source: John 8:36 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/John-8-36/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#8:36
 
 Categories: scripture, purpose, wisdom
 
@@ -2466,7 +2427,7 @@ Author: Luke
 
 Source: Luke 12:34 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Luke-12-34/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Luke#12:34
 
 Categories: scripture, purpose, wisdom
 
@@ -2479,7 +2440,7 @@ Author: Paul
 
 Source: Philippians 4:19 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-4-19/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:19
 
 Categories: scripture, purpose, wisdom
 
@@ -2492,7 +2453,7 @@ Author: Paul
 
 Source: Philippians 4:6 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-4-6/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:6
 
 Categories: scripture, purpose, wisdom
 
@@ -2505,7 +2466,7 @@ Author: Paul
 
 Source: Philippians 4:8 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Philippians-4-8/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:8
 
 Categories: scripture, purpose, wisdom
 
@@ -2518,7 +2479,7 @@ Author: Solomon
 
 Source: Proverbs 16:9 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Proverbs-16-9/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#16:9
 
 Categories: scripture, purpose, wisdom
 
@@ -2531,7 +2492,7 @@ Author: David
 
 Source: Psalm 118:24 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-118-24/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#118:24
 
 Categories: scripture, purpose, wisdom
 
@@ -2544,7 +2505,7 @@ Author: David
 
 Source: Psalm 121:2 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-121-2/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#121:2
 
 Categories: scripture, purpose, wisdom
 
@@ -2557,7 +2518,7 @@ Author: David
 
 Source: Psalm 23:1 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-23-1/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#23:1
 
 Categories: scripture, purpose, wisdom
 
@@ -2570,7 +2531,7 @@ Author: David
 
 Source: Psalm 32:8 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-32-8/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#32:8
 
 Categories: scripture, purpose, wisdom
 
@@ -2759,19 +2720,6 @@ Categories: identity, purpose
 Quote:
 Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 
-## quote-213
-
-Author: Rumi
-
-Source: https://www.goodreads.com/quotes/541057
-
-Source URL: https://www.goodreads.com/quotes/541057
-
-Categories: identity, purpose
-
-Quote:
-Let yourself be silently drawn by the stronger pull of what you really love.
-
 ## quote-214
 
 Author: Wayne Dyer
@@ -2811,19 +2759,6 @@ Categories: identity, purpose
 Quote:
 Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 
-## quote-217
-
-Author: Zeno of Citium
-
-Source: https://www.goodreads.com/quotes/515411-man-conquers-the-world-by-conquering-himself
-
-Source URL: https://www.goodreads.com/quotes/515411-man-conquers-the-world-by-conquering-himself
-
-Categories: identity, purpose
-
-Quote:
-Man conquers the world by conquering himself.
-
 ## quote-218
 
 Author: Abraham Lincoln
@@ -2843,7 +2778,7 @@ Author: David
 
 Source: Psalm 34:18 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-34-18/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#34:18
 
 Categories: scripture, identity, purpose
 
@@ -2856,7 +2791,7 @@ Author: David
 
 Source: Psalm 37:5 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-37-5/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#37:5
 
 Categories: scripture, identity, purpose
 
@@ -2869,7 +2804,7 @@ Author: David
 
 Source: Psalm 46:10 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-46-10/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#46:10
 
 Categories: scripture, identity, purpose
 
@@ -2882,7 +2817,7 @@ Author: Paul
 
 Source: Romans 12:11 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-12-11/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#12:11
 
 Categories: scripture, identity, purpose
 
@@ -2895,7 +2830,7 @@ Author: Paul
 
 Source: Romans 5:4 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-5-4/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#5:4
 
 Categories: scripture, identity, purpose
 
@@ -2908,7 +2843,7 @@ Author: Paul
 
 Source: Romans 8:37 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Romans-8-37/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:37
 
 Categories: scripture, identity, purpose
 
@@ -3162,19 +3097,6 @@ Categories: identity, healing
 Quote:
 There is nothing happens to any person but what was in his power to go through with.
 
-## quote-244
-
-Author: Marcus Aurelius
-
-Source: https://www.goodreads.com/quotes/8765043-today-i-escaped-anxiety-or-no-i-discarded-it-because
-
-Source URL: https://www.goodreads.com/quotes/8765043-today-i-escaped-anxiety-or-no-i-discarded-it-because
-
-Categories: identity, healing
-
-Quote:
-Today I escaped anxiety. Or no, I discarded it, because it was within me, in my own perceptions — not outside.
-
 ## quote-245
 
 Author: Mark Twain
@@ -3252,19 +3174,6 @@ Categories: encouragement, purpose
 
 Quote:
 Most of the shadows of life are caused by standing in our own sunshine.
-
-## quote-251
-
-Author: Rumi
-
-Source: https://www.goodreads.com/quotes/936898
-
-Source URL: https://www.goodreads.com/quotes/936898
-
-Categories: encouragement, purpose
-
-Quote:
-Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 
 ## quote-252
 
@@ -3369,19 +3278,6 @@ Categories: encouragement, purpose
 
 Quote:
 Age does not protect you from love. But love, to some extent, protects you from age.
-
-## quote-260
-
-Author: Aristotle
-
-Source: https://www.goodreads.com/quotes/1309500
-
-Source URL: https://www.goodreads.com/quotes/1309500
-
-Categories: encouragement, purpose
-
-Quote:
-Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 
 ## quote-261
 
@@ -3681,19 +3577,6 @@ Categories: courage, encouragement
 
 Quote:
 Logic will get you from A to B. Imagination will take you everywhere.
-
-## quote-284
-
-Author: Albert Einstein
-
-Source: https://www.goodreads.com/quotes/11458
-
-Source URL: https://www.goodreads.com/quotes/11458
-
-Categories: courage, encouragement
-
-Quote:
-I have no special talent. I am only passionately curious.
 
 ## quote-285
 
@@ -4091,7 +3974,7 @@ Author: Laozi
 
 Source: Tao Te Ching 8 (Legge)
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-8
+Source URL: https://www.yellowbridge.com/onlinelit/daodejing08.php
 
 Categories: scripture, peace, wisdom
 
@@ -4104,7 +3987,7 @@ Author: Laozi
 
 Source: Tao Te Ching 22 (Legge)
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-22
+Source URL: https://www.yellowbridge.com/onlinelit/daodejing22.php
 
 Categories: scripture, healing, hope
 
@@ -4117,7 +4000,7 @@ Author: Laozi
 
 Source: Tao Te Ching 33 (Legge)
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-33
+Source URL: https://www.yellowbridge.com/onlinelit/daodejing33.php
 
 Categories: scripture, identity, wisdom
 
@@ -4130,7 +4013,7 @@ Author: Laozi
 
 Source: Tao Te Ching 37 (Legge)
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-37
+Source URL: https://www.yellowbridge.com/onlinelit/daodejing37.php
 
 Categories: scripture, wisdom, purpose
 
@@ -4143,7 +4026,7 @@ Author: Laozi
 
 Source: Tao Te Ching 64 (Legge)
 
-Source URL: https://www.infoplease.com/primary-sources/philosophy-religion/tao-te-ching/chapter-64
+Source URL: https://www.yellowbridge.com/onlinelit/daodejing64.php
 
 Categories: scripture, perseverance, encouragement
 
@@ -4351,7 +4234,7 @@ Author: Dante Alighieri
 
 Source: Paradiso, Canto III (Longfellow)
 
-Source URL: https://en.wikisource.org/wiki/Divine_Comedy_(Longfellow_1867)/Paradiso/Canto_III
+Source URL: https://en.wikisource.org/wiki/Divine_Comedy_%28Longfellow_1867%29/Volume_3/Canto_3
 
 Categories: peace, purpose
 
@@ -4377,7 +4260,7 @@ Author: William Shakespeare
 
 Source: Measure for Measure, Act II, Scene II
 
-Source URL: https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II
+Source URL: https://www.folger.edu/explore/shakespeares-works/measure-for-measure/read/2/2/
 
 Categories: wisdom, identity
 
@@ -4390,7 +4273,7 @@ Author: William Shakespeare
 
 Source: Hamlet, Act I, Scene III
 
-Source URL: https://en.wikisource.org/wiki/Hamlet/Act_I/Scene_III
+Source URL: https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/3/
 
 Categories: identity, wisdom
 
@@ -4403,7 +4286,7 @@ Author: William Shakespeare
 
 Source: Hamlet, Act II, Scene II
 
-Source URL: https://en.wikisource.org/wiki/Hamlet/Act_II/Scene_II
+Source URL: https://www.folger.edu/explore/shakespeares-works/hamlet/read/2/2/
 
 Categories: wisdom, peace
 
@@ -4416,7 +4299,7 @@ Author: William Shakespeare
 
 Source: Hamlet, Act V, Scene II
 
-Source URL: https://en.wikisource.org/wiki/Hamlet/Act_V/Scene_II
+Source URL: https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/2/
 
 Categories: courage, perseverance
 
@@ -4429,7 +4312,7 @@ Author: William Shakespeare
 
 Source: All's Well That Ends Well, Act I, Scene I
 
-Source URL: https://en.wikisource.org/wiki/All%27s_Well_That_Ends_Well/Act_I/Scene_I
+Source URL: https://www.folger.edu/explore/shakespeares-works/alls-well-that-ends-well/read/1/1/
 
 Categories: healing, identity
 
@@ -4442,7 +4325,7 @@ Author: William Shakespeare
 
 Source: As You Like It, Act II, Scene I
 
-Source URL: https://en.wikisource.org/wiki/As_You_Like_It/Act_II/Scene_I
+Source URL: https://www.folger.edu/explore/shakespeares-works/as-you-like-it/read/2/1/
 
 Categories: healing, hope
 
@@ -4455,7 +4338,7 @@ Author: William Shakespeare
 
 Source: Julius Caesar, Act I, Scene II
 
-Source URL: https://en.wikisource.org/wiki/Julius_Caesar/Act_I/Scene_II
+Source URL: https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/1/2/
 
 Categories: identity, courage
 
@@ -4559,7 +4442,7 @@ Author: Epictetus
 
 Source: Enchiridion, Section 1
 
-Source URL: https://en.wikisource.org/wiki/Enchiridion_of_Epictetus
+Source URL: https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion
 
 Categories: wisdom, peace
 
@@ -4676,7 +4559,7 @@ Author: Henry David Thoreau
 
 Source: Walden, Conclusion
 
-Source URL: https://en.wikisource.org/wiki/Walden/Conclusion
+Source URL: https://en.wikisource.org/wiki/Walden_%281854%29_Thoreau/Conclusion
 
 Categories: hope, purpose
 
@@ -4689,7 +4572,7 @@ Author: Henry David Thoreau
 
 Source: Walden, Where I Lived, and What I Lived For
 
-Source URL: https://en.wikisource.org/wiki/Walden/Where_I_Lived,_and_What_I_Lived_For
+Source URL: https://en.wikisource.org/wiki/Walden_%281854%29_Thoreau/Where_I_Lived%2C_and_What_I_Lived_for
 
 Categories: peace, wisdom
 
@@ -4702,9 +4585,9 @@ Author: Frederick Douglass
 
 Source: West India Emancipation speech (1857)
 
-Source URL: https://en.wikiquote.org/wiki/Frederick_Douglass
+Source URL: https://en.wikisource.org/wiki/West_India_Emancipation
 
-Categories: perseverance, courage
+Categories: perseverance, courage, freedom
 
 Quote:
 If there is no struggle, there is no progress.
@@ -4760,32 +4643,6 @@ Categories: wisdom, identity
 
 Quote:
 Be alone, that is the secret of invention; be alone, that is when ideas are born.
-
-## quote-367
-
-Author: Alexander Graham Bell
-
-Source: Quote.org: Alexander Graham Bell
-
-Source URL: https://quote.org/quote/before-anything-else-preparation-is-the-key-115309
-
-Categories: wisdom, purpose
-
-Quote:
-Before anything else, preparation is the key to success.
-
-## quote-368
-
-Author: Alexander Graham Bell
-
-Source: Quotes.net: Alexander Graham Bell
-
-Source URL: https://www.quotes.net/quote/39612
-
-Categories: hope, wisdom
-
-Quote:
-When one door closes, another opens; but we often look so long upon the closed door that we do not see the one which has opened.
 
 ## quote-369
 
@@ -4903,19 +4760,6 @@ Categories: wisdom, courage
 
 Quote:
 The most dangerous phrase in the language is: We've always done it this way.
-
-## quote-378
-
-Author: George Washington Carver
-
-Source: Quote.org: George Washington Carver
-
-Source URL: https://quote.org/quote/when-you-do-the-common-things-in-463164
-
-Categories: purpose, encouragement
-
-Quote:
-When you do the common things in life in an uncommon way, you will command the attention of the world.
 
 ## quote-379
 
@@ -5129,9 +4973,9 @@ Data is a precious thing and will last longer than the systems themselves.
 
 Author: Steve Jobs
 
-Source: Stanford Commencement Address (2005)
+Source: Stanford Commencement Address video (2005)
 
-Source URL: https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says
+Source URL: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
 Categories: encouragement, purpose
 
@@ -5142,9 +4986,9 @@ Stay hungry. Stay foolish.
 
 Author: Steve Jobs
 
-Source: Stanford Commencement Address (2005)
+Source: Stanford Commencement Address video (2005)
 
-Source URL: https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says
+Source URL: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
 Categories: purpose, identity
 
@@ -5155,9 +4999,9 @@ You've got to find what you love.
 
 Author: Steve Jobs
 
-Source: Stanford Commencement Address (2005)
+Source: Stanford Commencement Address video (2005)
 
-Source URL: https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says
+Source URL: https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
 Categories: purpose, encouragement
 
@@ -5359,96 +5203,31 @@ Categories: healing, peace
 Quote:
 Every step can be nourishing and every step can be healing.
 
-## quote-413
-
-Author: Dalai Lama
-
-Source: Quote.org: Dalai Lama
-
-Source URL: https://quote.org/quote/love-and-compassion-are-necessities-not-luxuries-198869
-
-Categories: peace, purpose
-
-Quote:
-Love and compassion are necessities, not luxuries. Without them humanity cannot survive.
-
 ## quote-414
 
 Author: Dalai Lama
 
-Source: Good News Network: Dalai Lama quote
+Source: The Office of His Holiness the Dalai Lama, Compassion
 
-Source URL: https://www.goodnewsnetwork.org/dalai-lama-quote-about-practicing-compassion/
+Source URL: https://www.dalailama.com/messages/compassion-and-human-values/compassion
 
 Categories: peace, healing
 
 Quote:
-If you want others to be happy, practice compassion. If you want to be happy, practice compassion.
+True compassion is not just an emotional response but a firm commitment founded on reason.
 
 ## quote-415
 
 Author: Dalai Lama
 
-Source: Economic Times: Dalai Lama quote
+Source: The Office of His Holiness the Dalai Lama, Compassion
 
-Source URL: https://m.economictimes.com/news/new-updates/quote-of-the-day-by-dalai-lama-be-kind-whenever-possible-it-is-always-possible/articleshow/126173444.cms
+Source URL: https://www.dalailama.com/messages/compassion-and-human-values/compassion
 
-Categories: encouragement, peace
-
-Quote:
-Be kind whenever possible. It is always possible.
-
-## quote-416
-
-Author: Howard Thurman
-
-Source: The Living Wisdom of Howard Thurman
-
-Source URL: https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what
-
-Categories: purpose, identity
+Categories: compassion, peace
 
 Quote:
-Don't ask what the world needs. Ask what makes you come alive, and go do it.
-
-## quote-417
-
-Author: Howard Thurman
-
-Source: The Living Wisdom of Howard Thurman
-
-Source URL: https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what
-
-Categories: purpose, encouragement
-
-Quote:
-What the world needs is people who have come alive.
-
-## quote-418
-
-Author: Mahatma Gandhi
-
-Source: Quote.org: Mahatma Gandhi
-
-Source URL: https://quote.org/quote/my-life-is-my-message-242983
-
-Categories: identity, purpose
-
-Quote:
-My life is my message.
-
-## quote-419
-
-Author: Mahatma Gandhi
-
-Source: Goodreads: Mahatma Gandhi quote
-
-Source URL: https://www.goodreads.com/quotes/320214-in-a-gentle-way-you-can-shake-the-world
-
-Categories: courage, peace
-
-Quote:
-In a gentle way, you can shake the world.
+The key to a happier and more successful world is the growth of compassion.
 
 ## quote-420
 
@@ -5501,19 +5280,6 @@ Categories: healing, hope
 
 Quote:
 The wound is the place where the Light enters you.
-
-## quote-424
-
-Author: Rumi
-
-Source: DailyVibeQuote: Rumi quote
-
-Source URL: https://www.dailyvibequote.com/quote/2522
-
-Categories: identity, courage
-
-Quote:
-Do not be satisfied with the stories that come before you. Unfold your own myth.
 
 ## quote-425
 
@@ -5593,19 +5359,6 @@ Categories: purpose, healing
 Quote:
 Our job is to love others without stopping to inquire whether or not they are worthy.
 
-## quote-431
-
-Author: Henri Nouwen
-
-Source: Here and Now
-
-Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
-
-Categories: hope, encouragement
-
-Quote:
-Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
-
 ## quote-432
 
 Author: Henri Nouwen
@@ -5670,19 +5423,6 @@ Categories: courage, wisdom
 
 Quote:
 Fear is a natural reaction to moving closer to the truth.
-
-## quote-437
-
-Author: bell hooks
-
-Source: All About Love
-
-Source URL: https://www.goodreads.com/quotes/159436-rarely-if-ever-are-any-of-us-healed-in-isolation
-
-Categories: healing, peace
-
-Quote:
-Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.
 
 ## quote-438
 
@@ -5833,7 +5573,7 @@ Author: Oscar Romero
 
 Source: Wikiquote: Oscar Romero
 
-Source URL: https://en.wikiquote.org/wiki/Oscar_Romero
+Source URL: https://en.wikiquote.org/wiki/%C3%93scar_Romero
 
 Categories: identity, purpose
 
@@ -5846,7 +5586,7 @@ Author: Oscar Romero
 
 Source: Wikiquote: Oscar Romero
 
-Source URL: https://en.wikiquote.org/wiki/Oscar_Romero
+Source URL: https://en.wikiquote.org/wiki/%C3%93scar_Romero
 
 Categories: healing, wisdom
 
@@ -5855,11 +5595,11 @@ There are many things that can only be seen through eyes that have cried.
 
 ## quote-451
 
-Author: Oscar Romero
+Author: Bishop Ken Untener
 
-Source: The Romero Prayer
+Source: Prophets of a Future Not Our Own
 
-Source URL: https://en.wikiquote.org/wiki/Oscar_Romero
+Source URL: https://www.usccb.org/prayer-and-worship/prayers-and-devotions/prayers/archbishop_romero_prayer
 
 Categories: hope, perseverance
 
@@ -5924,7 +5664,7 @@ Author: Joshua
 
 Source: Joshua 24:15 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Joshua-24-15/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Joshua#24:15
 
 Categories: scripture, purpose, courage
 
@@ -5937,7 +5677,7 @@ Author: John
 
 Source: John 8:32 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/John-8-32/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#8:32
 
 Categories: scripture, identity, wisdom
 
@@ -5950,7 +5690,7 @@ Author: Mark
 
 Source: Mark 5:36 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Mark-5-36/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Mark#5:36
 
 Categories: scripture, hope, courage
 
@@ -5963,7 +5703,7 @@ Author: James
 
 Source: James 1:5 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/James-1-5/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#1:5
 
 Categories: scripture, wisdom, encouragement
 
@@ -5976,7 +5716,7 @@ Author: John
 
 Source: 1 John 4:18 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/1-John-4-18/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/1_John#4:18
 
 Categories: scripture, courage, peace
 
@@ -5989,25 +5729,12 @@ Author: Matthew
 
 Source: Matthew 19:26 (KJV)
 
-Source URL: https://www.kingjamesbibleonline.org/Matthew-19-26/
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#19:26
 
 Categories: scripture, hope, encouragement
 
 Quote:
 With God all things are possible.
-
-## quote-462
-
-Author: Mother Teresa
-
-Source: Attributed quote
-
-Source URL: https://www.goodreads.com/quotes/2887-if-you-judge-people-you-have-no-time-to-love
-
-Categories: peace, healing
-
-Quote:
-If you judge people, you have no time to love them.
 
 ## quote-463
 
@@ -6022,123 +5749,6 @@ Categories: purpose, encouragement
 Quote:
 Not all of us can do great things. But we can do small things with great love.
 
-## quote-464
-
-Author: Mother Teresa
-
-Source: Attributed quote
-
-Source URL: https://www.keepthinkingbig.com/yesterday-is-gone/
-
-Categories: encouragement, hope
-
-Quote:
-Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.
-
-## quote-465
-
-Author: Daniel J. Siegel
-
-Source: Parenting from the Inside Out
-
-Source URL: https://www.goodreads.com/quotes/11114799-awareness-creates-the-possibility-of-choice
-
-Categories: wisdom, identity
-
-Quote:
-Awareness creates the possibility of choice.
-
-## quote-466
-
-Author: Gabor Mate
-
-Source: When the Body Says No
-
-Source URL: https://www.goodreads.com/author/quotes/4068613.Gabor_Mat_?page=7
-
-Categories: identity, courage
-
-Quote:
-One cannot be autonomous as long as one is driven by anything.
-
-## quote-467
-
-Author: Gabor Mate
-
-Source: Scattered Minds
-
-Source URL: https://studylib.net/doc/28342950/scattered-minds--the-origins-and-healing-o---gabor-mate
-
-Categories: healing, identity
-
-Quote:
-Without knowing it, we often relive the past.
-
-## quote-468
-
-Author: Louise Hay
-
-Source: You Can Heal Your Life
-
-Source URL: https://consciouslifenews.com/louise-hay-every-thought-you-think-is-creating-your-future/11204930/
-
-Categories: wisdom, purpose
-
-Quote:
-Every thought we think is creating our future.
-
-## quote-469
-
-Author: Louise Hay
-
-Source: Meditations to Heal Your Life
-
-Source URL: https://www.azquotes.com/quote/713677
-
-Categories: healing, identity
-
-Quote:
-You have the power to heal your life, and you need to know that.
-
-## quote-470
-
-Author: Louise Hay
-
-Source: Attributed affirmation
-
-Source URL: https://www.goodreads.com/quotes/57026-i-am-in-the-right-place-at-the-right-time
-
-Categories: peace, encouragement
-
-Quote:
-I am in the right place, at the right time, doing the right thing.
-
-## quote-471
-
-Author: Louise Hay
-
-Source: You Can Heal Your Life
-
-Source URL: https://www.azquotes.com/quote/963728
-
-Categories: courage, wisdom
-
-Quote:
-The point of power is always in the present moment.
-
-## quote-472
-
-Author: Louise Hay
-
-Source: You Can Heal Your Life
-
-Source URL: https://www.azquotes.com/quote/517886
-
-Categories: healing, identity
-
-Quote:
-You have been criticizing yourself for years and it hasn't worked. Try approving of yourself and see what happens.
-
 ## quote-473
 
 Author: Louise Hay
@@ -6151,97 +5761,6 @@ Categories: identity, wisdom
 
 Quote:
 As I change my thoughts, the world around me changes.
-
-## quote-474
-
-Author: Karol K. Truman
-
-Source: Feelings Buried Alive Never Die
-
-Source URL: https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die
-
-Categories: wisdom, purpose
-
-Quote:
-Whatever we choose to focus our attention on will automatically multiply in our lives.
-
-## quote-475
-
-Author: Karol K. Truman
-
-Source: Feelings Buried Alive Never Die
-
-Source URL: https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die
-
-Categories: wisdom, healing
-
-Quote:
-Heighten your awareness in all phases of your life.
-
-## quote-476
-
-Author: Karol K. Truman
-
-Source: Feelings Buried Alive Never Die
-
-Source URL: https://www.goodreads.com/work/quotes/1963643-feelings-buried-alive-never-die
-
-Categories: courage, identity
-
-Quote:
-The choice is yours.
-
-## quote-477
-
-Author: Karol K. Truman
-
-Source: Healing Feelings From Your Heart
-
-Source URL: https://www.goodreads.com/author/quotes/1560.Karol_K_Truman
-
-Categories: identity, wisdom
-
-Quote:
-In order to have mastery over our choices so that they are indeed freely made, it is essential to be awake so that our choices are no longer unconscious.
-
-## quote-478
-
-Author: Mahatma Gandhi
-
-Source: Attributed quote
-
-Source URL: https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include
-
-Categories: courage, identity
-
-Quote:
-Freedom is not worth having if it does not include the freedom to make mistakes.
-
-## quote-479
-
-Author: Mahatma Gandhi
-
-Source: Attributed quote
-
-Source URL: https://www.goodreads.com/quotes/2658-happiness-is-when-what-you-think-what-you-say-and
-
-Categories: identity, peace
-
-Quote:
-Happiness is when what you think, what you say, and what you do are in harmony.
-
-## quote-480
-
-Author: Mahatma Gandhi
-
-Source: Attributed quote
-
-Source URL: https://www.hoopoequotes.com/quotes/item/19212-live-as-if-you-were-to-die-tomorrow-learn-as-if-you-were-to-live-forever
-
-Categories: encouragement, wisdom
-
-Quote:
-Live as if you were to die tomorrow. Learn as if you were to live forever.
 
 ## quote-481
 
@@ -6256,19 +5775,6 @@ Categories: courage, healing
 Quote:
 When we are no longer able to change a situation, we are challenged to change ourselves.
 
-## quote-482
-
-Author: Carl Jung
-
-Source: Attributed quote
-
-Source URL: https://www.goodreads.com/quotes/75948-the-privilege-of-a-lifetime-is-to-become-who-you
-
-Categories: identity, purpose
-
-Quote:
-The privilege of a lifetime is to become who you truly are.
-
 ## quote-483
 
 Author: Carl Jung
@@ -6281,110 +5787,6 @@ Categories: healing, wisdom
 
 Quote:
 Knowing your own darkness is the best method for dealing with the darknesses of other people.
-
-## quote-484
-
-Author: Eckhart Tolle
-
-Source: A New Earth
-
-Source URL: https://quotepark.com/quotes/1132553-eckhart-tolle-awareness-is-the-greatest-agent-for-change/
-
-Categories: wisdom, healing
-
-Quote:
-Awareness is the greatest agent for change.
-
-## quote-485
-
-Author: Eckhart Tolle
-
-Source: The Power of Now
-
-Source URL: https://www.azquotes.com/quote/295414
-
-Categories: peace, wisdom
-
-Quote:
-Realize deeply that the present moment is all you ever have.
-
-## quote-486
-
-Author: Johann Wolfgang von Goethe
-
-Source: Faust, First Part
-
-Source URL: https://www.goodreads.com/quotes/18941-as-soon-as-you-trust-yourself-you-will-know-how
-
-Categories: identity, courage
-
-Quote:
-As soon as you trust yourself, you will know how to live.
-
-## quote-487
-
-Author: Marcus Aurelius
-
-Source: Meditations, Book V
-
-Source URL: https://www.buboquote.com/en/quote/8559-aurelius-the-soul-becomes-dyed-with-the-color-of-its-thoughts
-
-Categories: wisdom, identity
-
-Quote:
-The soul becomes dyed with the color of its thoughts.
-
-## quote-488
-
-Author: Marcus Aurelius
-
-Source: Meditations
-
-Source URL: https://www.goodreads.com/quotes/190580-you-have-power-over-your-mind---not-outside-events
-
-Categories: courage, wisdom
-
-Quote:
-You have power over your mind - not outside events. Realize this, and you will find strength.
-
-## quote-489
-
-Author: Eleanor Roosevelt
-
-Source: Attributed quote
-
-Source URL: https://www.quotery.com/quotes/no-one-can-make-feel
-
-Categories: identity, courage
-
-Quote:
-No one can make you feel inferior without your consent.
-
-## quote-490
-
-Author: Dalai Lama
-
-Source: Attributed quote
-
-Source URL: https://www.quotewis.com/quotes/love-is-the-absence-of-judgment-1056
-
-Categories: peace, healing
-
-Quote:
-Love is the absence of judgment.
-
-## quote-491
-
-Author: Laozi
-
-Source: Tao Te Ching, Chapter 37
-
-Source URL: https://www.bonmots.com/quote-643551404
-
-Categories: peace, wisdom
-
-Quote:
-Nature does not hurry, yet everything is accomplished.
 
 ## quote-492
 
@@ -6405,7 +5807,7 @@ Author: Epictetus
 
 Source: Enchiridion, Section 5
 
-Source URL: https://en.wikisource.org/wiki/Enchiridion_of_Epictetus
+Source URL: https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion
 
 Categories: wisdom, peace
 
@@ -6437,3 +5839,718 @@ Categories: hope, courage
 
 Quote:
 Liberty, when it begins to take root, is a plant of rapid growth.
+
+## quote-496
+
+Author: David
+
+Source: Psalm 46:10 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#46:10
+
+Categories: scripture, peace, surrender
+
+Quote:
+Be still, and know that I am God.
+
+## quote-497
+
+Author: David
+
+Source: Psalm 118:24 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Psalms#118:24
+
+Categories: scripture, gratitude, joy
+
+Quote:
+This is the day which the LORD hath made; we will rejoice and be glad in it.
+
+## quote-498
+
+Author: Solomon
+
+Source: Proverbs 4:23 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Proverbs#4:23
+
+Categories: scripture, wisdom, boundaries
+
+Quote:
+Keep thy heart with all diligence; for out of it are the issues of life.
+
+## quote-499
+
+Author: Isaiah
+
+Source: Isaiah 43:19 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Isaiah#43:19
+
+Categories: scripture, hope, freedom
+
+Quote:
+Behold, I will do a new thing; now it shall spring forth.
+
+## quote-500
+
+Author: Matthew
+
+Source: Matthew 5:8 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Matthew#5:8
+
+Categories: scripture, healing, peace
+
+Quote:
+Blessed are the pure in heart: for they shall see God.
+
+## quote-501
+
+Author: John
+
+Source: John 10:10 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#10:10
+
+Categories: scripture, abundance, hope
+
+Quote:
+I am come that they might have life, and that they might have it more abundantly.
+
+## quote-502
+
+Author: Paul
+
+Source: Galatians 5:1 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#5:1
+
+Categories: scripture, freedom, courage
+
+Quote:
+Stand fast therefore in the liberty wherewith Christ hath made us free.
+
+## quote-503
+
+Author: Paul
+
+Source: Philippians 4:8 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Philippians#4:8
+
+Categories: scripture, wisdom, discernment
+
+Quote:
+Whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, think on these things.
+
+## quote-504
+
+Author: James
+
+Source: James 1:3 (KJV)
+
+Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/James#1:3
+
+Categories: scripture, perseverance, wisdom
+
+Quote:
+Knowing this, that the trying of your faith worketh patience.
+
+## quote-505
+
+Author: Qur'an
+
+Source: Ash-Sharh 94:5
+
+Source URL: https://quran.com/94:5
+
+Categories: scripture, hope, perseverance
+
+Quote:
+So, surely with hardship comes ease.
+
+## quote-506
+
+Author: Bhagavad Gita
+
+Source: Bhagavad Gita 2:47
+
+Source URL: https://gita.pub/chapter/2/verse/47/
+
+Categories: scripture, purpose, surrender
+
+Quote:
+You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.
+
+## quote-507
+
+Author: Bhagavad Gita
+
+Source: Bhagavad Gita 6:5
+
+Source URL: https://gita.pub/chapter/6/verse/5/
+
+Categories: scripture, agency, wisdom
+
+Quote:
+Elevate yourself through the power of your mind, and not degrade yourself.
+
+## quote-508
+
+Author: Dhammapada
+
+Source: Dhammapada 17:223 (Muller)
+
+Source URL: https://en.wikisource.org/wiki/Dhammapada_(Muller)
+
+Categories: scripture, forgiveness, peace
+
+Quote:
+Let a man overcome anger by love, let him overcome evil by good.
+
+## quote-509
+
+Author: Dhammapada
+
+Source: Dhammapada 12:165 (Muller)
+
+Source URL: https://en.wikisource.org/wiki/Dhammapada_(Muller)
+
+Categories: scripture, agency, healing
+
+Quote:
+By oneself the evil is done, by oneself one suffers.
+
+## quote-510
+
+Author: Laozi
+
+Source: Tao Te Ching, Chapter 33
+
+Source URL: https://en.wikisource.org/wiki/Tao_te_Ching
+
+Categories: wisdom, identity, agency
+
+Quote:
+He who knows others is wise; he who knows himself is enlightened.
+
+## quote-511
+
+Author: Laozi
+
+Source: Tao Te Ching, Chapter 64
+
+Source URL: https://en.wikisource.org/wiki/Tao_te_Ching
+
+Categories: wisdom, discernment, peace
+
+Quote:
+Deal with things before they happen; put things in order before there is confusion.
+
+## quote-512
+
+Author: Katha Upanishad
+
+Source: Sacred Books of the East, Volume 15, Katha-upanishad
+
+Source URL: https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad
+
+Categories: scripture, discernment, wisdom
+
+Quote:
+The good is one thing, the pleasant another.
+
+## quote-513
+
+Author: Marcus Aurelius
+
+Source: Meditations, Book X
+
+Source URL: https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_X
+
+Categories: wisdom, purpose, agency
+
+Quote:
+Waste no more time arguing about what a good man should be. Be one.
+
+## quote-514
+
+Author: Marcus Aurelius
+
+Source: Meditations, Book V
+
+Source URL: https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V
+
+Categories: perseverance, courage, wisdom
+
+Quote:
+The impediment to action advances action. What stands in the way becomes the way.
+
+## quote-515
+
+Author: Epictetus
+
+Source: Enchiridion, Section 8
+
+Source URL: https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion
+
+Categories: surrender, peace, wisdom
+
+Quote:
+Do not seek to have events happen as you wish, but wish them to happen as they do happen.
+
+## quote-516
+
+Author: Epictetus
+
+Source: Enchiridion, Section 13
+
+Source URL: https://en.wikisource.org/wiki/All_the_Works_of_Epictetus,_Which_Are_Now_Extant/The_Encheiridion
+
+Categories: courage, agency, wisdom
+
+Quote:
+If you would improve, be content to be thought foolish and stupid.
+
+## quote-517
+
+Author: Seneca
+
+Source: Moral Letters to Lucilius, Letter 2
+
+Source URL: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2
+
+Categories: abundance, wisdom, peace
+
+Quote:
+It is not the man who has too little, but the man who craves more, that is poor.
+
+## quote-518
+
+Author: Seneca
+
+Source: Moral Letters to Lucilius, Letter 71
+
+Source URL: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71
+
+Categories: purpose, discernment, wisdom
+
+Quote:
+If a man knows not to which port he sails, no wind is favorable.
+
+## quote-519
+
+Author: James Allen
+
+Source: As a Man Thinketh, Chapter 1
+
+Source URL: https://en.wikisource.org/wiki/As_a_Man_Thinketh/Chapter_1
+
+Categories: identity, wisdom, agency
+
+Quote:
+A man is literally what he thinks, his character being the complete sum of all his thoughts.
+
+## quote-520
+
+Author: James Allen
+
+Source: As a Man Thinketh, Chapter 1
+
+Source URL: https://en.wikisource.org/wiki/As_a_Man_Thinketh/Chapter_1
+
+Categories: agency, identity, wisdom
+
+Quote:
+Man is made or unmade by himself.
+
+## quote-521
+
+Author: James Allen
+
+Source: As a Man Thinketh, Chapter 2
+
+Source URL: https://en.wikisource.org/wiki/As_a_Man_Thinketh/Chapter_2
+
+Categories: wisdom, healing, agency
+
+Quote:
+A man's mind may be likened to a garden, which may be intelligently cultivated or allowed to run wild.
+
+## quote-522
+
+Author: Ralph Waldo Emerson
+
+Source: Self-Reliance
+
+Source URL: https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance
+
+Categories: identity, freedom, wisdom
+
+Quote:
+Nothing is at last sacred but the integrity of your own mind.
+
+## quote-523
+
+Author: Ralph Waldo Emerson
+
+Source: Self-Reliance
+
+Source URL: https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance
+
+Categories: purpose, agency, courage
+
+Quote:
+What I must do is all that concerns me, not what the people think.
+
+## quote-524
+
+Author: Ralph Waldo Emerson
+
+Source: Self-Reliance
+
+Source URL: https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance
+
+Categories: purpose, identity, agency
+
+Quote:
+Do your work, and I shall know you.
+
+## quote-525
+
+Author: Frederick Douglass
+
+Source: West India Emancipation speech (1857)
+
+Source URL: https://en.wikisource.org/wiki/West_India_Emancipation
+
+Categories: freedom, courage, agency
+
+Quote:
+Power concedes nothing without a demand.
+
+## quote-526
+
+Author: Frederick Douglass
+
+Source: West India Emancipation speech (1857)
+
+Source URL: https://en.wikisource.org/wiki/West_India_Emancipation
+
+Categories: freedom, boundaries, courage
+
+Quote:
+The limits of tyrants are prescribed by the endurance of those whom they oppress.
+
+## quote-527
+
+Author: Booker T. Washington
+
+Source: Up From Slavery, Chapter 2
+
+Source URL: https://en.wikisource.org/wiki/Up_From_Slavery/Chapter_2
+
+Categories: perseverance, identity, courage
+
+Quote:
+Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.
+
+## quote-528
+
+Author: Theodore Roosevelt
+
+Source: Citizenship in a Republic (1910)
+
+Source URL: https://www.presidency.ucsb.edu/documents/address-the-sorbonne-paris-france-citizenship-republic
+
+Categories: courage, perseverance, purpose
+
+Quote:
+The credit belongs to the man who is actually in the arena.
+
+## quote-529
+
+Author: Nikola Tesla
+
+Source: My Inventions
+
+Source URL: https://en.wikiquote.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla
+
+Categories: intuition, purpose, wisdom
+
+Quote:
+The idea came like a flash of lightning and in an instant the truth was revealed.
+
+## quote-530
+
+Author: Nikola Tesla
+
+Source: The Problem of Increasing Human Energy
+
+Source URL: https://teslauniverse.com/nikola-tesla/articles/problem-increasing-human-energy
+
+Categories: peace, purpose, wisdom
+
+Quote:
+Peace can only come as a natural consequence of universal enlightenment.
+
+## quote-531
+
+Author: Thomas Edison
+
+Source: Wikiquote: Thomas Edison
+
+Source URL: https://en.wikiquote.org/wiki/Thomas_Edison
+
+Categories: perseverance, agency, wisdom
+
+Quote:
+I have not failed. I've just found 10,000 ways that won't work.
+
+## quote-532
+
+Author: Thomas Edison
+
+Source: Wikiquote: Thomas Edison
+
+Source URL: https://en.wikiquote.org/wiki/Thomas_Edison
+
+Categories: purpose, wisdom, discernment
+
+Quote:
+I never did anything by accident, nor did any of my inventions come by accident; they came by work.
+
+## quote-533
+
+Author: Martin Luther King Jr.
+
+Source: Nobel Peace Prize acceptance speech (1964)
+
+Source URL: https://www.nobelprize.org/prizes/peace/1964/king/acceptance-speech/
+
+Categories: freedom, hope, courage
+
+Quote:
+I refuse to accept despair as the final response to the ambiguities of history.
+
+## quote-534
+
+Author: Martin Luther King Jr.
+
+Source: Nobel Peace Prize acceptance speech (1964)
+
+Source URL: https://www.nobelprize.org/prizes/peace/1964/king/acceptance-speech/
+
+Categories: hope, peace, perseverance
+
+Quote:
+Sooner or later all the people of the world will have to discover a way to live together in peace.
+
+## quote-535
+
+Author: Mother Teresa
+
+Source: Nobel Peace Prize acceptance speech (1979)
+
+Source URL: https://www.nobelprize.org/prizes/peace/1979/teresa/acceptance-speech/
+
+Categories: purpose, healing, encouragement
+
+Quote:
+Love begins at home.
+
+## quote-536
+
+Author: David R. Hawkins
+
+Source: What is Love?
+
+Source URL: https://veritaspub.com/2020/02/04/what-is-love/
+
+Categories: healing, peace, surrender
+
+Quote:
+Love is a state of awareness, a way of being in the world, a way of seeing oneself and others.
+
+## quote-537
+
+Author: David R. Hawkins
+
+Source: Let Go
+
+Source URL: https://veritaspub.com/2020/04/09/let-go/
+
+Categories: surrender, healing, courage
+
+Quote:
+Unconditional love has the greatest power of all.
+
+## quote-538
+
+Author: Julian of Norwich
+
+Source: Revelations of Divine Love
+
+Source URL: https://en.wikisource.org/wiki/Revelations_of_Divine_Love
+
+Categories: scripture, hope, peace
+
+Quote:
+He said not, Thou shalt not be tempested, thou shalt not be travailed, thou shalt not be distressed.
+
+## quote-539
+
+Author: Thomas a Kempis
+
+Source: The Imitation of Christ, Book I
+
+Source URL: https://en.wikisource.org/wiki/Of_the_Imitation_of_Christ
+
+Categories: scripture, wisdom, surrender
+
+Quote:
+Vanity of vanities, and all is vanity, except to love God, and Him only to serve.
+
+## quote-540
+
+Author: Brother Lawrence
+
+Source: The Practice of the Presence of God
+
+Source URL: https://en.wikisource.org/wiki/The_Practice_of_the_Presence_of_God
+
+Categories: scripture, peace, purpose
+
+Quote:
+We ought not to be weary of doing little things for the love of God.
+
+## quote-541
+
+Author: Mary Baker Eddy
+
+Source: Science and Health with Key to the Scriptures
+
+Source URL: https://en.wikisource.org/wiki/Science_and_Health_with_Key_to_the_Scriptures
+
+Categories: healing, wisdom, scripture
+
+Quote:
+The time for thinkers has come.
+
+## quote-542
+
+Author: Henry David Thoreau
+
+Source: Walden, Conclusion
+
+Source URL: https://en.wikisource.org/wiki/Walden_%281854%29_Thoreau/Conclusion
+
+Categories: purpose, courage, freedom
+
+Quote:
+If one advances confidently in the direction of his dreams, he will meet with a success unexpected in common hours.
+
+## quote-543
+
+Author: Walt Whitman
+
+Source: Song of Myself
+
+Source URL: https://en.wikisource.org/wiki/Leaves_of_Grass_%281855%29/I_celebrate_myself
+
+Categories: identity, embodiment, joy
+
+Quote:
+I exist as I am, that is enough.
+
+## quote-544
+
+Author: William James
+
+Source: The Will to Believe
+
+Source URL: https://en.wikisource.org/wiki/The_Will_to_Believe
+
+Categories: agency, courage, wisdom
+
+Quote:
+Believe that life is worth living, and your belief will help create the fact.
+
+## quote-545
+
+Author: Florence Nightingale
+
+Source: Notes on Nursing
+
+Source URL: https://www.gutenberg.org/files/17366/17366-h/17366-h.htm
+
+Categories: healing, purpose, wisdom
+
+Quote:
+For the sick it is important to have the best.
+
+## quote-546
+
+Author: Sojourner Truth
+
+Source: Ain't I a Woman? speech (1851)
+
+Source URL: https://en.wikisource.org/wiki/Ain%27t_I_a_Woman%3F
+
+Categories: freedom, identity, courage
+
+Quote:
+I have ploughed and planted, and gathered into barns, and no man could head me.
+
+## quote-547
+
+Author: Harriet Tubman
+
+Source: Sarah H. Bradford, Scenes in the Life of Harriet Tubman
+
+Source URL: https://www.gutenberg.org/files/57821/57821-h/57821-h.htm
+
+Categories: freedom, courage, perseverance
+
+Quote:
+I never ran my train off the track and I never lost a passenger.
+
+## quote-548
+
+Author: Abraham Lincoln
+
+Source: Annual Message to Congress (1862)
+
+Source URL: https://www.presidency.ucsb.edu/documents/second-annual-message-3
+
+Categories: courage, freedom, agency
+
+Quote:
+The dogmas of the quiet past are inadequate to the stormy present.
+
+## quote-549
+
+Author: Abraham Lincoln
+
+Source: Second Inaugural Address (1865)
+
+Source URL: https://www.presidency.ucsb.edu/documents/inaugural-address-20
+
+Categories: forgiveness, peace, courage
+
+Quote:
+With malice toward none; with charity for all.
+
+## quote-550
+
+Author: Jane Addams
+
+Source: Democracy and Social Ethics
+
+Source URL: https://en.wikisource.org/wiki/Democracy_and_Social_Ethics
+
+Categories: purpose, wisdom, encouragement
+
+Quote:
+Action is indeed the sole medium of expression for ethics.

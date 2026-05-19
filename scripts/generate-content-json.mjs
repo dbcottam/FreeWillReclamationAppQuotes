@@ -21,9 +21,21 @@ const categories = [
   "hope",
   "identity",
   "peace",
+  "compassion",
   "perseverance",
   "purpose",
   "wisdom",
+  "gratitude",
+  "joy",
+  "intuition",
+  "boundaries",
+  "embodiment",
+  "surrender",
+  "freedom",
+  "discernment",
+  "forgiveness",
+  "agency",
+  "abundance",
 ];
 
 const feeds = {

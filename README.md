@@ -107,9 +107,21 @@ The first six entries in `templates/daily-quotes.md` intentionally demonstrate e
 - `hope`
 - `identity`
 - `peace`
+- `compassion`
 - `perseverance`
 - `purpose`
 - `wisdom`
+- `gratitude`
+- `joy`
+- `intuition`
+- `boundaries`
+- `embodiment`
+- `surrender`
+- `freedom`
+- `discernment`
+- `forgiveness`
+- `agency`
+- `abundance`
 
 ## Daily Artwork Images
 
