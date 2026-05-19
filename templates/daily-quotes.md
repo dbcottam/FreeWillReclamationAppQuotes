@@ -120,13 +120,13 @@ Prompt:
 What shifted when you spoke appreciation to your body?
 
 Quote:
-You, yourself, as much as anybody in the entire universe, deserve your love and affection.
+The human self also has a nature, limits as well as potentials.
 
-Author: Buddha
+Author: Parker Palmer
 
-Source: Wikiquote: Buddha
+Source: Let Your Life Speak
 
-Source URL: https://en.wikiquote.org/wiki/Buddha
+Source URL: https://en.wikiquote.org/wiki/Parker_Palmer
 
 Supplemental Type: resource
 
@@ -185,7 +185,7 @@ Challenge:
 Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.
 
 Prompt:
-What did the feeling need from you: rest, forgiveness, compassion, surrender, acceptance, or awareness?
+What did the feeling actually need from you?
 
 Quote:
 Nothing ever goes away until it has taught us what we need to know.
@@ -355,13 +355,13 @@ Prompt:
 What loosened when you surrendered the belief instead of wrestling it?
 
 Quote:
-The only power that anything has over us is the power of belief that we give it.
+Men are disturbed not by things, but by the principles and notions which they form concerning things.
 
-Author: David R. Hawkins
+Author: Epictetus
 
-Source: Letting Go: The Pathway of Surrender, Ch. 15
+Source: Enchiridion
 
-Source URL: https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion
+Source URL: https://en.wikisource.org/wiki/The_Discourses_of_Epictetus%3B_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual
 
 Supplemental Type:
 
@@ -418,7 +418,7 @@ Challenge:
 In what way do you feel blocked in accomplishing your current ambition or goal? Write it down and mentally hand it (surrender it) to God or your Higher Power to handle it, and exercise faith and trust to truly surrender that obstacle while still moving forward in your goal.
 
 Prompt:
-What changed when you handed the obstacle to God or your Higher Power and kept moving?
+What changed when you surrendered the obstacle and kept moving?
 
 Quote:
 Abandon all varieties of dharma and simply surrender unto Me alone.
@@ -544,7 +544,7 @@ Supplemental Duration:
 
 Focus: joy before habit
 
-Categories: perseverance, healing
+Categories: encouragement, healing
 
 Challenge:
 Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)
@@ -553,13 +553,13 @@ Prompt:
 What shifted when joy or nourishment came before the old distraction?
 
 Quote:
-Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
+Happiness is the consequence of personal effort.
 
-Author: Henri Nouwen
+Author: Elizabeth Gilbert
 
-Source: Here and Now
+Source: Eat, Pray, Love
 
-Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
+Source URL: https://en.wikiquote.org/wiki/Elizabeth_Gilbert
 
 Supplemental Type:
 
@@ -619,13 +619,13 @@ Prompt:
 What new normal becomes possible when the old belief loses authority?
 
 Quote:
-The only power that anything has over us is the power of belief that we give it.
+The soul becomes dyed with the color of its thoughts.
 
-Author: David R. Hawkins
+Author: Marcus Aurelius
 
-Source: Letting Go: The Pathway of Surrender, Ch. 15
+Source: Meditations, Book V
 
-Source URL: https://veritaspub.com/page/13/?eventDisplay=past&post_type=tribe_venue&posts_per_page=13&tribe_venue=devotion
+Source URL: https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V
 
 Supplemental Type:
 
@@ -683,7 +683,7 @@ Challenge:
 If you could have anyone in all of history be your life or business coach today, who would it be? Write down one empowering piece of advice they might give you. Then really let it sink in, letting it empower you.
 
 Prompt:
-Whose wisdom did you borrow, and what did it strengthen in you?
+Whose wisdom steadied you, and what did it strengthen in you?
 
 Quote:
 Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.
@@ -852,13 +852,13 @@ Prompt:
 What changed when you spoke to your body with care instead of criticism?
 
 Quote:
-You, yourself, as much as anybody in the entire universe, deserve your love and affection.
+You only have to let the soft animal of your body love what it loves.
 
-Author: Buddha
+Author: Mary Oliver
 
-Source: Wikiquote: Buddha
+Source: Wild Geese
 
-Source URL: https://en.wikiquote.org/wiki/Buddha
+Source URL: https://www.poetryfoundation.org/blog/uncategorized/52840/journal-day-five-56d34c6460dc4
 
 Supplemental Type:
 
@@ -915,16 +915,16 @@ Challenge:
 Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgement.
 
 Prompt:
-What did your body reveal when you observed it without blame or shame?
+What did your body reveal when you listened without blame or shame?
 
 Quote:
-Without knowing it, we often relive the past.
+Life can only be understood backwards; but it must be lived forwards.
 
-Author: Gabor Mate
+Author: Soren Kierkegaard
 
-Source: Scattered Minds
+Source: Journals
 
-Source URL: https://studylib.net/doc/28342950/scattered-minds--the-origins-and-healing-o---gabor-mate
+Source URL: https://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard
 
 Supplemental Type:
 
@@ -954,13 +954,13 @@ Prompt:
 Which childhood joy still has energy for you, and how could it return in a small way?
 
 Quote:
-Joy does not simply happen to us. We have to choose joy and keep choosing it every day.
+There was a child went forth every day.
 
-Author: Henri Nouwen
+Author: Walt Whitman
 
-Source: Here and Now
+Source: Leaves of Grass
 
-Source URL: https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to
+Source URL: https://en.wikisource.org/wiki/Leaves_of_Grass_%281855%29/There_was_a_child_went_forth_every_day
 
 Supplemental Type:
 
@@ -1008,26 +1008,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 31: Follow the Aliveness
+## Day 31: Honor a Childhood Value
 
-Focus: aliveness
+Focus: gratitude
 
-Categories: purpose, identity
+Categories: identity, wisdom, encouragement
 
 Challenge:
-Notice what feels alive, meaningful, or quietly magnetic, then take one respectful step toward it.
+What is one value from childhood that you still hold dear and true? Give thanks for the lessons that brought you to this value. If possible, send a quick note of thanks to someone who helped you instill that value.
 
 Prompt:
-What does aliveness teach you about your path?
+Which childhood value still guides you, and who helped plant it?
 
 Quote:
-Don't ask what the world needs. Ask what makes you come alive, and go do it.
+The Child is Father of the Man;
 
-Author: Howard Thurman
+Author: William Wordsworth
 
-Source: The Living Wisdom of Howard Thurman
+Source: My heart leaps up
 
-Source URL: https://www.goodreads.com/quotes/1199050-don-t-ask-yourself-what-the-world-needs-ask-yourself-what
+Source URL: https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/My_heart_leaps_up
 
 Supplemental Type:
 
@@ -1041,26 +1041,27 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 32: Bless Your Uniqueness
+## Day 32: Listen to Anger
 
-Focus: uniqueness
+Focus: anger
 
-Categories: scripture, courage, peace
+Categories: healing, courage, wisdom
 
 Challenge:
-Celebrate one trait, sensitivity, story, or way of seeing that makes your path your own.
+Anger is a sign that there is a boundary that needs to be addressed. Let's discover an outdated belief, ideal, or trigger that you are ready to honor and then resolve with the following prompts:
+What did you feel anger about most recently? What beliefs surfaced with the anger? What need was neglected in the past related to the original anger? Consider these prompts and write down your new awareness about anger. Validate how anger supported you in the past, and why it's best to release it into the past now. What simple boundary will you set for your former self or inner child to honor their/your needs now?
 
 Prompt:
-What if this difference is not a detour but part of the design?
+What boundary is your anger asking you to honor now?
 
 Quote:
-I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.
+The greatest remedy for anger is delay.
 
-Author: David
+Author: Seneca
 
-Source: Psalm 139:14 (KJV)
+Source: On Anger
 
-Source URL: https://www.kingjamesbibleonline.org/Psalms-139-14/
+Source URL: https://www.stoicsource.com/seneca/on-anger
 
 Supplemental Type:
 
@@ -1074,26 +1075,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 33: Connect Essence and Service
+## Day 33: Seek Aligned Wisdom
 
-Focus: service
+Focus: collaboration
 
-Categories: purpose, encouragement
+Categories: purpose, wisdom, encouragement
 
 Challenge:
-Name one way your natural gifts could meet a real need in another person's life.
+Who is one living person you would love to collaborate with (or gain wisdom from), who lives in alignment with some of your strongest goals or values? What draws you to them? What is one habit or gift they embody that you'd love to have?
 
 Prompt:
-Where do enjoyment, ability, and usefulness overlap for you?
+Whose way of living points toward the life you are building?
 
 Quote:
-Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.
+If I have seen further it is by standing on the shoulders of giants.
 
-Author: Desmond Tutu
+Author: Isaac Newton
 
-Source: Wikiquote: Desmond Tutu
+Source: Letter to Robert Hooke, February 5, 1675/6
 
-Source URL: https://en.wikiquote.org/wiki/Desmond_Tutu
+Source URL: https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1885-1900/Newton%2C_Isaac
 
 Supplemental Type:
 
@@ -1107,26 +1108,28 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 34: Let Value Flow
+## Day 34: Trust Your Natural Gift
 
-Focus: money
+Focus: natural-gifts
 
-Categories: encouragement, hope
+Categories: hope, purpose, identity
 
 Challenge:
-Reflect on one way money can represent value exchanged, needs met, and gifts put into motion.
+What is one thing that generally works out for you but does that always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?
+(Ask a close friend or family member if you can't come up with one easily.)
+Consider that perhaps life can be made more vibrant and easy by leaning into that gift or ability. Perhaps this is a source of abundance you naturally have and you don't have to struggle with it. What would life be like if you simply relied on this gift to show up for you instead of worrying that you might someday lose it? Write down your impressions there, and make a choice to have hope instead of scarcity in that area of life.
 
 Prompt:
-What changes when money is part of flow rather than proof of worth?
+What natural gift could become easier if you trusted it with hope instead of scarcity?
 
 Quote:
-Try not to become a man of success, but rather try to become a man of value.
+Trust thyself: every heart vibrates to that iron string.
 
-Author: Albert Einstein
+Author: Ralph Waldo Emerson
 
-Source: Wikiquote: Albert Einstein
+Source: Self-Reliance
 
-Source URL: https://en.wikiquote.org/wiki/Albert_Einstein
+Source URL: https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance
 
 Supplemental Type:
 
@@ -1140,26 +1143,29 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 35: Serve from Strength
+## Day 35: Honor Your Body
 
-Focus: strength
+Focus: wellness-boundaries
 
-Categories: scripture, courage, peace
+Categories: healing, peace, courage
 
 Challenge:
-Offer something today from overflow, clarity, or real willingness instead of proving yourself.
+Set a personal boundary that eliminates the need for a health crisis.
+Think of one area of health or wellness that bothers you. It could be aches, pains, allergies, or any other suffering. Does it give you any perks? Does it allow you to play small, give you an excuse to "say no", or give you a sense of control?
+What if you could set the boundaries that honor you simply because your needs are important, and not because you need a debilitating reason?
+Set one simple, personal boundary that you will hold simply to honor yourself, without using your suffering as the reason.
 
 Prompt:
-How does service feel different when it comes from strength rather than obligation?
+What boundary can honor your body before suffering has to speak for you?
 
 Quote:
-And God [is] able to make all grace abound toward you; that ye, always having all sufficiency in all [things], may abound to every good work:
+I sing the body electric.
 
-Author: Paul
+Author: Walt Whitman
 
-Source: 2 Corinthians 9:8 (KJV)
+Source: I Sing the Body Electric
 
-Source URL: https://www.kingjamesbibleonline.org/2-Corinthians-9-8/
+Source URL: https://en.wikisource.org/wiki/Leaves_of_Grass_%281882%29/Children_of_Adam/I_Sing_the_Body_Electric
 
 Supplemental Type:
 
@@ -1173,26 +1179,27 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 36: Receive for a Purpose
+## Day 36: Affirm Your Worth
 
-Focus: receiving
+Focus: worthiness
 
-Categories: purpose, encouragement
+Categories: identity, hope, encouragement
 
 Challenge:
-Write one sentence about what more support, money, time, or energy would allow you to create or contribute.
+Think of one limiting belief you have related to your worth. It could be something along the lines of "I'm not good enough for _____," or "I have to keep working at it before I'm ready to _______", or "I'm never going to measure up."
+Consider that the opposite is actually the truth, and switch it around. Consider that all things are true depending on what we give attention and intention to. Consider that in one state of mind you can truly shrink yourself from your worth because that's your focus, and in another state of mind, you are already worthy and are simply stepping into the opportunities that will allow you to see that worthiness. So switch around your negative belief around your worth, and make it an affirmation. Place the affirmation somewhere you'll see it daily, like on a sticky note in a prominent place, with expo marker on the bathroom mirror, or as a daily reminder on your phone. Practice saying it daily.
 
 Prompt:
-What purpose makes receiving feel cleaner and more grounded?
+What worth-based belief are you ready to turn into a daily affirmation?
 
 Quote:
-Love begins at home, and it is not how much we do, but how much love we put in the action that we do.
+I celebrate myself, and sing myself.
 
-Author: Mother Teresa
+Author: Walt Whitman
 
-Source: Nobel Peace Prize acceptance speech (1979)
+Source: Leaves of Grass
 
-Source URL: https://www.nobelprize.org/prizes/peace/1979/teresa/acceptance-speech/
+Source URL: https://en.wikisource.org/wiki/Leaves_of_Grass_(1855)
 
 Supplemental Type:
 
@@ -1206,26 +1213,28 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 37: Review Your Tools
+## Day 37: Compare Your Time
 
-Focus: integration
+Focus: priorities
 
-Categories: scripture, perseverance, wisdom
+Categories: wisdom, purpose, peace
 
 Challenge:
-List the three tools from this journey that helped you most: release, questions, intuition, boundaries, priorities, support, or service.
+Consider your top 3 daily time-consuming activities. What do you spend the most time awake doing?
+Now consider what you want your top 3 daily time-consuming activities to look like when you are living the life you're most proud of.
+How do the two compare? Write down your observations, letting go of any guilt, shame, or judgement.
 
 Prompt:
-Which tool deserves a permanent place in your rhythm?
+How does your current time compare with the life you are most proud to live?
 
 Quote:
-Rise, awake! having obtained your boons, understand them!
+It is not that we have a short space of time, but that we waste much of it.
 
-Author: Katha Upanishad
+Author: Seneca
 
-Source: Katha Upanishad 1.3.14 (Max Muller)
+Source: On the Shortness of Life
 
-Source URL: https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad
+Source URL: https://en.wikisource.org/wiki/On_the_shortness_of_life
 
 Supplemental Type:
 
@@ -1239,26 +1248,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 38: Check In for Momentum
+## Day 38: Activate Your Shield
 
-Focus: momentum
+Focus: protection
 
-Categories: scripture, hope, perseverance
+Categories: peace, healing, courage
 
 Challenge:
-Choose one recurring check-in that will keep your growth alive after day forty.
+Visualize a protective bubble around yourself that prevents negativity, triggers, guilt, shame, and pressure from affecting you very much. Envision what power, comfort, and support you do want in that bubble, and what colors or senses you notice with it. Breathe deeply, extending your belly out as you inhale, and feel, see, or sense what that bubble feels like. Know that you have the power to activate this protective bubble at any time just by remembering you have it. You can even say "shields up" in your mind or aloud to activate it. Belly breathing can help strengthen it.
 
 Prompt:
-How often do you need to pause, listen, clear, and realign?
+What power, comfort, and support belong inside your protective bubble?
 
 Quote:
-For indeed, with hardship [will be] ease.
+The mind which is free from passions is a citadel.
 
-Author: Qur'an
+Author: Marcus Aurelius
 
-Source: Qur'an 94:5 (Sahih International)
+Source: Meditations, Book VIII
 
-Source URL: https://corpus.quran.com/translation.jsp?chapter=94&verse=5
+Source URL: https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII
 
 Supplemental Type:
 
@@ -1272,26 +1281,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 39: Honor How Far You Have Come
+## Day 39: Manifest a Better World
 
-Focus: recognition
+Focus: manifestation
 
-Categories: courage, encouragement
+Categories: purpose, hope, encouragement
 
 Challenge:
-Name three ways you are not relating to yourself, abundance, or purpose the way you did before.
+What is one idea, change, or accomplishment you would like to manifest into the world to make it a better place? Why would the world be better because of your accomplishment? How will you feel when it is accomplished? What is something simple you can do now, that will bring the same type of feeling, even if just in a small way? Write these things down as well as any inspired action that comes to you as you are thinking about these things. If an inspired action happens, make a memo of it on your agenda or calendar to take action on it, on the date that seems most appropriate.
 
 Prompt:
-What change deserves to be witnessed before you rush into the next thing?
+What simple action can give you a taste of the better world you want to create?
 
 Quote:
-I walk slowly, but I never walk backward.
+Work is love made visible.
 
-Author: Abraham Lincoln
+Author: Kahlil Gibran
 
-Source: Wikiquote: Abraham Lincoln
+Source: The Prophet
 
-Source URL: https://en.wikiquote.org/wiki/Abraham_Lincoln
+Source URL: https://en.wikisource.org/wiki/The_Prophet_(Gibran)
 
 Supplemental Type:
 
@@ -1305,26 +1314,26 @@ Supplemental Image URL:
 
 Supplemental Duration:
 
-## Day 40: Choose What Comes Next
+## Day 40: Build for Success
 
-Focus: next-steps
+Focus: success-structures
 
-Categories: hope, purpose
+Categories: purpose, perseverance, wisdom
 
 Challenge:
-Write one grounded next step and one blessing over the person you are continuing to become.
+Did you know that every human being is divinely programmed for success? Consider that your life experiences have been an accumulation of what ideals and values you have solidified by giving attention to, what hurdles or setbacks have strengthened you to get this far, and the structures you are putting in place to pave your success? What structures are you putting in place now for your own success? What other support do you need?
 
 Prompt:
-What do you now know about abundance, alignment, and your own free will?
+What structures and support are paving your success now?
 
 Quote:
-Go confidently in the direction of your dreams. Live the life you have imagined.
+A journey of a thousand miles starts beneath one's feet.
 
-Author: Henry David Thoreau
+Author: Laozi
 
-Source: Walden, Conclusion
+Source: Tao Te Ching, Chapter 64
 
-Source URL: https://en.wikisource.org/wiki/Walden/Conclusion
+Source URL: https://en.wikisource.org/wiki/Tao_te_Ching
 
 Supplemental Type:
 

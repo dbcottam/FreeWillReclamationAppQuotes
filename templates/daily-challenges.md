@@ -277,88 +277,97 @@ Let your practical mind and spiritual knowing both respond to one decision befor
 
 Day: 31
 
-Categories: purpose, identity
+Categories: identity, wisdom, encouragement
 
 Challenge:
-Notice what feels alive, meaningful, or quietly magnetic, then take one respectful step toward it.
+What is one value from childhood that you still hold dear and true? Give thanks for the lessons that brought you to this value. If possible, send a quick note of thanks to someone who helped you instill that value.
 
 ## Day 32
 
 Day: 32
 
-Categories: scripture, courage, peace
+Categories: healing, courage, wisdom
 
 Challenge:
-Celebrate one trait, sensitivity, story, or way of seeing that makes your path your own.
+Anger is a sign that there is a boundary that needs to be addressed. Let's discover an outdated belief, ideal, or trigger that you are ready to honor and then resolve with the following prompts:
+What did you feel anger about most recently? What beliefs surfaced with the anger? What need was neglected in the past related to the original anger? Consider these prompts and write down your new awareness about anger. Validate how anger supported you in the past, and why it's best to release it into the past now. What simple boundary will you set for your former self or inner child to honor their/your needs now?
 
 ## Day 33
 
 Day: 33
 
-Categories: purpose, encouragement
+Categories: purpose, wisdom, encouragement
 
 Challenge:
-Name one way your natural gifts could meet a real need in another person's life.
+Who is one living person you would love to collaborate with (or gain wisdom from), who lives in alignment with some of your strongest goals or values? What draws you to them? What is one habit or gift they embody that you'd love to have?
 
 ## Day 34
 
 Day: 34
 
-Categories: encouragement, hope
+Categories: hope, purpose, identity
 
 Challenge:
-Reflect on one way money can represent value exchanged, needs met, and gifts put into motion.
+What is one thing that generally works out for you but does that always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?
+(Ask a close friend or family member if you can't come up with one easily.)
+Consider that perhaps life can be made more vibrant and easy by leaning into that gift or ability. Perhaps this is a source of abundance you naturally have and you don't have to struggle with it. What would life be like if you simply relied on this gift to show up for you instead of worrying that you might someday lose it? Write down your impressions there, and make a choice to have hope instead of scarcity in that area of life.
 
 ## Day 35
 
 Day: 35
 
-Categories: scripture, courage, peace
+Categories: healing, peace, courage
 
 Challenge:
-Offer something today from overflow, clarity, or real willingness instead of proving yourself.
+Set a personal boundary that eliminates the need for a health crisis.
+Think of one area of health or wellness that bothers you. It could be aches, pains, allergies, or any other suffering. Does it give you any perks? Does it allow you to play small, give you an excuse to "say no", or give you a sense of control?
+What if you could set the boundaries that honor you simply because your needs are important, and not because you need a debilitating reason?
+Set one simple, personal boundary that you will hold simply to honor yourself, without using your suffering as the reason.
 
 ## Day 36
 
 Day: 36
 
-Categories: purpose, encouragement
+Categories: identity, hope, encouragement
 
 Challenge:
-Write one sentence about what more support, money, time, or energy would allow you to create or contribute.
+Think of one limiting belief you have related to your worth. It could be something along the lines of "I'm not good enough for _____," or "I have to keep working at it before I'm ready to _______", or "I'm never going to measure up."
+Consider that the opposite is actually the truth, and switch it around. Consider that all things are true depending on what we give attention and intention to. Consider that in one state of mind you can truly shrink yourself from your worth because that's your focus, and in another state of mind, you are already worthy and are simply stepping into the opportunities that will allow you to see that worthiness. So switch around your negative belief around your worth, and make it an affirmation. Place the affirmation somewhere you'll see it daily, like on a sticky note in a prominent place, with expo marker on the bathroom mirror, or as a daily reminder on your phone. Practice saying it daily.
 
 ## Day 37
 
 Day: 37
 
-Categories: scripture, perseverance, wisdom
+Categories: wisdom, purpose, peace
 
 Challenge:
-List the three tools from this journey that helped you most: release, questions, intuition, boundaries, priorities, support, or service.
+Consider your top 3 daily time-consuming activities. What do you spend the most time awake doing?
+Now consider what you want your top 3 daily time-consuming activities to look like when you are living the life you're most proud of.
+How do the two compare? Write down your observations, letting go of any guilt, shame, or judgement.
 
 ## Day 38
 
 Day: 38
 
-Categories: scripture, hope, perseverance
+Categories: peace, healing, courage
 
 Challenge:
-Choose one recurring check-in that will keep your growth alive after day forty.
+Visualize a protective bubble around yourself that prevents negativity, triggers, guilt, shame, and pressure from affecting you very much. Envision what power, comfort, and support you do want in that bubble, and what colors or senses you notice with it. Breathe deeply, extending your belly out as you inhale, and feel, see, or sense what that bubble feels like. Know that you have the power to activate this protective bubble at any time just by remembering you have it. You can even say "shields up" in your mind or aloud to activate it. Belly breathing can help strengthen it.
 
 ## Day 39
 
 Day: 39
 
-Categories: courage, encouragement
+Categories: purpose, hope, encouragement
 
 Challenge:
-Name three ways you are not relating to yourself, abundance, or purpose the way you did before.
+What is one idea, change, or accomplishment you would like to manifest into the world to make it a better place? Why would the world be better because of your accomplishment? How will you feel when it is accomplished? What is something simple you can do now, that will bring the same type of feeling, even if just in a small way? Write these things down as well as any inspired action that comes to you as you are thinking about these things. If an inspired action happens, make a memo of it on your agenda or calendar to take action on it, on the date that seems most appropriate.
 
 ## Day 40
 
 Day: 40
 
-Categories: hope, purpose
+Categories: purpose, perseverance, wisdom
 
 Challenge:
-Write one grounded next step and one blessing over the person you are continuing to become.
+Did you know that every human being is divinely programmed for success? Consider that your life experiences have been an accumulation of what ideals and values you have solidified by giving attention to, what hurdles or setbacks have strengthened you to get this far, and the structures you are putting in place to pave your success? What structures are you putting in place now for your own success? What other support do you need?
