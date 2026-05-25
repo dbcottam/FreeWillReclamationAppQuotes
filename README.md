@@ -140,7 +140,7 @@ Supported formats: `.webp` (recommended), `.png`, `.jpg`, `.jpeg`.
 
 ### How it works
 
-When `npm run content:generate` runs, the build script scans `assets/daily-images-watermarked/`. For each image found it constructs a GitHub Raw URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Days with no watermarked image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
+When `npm run content:generate` runs, the build script scans `assets/daily-images-watermarked/`. For each image found it constructs a public asset URL and injects it as `artworkUrl` into the matching day entry in `daily-quotes.json`. Set `PUBLIC_CONTENT_BASE_URL` during deployment to point artwork at the public static host, such as Cloudflare Pages; when it is unset, local generation uses the GitHub Raw repository URL. Days with no watermarked image in the folder produce no `artworkUrl` and the app falls back to generated geometric artwork.
 
 The app downloads and caches each image on first load. Subsequent loads are served from device storage. To force the app to re-fetch an image, replace the image while keeping the generated day filename, then regenerate the content JSON.
 

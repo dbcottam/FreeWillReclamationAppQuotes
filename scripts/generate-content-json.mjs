@@ -7,10 +7,12 @@ const contentVersion = 2;
 const contentContractVersion = "v2";
 const versionedOutputDir = contentContractVersion;
 let contentRoot = process.env.CONTENT_ROOT ?? ".";
+let publicContentBaseUrl = process.env.PUBLIC_CONTENT_BASE_URL ?? null;
 
-const GITHUB_RAW_BASE =
-  "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/";
+const DEFAULT_PUBLIC_CONTENT_BASE_URL =
+  "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main";
 const DAILY_ARTWORK_ASSET_DIR = "daily-images-watermarked";
+const DAILY_ARTWORK_PUBLIC_PATH = `assets/${DAILY_ARTWORK_ASSET_DIR}`;
 const SUPPORTED_ARTWORK_FILE_PATTERN = /\.(webp|png|jpg|jpeg)$/i;
 
 const categories = [
@@ -166,6 +168,10 @@ const feeds = {
 
 export async function main(args = process.argv.slice(2), options = {}) {
   contentRoot = options.contentRoot ?? process.env.CONTENT_ROOT ?? ".";
+  publicContentBaseUrl =
+    options.publicContentBaseUrl ??
+    process.env.PUBLIC_CONTENT_BASE_URL ??
+    DEFAULT_PUBLIC_CONTENT_BASE_URL;
 
   const mode = args.includes("export") || args.includes("json-to-template") ? "export" : "generate";
   const ignoredArgs = ["export", "json-to-template", "generate", "template-to-json"];
@@ -199,7 +205,7 @@ async function buildArtworkUrlMap(root) {
     for (const file of files.sort()) {
       if (SUPPORTED_ARTWORK_FILE_PATTERN.test(file)) {
         const key = file.replace(/\.[^.]+$/, "");
-        map[key] = GITHUB_RAW_BASE + file;
+        map[key] = buildPublicArtworkUrl(file);
       }
     }
 
@@ -207,6 +213,14 @@ async function buildArtworkUrlMap(root) {
   } catch {
     return {};
   }
+}
+
+function buildPublicArtworkUrl(file) {
+  return `${normalizeBaseUrl(publicContentBaseUrl)}/${DAILY_ARTWORK_PUBLIC_PATH}/${file}`;
+}
+
+function normalizeBaseUrl(value) {
+  return String(value || DEFAULT_PUBLIC_CONTENT_BASE_URL).replace(/\/+$/, "");
 }
 
 async function generateJson(feed, options = {}) {

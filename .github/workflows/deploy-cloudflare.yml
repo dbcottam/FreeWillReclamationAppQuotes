@@ -1,0 +1,49 @@
+name: Deploy content to Cloudflare
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test
+
+      - name: Generate Cloudflare content JSON
+        run: npm run content:generate
+        env:
+          PUBLIC_CONTENT_BASE_URL: https://free-will-content.pages.dev
+
+      - name: Prepare static content
+        run: |
+          rm -rf public
+          mkdir -p public/v2 public/assets
+          cp -R v2/*.json public/v2/
+          cp -R assets/daily-images-watermarked public/assets/daily-images-watermarked
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=free-will-content --branch=main
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}

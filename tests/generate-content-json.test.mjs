@@ -9,6 +9,7 @@ const tests = [
   ["exports templates from endpoint JSON feeds", testExport],
   ["does not write legacy root feeds by default", testDefaultSkipsLegacyRootFeeds],
   ["can deliberately write legacy root feeds", testDeliberateLegacyRootFeeds],
+  ["can generate Cloudflare artwork URLs", testPublicContentBaseUrl],
   ["preserves lastUpdated when generated content is unchanged", testStableLastUpdated],
   ["generates stable ids from entry order", testGeneratedIds],
 ];
@@ -118,6 +119,22 @@ async function testDeliberateLegacyRootFeeds() {
   await assert.rejects(
     () => readFile(join(contentRoot, "daily-challenge.json"), "utf8"),
     /ENOENT/,
+  );
+}
+
+async function testPublicContentBaseUrl() {
+  const contentRoot = await makeFixture();
+
+  await main([], {
+    contentRoot,
+    publicContentBaseUrl: "https://free-will-content.pages.dev/",
+  });
+
+  const daily = JSON.parse(await readFile(join(contentRoot, "v2", "daily-quotes.json"), "utf8"));
+
+  assert.equal(
+    daily.quotes[0].artworkUrl,
+    "https://free-will-content.pages.dev/assets/daily-images-watermarked/day-01.webp",
   );
 }
 
