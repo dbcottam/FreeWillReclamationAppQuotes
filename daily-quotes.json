@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-19T02:53:38.001Z",
+  "lastUpdated": "2026-05-25T20:36:36.446Z",
   "quotes": [
     {
       "day": 1,
@@ -9,7 +9,7 @@
       "focus": "nourishment",
       "title": "Enjoy Without Guilt",
       "artworkKey": "day-01",
-      "challenge": "Food, eat one food without craving, pressure, or guilt and enjoy it.",
+      "challenge": "Eat one food without craving, pressure, or guilt, and let yourself enjoy it.",
       "prompt": "What changed when you let enjoyment be simple instead of earned?",
       "quote": "Every step can be nourishing and every step can be healing.",
       "author": "Thich Nhat Hanh",
@@ -17,15 +17,9 @@
       "sourceUrl": "https://plumvillage.org/mindfulness/mindfulness-practice",
       "categories": [
         "healing",
-        "peace"
+        "peace",
+        "embodiment"
       ],
-      "supplemental": {
-        "type": "youtube",
-        "title": "Day 1 Companion Video",
-        "description": "A short companion video example for the first day of release work.",
-        "url": "https://www.youtube.com/NikkiCottam",
-        "durationLabel": "8 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-01.webp"
     },
     {
@@ -34,23 +28,17 @@
       "focus": "gratitude",
       "title": "Hold a Happy Memory",
       "artworkKey": "day-02",
-      "challenge": "Choose one happy memory, and feel deep, lingering gratitude for it for for a whole minute.",
+      "challenge": "Choose one happy memory and let yourself feel deep, lingering gratitude for it for one whole minute.",
       "prompt": "What did gratitude make easier to receive for one full minute?",
       "quote": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
       "author": "Paul",
       "source": "Colossians 3:15 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Colossians-3-15/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:15",
       "categories": [
+        "gratitude",
         "hope",
         "encouragement"
       ],
-      "supplemental": {
-        "type": "podcast",
-        "title": "Day 2 Companion Podcast",
-        "description": "A podcast example for listening while practicing release and peace.",
-        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
-        "durationLabel": "24 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-02.webp"
     },
     {
@@ -59,23 +47,18 @@
       "focus": "embodied joy",
       "title": "Dance for Joy",
       "artworkKey": "day-03",
-      "challenge": "Listen to one of your favorite up-beat songs and dance to it simply for the joy of it",
+      "challenge": "Listen to one of your favorite upbeat songs and dance to it simply for the joy of it.",
       "prompt": "What did your body remember when joy was allowed to move?",
-      "quote": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
-      "author": "Henri Nouwen",
-      "source": "Here and Now",
-      "sourceUrl": "https://www.goodreads.com/quotes/225473-joy-does-not-simply-happen-to-us-we-have-to",
+      "quote": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.",
+      "author": "John 15:11",
+      "source": "King James Version",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/John#15:11",
       "categories": [
+        "joy",
         "hope",
-        "encouragement"
+        "encouragement",
+        "embodiment"
       ],
-      "supplemental": {
-        "type": "article",
-        "title": "Day 3 Companion Article",
-        "description": "A written companion example for reflecting before trying to fix a feeling.",
-        "url": "https://www.nikkicottam.com/",
-        "durationLabel": "5 min read"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-03.webp"
     },
     {
@@ -84,7 +67,7 @@
       "focus": "body gratitude",
       "title": "Bless Your Body",
       "artworkKey": "day-04",
-      "challenge": "Choose one part of your body that you appreciate, and share gratitude for it, sending positive messages and feelings to it aloud or in your mind for a minute",
+      "challenge": "Choose one part of your body you appreciate, and spend one minute sending it gratitude, kindness, and positive messages aloud or in your mind.",
       "prompt": "What shifted when you spoke appreciation to your body?",
       "quote": "The human self also has a nature, limits as well as potentials.",
       "author": "Parker Palmer",
@@ -92,15 +75,9 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Parker_Palmer",
       "categories": [
         "healing",
-        "identity"
+        "identity",
+        "embodiment"
       ],
-      "supplemental": {
-        "type": "resource",
-        "title": "Day 4 Companion Resource",
-        "description": "A resource hub example for choosing a clean slate and continuing the work.",
-        "url": "https://www.nikkicottam.com/abundance-unplugged-resource-hub",
-        "durationLabel": "Resource"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-04.webp"
     },
     {
@@ -109,23 +86,17 @@
       "focus": "appreciation",
       "title": "Thank Steady Love",
       "artworkKey": "day-05",
-      "challenge": "Send a quick message of thanks to someone who has loved you without judgement, and hold appreciation for them while you write it.",
+      "challenge": "Send a quick message of thanks to someone who has loved you without judgment, and hold appreciation for them while you write it.",
       "prompt": "What kind of love helps you stop judging your own becoming?",
       "quote": "Our job is to love others without stopping to inquire whether or not they are worthy.",
       "author": "Thomas Merton",
       "source": "Disputed Questions",
       "sourceUrl": "https://en.wikiquote.org/wiki/Thomas_Merton",
       "categories": [
+        "gratitude",
         "encouragement",
         "healing"
       ],
-      "supplemental": {
-        "type": "audio",
-        "title": "Day 5 Companion Audio",
-        "description": "An audio example for noticing inherited beliefs and making space for a new one.",
-        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
-        "durationLabel": "12 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-05.webp"
     },
     {
@@ -134,7 +105,7 @@
       "focus": "emotional awareness",
       "title": "Feel What You Resist",
       "artworkKey": "day-06",
-      "challenge": "Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.",
+      "challenge": "Identify one feeling you've been resisting. Sit with it for one minute, and gently notice what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.",
       "prompt": "What did the feeling actually need from you?",
       "quote": "Nothing ever goes away until it has taught us what we need to know.",
       "author": "Pema Chodron",
@@ -142,15 +113,9 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n",
       "categories": [
         "healing",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
-      "supplemental": {
-        "type": "video",
-        "title": "Day 6 Companion Video",
-        "description": "A general video example for practicing better questions and truthful next steps.",
-        "url": "https://www.youtube.com/NikkiCottam",
-        "durationLabel": "10 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-06.webp"
     },
     {
@@ -159,15 +124,17 @@
       "focus": "breath",
       "title": "Breathe Your Power Back",
       "artworkKey": "day-07",
-      "challenge": "Take 5, deep \"belly breaths\" when you begin to feel stuck, trapped, or anxious, calling your power back into your present.",
+      "challenge": "Take five deep \"belly breaths\" when you begin to feel stuck, trapped, or anxious, and imagine calling your power back into the present.",
       "prompt": "What returned to you when you breathed into the present?",
       "quote": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
       "author": "Paul",
       "source": "2 Timothy 1:7 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/2-Timothy-1-7/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/2_Timothy#1:7",
       "categories": [
         "peace",
-        "courage"
+        "courage",
+        "agency",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-07.webp"
     },
@@ -184,8 +151,10 @@
       "source": "Wikiquote: Albert Einstein",
       "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "categories": [
+        "intuition",
         "wisdom",
-        "identity"
+        "identity",
+        "gratitude"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-08.webp"
     },
@@ -195,15 +164,17 @@
       "focus": "intuition follow-through",
       "title": "Notice the Unfollowed Nudge",
       "artworkKey": "day-09",
-      "challenge": "What is something your intuition has encouraged you to take action for, but you haven't followed through?",
+      "challenge": "What is one thing your intuition has encouraged you to act on, but you haven't followed through with yet?",
       "prompt": "What intuition-led action is still asking for your attention?",
-      "quote": "Trusting our intuition often saves us from disaster.",
-      "author": "Anne Wilson Schaef",
-      "source": "Wikiquote: Anne Wilson Schaef",
-      "sourceUrl": "https://en.wikiquote.org/wiki/Anne_Wilson_Schaef",
+      "quote": "The heart has its reasons, which reason does not know.",
+      "author": "Blaise Pascal",
+      "source": "Pascal's Pensees",
+      "sourceUrl": "https://www.gutenberg.org/files/18269/18269-h/18269-h.htm",
       "categories": [
+        "intuition",
         "wisdom",
-        "courage"
+        "courage",
+        "agency"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-09.webp"
     },
@@ -213,15 +184,16 @@
       "focus": "inspired action",
       "title": "Take Two Imperfect Minutes",
       "artworkKey": "day-10",
-      "challenge": "Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.",
+      "challenge": "Spend two minutes acting on something you've been intuitively inspired to do. Making plans does not count. Set a timer, take one imperfect step, and stop when the two minutes are done.",
       "prompt": "What became possible when you acted before planning more?",
-      "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.",
+      "quote": "Freedom is not worth having if it does not connote freedom to err and even to sin.",
       "author": "Mahatma Gandhi",
-      "source": "Attributed quote",
-      "sourceUrl": "https://www.goodreads.com/quotes/4793-freedom-is-not-worth-having-if-it-does-not-include",
+      "source": "The Gospel of Freedom",
+      "sourceUrl": "https://www.gandhiserve.net/about-mahatma-gandhi/thus-spake-gandhi/the-gospel-of-freedom-1/",
       "categories": [
         "purpose",
-        "courage"
+        "courage",
+        "agency"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-10.webp"
     },
@@ -240,7 +212,8 @@
       "categories": [
         "identity",
         "healing",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-11.webp"
     },
@@ -255,8 +228,9 @@
       "quote": "Go to your bosom: Knock there, and ask your heart what it doth know.",
       "author": "William Shakespeare",
       "source": "Measure for Measure, Act II, Scene II",
-      "sourceUrl": "https://en.wikisource.org/wiki/Measure_for_Measure/Act_II/Scene_II",
+      "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/measure-for-measure/read/2/2/",
       "categories": [
+        "intuition",
         "wisdom",
         "purpose"
       ],
@@ -277,7 +251,8 @@
       "categories": [
         "purpose",
         "scripture",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-13.webp"
     },
@@ -294,6 +269,7 @@
       "source": "Revelations of Divine Love",
       "sourceUrl": "https://en.wikisource.org/wiki/Revelations_of_Divine_Love",
       "categories": [
+        "joy",
         "hope",
         "encouragement"
       ],
@@ -305,15 +281,16 @@
       "focus": "success belief",
       "title": "Receive the Success Truth",
       "artworkKey": "day-15",
-      "challenge": "Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: \"I am created for success, and each step of my life, even setback, is propelling me toward greater success.\"",
+      "challenge": "Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: \"I am created for success, and every step of my life, including setbacks, is propelling me toward greater success.\"",
       "prompt": "What part of you resisted the truth, and what part wanted to receive it?",
       "quote": "And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.",
       "author": "Paul",
       "source": "Romans 8:28 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Romans-8-28/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Romans#8:28",
       "categories": [
         "identity",
-        "hope"
+        "hope",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-15.webp"
     },
@@ -331,7 +308,8 @@
       "sourceUrl": "https://gita.pub/chapter/2/verse/48/",
       "categories": [
         "purpose",
-        "wisdom"
+        "wisdom",
+        "surrender"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-16.webp"
     },
@@ -341,13 +319,14 @@
       "focus": "joy before habit",
       "title": "Choose Joy First",
       "artworkKey": "day-17",
-      "challenge": "Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one \"joyful\" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)",
+      "challenge": "Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one \"joyful\" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact than using only willpower to change a habit.)",
       "prompt": "What shifted when joy or nourishment came before the old distraction?",
       "quote": "Happiness is the consequence of personal effort.",
       "author": "Elizabeth Gilbert",
       "source": "Eat, Pray, Love",
       "sourceUrl": "https://en.wikiquote.org/wiki/Elizabeth_Gilbert",
       "categories": [
+        "joy",
         "encouragement",
         "healing"
       ],
@@ -367,7 +346,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "categories": [
         "healing",
-        "wisdom"
+        "wisdom",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-18.webp"
     },
@@ -385,7 +365,8 @@
       "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V",
       "categories": [
         "identity",
-        "courage"
+        "courage",
+        "agency"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-19.webp"
     },
@@ -395,7 +376,7 @@
       "focus": "discernment",
       "title": "Check Before Yes",
       "artworkKey": "day-20",
-      "challenge": "Before you say \"yes\" to an invitation, new responsibility, or opportunity, check in with your mind, heart, and gut first.\n(You can even tell the person asking, \"Let me check first and see if that will work.\" This will easily buy you more time to make a more wise decision.)",
+      "challenge": "Before you say \"yes\" to an invitation, new responsibility, or opportunity, check in with your mind, heart, and gut first.\n(You can even tell the person asking, \"Let me check first and see if that will work.\" This will easily buy you more time to make a wiser, more aligned decision.)",
       "prompt": "What did your mind, heart, and gut each need before your yes could be honest?",
       "quote": "If it is not right, do not do it: if it is not true, do not say it.",
       "author": "Marcus Aurelius",
@@ -403,7 +384,8 @@
       "sourceUrl": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XII",
       "categories": [
         "wisdom",
-        "peace"
+        "peace",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-20.webp"
     },
@@ -421,7 +403,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Anne_Frank",
       "categories": [
         "wisdom",
-        "encouragement"
+        "encouragement",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-21.webp"
     },
@@ -439,7 +422,8 @@
       "sourceUrl": "https://time.com/4617820/queen-elizabeth-christmas-day-address/",
       "categories": [
         "encouragement",
-        "healing"
+        "healing",
+        "forgiveness"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-22.webp"
     },
@@ -454,11 +438,12 @@
       "quote": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
       "author": "James",
       "source": "James 1:17 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/James-1-17/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/James#1:17",
       "categories": [
         "scripture",
         "purpose",
-        "wisdom"
+        "wisdom",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-23.webp"
     },
@@ -476,7 +461,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "categories": [
         "encouragement",
-        "hope"
+        "hope",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-24.webp"
     },
@@ -494,7 +480,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
       "categories": [
         "hope",
-        "encouragement"
+        "encouragement",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-25.webp"
     },
@@ -512,7 +499,8 @@
       "sourceUrl": "https://www.poetryfoundation.org/blog/uncategorized/52840/journal-day-five-56d34c6460dc4",
       "categories": [
         "healing",
-        "identity"
+        "identity",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-26.webp"
     },
@@ -522,7 +510,7 @@
       "focus": "forgiveness",
       "title": "Write the Apology You Needed",
       "artworkKey": "day-27",
-      "challenge": "Who or what has wronged you? Is there someone or a group to which you feel resentment? Whether you ever receive an apology from them or not, the resentment is keeping you stuck. Your challenge is to write an apology letter \"from\" them (the offender) \"to\" you (the victim). Write the letter as if you were them, writing out what you wish they would apologize for and then ask (you) for forgiveness.",
+      "challenge": "Who or what has wronged you? Is there someone or a group to which you feel resentment? Whether you ever receive an apology from them or not, the resentment is keeping you stuck. Your challenge is to write an apology letter \"from\" them (the offender) \"to\" you (the victim). Write the letter as if you were them, writing out what you wish they would apologize for and then ask you for forgiveness.",
       "prompt": "What did the apology letter name, release, or make honest inside you?",
       "quote": "Hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
       "author": "Dhammapada",
@@ -530,7 +518,8 @@
       "sourceUrl": "https://en.wikisource.org/wiki/Dhammapada_(Muller)",
       "categories": [
         "healing",
-        "courage"
+        "courage",
+        "forgiveness"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-27.webp"
     },
@@ -540,7 +529,7 @@
       "focus": "body awareness",
       "title": "Listen to Your Body's Timeline",
       "artworkKey": "day-28",
-      "challenge": "Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgement.",
+      "challenge": "Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgment.",
       "prompt": "What did your body reveal when you listened without blame or shame?",
       "quote": "Life can only be understood backwards; but it must be lived forwards.",
       "author": "Soren Kierkegaard",
@@ -548,7 +537,8 @@
       "sourceUrl": "https://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard",
       "categories": [
         "healing",
-        "wisdom"
+        "wisdom",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-28.webp"
     },
@@ -565,6 +555,7 @@
       "source": "Leaves of Grass",
       "sourceUrl": "https://en.wikisource.org/wiki/Leaves_of_Grass_%281855%29/There_was_a_child_went_forth_every_day",
       "categories": [
+        "joy",
         "hope",
         "encouragement"
       ],
@@ -576,16 +567,17 @@
       "focus": "time boundaries",
       "title": "Protect Your Time",
       "artworkKey": "day-30",
-      "challenge": "What is one boundary that needs to be strengthened or reinforced with your time? Is there someone or something which takes too much of your time? Are there some meetings or calendar items that go \"overtime\" and need to be kept to a schedule?\n(Pro tip: Since time cannot be recovered, it it considered one of the most cherished resources. Small habits over time acrue the greatest return on investment.)",
+      "challenge": "What is one boundary that needs to be strengthened or reinforced with your time? Is there someone or something which takes too much of your time? Are there some meetings or calendar items that go \"overtime\" and need to be kept to a schedule?\n(Pro tip: Since time cannot be recovered, it is considered one of the most cherished resources. Small habits over time accrue the greatest return on investment.)",
       "prompt": "Which time boundary would protect one of your most cherished resources?",
       "quote": "To every [thing there is] a season, and a time to every purpose under the heaven:",
       "author": "Solomon",
       "source": "Ecclesiastes 3:1 (KJV)",
-      "sourceUrl": "https://www.kingjamesbibleonline.org/Ecclesiastes-3-1/",
+      "sourceUrl": "https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes#3:1",
       "categories": [
         "scripture",
         "purpose",
-        "wisdom"
+        "wisdom",
+        "boundaries"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-30.webp"
     },
@@ -602,6 +594,7 @@
       "source": "My heart leaps up",
       "sourceUrl": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/My_heart_leaps_up",
       "categories": [
+        "gratitude",
         "identity",
         "wisdom",
         "encouragement"
@@ -623,7 +616,8 @@
       "categories": [
         "healing",
         "courage",
-        "wisdom"
+        "wisdom",
+        "boundaries"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-32.webp"
     },
@@ -642,7 +636,8 @@
       "categories": [
         "purpose",
         "wisdom",
-        "encouragement"
+        "encouragement",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-33.webp"
     },
@@ -652,7 +647,7 @@
       "focus": "natural-gifts",
       "title": "Trust Your Natural Gift",
       "artworkKey": "day-34",
-      "challenge": "What is one thing that generally works out for you but does that always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?\n(Ask a close friend or family member if you can't come up with one easily.)\nConsider that perhaps life can be made more vibrant and easy by leaning into that gift or ability. Perhaps this is a source of abundance you naturally have and you don't have to struggle with it. What would life be like if you simply relied on this gift to show up for you instead of worrying that you might someday lose it? Write down your impressions there, and make a choice to have hope instead of scarcity in that area of life.",
+      "challenge": "What is one thing that generally works out for you but does not always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?\n(Ask a close friend or family member if you can't come up with one easily.)\nConsider that perhaps life can be made more vibrant and easy by leaning into that gift or ability. Perhaps this is a source of abundance you naturally have and you don't have to struggle with it. What would life be like if you simply relied on this gift to show up for you instead of worrying that you might someday lose it? Write down your impressions there, and make a choice to have hope instead of scarcity in that area of life.",
       "prompt": "What natural gift could become easier if you trusted it with hope instead of scarcity?",
       "quote": "Trust thyself: every heart vibrates to that iron string.",
       "author": "Ralph Waldo Emerson",
@@ -661,7 +656,8 @@
       "categories": [
         "hope",
         "purpose",
-        "identity"
+        "identity",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-34.webp"
     },
@@ -680,7 +676,9 @@
       "categories": [
         "healing",
         "peace",
-        "courage"
+        "courage",
+        "boundaries",
+        "embodiment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-35.webp"
     },
@@ -690,7 +688,7 @@
       "focus": "worthiness",
       "title": "Affirm Your Worth",
       "artworkKey": "day-36",
-      "challenge": "Think of one limiting belief you have related to your worth. It could be something along the lines of \"I'm not good enough for _____,\" or \"I have to keep working at it before I'm ready to _______\", or \"I'm never going to measure up.\"\nConsider that the opposite is actually the truth, and switch it around. Consider that all things are true depending on what we give attention and intention to. Consider that in one state of mind you can truly shrink yourself from your worth because that's your focus, and in another state of mind, you are already worthy and are simply stepping into the opportunities that will allow you to see that worthiness. So switch around your negative belief around your worth, and make it an affirmation. Place the affirmation somewhere you'll see it daily, like on a sticky note in a prominent place, with expo marker on the bathroom mirror, or as a daily reminder on your phone. Practice saying it daily.",
+      "challenge": "Think of one limiting belief you have related to your worth. It could be something along the lines of \"I'm not good enough for _____,\" or \"I have to keep working at it before I'm ready to _______\", or \"I'm never going to measure up.\"\nConsider that the opposite is actually the truth, and switch it around. Consider that all things are true depending on what we give attention and intention to. Consider that in one state of mind you can truly shrink yourself from your worth because that's your focus, and in another state of mind, you are already worthy and are simply stepping into the opportunities that will allow you to see that worthiness. So switch around your negative belief around your worth, and make it an affirmation. Place the affirmation somewhere you'll see it daily, like on a sticky note in a prominent place, with a dry-erase marker on the bathroom mirror, or as a daily reminder on your phone. Practice saying it daily.",
       "prompt": "What worth-based belief are you ready to turn into a daily affirmation?",
       "quote": "I celebrate myself, and sing myself.",
       "author": "Walt Whitman",
@@ -699,7 +697,8 @@
       "categories": [
         "identity",
         "hope",
-        "encouragement"
+        "encouragement",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-36.webp"
     },
@@ -709,7 +708,7 @@
       "focus": "priorities",
       "title": "Compare Your Time",
       "artworkKey": "day-37",
-      "challenge": "Consider your top 3 daily time-consuming activities. What do you spend the most time awake doing?\nNow consider what you want your top 3 daily time-consuming activities to look like when you are living the life you're most proud of.\nHow do the two compare? Write down your observations, letting go of any guilt, shame, or judgement.",
+      "challenge": "Consider your top 3 daily time-consuming activities. What do you spend the most time awake doing?\nNow consider what you want your top 3 daily time-consuming activities to look like when you are living the life you're most proud of.\nHow do the two compare? Write down your observations, letting go of any guilt, shame, or judgment.",
       "prompt": "How does your current time compare with the life you are most proud to live?",
       "quote": "It is not that we have a short space of time, but that we waste much of it.",
       "author": "Seneca",
@@ -718,7 +717,8 @@
       "categories": [
         "wisdom",
         "purpose",
-        "peace"
+        "peace",
+        "discernment"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-37.webp"
     },
@@ -737,7 +737,8 @@
       "categories": [
         "peace",
         "healing",
-        "courage"
+        "courage",
+        "boundaries"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-38.webp"
     },
@@ -756,7 +757,8 @@
       "categories": [
         "purpose",
         "hope",
-        "encouragement"
+        "encouragement",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-39.webp"
     },
@@ -775,7 +777,8 @@
       "categories": [
         "purpose",
         "perseverance",
-        "wisdom"
+        "wisdom",
+        "abundance"
       ],
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-40.webp"
     }

@@ -12,7 +12,7 @@ Focus: nourishment
 Categories: healing, peace, embodiment
 
 Challenge:
-Food, eat one food without craving, pressure, or guilt and enjoy it.
+Eat one food without craving, pressure, or guilt, and let yourself enjoy it.
 
 Prompt:
 What changed when you let enjoyment be simple instead of earned?
@@ -45,7 +45,7 @@ Focus: gratitude
 Categories: gratitude, hope, encouragement
 
 Challenge:
-Choose one happy memory, and feel deep, lingering gratitude for it for for a whole minute.
+Choose one happy memory and let yourself feel deep, lingering gratitude for it for one whole minute.
 
 Prompt:
 What did gratitude make easier to receive for one full minute?
@@ -78,7 +78,7 @@ Focus: embodied joy
 Categories: joy, hope, encouragement, embodiment
 
 Challenge:
-Listen to one of your favorite up-beat songs and dance to it simply for the joy of it
+Listen to one of your favorite upbeat songs and dance to it simply for the joy of it.
 
 Prompt:
 What did your body remember when joy was allowed to move?
@@ -111,7 +111,7 @@ Focus: body gratitude
 Categories: healing, identity, embodiment
 
 Challenge:
-Choose one part of your body that you appreciate, and share gratitude for it, sending positive messages and feelings to it aloud or in your mind for a minute
+Choose one part of your body you appreciate, and spend one minute sending it gratitude, kindness, and positive messages aloud or in your mind.
 
 Prompt:
 What shifted when you spoke appreciation to your body?
@@ -144,7 +144,7 @@ Focus: appreciation
 Categories: gratitude, encouragement, healing
 
 Challenge:
-Send a quick message of thanks to someone who has loved you without judgement, and hold appreciation for them while you write it.
+Send a quick message of thanks to someone who has loved you without judgment, and hold appreciation for them while you write it.
 
 Prompt:
 What kind of love helps you stop judging your own becoming?
@@ -177,7 +177,7 @@ Focus: emotional awareness
 Categories: healing, wisdom, surrender
 
 Challenge:
-Identify one feeling you've been resisting, and lean into it for a minute, and pay attention to what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.
+Identify one feeling you've been resisting. Sit with it for one minute, and gently notice what it needs from you: rest, forgiveness, compassion, surrender, acceptance, or awareness.
 
 Prompt:
 What did the feeling actually need from you?
@@ -210,7 +210,7 @@ Focus: breath
 Categories: peace, courage, agency, embodiment
 
 Challenge:
-Take 5, deep "belly breaths" when you begin to feel stuck, trapped, or anxious, calling your power back into your present. 
+Take five deep "belly breaths" when you begin to feel stuck, trapped, or anxious, and imagine calling your power back into the present.
 
 Prompt:
 What returned to you when you breathed into the present?
@@ -276,7 +276,7 @@ Focus: intuition follow-through
 Categories: intuition, wisdom, courage, agency
 
 Challenge:
-What is something your intuition has encouraged you to take action for, but you haven't followed through? 
+What is one thing your intuition has encouraged you to act on, but you haven't followed through with yet?
 
 Prompt:
 What intuition-led action is still asking for your attention?
@@ -309,7 +309,7 @@ Focus: inspired action
 Categories: purpose, courage, agency
 
 Challenge:
-Spend only 2 minutes taking action in something you've been intuitively inspired to do. (Making plans for it doesn't count). Even if the action is imperfect, take 2 minutes taking action. Set the timer and keep it to 2 minutes.
+Spend two minutes acting on something you've been intuitively inspired to do. Making plans does not count. Set a timer, take one imperfect step, and stop when the two minutes are done.
 
 Prompt:
 What became possible when you acted before planning more?
@@ -475,7 +475,7 @@ Focus: success belief
 Categories: identity, hope, abundance
 
 Challenge:
-Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: "I am created for success, and each step of my life, even setback, is propelling me toward greater success."
+Accept this truth into your heart, even if it feels foreign or not quite true. Allow your heart to feel it for 90 seconds without rejecting it: "I am created for success, and every step of my life, including setbacks, is propelling me toward greater success."
 
 Prompt:
 What part of you resisted the truth, and what part wanted to receive it?
@@ -541,7 +541,7 @@ Focus: joy before habit
 Categories: joy, encouragement, healing
 
 Challenge:
-Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact that using only willpower to change a habit.)
+Think of one time-consuming distraction or habit in your life that is inhibiting personal development. What is one "joyful" or soul-nourishing experience that you can choose to do FIRST, before you engage in the distraction or habit? (Bringing more joy into your life and surrendering the guilt, shame, failure, and overwhelm about those activities will have a greater impact than using only willpower to change a habit.)
 
 Prompt:
 What shifted when joy or nourishment came before the old distraction?
@@ -641,7 +641,7 @@ Categories: wisdom, peace, discernment
 
 Challenge:
 Before you say "yes" to an invitation, new responsibility, or opportunity, check in with your mind, heart, and gut first.
-(You can even tell the person asking, "Let me check first and see if that will work." This will easily buy you more time to make a more wise decision.)
+(You can even tell the person asking, "Let me check first and see if that will work." This will easily buy you more time to make a wiser, more aligned decision.)
 
 Prompt:
 What did your mind, heart, and gut each need before your yes could be honest?
@@ -873,7 +873,7 @@ Focus: forgiveness
 Categories: healing, courage, forgiveness
 
 Challenge:
-Who or what has wronged you? Is there someone or a group to which you feel resentment? Whether you ever receive an apology from them or not, the resentment is keeping you stuck. Your challenge is to write an apology letter "from" them (the offender) "to" you (the victim). Write the letter as if you were them, writing out what you wish they would apologize for and then ask (you) for forgiveness.
+Who or what has wronged you? Is there someone or a group to which you feel resentment? Whether you ever receive an apology from them or not, the resentment is keeping you stuck. Your challenge is to write an apology letter "from" them (the offender) "to" you (the victim). Write the letter as if you were them, writing out what you wish they would apologize for and then ask you for forgiveness.
 
 Prompt:
 What did the apology letter name, release, or make honest inside you?
@@ -906,7 +906,7 @@ Focus: body awareness
 Categories: healing, wisdom, embodiment
 
 Challenge:
-Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgement.
+Pay attention to your body today. Do you notice that many of your bodily concerns or discomforts tend to be right-sided or left-sided? The right side has to do with the future, and the left side has to do with the past. If right-sided, what hesitation do you feel toward the future? If left-sided, what regret do you feel toward the past? Don't blame or shame yourself. Just observe without judgment.
 
 Prompt:
 What did your body reveal when you listened without blame or shame?
@@ -976,7 +976,7 @@ Categories: scripture, purpose, wisdom, boundaries
 
 Challenge:
 What is one boundary that needs to be strengthened or reinforced with your time? Is there someone or something which takes too much of your time? Are there some meetings or calendar items that go "overtime" and need to be kept to a schedule?
-(Pro tip: Since time cannot be recovered, it it considered one of the most cherished resources. Small habits over time acrue the greatest return on investment.)
+(Pro tip: Since time cannot be recovered, it is considered one of the most cherished resources. Small habits over time accrue the greatest return on investment.)
 
 Prompt:
 Which time boundary would protect one of your most cherished resources?
@@ -1109,7 +1109,7 @@ Focus: natural-gifts
 Categories: hope, purpose, identity, abundance
 
 Challenge:
-What is one thing that generally works out for you but does that always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?
+What is one thing that generally works out for you but does not always work out for other people? Is it a happenstance? A gift? A talent? Is it unexplainable?
 (Ask a close friend or family member if you can't come up with one easily.)
 Consider that perhaps life can be made more vibrant and easy by leaning into that gift or ability. Perhaps this is a source of abundance you naturally have and you don't have to struggle with it. What would life be like if you simply relied on this gift to show up for you instead of worrying that you might someday lose it? Write down your impressions there, and make a choice to have hope instead of scarcity in that area of life.
 
@@ -1181,7 +1181,7 @@ Categories: identity, hope, encouragement, abundance
 
 Challenge:
 Think of one limiting belief you have related to your worth. It could be something along the lines of "I'm not good enough for _____," or "I have to keep working at it before I'm ready to _______", or "I'm never going to measure up."
-Consider that the opposite is actually the truth, and switch it around. Consider that all things are true depending on what we give attention and intention to. Consider that in one state of mind you can truly shrink yourself from your worth because that's your focus, and in another state of mind, you are already worthy and are simply stepping into the opportunities that will allow you to see that worthiness. So switch around your negative belief around your worth, and make it an affirmation. Place the affirmation somewhere you'll see it daily, like on a sticky note in a prominent place, with expo marker on the bathroom mirror, or as a daily reminder on your phone. Practice saying it daily.
+Consider that the opposite is actually the truth, and switch it around. Consider that all things are true depending on what we give attention and intention to. Consider that in one state of mind you can truly shrink yourself from your worth because that's your focus, and in another state of mind, you are already worthy and are simply stepping into the opportunities that will allow you to see that worthiness. So switch around your negative belief around your worth, and make it an affirmation. Place the affirmation somewhere you'll see it daily, like on a sticky note in a prominent place, with a dry-erase marker on the bathroom mirror, or as a daily reminder on your phone. Practice saying it daily.
 
 Prompt:
 What worth-based belief are you ready to turn into a daily affirmation?
@@ -1216,7 +1216,7 @@ Categories: wisdom, purpose, peace, discernment
 Challenge:
 Consider your top 3 daily time-consuming activities. What do you spend the most time awake doing?
 Now consider what you want your top 3 daily time-consuming activities to look like when you are living the life you're most proud of.
-How do the two compare? Write down your observations, letting go of any guilt, shame, or judgement.
+How do the two compare? Write down your observations, letting go of any guilt, shame, or judgment.
 
 Prompt:
 How does your current time compare with the life you are most proud to live?
