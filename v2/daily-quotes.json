@@ -1,7 +1,7 @@
 {
   "version": 2,
   "contractVersion": "v2",
-  "lastUpdated": "2026-05-19T13:46:35.204Z",
+  "lastUpdated": "2026-05-25T20:08:11.659Z",
   "quotes": [
     {
       "day": 1,
@@ -20,13 +20,6 @@
         "peace",
         "embodiment"
       ],
-      "supplemental": {
-        "type": "youtube",
-        "title": "Day 1 Companion Video",
-        "description": "A short companion video example for the first day of release work.",
-        "url": "https://www.youtube.com/NikkiCottam",
-        "durationLabel": "8 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-01.webp"
     },
     {
@@ -46,13 +39,6 @@
         "hope",
         "encouragement"
       ],
-      "supplemental": {
-        "type": "podcast",
-        "title": "Day 2 Companion Podcast",
-        "description": "A podcast example for listening while practicing release and peace.",
-        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
-        "durationLabel": "24 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-02.webp"
     },
     {
@@ -73,13 +59,6 @@
         "encouragement",
         "embodiment"
       ],
-      "supplemental": {
-        "type": "article",
-        "title": "Day 3 Companion Article",
-        "description": "A written companion example for reflecting before trying to fix a feeling.",
-        "url": "https://www.nikkicottam.com/",
-        "durationLabel": "5 min read"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-03.webp"
     },
     {
@@ -99,13 +78,6 @@
         "identity",
         "embodiment"
       ],
-      "supplemental": {
-        "type": "resource",
-        "title": "Day 4 Companion Resource",
-        "description": "A resource hub example for choosing a clean slate and continuing the work.",
-        "url": "https://www.nikkicottam.com/abundance-unplugged-resource-hub",
-        "durationLabel": "Resource"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-04.webp"
     },
     {
@@ -125,13 +97,6 @@
         "encouragement",
         "healing"
       ],
-      "supplemental": {
-        "type": "audio",
-        "title": "Day 5 Companion Audio",
-        "description": "An audio example for noticing inherited beliefs and making space for a new one.",
-        "url": "https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723",
-        "durationLabel": "12 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-05.webp"
     },
     {
@@ -151,13 +116,6 @@
         "wisdom",
         "surrender"
       ],
-      "supplemental": {
-        "type": "video",
-        "title": "Day 6 Companion Video",
-        "description": "A general video example for practicing better questions and truthful next steps.",
-        "url": "https://www.youtube.com/NikkiCottam",
-        "durationLabel": "10 min"
-      },
       "artworkUrl": "https://raw.githubusercontent.com/dbcottam/FreeWillReclamationAppQuotes/main/assets/daily-images-watermarked/day-06.webp"
     },
     {
