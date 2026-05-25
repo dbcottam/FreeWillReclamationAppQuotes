@@ -26,18 +26,17 @@ Source: Plum Village: The Art of Mindful Living
 
 Source URL: https://plumvillage.org/mindfulness/mindfulness-practice
 
-Supplemental Type: youtube
+Supplemental Type:
 
-Supplemental Title: Day 1 Companion Video
+Supplemental Title:
 
 Supplemental Description:
-A short companion video example for the first day of release work.
 
-Supplemental URL: https://www.youtube.com/NikkiCottam
+Supplemental URL:
 
 Supplemental Image URL:
 
-Supplemental Duration: 8 min
+Supplemental Duration:
 
 ## Day 2: Hold a Happy Memory
 
@@ -60,18 +59,17 @@ Source: Colossians 3:15 (KJV)
 
 Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/Colossians#3:15
 
-Supplemental Type: podcast
+Supplemental Type:
 
-Supplemental Title: Day 2 Companion Podcast
+Supplemental Title:
 
 Supplemental Description:
-A podcast example for listening while practicing release and peace.
 
-Supplemental URL: https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723
+Supplemental URL:
 
 Supplemental Image URL:
 
-Supplemental Duration: 24 min
+Supplemental Duration:
 
 ## Day 3: Dance for Joy
 
@@ -94,18 +92,17 @@ Source: King James Version
 
 Source URL: https://en.wikisource.org/wiki/Bible_(King_James)/John#15:11
 
-Supplemental Type: article
+Supplemental Type:
 
-Supplemental Title: Day 3 Companion Article
+Supplemental Title:
 
 Supplemental Description:
-A written companion example for reflecting before trying to fix a feeling.
 
-Supplemental URL: https://www.nikkicottam.com/
+Supplemental URL:
 
 Supplemental Image URL:
 
-Supplemental Duration: 5 min read
+Supplemental Duration:
 
 ## Day 4: Bless Your Body
 
@@ -128,18 +125,17 @@ Source: Let Your Life Speak
 
 Source URL: https://en.wikiquote.org/wiki/Parker_Palmer
 
-Supplemental Type: resource
+Supplemental Type:
 
-Supplemental Title: Day 4 Companion Resource
+Supplemental Title:
 
 Supplemental Description:
-A resource hub example for choosing a clean slate and continuing the work.
 
-Supplemental URL: https://www.nikkicottam.com/abundance-unplugged-resource-hub
+Supplemental URL:
 
 Supplemental Image URL:
 
-Supplemental Duration: Resource
+Supplemental Duration:
 
 ## Day 5: Thank Steady Love
 
@@ -162,18 +158,17 @@ Source: Disputed Questions
 
 Source URL: https://en.wikiquote.org/wiki/Thomas_Merton
 
-Supplemental Type: audio
+Supplemental Type:
 
-Supplemental Title: Day 5 Companion Audio
+Supplemental Title:
 
 Supplemental Description:
-An audio example for noticing inherited beliefs and making space for a new one.
 
-Supplemental URL: https://podcasts.apple.com/us/podcast/our-journey-to-christ/id1882943723
+Supplemental URL:
 
 Supplemental Image URL:
 
-Supplemental Duration: 12 min
+Supplemental Duration:
 
 ## Day 6: Feel What You Resist
 
@@ -196,18 +191,17 @@ Source: When Things Fall Apart
 
 Source URL: https://en.wikiquote.org/wiki/Pema_Ch%C3%B6dr%C3%B6n
 
-Supplemental Type: video
+Supplemental Type:
 
-Supplemental Title: Day 6 Companion Video
+Supplemental Title:
 
 Supplemental Description:
-A general video example for practicing better questions and truthful next steps.
 
-Supplemental URL: https://www.youtube.com/NikkiCottam
+Supplemental URL:
 
 Supplemental Image URL:
 
-Supplemental Duration: 10 min
+Supplemental Duration:
 
 ## Day 7: Breathe Your Power Back
 
